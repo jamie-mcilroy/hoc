@@ -31,22 +31,15 @@ def fetch_and_process(year, quarter):
     else:
         print(f"Failed to fetch data for {year} Q{quarter}, Status Code: {response.status_code}")
 
-# Loop through the years and quarters
+
 for year in range(2021, 2024):
-    # For 2021, start from Q2
     start_quarter = 2 if year == 2021 else 1
-    
-    # For each year, go through Q1 to Q4
     for quarter in range(start_quarter, 5):
         fetch_and_process(year, quarter)
 
-# Concatenate all dataframes into a single dataframe
 if dfs:
     master_df = pd.concat(dfs, ignore_index=True)
-
-    # Write the concatenated dataframe to a new CSV file
     master_df.to_csv('master_commons.csv', index=False)
-
     print("Master CSV created: master_commons.csv")
 else:
     print("No dataframes to concatenate. Master CSV not created.")
