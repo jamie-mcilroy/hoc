@@ -1,0 +1,61 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0221469,2021/12/01,2021/12/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0221469,2021/12/01,2021/12/31,"Bérubé, Sylvie",Member,Secondary Residence,2021/12/01,Gatineau,Gatineau,,,,,,,
+T0219840,2021/12/05,2021/12/17,,,,,,,465.2500,0.0000,1213.3900,1.0000,0,0,1678.64
+T0219840,2021/12/05,2021/12/17,"Bérubé, Sylvie",Member,To travel to/from constituency and Ottawa,2021/12/05,Val-d'Or,Ottawa,,,,,,,
+T0219840,2021/12/05,2021/12/17,"Bérubé, Sylvie",Member,To travel to/from constituency and Ottawa,2021/12/17,Ottawa,Val-d'Or,,,,,,,
+T0221056,2021/12/18,2021/12/18,,,,,,,150.5400,0.0000,7.5400,1.0000,0,0,158.08
+T0221056,2021/12/18,2021/12/18,"Bérubé, Sylvie",Member,To conduct constituency office business,2021/12/18,Val-d'Or,Lebel-sur-Quévillon,,,,,,,
+T0221056,2021/12/18,2021/12/18,"Bérubé, Sylvie",Member,To conduct constituency office business,2021/12/18,Lebel-sur-Quévillon,Val-d'Or,,,,,,,
+T0222079,2021/12/26,2022/01/02,,,,,,,407.4600,0.0000,692.3700,1.0000,0,0,1099.83
+T0222079,2021/12/26,2022/01/02,"Bérubé, Sylvie",Member,To travel to/from constituency and Ottawa,2021/12/26,Val-d'Or,Ottawa,,,,,,,
+T0222079,2021/12/26,2022/01/02,"Bérubé, Sylvie",Member,To travel to/from constituency and Ottawa,2022/01/02,Ottawa,Val-d'Or,,,,,,,
+T0222487,2022/01/01,2022/01/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0222487,2022/01/01,2022/01/31,"Bérubé, Sylvie",Member,Secondary Residence,2022/01/01,Gatineau,Gatineau,,,,,,,
+T0222024,2022/01/30,2022/02/22,,,,,,,407.4600,0.0000,2243.8400,1.0000,0,0,2651.30
+T0222024,2022/01/30,2022/02/22,"Bérubé, Sylvie",Member,To travel to/from constituency and Ottawa,2022/01/31,Val-d'Or,Ottawa,,,,,,,
+T0222024,2022/01/30,2022/02/22,"Bérubé, Sylvie",Member,To travel to/from constituency and Ottawa,2022/02/22,Ottawa,Val-d'Or,,,,,,,
+T0222294,2022/02/01,2022/02/04,,,,,,,398.5200,450.8100,329.7600,0.0000,0,0,1179.09
+T0222294,2022/02/01,2022/02/04,"Perreault, Lynda",Employee,To conduct constituency office business,2022/02/01,Val-d'Or,Lebel-sur-Quévillon,,,,,,,
+T0222294,2022/02/01,2022/02/04,"Perreault, Lynda",Employee,To conduct constituency office business,2022/02/01,Lebel-sur-Quévillon,Chibougamau,,,,,,,
+T0222294,2022/02/01,2022/02/04,"Perreault, Lynda",Employee,To conduct constituency office business,2022/02/04,Chibougamau,Lebel-sur-Quévillon,,,,,,,
+T0222294,2022/02/01,2022/02/04,"Perreault, Lynda",Employee,To conduct constituency office business,2022/02/04,Lebel-sur-Quévillon,Val-d'Or,,,,,,,
+T0223589,2022/02/01,2022/02/28,,,,,,,0.0000,1400.0000,0.0000,0,0,0,1400.00
+T0223589,2022/02/01,2022/02/28,"Bérubé, Sylvie",Member,Secondary Residence,2022/02/01,Gatineau,Gatineau,,,,,,,
+T0222564,2022/02/02,2022/02/06,,,,,,,402.3800,0.0000,0.0000,1.0000,0,0,402.38
+T0222564,2022/02/02,2022/02/06,,Designated Traveller,To unite the family with the Member,2022/02/02,Val-d'Or,Gatineau,,,,,,,
+T0222564,2022/02/02,2022/02/06,,Designated Traveller,To unite the family with the Member,2022/02/06,Gatineau,Val-d'Or,,,,,,,
+T0223117,2022/02/05,2022/03/05,,,,,,,0.0000,74.3000,0.0000,0,0,0,74.30
+T0223117,2022/02/05,2022/03/05,"Bérubé, Sylvie",Member,Secondary Residence,2022/02/05,Gatineau,Gatineau,,,,,,,
+T0222917,2022/02/10,2022/02/15,,,,,,,402.3800,0.0000,0.0000,1.0000,0,0,402.38
+T0222917,2022/02/10,2022/02/15,,Designated Traveller,To unite the family with the Member,2022/02/10,Val-d'Or,Gatineau,,,,,,,
+T0222917,2022/02/10,2022/02/15,,Designated Traveller,To unite the family with the Member,2022/02/15,Gatineau,Val-d'Or,,,,,,,
+T0223171,2022/02/22,2022/02/22,,,,,,,60.8000,0.0000,26.3500,0,0.0000,0,87.15
+T0223171,2022/02/22,2022/02/22,"Matte, Mélanie",Employee,To conduct constituency office business,2022/02/22,Rivière-Héva,Rouyn-Noranda,,,,,,,
+T0223171,2022/02/22,2022/02/22,"Matte, Mélanie",Employee,To conduct constituency office business,2022/02/22,Rouyn-Noranda,Rivière-Héva,,,,,,,
+T0223586,2022/02/24,2022/02/24,,,,,,,64.6400,0.0000,0.0000,0,0.0000,0,64.64
+T0223586,2022/02/24,2022/02/24,"Bérubé, Sylvie",Member,To conduct constituency office business,2022/02/24,Val-d'Or,Senneterre,,,,,,,
+T0223586,2022/02/24,2022/02/24,"Bérubé, Sylvie",Member,To conduct constituency office business,2022/02/24,Senneterre,Val-d'Or,,,,,,,
+T0223587,2022/02/27,2022/03/04,,,,,,,407.4600,0.0000,524.8700,1.0000,0,0,932.33
+T0223587,2022/02/27,2022/03/04,"Bérubé, Sylvie",Member,To travel to/from constituency and Ottawa,2022/02/27,Val-d'Or,Ottawa,,,,,,,
+T0223587,2022/02/27,2022/03/04,"Bérubé, Sylvie",Member,To travel to/from constituency and Ottawa,2022/03/04,Ottawa,Val-d'Or,,,,,,,
+T0223215,2022/02/28,2022/03/04,,,,,,,398.5200,601.0700,428.3800,1.0000,0,0,1427.97
+T0223215,2022/02/28,2022/03/04,"Perreault, Lynda",Employee,To conduct constituency office business,2022/02/28,Val-d'Or,Chibougamau,,,,,,,
+T0223215,2022/02/28,2022/03/04,"Perreault, Lynda",Employee,To conduct constituency office business,2022/03/04,Chibougamau,Val-d'Or,,,,,,,
+T0223588,2022/03/01,2022/03/03,,,,,,,402.3800,0.0000,0.0000,1.0000,0,0,402.38
+T0223588,2022/03/01,2022/03/03,,Designated Traveller,To unite the family with the Member,2022/03/01,Val-d'Or,Gatineau,,,,,,,
+T0223588,2022/03/01,2022/03/03,,Designated Traveller,To unite the family with the Member,2022/03/03,Gatineau,Val-d'Or,,,,,,,
+T0225946,2022/03/01,2022/03/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0225946,2022/03/01,2022/03/31,"Bérubé, Sylvie",Member,Secondary Residence,2022/03/01,Gatineau,Gatineau,,,,,,,
+T0224297,2022/03/14,2022/03/16,,,,,,,407.4600,0.0000,221.5200,1.0000,0,0,628.98
+T0224297,2022/03/14,2022/03/16,"Bérubé, Sylvie",Member,To travel to/from constituency and Ottawa,2022/03/14,Val-d'Or,Ottawa,,,,,,,
+T0224297,2022/03/14,2022/03/16,"Bérubé, Sylvie",Member,To travel to/from constituency and Ottawa,2022/03/16,Ottawa,Val-d'Or,,,,,,,
+T0224687,2022/03/18,2022/03/23,,,,,,,407.4600,0.0000,0.0000,1.0000,0,0,407.46
+T0224687,2022/03/18,2022/03/23,,Designated Traveller,To unite the family with the Member,2022/03/18,Val-d'Or,Ottawa,,,,,,,
+T0224687,2022/03/18,2022/03/23,,Designated Traveller,To unite the family with the Member,2022/03/23,Ottawa,Val-d'Or,,,,,,,
+T0224684,2022/03/18,2022/03/31,,,,,,,201.1900,0.0000,1415.6200,0.5000,0,0,1616.81
+T0224684,2022/03/18,2022/03/31,"Bérubé, Sylvie",Member,To travel to/from constituency and Ottawa,2022/03/18,Val-d'Or,Ottawa,,,,,,,
+T0224684,2022/03/18,2022/03/31,"Bérubé, Sylvie",Member,To travel to/from constituency and Ottawa,2022/04/09,Ottawa,Val-d'Or,,,,,,,
+T0224787,2022/03/19,2022/03/19,,,,,,,0.9600,0.0000,0.0000,0.0000,0,0,0.96
+T0224787,2022/03/19,2022/03/19,"Fortier, Jenny",Employee,To attend a constituency or community event,2022/03/19,Lebel-sur-Quévillon,Lebel-sur-Quévillon,,,,,,,
+T0224787,2022/03/19,2022/03/19,"Fortier, Jenny",Employee,To attend a constituency or community event,2022/03/19,Lebel-sur-Quévillon,Lebel-sur-Quévillon,,,,,,,

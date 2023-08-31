@@ -1,0 +1,58 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0245688,2022/06/01,2022/06/26,,,,,,,1702.5900,0.0000,0.0000,1.0000,0,0,1702.59
+T0245688,2022/06/01,2022/06/26,"Dhillon, Harman",Employee,To attend training,2022/06/01,Surrey,Ottawa,,,,,,,
+T0245688,2022/06/01,2022/06/26,"Dhillon, Harman",Employee,To attend training,2022/06/26,Ottawa,Surrey,,,,,,,
+T0248437,2022/08/18,2022/08/21,,,,,,,2372.1000,0.0000,0.0000,1.0000,0,0,2372.10
+T0248437,2022/08/18,2022/08/21,,Dependant,To travel to/from constituency and Ottawa,2022/08/18,Surrey,Ottawa,,,,,,,
+T0240520,2022/08/18,2022/08/21,,,,,,,2372.1000,0.0000,0.0000,1.0000,0,0,2372.10
+T0240520,2022/08/18,2022/08/21,,Designated Traveller,To travel to/from constituency and Ottawa,2022/08/18,Surrey,Ottawa,,,,,,,
+T0240520,2022/08/18,2022/08/21,,Designated Traveller,To travel to/from constituency and Ottawa,2022/08/21,Ottawa,Surrey,,,,,,,
+T0248437,2022/08/18,2022/08/21,,Dependant,To travel to/from constituency and Ottawa,2022/08/21,Ottawa,Surrey,,,,,,,
+T0240535,2022/09/17,2022/09/19,,,,,,,2413.2900,0.0000,0.0000,1.0000,0,0,2413.29
+T0240535,2022/09/17,2022/09/19,,Designated Traveller,To travel to/from constituency and Ottawa,2022/09/17,Surrey,Ottawa,,,,,,,
+T0240535,2022/09/17,2022/09/19,,Designated Traveller,To travel to/from constituency and Ottawa,2022/09/19,Ottawa,Surrey,,,,,,,
+T0245684,2022/12/05,2022/12/09,,,,,,,2413.6400,0.0000,377.1400,1.0000,0,0,2790.78
+T0245684,2022/12/05,2022/12/09,"Sarai, Randeep",Member,To travel to/from constituency and Ottawa,2022/12/05,Surrey,Ottawa,,,,,,,
+T0245684,2022/12/05,2022/12/09,"Sarai, Randeep",Member,To travel to/from constituency and Ottawa,2022/12/09,Ottawa,Surrey,,,,,,,
+T0245680,2022/12/11,2022/12/15,,,,,,,2596.5300,0.0000,427.6800,1.0000,0,0,3024.21
+T0245680,2022/12/11,2022/12/15,"Sarai, Randeep",Member,To travel to/from constituency and Ottawa,2022/12/12,Surrey,Ottawa,,,,,,,
+T0245680,2022/12/11,2022/12/15,"Sarai, Randeep",Member,To travel to/from constituency and Ottawa,2022/12/15,Ottawa,Surrey,,,,,,,
+T0243423,2022/12/12,2022/12/15,,,,,,,1003.8000,0.0000,371.2900,1.0000,0,0,1375.09
+T0243423,2022/12/12,2022/12/15,"Bajwa, Maria",Employee,To attend training,2022/12/12,Surrey,Ottawa,,,,,,,
+T0243425,2022/12/12,2022/12/15,,,,,,,1003.8000,0.0000,371.2900,1.0000,0,0,1375.09
+T0243425,2022/12/12,2022/12/15,"Minhas, Devneet",Employee,To attend training,2022/12/12,Surrey,Ottawa,,,,,,,
+T0243133,2022/12/12,2022/12/15,,,,,,,1041.8600,920.2100,371.2900,1.0000,0,0,2333.36
+T0243133,2022/12/12,2022/12/15,"Kular, Harjot",Employee,To travel to/from constituency and Ottawa,2022/12/12,Surrey,Ottawa,,,,,,,
+T0243425,2022/12/12,2022/12/15,"Minhas, Devneet",Employee,To attend training,2022/12/15,Ottawa,Surrey,,,,,,,
+T0243423,2022/12/12,2022/12/15,"Bajwa, Maria",Employee,To attend training,2022/12/15,Ottawa,Surrey,,,,,,,
+T0243133,2022/12/12,2022/12/15,"Kular, Harjot",Employee,To travel to/from constituency and Ottawa,2022/12/15,Ottawa,Surrey,,,,,,,
+T0243424,2022/12/13,2022/12/18,,,,,,,1003.8000,0.0000,264.3700,1.0000,0,0,1268.17
+T0243424,2022/12/13,2022/12/18,"Jaswal, Jasmeet",Employee,To attend training,2022/12/13,Surrey,Ottawa,,,,,,,
+T0243424,2022/12/13,2022/12/18,"Jaswal, Jasmeet",Employee,To attend training,2022/12/18,Ottawa,Surrey,,,,,,,
+T0245653,2022/12/28,2022/12/29,,,,,,,2446.2800,0.0000,163.3000,1.0000,0,0,2609.58
+T0245653,2022/12/28,2022/12/29,"Sarai, Randeep",Member,To travel to/from constituency and Ottawa,2022/12/28,Surrey,Ottawa,,,,,,,
+T0245653,2022/12/28,2022/12/29,"Sarai, Randeep",Member,To travel to/from constituency and Ottawa,2022/12/29,Ottawa,Surrey,,,,,,,
+T0245669,2023/01/26,2023/02/02,,,,,,,2446.2800,0.0000,748.4400,1.0000,0,0,3194.72
+T0245669,2023/01/26,2023/02/02,"Sarai, Randeep",Member,To travel to/from constituency and Ottawa,2023/01/26,Surrey,Ottawa,,,,,,,
+T0245669,2023/01/26,2023/02/02,"Sarai, Randeep",Member,To travel to/from constituency and Ottawa,2023/02/02,Ottawa,Surrey,,,,,,,
+200643252,2023/02/01,2023/02/28,,,,,,,0.0000,2300.0000,0.0000,0,0,0,2300.00
+200643252,2023/02/01,2023/02/28,"Sarai, Randeep",Member,Secondary Residence,2023/02/01,OTTAWA,OTTAWA,,,,,,,
+T0245672,2023/02/05,2023/02/07,,,,,,,2446.2800,0.0000,264.3700,1.0000,0,0,2710.65
+T0245672,2023/02/05,2023/02/07,"Sarai, Randeep",Member,To travel to/from constituency and Ottawa,2023/02/05,Surrey,Ottawa,,,,,,,
+T0245672,2023/02/05,2023/02/07,"Sarai, Randeep",Member,To travel to/from constituency and Ottawa,2023/02/07,Ottawa,Surrey,,,,,,,
+T0245678,2023/02/12,2023/02/16,,,,,,,2446.2800,0.0000,478.2100,1.0000,0,0,2924.49
+T0245678,2023/02/12,2023/02/16,"Sarai, Randeep",Member,To travel to/from constituency and Ottawa,2023/02/12,Surrey,Ottawa,,,,,,,
+T0245678,2023/02/12,2023/02/16,"Sarai, Randeep",Member,To travel to/from constituency and Ottawa,2023/02/16,Ottawa,Surrey,,,,,,,
+200653043,2023/03/01,2023/03/31,,,,,,,0.0000,2300.0000,0.0000,0,0,0,2300.00
+200653043,2023/03/01,2023/03/31,"Sarai, Randeep",Member,Secondary Residence,2023/03/01,OTTAWA,OTTAWA,,,,,,,
+400161074,2023/03/01,2023/03/31,,,,,,,0.0000,-2200.0000,0.0000,0,0,0,-2200.00
+400161074,2023/03/01,2023/03/31,"Sarai, Randeep",Member,Secondary Residence,2023/03/01,Ottawa,Ottawa,,,,,,,
+T0247466,2023/03/05,2023/03/09,,,,,,,2434.4100,0.0000,478.2100,1.0000,0,0,2912.62
+T0247466,2023/03/05,2023/03/09,"Sarai, Randeep",Member,To travel to/from constituency and Ottawa,2023/03/05,Surrey,Ottawa,,,,,,,
+T0247466,2023/03/05,2023/03/09,"Sarai, Randeep",Member,To travel to/from constituency and Ottawa,2023/03/09,Ottawa,Surrey,,,,,,,
+T0247429,2023/03/11,2023/03/18,,,,,,,1144.4800,1350.7300,921.1500,1.0000,0,0,3416.36
+T0247429,2023/03/11,2023/03/18,"Hawkins, Annyse",Employee,To travel to/from constituency and Ottawa,2023/03/11,Ottawa,Surrey,,,,,,,
+T0247429,2023/03/11,2023/03/18,"Hawkins, Annyse",Employee,To travel to/from constituency and Ottawa,2023/03/18,Surrey,Ottawa,,,,,,,
+T0248438,2023/03/19,2023/03/25,,,,,,,2462.4500,0.0000,534.6000,1.0000,0,0,2997.05
+T0248438,2023/03/19,2023/03/25,"Sarai, Randeep",Member,To travel to/from constituency and Ottawa,2023/03/19,Surrey,Ottawa,,,,,,,
+T0248438,2023/03/19,2023/03/25,"Sarai, Randeep",Member,To travel to/from constituency and Ottawa,2023/03/25,Ottawa,Surrey,,,,,,,

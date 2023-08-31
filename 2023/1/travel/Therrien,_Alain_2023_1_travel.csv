@@ -1,0 +1,60 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0225797,2022/03/28,2022/03/31,,,,,,,0.0000,-434.7000,0.0000,0,0,0,-434.70
+T0225797,2022/03/28,2022/03/31,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/03/28,Saint-Constant,Ottawa,,,,,,,
+T0225797,2022/03/28,2022/03/31,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/03/31,Ottawa,Saint-Constant,,,,,,,
+T0227099,2022/04/04,2022/04/05,,,,,,,207.7500,206.2400,123.1200,1.0000,0,0,537.11
+T0227099,2022/04/04,2022/04/05,"Moreau, Robert",Employee,To travel to/from constituency and Ottawa,2022/04/04,Delson,Ottawa,,,,,,,
+T0227100,2022/04/04,2022/04/05,,,,,,,0.0000,206.2400,123.1200,0.0000,0,0,329.36
+T0227100,2022/04/04,2022/04/05,"Caron, Benjamin",Employee,To travel to/from constituency and Ottawa,2022/04/04,Delson,Ottawa,,,,,,,
+T0227100,2022/04/04,2022/04/05,"Caron, Benjamin",Employee,To travel to/from constituency and Ottawa,2022/04/05,Ottawa,Delson,,,,,,,
+T0227099,2022/04/04,2022/04/05,"Moreau, Robert",Employee,To travel to/from constituency and Ottawa,2022/04/05,Ottawa,Delson,,,,,,,
+T0226742,2022/04/04,2022/04/07,,,,,,,202.8700,618.7200,413.3900,1.0000,0,0,1234.98
+T0226742,2022/04/04,2022/04/07,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/04/04,Saint-Constant,Ottawa,,,,,,,
+T0226742,2022/04/04,2022/04/07,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/04/07,Ottawa,Saint-Constant,,,,,,,
+T0227310,2022/04/19,2022/04/20,,,,,,,285.3500,237.3200,201.6100,1.0000,0,0,724.28
+T0227310,2022/04/19,2022/04/20,"Therrien, Alain",Member,To attend a national caucus meeting,2022/04/19,Saint-Constant,Québec,,,,,,,
+T0227310,2022/04/19,2022/04/20,"Therrien, Alain",Member,To attend a national caucus meeting,2022/04/20,Québec,Saint-Constant,,,,,,,
+T0227558,2022/04/25,2022/04/28,,,,,,,202.8700,618.7200,413.3900,1.0000,0,0,1234.98
+T0227558,2022/04/25,2022/04/28,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/04/25,Saint-Constant,Ottawa,,,,,,,
+T0227558,2022/04/25,2022/04/28,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/04/28,Ottawa,Saint-Constant,,,,,,,
+T0227990,2022/05/02,2022/05/05,,,,,,,202.8700,743.0600,413.3900,1.0000,0,0,1359.32
+T0227990,2022/05/02,2022/05/05,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/05/02,Saint-Constant,Ottawa,,,,,,,
+T0227990,2022/05/02,2022/05/05,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/05/05,Ottawa,Saint-Constant,,,,,,,
+T0228281,2022/05/10,2022/05/13,,,,,,,608.6100,743.0600,316.2500,3.0000,0,0,1667.92
+T0228281,2022/05/10,2022/05/13,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/05/10,Saint-Constant,Ottawa,,,,,,,
+T0228281,2022/05/10,2022/05/13,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/05/11,Saint-Constant,Ottawa,,,,,,,
+T0228281,2022/05/10,2022/05/13,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/05/11,Ottawa,Saint-Constant,,,,,,,
+T0228281,2022/05/10,2022/05/13,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/05/12,Ottawa,Saint-Constant,,,,,,,
+T0228281,2022/05/10,2022/05/13,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/05/12,Saint-Constant,Ottawa,,,,,,,
+T0228281,2022/05/10,2022/05/13,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/05/13,Ottawa,Saint-Constant,,,,,,,
+T0228915,2022/05/16,2022/05/19,,,,,,,405.7400,743.0600,393.6200,2.0000,0,0,1542.42
+T0228915,2022/05/16,2022/05/19,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/05/16,Saint-Constant,Ottawa,,,,,,,
+T0228915,2022/05/16,2022/05/19,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/05/19,Ottawa,Saint-Constant,,,,,,,
+T0228915,2022/05/16,2022/05/19,,Designated Traveller,To travel to/from constituency and Ottawa,2022/05/18,Saint-Constant,Ottawa,,,,,,,
+T0228915,2022/05/16,2022/05/19,,Designated Traveller,To travel to/from constituency and Ottawa,2022/05/19,Ottawa,Saint-Constant,,,,,,,
+T0229255,2022/05/18,2022/05/18,,,,,,,225.5400,0.0000,103.3500,1.0000,0,0,328.89
+T0229255,2022/05/18,2022/05/18,"Caron, Benjamin",Employee,To travel to/from constituency and Ottawa,2022/05/18,Delson,Ottawa,,,,,,,
+T0229255,2022/05/18,2022/05/18,"Caron, Benjamin",Employee,To travel to/from constituency and Ottawa,2022/05/18,Ottawa,Delson,,,,,,,
+T0229532,2022/05/30,2022/06/02,,,,,,,212.6100,680.8800,413.3900,1.0000,0,0,1306.88
+T0229532,2022/05/30,2022/06/02,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/05/30,Saint-Constant,Ottawa,,,,,,,
+T0229532,2022/05/30,2022/06/02,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/06/02,Ottawa,Saint-Constant,,,,,,,
+T0230100,2022/05/30,2022/06/09,,,,,,,415.5000,0.0000,0.0000,2.0000,0,0,415.50
+T0230100,2022/05/30,2022/06/09,"Boileau, Carolanne",Employee,To travel to/from constituency and Ottawa,2022/05/30,Delson,Ottawa,,,,,,,
+T0230100,2022/05/30,2022/06/09,"Boileau, Carolanne",Employee,To travel to/from constituency and Ottawa,2022/06/02,Ottawa,Delson,,,,,,,
+T0230100,2022/05/30,2022/06/09,"Boileau, Carolanne",Employee,To travel to/from constituency and Ottawa,2022/06/06,Delson,Ottawa,,,,,,,
+T0230100,2022/05/30,2022/06/09,"Boileau, Carolanne",Employee,To travel to/from constituency and Ottawa,2022/06/09,Ottawa,Delson,,,,,,,
+T0230070,2022/06/06,2022/06/09,,,,,,,202.8700,743.0600,364.8200,1.0000,0,0,1310.75
+T0230070,2022/06/06,2022/06/09,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/06/06,Saint-Constant,Ottawa,,,,,,,
+T0230070,2022/06/06,2022/06/09,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/06/09,Ottawa,Saint-Constant,,,,,,,
+T0230073,2022/06/07,2022/06/08,,,,,,,0.0000,216.6000,158.1200,0.0000,0,0,374.72
+T0230073,2022/06/07,2022/06/08,"Caron, Benjamin",Employee,To travel to/from constituency and Ottawa,2022/06/07,Delson,Ottawa,,,,,,,
+T0229999,2022/06/07,2022/06/08,,,,,,,0.0000,247.6900,158.1200,0.0000,0,0,405.81
+T0229999,2022/06/07,2022/06/08,"Bleau, Alexandre",Employee,To travel to/from constituency and Ottawa,2022/06/07,Delson,Ottawa,,,,,,,
+T0230072,2022/06/07,2022/06/08,,,,,,,222.9300,247.6900,158.1200,1.0000,0,0,628.74
+T0230072,2022/06/07,2022/06/08,"Moreau, Robert",Employee,To travel to/from constituency and Ottawa,2022/06/07,Delson,Ottawa,,,,,,,
+T0230072,2022/06/07,2022/06/08,"Moreau, Robert",Employee,To travel to/from constituency and Ottawa,2022/06/08,Ottawa,Delson,,,,,,,
+T0229999,2022/06/07,2022/06/08,"Bleau, Alexandre",Employee,To travel to/from constituency and Ottawa,2022/06/08,Ottawa,Delson,,,,,,,
+T0230073,2022/06/07,2022/06/08,"Caron, Benjamin",Employee,To travel to/from constituency and Ottawa,2022/06/08,Ottawa,Delson,,,,,,,
+T0230877,2022/06/13,2022/06/16,,,,,,,202.8700,743.0600,413.3900,1.0000,0,0,1359.32
+T0230877,2022/06/13,2022/06/16,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/06/13,Saint-Constant,Ottawa,,,,,,,
+T0230877,2022/06/13,2022/06/16,"Therrien, Alain",Member,To travel to/from constituency and Ottawa,2022/06/16,Ottawa,Saint-Constant,,,,,,,

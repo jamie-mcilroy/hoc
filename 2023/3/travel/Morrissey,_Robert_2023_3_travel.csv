@@ -1,0 +1,24 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0232861,2022/05/01,2022/05/06,,,,,,,1104.5200,1044.0200,600.5400,1.0000,0,0,2749.08
+T0232861,2022/05/01,2022/05/06,"Morrissey, Robert",Member,To travel to/from constituency and Ottawa,2022/05/01,Tignish,Ottawa,,,,,,,
+T0232861,2022/05/01,2022/05/06,"Morrissey, Robert",Member,To travel to/from constituency and Ottawa,2022/05/06,Ottawa,Tignish,,,,,,,
+T0232862,2022/05/08,2022/05/21,,,,,,,1211.3600,2635.6200,1426.4000,1.0000,0,0,5273.38
+T0232862,2022/05/08,2022/05/21,"Morrissey, Robert",Member,To travel to/from constituency and Ottawa,2022/05/08,Tignish,Ottawa,,,,,,,
+T0232862,2022/05/08,2022/05/21,"Morrissey, Robert",Member,To travel to/from constituency and Ottawa,2022/05/20,Ottawa,Tignish,,,,,,,
+T0232893,2022/05/29,2022/06/10,,,,,,,1221.1200,2426.8200,1323.0500,1.0000,0,0,4970.99
+T0232893,2022/05/29,2022/06/10,"Morrissey, Robert",Member,To travel to/from constituency and Ottawa,2022/05/29,Tignish,Ottawa,,,,,,,
+T0232893,2022/05/29,2022/06/10,"Morrissey, Robert",Member,To travel to/from constituency and Ottawa,2022/06/09,Ottawa,Tignish,,,,,,,
+T0232959,2022/06/12,2022/06/17,,,,,,,1124.7400,1044.0200,600.5400,1.0000,0,0,2769.30
+T0232959,2022/06/12,2022/06/17,"Morrissey, Robert",Member,To travel to/from constituency and Ottawa,2022/06/12,Tignish,Ottawa,,,,,,,
+T0232959,2022/06/12,2022/06/17,"Morrissey, Robert",Member,To travel to/from constituency and Ottawa,2022/06/17,Ottawa,Tignish,,,,,,,
+T0232972,2022/06/19,2022/06/24,,,,,,,1117.2800,1044.0200,600.5400,1.0000,0,0,2761.84
+T0232972,2022/06/19,2022/06/24,"Morrissey, Robert",Member,To travel to/from constituency and Ottawa,2022/06/19,Tignish,Ottawa,,,,,,,
+T0232972,2022/06/19,2022/06/24,"Morrissey, Robert",Member,To travel to/from constituency and Ottawa,2022/06/24,Ottawa,Tignish,,,,,,,
+T0240935,2022/07/17,2022/07/20,,,,,,,1563.5000,712.2500,274.8700,0.5000,1.0000,0,2550.62
+T0240935,2022/07/17,2022/07/20,"Qaisar, Huzaif",Employee,Attending event with Member,2022/07/17,Ottawa,St. John's,,,,,,,
+T0232979,2022/07/17,2022/07/20,,,,,,,1332.8700,597.2700,392.9200,0,1.0000,0,2323.06
+T0232979,2022/07/17,2022/07/20,"Morrissey, Robert",Member,To attend meetings about constituency issues,2022/07/17,Tignish,St. John's,,,,,,,
+T0232979,2022/07/17,2022/07/20,"Morrissey, Robert",Member,To attend meetings about constituency issues,2022/07/19,St. John's,Tignish,,,,,,,
+T0240935,2022/07/17,2022/07/20,"Qaisar, Huzaif",Employee,Attending event with Member,2022/07/19,St. John's,Moncton,,,,,,,
+T0240935,2022/07/17,2022/07/20,"Qaisar, Huzaif",Employee,To travel to/from constituency and Ottawa,2022/07/20,Charlottetown,Ottawa,,,,,,,
+T0240935,2022/07/17,2022/07/20,"Qaisar, Huzaif",Employee,Attending event with Member,2022/07/19,Moncton,Charlottetown,,,,,,,

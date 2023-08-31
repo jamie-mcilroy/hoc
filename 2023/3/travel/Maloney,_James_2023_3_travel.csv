@@ -1,0 +1,50 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0232707,2022/04/04,2022/04/07,,,,,,,702.0200,579.2100,329.8200,0.5000,0,0,1611.05
+T0232707,2022/04/04,2022/04/07,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/04/04,Toronto,Ottawa,,,,,,,
+T0232707,2022/04/04,2022/04/07,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/04/07,Ottawa,Toronto,,,,,,,
+T0232775,2022/06/22,2022/06/24,,,,,,,0.0000,519.2100,0.0000,0,0,0,519.21
+T0232775,2022/06/22,2022/06/24,"Maloney, James",Member,To attend meetings in Washington D.C,2022/06/22,Toronto,Washington,,,,,,,
+T0232775,2022/06/22,2022/06/24,"Maloney, James",Member,To attend meetings in Washington D.C,2022/06/24,Washington,Toronto,,,,,,,
+T0234252,2022/08/08,2022/08/11,,,,,,,566.7000,133.9300,88.1200,1.0000,0,0,788.75
+T0234252,2022/08/08,2022/08/11,"Hartley, Jennifer",Employee,To travel to/from constituency and Ottawa,2022/08/08,Ottawa,Etobicoke,,,,,,,
+T0234252,2022/08/08,2022/08/11,"Hartley, Jennifer",Employee,To travel to/from constituency and Ottawa,2022/08/11,Etobicoke,Ottawa,,,,,,,
+T0237072,2022/08/16,2022/08/18,,,,,,,618.2200,290.9800,87.9000,0,1.0000,0,997.10
+T0237072,2022/08/16,2022/08/18,"Barry, Clare",Employee,To attend a regional or provincial caucus meeting,2022/08/16,Ottawa,Niagara Falls,,,,,,,
+T0237930,2022/08/16,2022/08/18,,,,,,,194.2000,246.4300,152.1400,0,0.5000,0,592.77
+T0237930,2022/08/16,2022/08/18,"Crombie, Jonathan",Employee,Attending event with Member,2022/08/16,Toronto,Niagara Falls,,,,,,,
+T0237072,2022/08/16,2022/08/18,"Barry, Clare",Employee,To attend a regional or provincial caucus meeting,2022/08/18,Niagara Falls,Ottawa,,,,,,,
+T0237930,2022/08/16,2022/08/18,"Crombie, Jonathan",Employee,Attending event with Member,2022/08/18,Niagara Falls,Toronto,,,,,,,
+T0237930,2022/08/16,2022/08/18,"Crombie, Jonathan",Employee,To attend a regional or provincial caucus meeting,2022/08/16,Niagara Falls,Henley,,,,,,,
+T0237930,2022/08/16,2022/08/18,"Crombie, Jonathan",Employee,To attend a regional or provincial caucus meeting,2022/08/16,Henley,Niagara Falls,,,,,,,
+T0237930,2022/08/16,2022/08/18,"Crombie, Jonathan",Employee,To attend a regional or provincial caucus meeting,2022/08/17,Niagara Falls,St. Catharines,,,,,,,
+T0237930,2022/08/16,2022/08/18,"Crombie, Jonathan",Employee,To attend a regional or provincial caucus meeting,2022/08/17,St. Catharines,Niagara Falls,,,,,,,
+T0236413,2022/09/11,2022/09/14,,,,,,,1672.5000,858.5100,310.0400,0,1.0000,0,2841.05
+T0236413,2022/09/11,2022/09/14,"Maloney, James",Member,To attend a national caucus meeting,2022/09/11,Toronto,Saint John,,,,,,,
+T0236413,2022/09/11,2022/09/14,"Maloney, James",Member,To attend a national caucus meeting,2022/09/14,Saint John,Toronto,,,,,,,
+T0236391,2022/09/14,2022/09/15,,,,,,,1126.4700,313.7300,103.3500,1.0000,0,0,1543.55
+T0236391,2022/09/14,2022/09/15,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/09/14,Toronto,Ottawa,,,,,,,
+T0236391,2022/09/14,2022/09/15,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/09/15,Ottawa,Toronto,,,,,,,
+T0235913,2022/09/19,2022/09/23,,,,,,,1583.7000,2134.2500,294.6000,1.0000,0,0,4012.55
+T0235913,2022/09/19,2022/09/23,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/09/19,Toronto,Ottawa,,,,,,,
+T0235913,2022/09/19,2022/09/23,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/09/23,Ottawa,Toronto,,,,,,,
+T0236412,2022/09/26,2022/09/29,,,,,,,1274.1900,626.4100,282.7700,1.0000,0,0,2183.37
+T0236412,2022/09/26,2022/09/29,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/09/26,Toronto,Ottawa,,,,,,,
+T0236412,2022/09/26,2022/09/29,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/09/29,Ottawa,Toronto,,,,,,,
+T0237699,2022/10/03,2022/10/07,,,,,,,1375.6000,1223.4600,391.6500,1.0000,0,0,2990.71
+T0237699,2022/10/03,2022/10/07,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/10/03,Toronto,Ottawa,,,,,,,
+T0237699,2022/10/03,2022/10/07,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/10/07,Ottawa,Toronto,,,,,,,
+T0237586,2022/10/07,2022/10/09,,,,,,,1282.1500,571.7500,178.0400,0,1.0000,0,2031.94
+T0237586,2022/10/07,2022/10/09,"Maloney, James",Member,To attend an event as a guest speaker,2022/10/07,Toronto,Moncton,,,,,,,
+T0237586,2022/10/07,2022/10/09,"Maloney, James",Member,To attend an event as a guest speaker,2022/10/09,Moncton,Toronto,,,,,,,
+T0238997,2022/10/17,2022/10/21,,,,,,,1606.3700,1254.9300,361.7000,1.0000,0,0,3223.00
+T0238997,2022/10/17,2022/10/21,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/10/17,Toronto,Ottawa,,,,,,,
+T0238997,2022/10/17,2022/10/21,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/10/21,Ottawa,Toronto,,,,,,,
+T0238994,2022/10/30,2022/11/04,,,,,,,593.1300,1411.2800,432.5900,1.0000,0,0,2437.00
+T0238994,2022/10/30,2022/11/04,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/10/30,Toronto,Ottawa,,,,,,,
+T0238994,2022/10/30,2022/11/04,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/11/04,Ottawa,Toronto,,,,,,,
+T0239813,2022/11/14,2022/11/18,,,,,,,1579.2300,1150.0100,412.4600,1.0000,0,0,3141.70
+T0239813,2022/11/14,2022/11/18,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/11/14,Toronto,Ottawa,,,,,,,
+T0239813,2022/11/14,2022/11/18,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/11/18,Ottawa,Toronto,,,,,,,
+T0239001,2022/11/20,2022/11/24,,,,,,,1310.8800,835.2100,341.3400,1.0000,0,0,2487.43
+T0239001,2022/11/20,2022/11/24,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/11/20,Toronto,Ottawa,,,,,,,
+T0239001,2022/11/20,2022/11/24,"Maloney, James",Member,To travel to/from constituency and Ottawa,2022/11/24,Ottawa,Toronto,,,,,,,

@@ -1,0 +1,39 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0212372,2021/04/01,2021/04/30,,,,,,,0.0000,1500.0000,0.0000,0,0,0,1500.00
+T0212372,2021/04/01,2021/04/30,"Gaudreau, Marie-Hélène",Member,Secondary Residence,2021/04/01,Gatineau,Gatineau,,,,,,,
+T0212535,2021/04/01,2021/04/30,,,,,,,0.0000,42.6100,0.0000,0,0,0,42.61
+T0212535,2021/04/01,2021/04/30,"Gaudreau, Marie-Hélène",Member,Secondary Residence,2021/04/01,Gatineau,Gatineau,,,,,,,
+T0212061,2021/04/12,2021/04/14,,,,,,,182.9600,0.0000,165.2000,1.0000,0,0,348.16
+T0212061,2021/04/12,2021/04/14,"Gaudreau, Marie-Hélène",Member,To travel to/from constituency and Ottawa,2021/04/12,Beaux-Rivages,Ottawa,,,,,,,
+T0212061,2021/04/12,2021/04/14,"Gaudreau, Marie-Hélène",Member,To travel to/from constituency and Ottawa,2021/04/14,Ottawa,Beaux-Rivages,,,,,,,
+T0213200,2021/04/22,2021/06/08,,,,,,,151.9600,0.0000,36.9700,0.0000,0,0,188.93
+T0213200,2021/04/22,2021/06/08,"Caouette, Maxime",Employee,To attend a constituency or community event,2021/04/22,Sainte-Agathe-des-Monts,Val-David,,,,,,,
+T0213200,2021/04/22,2021/06/08,"Caouette, Maxime",Employee,To attend a constituency or community event,2021/04/22,Val-David,Sainte-Agathe-des-Monts,,,,,,,
+T0213200,2021/04/22,2021/06/08,"Caouette, Maxime",Employee,To attend meetings about constituency issues,2021/06/08,Sainte-Agathe-des-Monts,Mont-Laurier,,,,,,,
+T0213200,2021/04/22,2021/06/08,"Caouette, Maxime",Employee,To attend meetings about constituency issues,2021/06/08,Mont-Laurier,Sainte-Agathe-des-Monts,,,,,,,
+T0213200,2021/04/22,2021/06/08,"Caouette, Maxime",Employee,Attending event with Member,2021/06/05,Piedmont,Val-David,,,,,,,
+T0213200,2021/04/22,2021/06/08,"Caouette, Maxime",Employee,Attending event with Member,2021/06/05,Val-David,Piedmont,,,,,,,
+T0213362,2021/05/01,2021/05/31,,,,,,,0.0000,42.6100,0.0000,0,0,0,42.61
+T0213362,2021/05/01,2021/05/31,"Gaudreau, Marie-Hélène",Member,Secondary Residence,2021/05/01,Gatineau,Gatineau,,,,,,,
+T0212934,2021/05/01,2021/05/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0212934,2021/05/01,2021/05/31,"Gaudreau, Marie-Hélène",Member,Secondary Residence,2021/05/01,Gatineau,Gatineau,,,,,,,
+T0212450,2021/05/02,2021/05/06,,,,,,,182.9600,0.0000,266.1800,1.0000,0,0,449.14
+T0212450,2021/05/02,2021/05/06,"Gaudreau, Marie-Hélène",Member,To travel to/from constituency and Ottawa,2021/05/02,Beaux-Rivages,Ottawa,,,,,,,
+T0212450,2021/05/02,2021/05/06,"Gaudreau, Marie-Hélène",Member,To travel to/from constituency and Ottawa,2021/05/06,Ottawa,Beaux-Rivages,,,,,,,
+T0213160,2021/06/06,2021/06/09,,,,,,,182.9600,0.0000,247.8000,1.0000,0,0,430.76
+T0213160,2021/06/06,2021/06/09,"Gaudreau, Marie-Hélène",Member,To travel to/from constituency and Ottawa,2021/06/06,Beaux-Rivages,Ottawa,,,,,,,
+T0213160,2021/06/06,2021/06/09,"Gaudreau, Marie-Hélène",Member,To travel to/from constituency and Ottawa,2021/06/09,Ottawa,Beaux-Rivages,,,,,,,
+T0213202,2021/06/09,2021/06/09,,,,,,,85.9500,0.0000,0.0000,0,0.0000,0,85.95
+T0213202,2021/06/09,2021/06/09,"Laroche Casavant, Mathieu",Employee,Attending event with Member,2021/06/09,Québec,Montreal,,,,,,,
+T0213523,2021/06/11,2021/06/11,,,,,,,151.0400,0.0000,97.6700,1.0000,0,0,248.71
+T0213523,2021/06/11,2021/06/11,"Kieffer, Michel",Employee,To attend meetings about constituency issues,2021/06/11,Saint-Sauveur (Les Pays-d'en-Haut),Mont-Laurier,,,,,,,
+T0213523,2021/06/11,2021/06/11,"Kieffer, Michel",Employee,To attend meetings about constituency issues,2021/06/11,Mont-Laurier,Saint-Sauveur (Les Pays-d'en-Haut),,,,,,,
+T0213360,2021/06/13,2021/06/16,,,,,,,182.9600,0.0000,247.8000,1.0000,0,0,430.76
+T0213360,2021/06/13,2021/06/16,"Gaudreau, Marie-Hélène",Member,To travel to/from constituency and Ottawa,2021/06/13,Beaux-Rivages,Ottawa,,,,,,,
+T0213360,2021/06/13,2021/06/16,"Gaudreau, Marie-Hélène",Member,To travel to/from constituency and Ottawa,2021/06/16,Ottawa,Beaux-Rivages,,,,,,,
+T0213505,2021/06/20,2021/06/22,,,,,,,182.9600,0.0000,119.5700,1.0000,0,0,302.53
+T0213505,2021/06/20,2021/06/22,"Gaudreau, Marie-Hélène",Member,To travel to/from constituency and Ottawa,2021/06/20,Beaux-Rivages,Ottawa,,,,,,,
+T0213505,2021/06/20,2021/06/22,"Gaudreau, Marie-Hélène",Member,To travel to/from constituency and Ottawa,2021/06/22,Ottawa,Beaux-Rivages,,,,,,,
+T0213522,2021/06/23,2021/06/23,,,,,,,153.8000,0.0000,45.6300,1.0000,0,0,199.43
+T0213522,2021/06/23,2021/06/23,"Larente, Maryse",Employee,Attending event with Member,2021/06/23,Mont-Laurier,Sainte-Anne-des-Lacs,,,,,,,
+T0213522,2021/06/23,2021/06/23,"Larente, Maryse",Employee,Attending event with Member,2021/06/23,Sainte-Anne-des-Lacs,Mont-Laurier,,,,,,,

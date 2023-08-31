@@ -1,0 +1,51 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0227732,2022/04/01,2022/05/21,,,,,,,0.0000,1565.6000,0.0000,0,0,0,1565.60
+T0227732,2022/04/01,2022/05/21,"Perron, Yves",Member,Secondary Residence,2022/04/22,Gatineau,Gatineau,,,,,,,
+T0227732,2022/04/01,2022/05/21,"Perron, Yves",Member,Secondary Residence,2022/04/01,Gatineau,Gatineau,,,,,,,
+T0227117,2022/04/03,2022/04/08,,,,,,,273.0900,0.0000,565.3100,1.0000,0,0,838.40
+T0227117,2022/04/03,2022/04/08,"Perron, Yves",Member,To travel to/from constituency and Ottawa,2022/04/03,Saint-Félix-de-Valois,Ottawa,,,,,,,
+T0227117,2022/04/03,2022/04/08,"Perron, Yves",Member,To travel to/from constituency and Ottawa,2022/04/08,Ottawa,Saint-Félix-de-Valois,,,,,,,
+T0228252,2022/04/07,2022/04/26,,,,,,,217.2100,0.0000,0.0000,0.0000,0.0000,0,217.21
+T0228252,2022/04/07,2022/04/26,"Robert, François",Employee,To attend an event as a matter of protocol,2022/04/21,Berthierville,Joliette,,,,,,,
+T0228252,2022/04/07,2022/04/26,"Robert, François",Employee,Attending event with Member,2022/04/26,Berthierville,Maskinongé,,,,,,,
+T0228252,2022/04/07,2022/04/26,"Robert, François",Employee,Attending event with Member,2022/04/26,Maskinongé,Berthierville,,,,,,,
+T0228252,2022/04/07,2022/04/26,"Robert, François",Employee,To attend an event as a matter of protocol,2022/04/21,Joliette,Berthierville,,,,,,,
+T0228252,2022/04/07,2022/04/26,"Robert, François",Employee,Attending event with Member,2022/04/14,Berthierville,Saint-Cléophas-de-Brandon,,,,,,,
+T0228252,2022/04/07,2022/04/26,"Robert, François",Employee,Attending event with Member,2022/04/14,Saint-Cléophas-de-Brandon,Berthierville,,,,,,,
+T0228252,2022/04/07,2022/04/26,"Robert, François",Employee,Attending event with Member,2022/04/21,Berthierville,Trois-Rivières,,,,,,,
+T0228252,2022/04/07,2022/04/26,"Robert, François",Employee,Attending event with Member,2022/04/21,Trois-Rivières,Trois-Rivières,,,,,,,
+T0228252,2022/04/07,2022/04/26,"Robert, François",Employee,Attending event with Member,2022/04/21,Trois-Rivières,Berthierville,,,,,,,
+T0228252,2022/04/07,2022/04/26,"Robert, François",Employee,Attending event with Member,2022/04/22,Berthierville,Trois-Rivières,,,,,,,
+T0228252,2022/04/07,2022/04/26,"Robert, François",Employee,Attending event with Member,2022/04/22,Trois-Rivières,Berthierville,,,,,,,
+T0228250,2022/04/08,2022/04/23,,,,,,,162.7600,0.0000,0.0000,0.0000,0,0,162.76
+T0228250,2022/04/08,2022/04/23,"Loranger, Samuel",Employee,Attending event with Member,2022/04/08,Trois-Rivières,Lavaltrie,,,,,,,
+T0228250,2022/04/08,2022/04/23,"Loranger, Samuel",Employee,Attending event with Member,2022/04/08,Lavaltrie,Trois-Rivières,,,,,,,
+T0228250,2022/04/08,2022/04/23,"Loranger, Samuel",Employee,Attending event with Member,2022/04/09,Trois-Rivières,Sainte-Ursule,,,,,,,
+T0228250,2022/04/08,2022/04/23,"Loranger, Samuel",Employee,Attending event with Member,2022/04/09,Sainte-Ursule,Trois-Rivières,,,,,,,
+T0228250,2022/04/08,2022/04/23,"Loranger, Samuel",Employee,Attending event with Member,2022/04/23,Trois-Rivières,Maskinongé,,,,,,,
+T0228250,2022/04/08,2022/04/23,"Loranger, Samuel",Employee,Attending event with Member,2022/04/23,Maskinongé,Trois-Rivières,,,,,,,
+T0227431,2022/04/18,2022/04/22,,,,,,,303.4200,241.3000,321.7100,2.0000,0,0,866.43
+T0227431,2022/04/18,2022/04/22,"Perron, Yves",Member,To attend a national caucus meeting,2022/04/18,Saint-Félix-de-Valois,Québec,,,,,,,
+T0227431,2022/04/18,2022/04/22,"Perron, Yves",Member,To attend a national caucus meeting,2022/04/22,Québec,Saint-Félix-de-Valois,,,,,,,
+T0227431,2022/04/18,2022/04/22,"Perron, Yves",Member,To attend an event as a matter of protocol,2022/04/21,Saint-Félix-de-Valois,Trois-Rivières,,,,,,,
+T0227431,2022/04/18,2022/04/22,"Perron, Yves",Member,To attend an event as a matter of protocol,2022/04/22,Trois-Rivières,Saint-Félix-de-Valois,,,,,,,
+T0228257,2022/04/25,2022/04/28,,,,,,,273.0900,0.0000,413.3900,1.0000,0,0,686.48
+T0228257,2022/04/25,2022/04/28,"Perron, Yves",Member,To travel to/from constituency and Ottawa,2022/04/25,Saint-Félix-de-Valois,Ottawa,,,,,,,
+T0228257,2022/04/25,2022/04/28,"Perron, Yves",Member,To travel to/from constituency and Ottawa,2022/04/28,Ottawa,Saint-Félix-de-Valois,,,,,,,
+T0228259,2022/05/01,2022/05/05,,,,,,,273.0900,0.0000,477.4100,1.0000,0,0,750.50
+T0228259,2022/05/01,2022/05/05,"Perron, Yves",Member,To travel to/from constituency and Ottawa,2022/05/01,Saint-Félix-de-Valois,Ottawa,,,,,,,
+T0228259,2022/05/01,2022/05/05,"Perron, Yves",Member,To travel to/from constituency and Ottawa,2022/05/05,Ottawa,Saint-Félix-de-Valois,,,,,,,
+T0229847,2022/05/01,2022/05/31,,,,,,,0.0000,1615.6000,0.0000,0,0,0,1615.60
+T0229847,2022/05/01,2022/05/31,"Perron, Yves",Member,Secondary Residence,2022/05/01,Gatineau,Gatineau,,,,,,,
+T0228766,2022/05/08,2022/05/13,,,,,,,273.0900,0.0000,580.7600,1.0000,0,0,853.85
+T0228766,2022/05/08,2022/05/13,"Perron, Yves",Member,To travel to/from constituency and Ottawa,2022/05/08,Saint-Félix-de-Valois,Ottawa,,,,,,,
+T0228766,2022/05/08,2022/05/13,"Perron, Yves",Member,To travel to/from constituency and Ottawa,2022/05/13,Ottawa,Saint-Félix-de-Valois,,,,,,,
+T0229793,2022/05/15,2022/05/19,,,,,,,273.0900,0.0000,477.4100,1.0000,0,0,750.50
+T0229793,2022/05/15,2022/05/19,"Perron, Yves",Member,To travel to/from constituency and Ottawa,2022/05/15,Saint-Félix-de-Valois,Ottawa,,,,,,,
+T0229793,2022/05/15,2022/05/19,"Perron, Yves",Member,To travel to/from constituency and Ottawa,2022/05/19,Ottawa,Saint-Félix-de-Valois,,,,,,,
+T0229795,2022/05/29,2022/06/04,,,,,,,273.0900,0.0000,519.0900,1.0000,0,0,792.18
+T0229795,2022/05/29,2022/06/04,"Perron, Yves",Member,To travel to/from constituency and Ottawa,2022/05/29,Saint-Félix-de-Valois,Ottawa,,,,,,,
+T0229795,2022/05/29,2022/06/04,"Perron, Yves",Member,To travel to/from constituency and Ottawa,2022/06/04,Ottawa,Saint-Félix-de-Valois,,,,,,,
+T0229798,2022/06/01,2022/06/01,,,,,,,238.9500,0.0000,68.1200,1.0000,0,0,307.07
+T0229798,2022/06/01,2022/06/01,"Tanguay, Lyne",Employee,To travel to/from constituency and Ottawa,2022/06/01,Lanoraie,Ottawa,,,,,,,
+T0229798,2022/06/01,2022/06/01,"Tanguay, Lyne",Employee,To travel to/from constituency and Ottawa,2022/06/01,Ottawa,Lanoraie,,,,,,,

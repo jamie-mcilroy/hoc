@@ -1,0 +1,42 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0209020,2020/12/01,2020/12/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0209020,2020/12/01,2020/12/31,"Simard, Mario",Member,Secondary Residence,2020/12/01,Gatineau,Gatineau,,,,,,,
+T0208649,2020/12/23,2021/01/22,,,,,,,0.0000,51.5200,0.0000,0,0,0,51.52
+T0208649,2020/12/23,2021/01/22,"Simard, Mario",Member,Secondary Residence,2020/12/23,Gatineau,Gatineau,,,,,,,
+T0209684,2021/01/01,2021/01/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0209684,2021/01/01,2021/01/31,"Simard, Mario",Member,Secondary Residence,2021/01/01,Gatineau,Gatineau,,,,,,,
+T0209130,2021/01/23,2021/02/22,,,,,,,0.0000,124.6500,0.0000,0,0,0,124.65
+T0209130,2021/01/23,2021/02/22,"Simard, Mario",Member,Secondary Residence,2021/01/23,Gatineau,Gatineau,,,,,,,
+T0209509,2021/01/26,2021/01/28,,,,,,,609.9800,0.0000,289.4800,1.0000,0,0,899.46
+T0209509,2021/01/26,2021/01/28,"Simard, Mario",Member,To travel to/from constituency and Ottawa,2021/01/26,Jonquière,Ottawa,,,,,,,
+T0209509,2021/01/26,2021/01/28,"Simard, Mario",Member,To travel to/from constituency and Ottawa,2021/01/28,Ottawa,Jonquière,,,,,,,
+T0209780,2021/01/31,2021/02/04,,,,,,,610.4500,0.0000,464.3500,1.0000,0,0,1074.80
+T0209780,2021/01/31,2021/02/04,"Simard, Mario",Member,To travel to/from constituency and Ottawa,2021/01/31,Jonquière,Ottawa,,,,,,,
+T0209780,2021/01/31,2021/02/04,"Simard, Mario",Member,To travel to/from constituency and Ottawa,2021/02/04,Ottawa,Jonquière,,,,,,,
+T0210218,2021/02/01,2021/02/28,,,,,,,0.0000,1400.0000,0.0000,0,0,0,1400.00
+T0210218,2021/02/01,2021/02/28,"Simard, Mario",Member,Secondary Residence,2021/02/01,Gatineau,Gatineau,,,,,,,
+T0211484,2021/02/01,2021/03/31,,,,,,,18.4000,0.0000,0.0000,0.0000,0,0,18.40
+T0211484,2021/02/01,2021/03/31,"Dubé, Caroline",Employee,Attending event with Member,2021/03/11,Saguenay,Saguenay,,,,,,,
+T0211484,2021/02/01,2021/03/31,"Dubé, Caroline",Employee,Attending event with Member,2021/03/11,Saguenay,Saguenay,,,,,,,
+T0211484,2021/02/01,2021/03/31,"Dubé, Caroline",Employee,To conduct constituency office business,2021/03/24,Saguenay,Saguenay,,,,,,,
+T0211484,2021/02/01,2021/03/31,"Dubé, Caroline",Employee,To conduct constituency office business,2021/02/22,Saguenay,Saguenay,,,,,,,
+T0211484,2021/02/01,2021/03/31,"Dubé, Caroline",Employee,To conduct constituency office business,2021/03/24,Saguenay,Saguenay,,,,,,,
+T0211484,2021/02/01,2021/03/31,"Dubé, Caroline",Employee,To conduct constituency office business,2021/02/22,Saguenay,Saguenay,,,,,,,
+T0210084,2021/02/16,2021/02/18,,,,,,,610.4500,0.0000,289.4800,1.0000,0,0,899.93
+T0210084,2021/02/16,2021/02/18,"Simard, Mario",Member,To travel to/from constituency and Ottawa,2021/02/16,Jonquière,Ottawa,,,,,,,
+T0210084,2021/02/16,2021/02/18,"Simard, Mario",Member,To travel to/from constituency and Ottawa,2021/02/18,Ottawa,Jonquière,,,,,,,
+T0210264,2021/02/22,2021/02/25,,,,,,,610.4500,0.0000,385.9700,1.0000,0,0,996.42
+T0210264,2021/02/22,2021/02/25,"Simard, Mario",Member,To travel to/from constituency and Ottawa,2021/02/22,Jonquière,Ottawa,,,,,,,
+T0210264,2021/02/22,2021/02/25,"Simard, Mario",Member,To travel to/from constituency and Ottawa,2021/02/25,Ottawa,Jonquière,,,,,,,
+T0209913,2021/02/23,2021/03/22,,,,,,,0.0000,77.8600,0.0000,0,0,0,77.86
+T0209913,2021/02/23,2021/03/22,"Simard, Mario",Member,Secondary Residence,2021/02/23,Gatineau,Gatineau,,,,,,,
+T0211302,2021/03/01,2021/03/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0211302,2021/03/01,2021/03/31,"Simard, Mario",Member,Secondary Residence,2021/03/01,Gatineau,Gatineau,,,,,,,
+T0210738,2021/03/02,2021/03/05,,,,,,,610.4500,0.0000,367.8500,1.0000,0,0,978.30
+T0210738,2021/03/02,2021/03/05,"Simard, Mario",Member,To travel to/from constituency and Ottawa,2021/03/02,Jonquière,Ottawa,,,,,,,
+T0210738,2021/03/02,2021/03/05,"Simard, Mario",Member,To travel to/from constituency and Ottawa,2021/03/05,Ottawa,Jonquière,,,,,,,
+T0211114,2021/03/21,2021/03/26,,,,,,,609.9800,0.0000,578.9600,1.0000,0,0,1188.94
+T0211114,2021/03/21,2021/03/26,"Simard, Mario",Member,To travel to/from constituency and Ottawa,2021/03/21,Jonquière,Ottawa,,,,,,,
+T0211114,2021/03/21,2021/03/26,"Simard, Mario",Member,To travel to/from constituency and Ottawa,2021/03/26,Ottawa,Jonquière,,,,,,,
+T0210590,2021/03/23,2021/04/22,,,,,,,0.0000,78.2700,0.0000,0,0,0,78.27
+T0210590,2021/03/23,2021/04/22,"Simard, Mario",Member,Secondary Residence,2021/03/23,Gatineau,Gatineau,,,,,,,

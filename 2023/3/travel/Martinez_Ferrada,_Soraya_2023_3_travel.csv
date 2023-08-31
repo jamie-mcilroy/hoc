@@ -1,0 +1,69 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0235508,2022/03/07,2022/03/08,,,,,,,814.3500,0.0000,0.0000,0,1.0000,0,814.35
+T0235508,2022/03/07,2022/03/08,,Designated Traveller,Attending event with Member,2022/03/07,Montréal,Toronto,,,,,,,
+T0235508,2022/03/07,2022/03/08,,Designated Traveller,Attending event with Member,2022/03/08,Toronto,Montréal,,,,,,,
+T0234863,2022/08/29,2022/09/02,,,,,,,74.5400,0.0000,0.0000,0,0.0000,0,74.54
+T0234863,2022/08/29,2022/09/02,"Martinez Ferrada, Soraya",Member,To attend a regional or provincial caucus meeting,2022/09/02,Montréal,Longueuil,,,,,,,
+T0235826,2022/09/09,2022/09/15,,,,,,,791.9900,662.8600,639.6400,0,1.0000,0,2094.49
+T0235826,2022/09/09,2022/09/15,"Martinez Ferrada, Soraya",Member,To attend a regional or provincial caucus meeting,2022/09/09,Longueuil,Saint-John,,,,,,,
+T0235826,2022/09/09,2022/09/15,"Martinez Ferrada, Soraya",Member,To attend a national caucus meeting,2022/09/10,Saint-John,Saint-Andrews,,,,,,,
+T0235826,2022/09/09,2022/09/15,"Martinez Ferrada, Soraya",Member,To attend a national caucus meeting,2022/09/14,Saint-Andrews,Saint-John,,,,,,,
+T0235826,2022/09/09,2022/09/15,"Martinez Ferrada, Soraya",Member,To attend a national caucus meeting,2022/09/14,Saint-John,Montréal,,,,,,,
+T0236573,2022/09/10,2022/09/13,,,,,,,1174.5400,0.0000,0.0000,0,1.0000,0,1174.54
+T0236573,2022/09/10,2022/09/13,,Designated Traveller,Attending event with Member,2022/09/10,Longueuil,Saint-Andrews,,,,,,,
+T0236573,2022/09/10,2022/09/13,,Designated Traveller,Attending event with Member,2022/09/13,Saint-Andrews,Longueuil,,,,,,,
+T0238063,2022/09/22,2022/09/23,,,,,,,201.5100,0.0000,107.6800,1.0000,0,0,309.19
+T0238063,2022/09/22,2022/09/23,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/09/22,Montréal,Ottawa,,,,,,,
+T0238063,2022/09/22,2022/09/23,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/09/23,Ottawa,Montréal,,,,,,,
+T0238959,2022/09/22,2022/10/26,,,,,,,111.8800,0.0000,0.0000,0.0000,0.0000,0,111.88
+T0238959,2022/09/22,2022/10/26,"Martinez Ferrada, Soraya",Member,To attend an event as a matter of protocol,2022/10/01,Montréal,Montréal,,,,,,,
+T0238959,2022/09/22,2022/10/26,"Martinez Ferrada, Soraya",Member,To support a parliamentary committee,2022/10/17,Ottawa,Ottawa,,,,,,,
+T0238959,2022/09/22,2022/10/26,"Martinez Ferrada, Soraya",Member,To support a parliamentary exchange,2022/10/17,Ottawa,Ottawa,,,,,,,
+T0238959,2022/09/22,2022/10/26,"Martinez Ferrada, Soraya",Member,To attend an event as a guest speaker,2022/10/20,Montréal,Montréal,,,,,,,
+T0238959,2022/09/22,2022/10/26,"Martinez Ferrada, Soraya",Member,To support a parliamentary exchange,2022/10/26,Ottawa,Ottawa,,,,,,,
+T0238959,2022/09/22,2022/10/26,"Martinez Ferrada, Soraya",Member,To attend an event as a matter of protocol,2022/09/22,Longueuil,Montréal,,,,,,,
+T0238959,2022/09/22,2022/10/26,"Martinez Ferrada, Soraya",Member,To support a parliamentary exchange,2022/10/22,Ottawa,Ottawa,,,,,,,
+T0238959,2022/09/22,2022/10/26,"Martinez Ferrada, Soraya",Member,To attend a constituency or community event,2022/10/23,Gatineau,Ottawa,,,,,,,
+T0238066,2022/09/26,2022/09/29,,,,,,,201.5100,0.0000,263.7100,1.0000,0,0,465.22
+T0238066,2022/09/26,2022/09/29,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/09/26,Montréal,Ottawa,,,,,,,
+T0238066,2022/09/26,2022/09/29,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/09/29,Ottawa,Montréal,,,,,,,
+T0237177,2022/10/04,2022/10/05,,,,,,,117.0000,219.3000,0.0000,0.5000,0,0,336.30
+T0237177,2022/10/04,2022/10/05,"Dallaire, Frédéric",Employee,Attending event with Member,2022/10/04,Montréal,Ottawa,,,,,,,
+T0237177,2022/10/04,2022/10/05,"Dallaire, Frédéric",Employee,Attending event with Member,2022/10/05,Ottawa,Montréal,,,,,,,
+T0238067,2022/10/04,2022/10/06,,,,,,,207.4400,0.0000,203.5300,1.0000,0,0,410.97
+T0238067,2022/10/04,2022/10/06,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/10/04,Montréal,Ottawa,,,,,,,
+T0238067,2022/10/04,2022/10/06,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/10/06,Ottawa,Montréal,,,,,,,
+T0238068,2022/10/17,2022/10/19,,,,,,,207.4400,0.0000,203.5300,1.0000,0,0,410.97
+T0238068,2022/10/17,2022/10/19,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/10/17,Montréal,Ottawa,,,,,,,
+T0238068,2022/10/17,2022/10/19,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/10/19,Ottawa,Montréal,,,,,,,
+T0238070,2022/10/22,2022/10/23,,,,,,,207.4400,0.0000,0.0000,1.0000,0,0,207.44
+T0238070,2022/10/22,2022/10/23,"Martinez Ferrada, Soraya",Member,To attend an event as a matter of protocol,2022/10/22,Montréal,Ottawa,,,,,,,
+T0238070,2022/10/22,2022/10/23,"Martinez Ferrada, Soraya",Member,To attend an event as a matter of protocol,2022/10/23,Ottawa,Montréal,,,,,,,
+T0238080,2022/10/25,2022/10/28,,,,,,,207.4400,0.0000,295.0000,1.0000,0,0,502.44
+T0238080,2022/10/25,2022/10/28,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/10/25,Montréal,Ottawa,,,,,,,
+T0238080,2022/10/25,2022/10/28,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/10/28,Ottawa,Montréal,,,,,,,
+T0238969,2022/11/01,2022/11/04,,,,,,,207.4400,0.0000,295.0000,1.0000,0,0,502.44
+T0238969,2022/11/01,2022/11/04,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/11/01,Montréal,Ottawa,,,,,,,
+T0238969,2022/11/01,2022/11/04,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/11/04,Ottawa,Montréal,,,,,,,
+200616342,2022/11/01,2022/11/30,,,,,,,0.0000,1855.0000,0.0000,0,0,0,1855.00
+200616342,2022/11/01,2022/11/30,"Martinez Ferrada, Soraya",Member,Secondary Residence,2022/11/01,GATINEAU,GATINEAU,,,,,,,
+T0240132,2022/11/15,2022/11/16,,,,,,,129.6000,0.0000,0.0000,1.0000,0,0,129.60
+T0240132,2022/11/15,2022/11/16,"Battou, Katia",Employee,To travel to/from constituency and Ottawa,2022/11/15,Montréal,Ottawa,,,,,,,
+T0240132,2022/11/15,2022/11/16,"Battou, Katia",Employee,To travel to/from constituency and Ottawa,2022/11/16,Ottawa,Montréal,,,,,,,
+T0240130,2022/11/15,2022/11/17,,,,,,,229.3300,0.0000,132.4100,1.0000,0,0,361.74
+T0240130,2022/11/15,2022/11/17,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/11/15,Montréal,Ottawa,,,,,,,
+T0240130,2022/11/15,2022/11/17,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/11/15,Montréal,Ottawa,,,,,,,
+T0240130,2022/11/15,2022/11/17,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/11/17,Ottawa,Montréal,,,,,,,
+T0240134,2022/11/19,2022/11/20,,,,,,,207.4400,0.0000,91.4700,1.0000,0,0,298.91
+T0240134,2022/11/19,2022/11/20,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/11/19,Montréal,Ottawa,,,,,,,
+T0240134,2022/11/19,2022/11/20,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/11/20,Ottawa,Montréal,,,,,,,
+T0240135,2022/11/21,2022/11/24,,,,,,,207.4400,0.0000,345.5400,1.0000,0,0,552.98
+T0240135,2022/11/21,2022/11/24,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/11/21,Montréal,Ottawa,,,,,,,
+T0240135,2022/11/21,2022/11/24,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/11/24,Ottawa,Montréal,,,,,,,
+200625194,2022/12/01,2022/12/31,,,,,,,0.0000,1855.0000,0.0000,0,0,0,1855.00
+200625194,2022/12/01,2022/12/31,"Martinez Ferrada, Soraya",Member,Secondary Residence,2022/12/01,GATINEAU,GATINEAU,,,,,,,
+T0241592,2022/12/05,2022/12/09,,,,,,,207.4400,0.0000,406.8300,1.0000,0,0,614.27
+T0241592,2022/12/05,2022/12/09,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/12/05,Montréal,Ottawa,,,,,,,
+T0241592,2022/12/05,2022/12/09,"Martinez Ferrada, Soraya",Member,To travel to/from constituency and Ottawa,2022/12/09,Ottawa,Montréal,,,,,,,
+200634530,2023/01/01,2023/01/31,,,,,,,0.0000,1855.0000,0.0000,0,0,0,1855.00
+200634530,2023/01/01,2023/01/31,"Martinez Ferrada, Soraya",Member,Secondary Residence,2023/01/01,GATINEAU,GATINEAU,,,,,,,

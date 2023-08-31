@@ -1,0 +1,56 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0234938,2022/09/09,2022/09/14,,,,,,,584.3900,1082.6700,413.3900,0,1.5000,0,2080.45
+T0234938,2022/09/09,2022/09/14,"Kelloway, Mike",Member,To attend a national caucus meeting,2022/09/09,Truro,Saint John,,,,,,,
+T0234938,2022/09/09,2022/09/14,"Kelloway, Mike",Member,To attend a national caucus meeting,2022/09/11,Saint John,Saint Andrews,,,,,,,
+T0234938,2022/09/09,2022/09/14,"Kelloway, Mike",Member,To attend a national caucus meeting,2022/09/14,Saint Andrews,Sydney River,,,,,,,
+T0235449,2022/09/14,2022/09/16,,,,,,,960.5600,203.5600,206.7000,1.0000,0,0,1370.82
+T0235449,2022/09/14,2022/09/16,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/09/14,Sydney River,Ottawa,,,,,,,
+T0235449,2022/09/14,2022/09/16,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/09/15,Ottawa,Sydney River,,,,,,,
+T0235460,2022/09/18,2022/09/22,,,,,,,846.5100,731.5800,413.3900,1.0000,0,0,1991.48
+T0235460,2022/09/18,2022/09/22,"Kochhar, Natasha",Employee,To travel to/from constituency and Ottawa,2022/09/18,Sydney River,Ottawa,,,,,,,
+T0235450,2022/09/18,2022/09/22,,,,,,,903.4500,776.4600,516.7400,1.0000,0,0,2196.65
+T0235450,2022/09/18,2022/09/22,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/09/18,Sydney River,Ottawa,,,,,,,
+T0235450,2022/09/18,2022/09/22,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/09/22,Ottawa,Sydney River,,,,,,,
+T0235460,2022/09/18,2022/09/22,"Kochhar, Natasha",Employee,To travel to/from constituency and Ottawa,2022/09/22,Ottawa,Sydney River,,,,,,,
+T0237073,2022/09/25,2022/10/11,,,,,,,387.1200,0.0000,0.0000,0,0.0000,0,387.12
+T0237073,2022/09/25,2022/10/11,"Fitzgerald, John",Employee,To attend meetings about constituency issues,2022/09/25,Sydney,Sydney,,,,,,,
+T0237385,2022/09/26,2022/09/29,,,,,,,89.6000,0.0000,19.4300,0,0.0000,0,109.03
+T0237385,2022/09/26,2022/09/29,"Kochhar, Natasha",Employee,Attending event with Member,2022/09/26,Sydney,Glace Bay,,,,,,,
+T0237385,2022/09/26,2022/09/29,"Kochhar, Natasha",Employee,Attending event with Member,2022/09/26,Glace Bay,Sydney,,,,,,,
+T0237385,2022/09/26,2022/09/29,"Kochhar, Natasha",Employee,Attending event with Member,2022/09/26,Sydney,Sydney River,,,,,,,
+T0237385,2022/09/26,2022/09/29,"Kochhar, Natasha",Employee,Attending event with Member,2022/09/28,Sydney,Dominion,,,,,,,
+T0237385,2022/09/26,2022/09/29,"Kochhar, Natasha",Employee,Attending event with Member,2022/09/28,Dominion,Sydney,,,,,,,
+T0237385,2022/09/26,2022/09/29,"Kochhar, Natasha",Employee,Attending event with Member,2022/09/28,Sydney,Sydney River,,,,,,,
+T0237385,2022/09/26,2022/09/29,"Kochhar, Natasha",Employee,Attending event with Member,2022/09/29,Sydney,Reserve Mines,,,,,,,
+T0237385,2022/09/26,2022/09/29,"Kochhar, Natasha",Employee,Attending event with Member,2022/09/29,New Waterford,Sydney,,,,,,,
+T0237385,2022/09/26,2022/09/29,"Kochhar, Natasha",Employee,Attending event with Member,2022/09/29,Reserve Mines,New Waterford,,,,,,,
+T0237004,2022/10/02,2022/10/08,,,,,,,992.6300,1197.5400,748.4400,1.0000,0,0,2938.61
+T0237004,2022/10/02,2022/10/08,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/10/02,Sydney River,Ottawa,,,,,,,
+T0237004,2022/10/02,2022/10/08,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/10/07,Ottawa,Sydney River,,,,,,,
+T0238696,2022/10/16,2022/10/20,,,,,,,948.8800,776.4600,534.6000,1.0000,0,0,2259.94
+T0238696,2022/10/16,2022/10/20,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/10/16,Sydney River,Ottawa,,,,,,,
+T0238696,2022/10/16,2022/10/20,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/10/20,Ottawa,Sydney River,,,,,,,
+T0238703,2022/10/23,2022/10/28,,,,,,,909.9100,970.5800,641.5200,1.0000,0,0,2522.01
+T0238703,2022/10/23,2022/10/28,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/10/23,Sydney River,Ottawa,,,,,,,
+T0238703,2022/10/23,2022/10/28,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/10/28,Ottawa,Sydney River,,,,,,,
+T0238707,2022/10/31,2022/11/04,,,,,,,860.8400,776.4600,427.6800,1.0000,0,0,2064.98
+T0238707,2022/10/31,2022/11/04,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/10/31,Sydney River,Ottawa,,,,,,,
+T0238707,2022/10/31,2022/11/04,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/11/03,Ottawa,Sydney River,,,,,,,
+T0239244,2022/11/05,2022/11/13,,,,,,,895.7800,0.0000,210.0900,1.0000,0,0,1105.87
+T0239244,2022/11/05,2022/11/13,"Poirier, Connor",Employee,To travel to/from constituency and Ottawa,2022/11/05,Ottawa,Sydney River,,,,,,,
+T0239244,2022/11/05,2022/11/13,"Poirier, Connor",Employee,To travel to/from constituency and Ottawa,2022/11/13,Sydney River,Ottawa,,,,,,,
+T0239242,2022/11/07,2022/11/09,,,,,,,4847.0900,387.5200,320.7600,0,1.0000,0,5555.37
+T0239242,2022/11/07,2022/11/09,"Kelloway, Mike",Member,To attend a conference,2022/11/07,Sydney River,St. John's,,,,,,,
+T0239242,2022/11/07,2022/11/09,"Kelloway, Mike",Member,To attend a conference,2022/11/09,St. John's,Sydney River,,,,,,,
+T0239327,2022/11/10,2022/11/10,,,,,,,141.7200,0.0000,0.0000,0,0.0000,0,141.72
+T0239327,2022/11/10,2022/11/10,"Kochhar, Natasha",Employee,To attend a constituency or community event,2022/11/10,Sydney,Port Hawkesbury,,,,,,,
+T0239327,2022/11/10,2022/11/10,"Kochhar, Natasha",Employee,To attend a constituency or community event,2022/11/10,Port Hawkesbury,Sydney,,,,,,,
+T0239290,2022/11/13,2022/11/18,,,,,,,944.4500,970.5800,641.5200,1.0000,0,0,2556.55
+T0239290,2022/11/13,2022/11/18,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/11/13,Sydney River,Ottawa,,,,,,,
+T0239290,2022/11/13,2022/11/18,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/11/18,Ottawa,Sydney River,,,,,,,
+T0240638,2022/11/20,2022/11/25,,,,,,,906.6300,970.5800,641.5200,1.0000,0,0,2518.73
+T0240638,2022/11/20,2022/11/25,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/11/20,Sydney River,Ottawa,,,,,,,
+T0240638,2022/11/20,2022/11/25,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/11/25,Ottawa,Sydney River,,,,,,,
+T0241087,2022/12/04,2022/12/09,,,,,,,932.6200,970.5800,641.5200,1.0000,0,0,2544.72
+T0241087,2022/12/04,2022/12/09,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/12/04,Sydney River,Ottawa,,,,,,,
+T0241087,2022/12/04,2022/12/09,"Kelloway, Mike",Member,To travel to/from constituency and Ottawa,2022/12/09,Ottawa,Sydney River,,,,,,,

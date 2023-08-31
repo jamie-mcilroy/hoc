@@ -1,0 +1,27 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0217787,2021/08/12,2021/08/12,,,,,,,14.6800,0.0000,0.0000,0,0.0000,0,14.68
+T0217787,2021/08/12,2021/08/12,"Case, Madeleine",Employee,Attending event with Member,2021/08/12,Burlington,Hamilton,,,,,,,
+T0217787,2021/08/12,2021/08/12,"Case, Madeleine",Employee,Attending event with Member,2021/08/12,Hamilton,Burlington,,,,,,,
+T0217789,2021/08/13,2021/08/13,,,,,,,19.5800,0.0000,0.0000,0,0.0000,0,19.58
+T0217789,2021/08/13,2021/08/13,"Case, Madeleine",Employee,Attending event with Member,2021/08/13,Burlington,Hamilton,,,,,,,
+T0217789,2021/08/13,2021/08/13,"Case, Madeleine",Employee,Attending event with Member,2021/08/13,Hamilton,Burlington,,,,,,,
+T0218043,2021/10/12,2021/10/17,,,,,,,693.6600,0.0000,0.0000,1.0000,0,0,693.66
+T0218043,2021/10/12,2021/10/17,"Schnurr, Daniel",Employee,To travel to/from constituency and Ottawa,2021/10/12,Ottawa,Burlington,,,,,,,
+T0218043,2021/10/12,2021/10/17,"Schnurr, Daniel",Employee,To travel to/from constituency and Ottawa,2021/10/17,Toronto,Ottawa,,,,,,,
+T0218019,2021/10/21,2021/10/21,,,,,,,1085.4400,0.0000,66.6100,1.0000,0,0,1152.05
+T0218019,2021/10/21,2021/10/21,"Gould, Hon. Karina",Member,To travel to/from constituency and Ottawa,2021/10/21,Burlington,Ottawa,,,,,,,
+T0218019,2021/10/21,2021/10/21,"Gould, Hon. Karina",Member,To travel to/from constituency and Ottawa,2021/10/21,Ottawa,Burlington,,,,,,,
+T0218019,2021/10/21,2021/10/21,"Gould, Hon. Karina",Member,To drive Member to/from terminal,2021/10/21,Burlington,Toronto,,,,,,,
+T0218019,2021/10/21,2021/10/21,"Gould, Hon. Karina",Member,To drive Member to/from terminal,2021/10/21,Toronto,Burlington,,,,,,,
+T0218777,2021/11/08,2021/11/08,,,,,,,567.0500,0.0000,66.3800,1.0000,0,0,633.43
+T0218777,2021/11/08,2021/11/08,"Gould, Hon. Karina",Member,To travel to/from constituency and Ottawa,2021/11/08,Burlington,Ottawa,,,,,,,
+T0218777,2021/11/08,2021/11/08,"Gould, Hon. Karina",Member,To travel to/from constituency and Ottawa,2021/11/08,Ottawa,Burlington,,,,,,,
+T0218783,2021/11/09,2021/11/09,,,,,,,27.7000,0.0000,0.0000,0,0.0000,0,27.70
+T0218783,2021/11/09,2021/11/09,"Case, Madeleine",Employee,Attending event with Member,2021/11/09,Burlington,Hamilton,,,,,,,
+T0218783,2021/11/09,2021/11/09,"Case, Madeleine",Employee,Attending event with Member,2021/11/09,Hamilton,Burlington,,,,,,,
+T0220239,2021/11/22,2021/11/26,,,,,,,833.0000,803.7400,381.0300,1.0000,0,0,2017.77
+T0220239,2021/11/22,2021/11/26,"Gould, Hon. Karina",Member,To travel to/from constituency and Ottawa,2021/11/22,Burlington,Ottawa,,,,,,,
+T0220239,2021/11/22,2021/11/26,"Gould, Hon. Karina",Member,To travel to/from constituency and Ottawa,2021/11/26,Ottawa,Burlington,,,,,,,
+T0220242,2021/11/29,2021/12/03,,,,,,,797.2400,803.7400,381.0300,1.0000,0,0,1982.01
+T0220242,2021/11/29,2021/12/03,"Gould, Hon. Karina",Member,To travel to/from constituency and Ottawa,2021/11/29,Burlington,Ottawa,,,,,,,
+T0220242,2021/11/29,2021/12/03,"Gould, Hon. Karina",Member,To travel to/from constituency and Ottawa,2021/12/03,Ottawa,Burlington,,,,,,,

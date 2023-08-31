@@ -1,0 +1,50 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0202967,2020/06/01,2020/06/30,,,,,,,0.0000,63.7300,0.0000,0,0,0,63.73
+T0202967,2020/06/01,2020/06/30,"Lloyd, Dane",Member,Secondary Residence,2020/06/01,Ottawa,Ottawa,,,,,,,
+T0203422,2020/06/17,2020/07/17,,,,,,,0.0000,68.3400,0.0000,0,0,0,68.34
+T0203422,2020/06/17,2020/07/17,"Lloyd, Dane",Member,Secondary Residence,2020/06/17,Ottawa,Ottawa,,,,,,,
+T0202770,2020/06/23,2020/06/23,,,,,,,33.8200,0.0000,0.0000,0.0000,0,0,33.82
+T0202770,2020/06/23,2020/06/23,"Inberg, Luke",Employee,To attend a constituency or community event,2020/06/23,Stony Plain,Onoway,,,,,,,
+T0202770,2020/06/23,2020/06/23,"Inberg, Luke",Employee,To attend a constituency or community event,2020/06/23,Onoway,Stony Plain,,,,,,,
+T0202769,2020/06/25,2020/07/01,,,,,,,205.9000,0.0000,0.0000,0,0,0,205.90
+T0202769,2020/06/25,2020/07/01,"Inberg, Luke",Employee,To represent the Member at an event,2020/06/25,Stony Plain,St. Albert,,,,,,,
+T0202769,2020/06/25,2020/07/01,"Inberg, Luke",Employee,To attend a constituency or community event,2020/07/01,Stony Plain,Morinville,,,,,,,
+T0202769,2020/06/25,2020/07/01,"Inberg, Luke",Employee,To attend a constituency or community event,2020/07/01,Morinville,Stony Plain,,,,,,,
+T0202769,2020/06/25,2020/07/01,"Inberg, Luke",Employee,To represent the Member at an event,2020/06/25,St. Albert,Stony Plain,,,,,,,
+T0202769,2020/06/25,2020/07/01,"Inberg, Luke",Employee,Attending event with Member,2020/06/29,Stony Plain,Redwater,,,,,,,
+T0202769,2020/06/25,2020/07/01,"Inberg, Luke",Employee,Attending event with Member,2020/06/29,Redwater,Gibbons,,,,,,,
+T0202769,2020/06/25,2020/07/01,"Inberg, Luke",Employee,Attending event with Member,2020/06/29,Gibbons,Bon Accord,,,,,,,
+T0202769,2020/06/25,2020/07/01,"Inberg, Luke",Employee,Attending event with Member,2020/06/29,Bon Accord,Morinville,,,,,,,
+T0202769,2020/06/25,2020/07/01,"Inberg, Luke",Employee,Attending event with Member,2020/06/29,Morinville,Legal,,,,,,,
+T0202769,2020/06/25,2020/07/01,"Inberg, Luke",Employee,Attending event with Member,2020/06/29,Legal,Rivière Qui Barre,,,,,,,
+T0202769,2020/06/25,2020/07/01,"Inberg, Luke",Employee,Attending event with Member,2020/06/29,Rivière Qui Barre,Stony Plain,,,,,,,
+T0204817,2020/06/26,2020/06/26,,,,,,,1128.3700,0.0000,0.0000,0.5000,0,0,1128.37
+T0204817,2020/06/26,2020/06/26,"Lloyd, Dane",Member,To travel to/from constituency and Ottawa,2020/06/26,Stony Plain,Ottawa,,,,,,,
+T0202760,2020/06/29,2020/07/01,,,,,,,172.0700,0.0000,20.1000,0,0,0,192.17
+T0202760,2020/06/29,2020/07/01,"Lloyd, Dane",Member,To attend a constituency or community event,2020/06/29,Stony Plain,St. Albert,,,,,,,
+T0202760,2020/06/29,2020/07/01,"Lloyd, Dane",Member,To attend a constituency or community event,2020/07/01,Morinville,Stony Plain,,,,,,,
+T0202760,2020/06/29,2020/07/01,"Lloyd, Dane",Member,To attend a constituency or community event,2020/06/29,St. Albert,Redwater,,,,,,,
+T0202760,2020/06/29,2020/07/01,"Lloyd, Dane",Member,To attend a constituency or community event,2020/06/29,Redwater,Gibbons,,,,,,,
+T0202760,2020/06/29,2020/07/01,"Lloyd, Dane",Member,To attend a constituency or community event,2020/06/29,Gibbons,Bon Accord,,,,,,,
+T0202760,2020/06/29,2020/07/01,"Lloyd, Dane",Member,To attend a constituency or community event,2020/06/29,Bon Accord,Morinville,,,,,,,
+T0202760,2020/06/29,2020/07/01,"Lloyd, Dane",Member,To attend a constituency or community event,2020/06/29,Morinville,Legal,,,,,,,
+T0202760,2020/06/29,2020/07/01,"Lloyd, Dane",Member,To attend a constituency or community event,2020/06/29,Legal,Rivière Qui Barre,,,,,,,
+T0202760,2020/06/29,2020/07/01,"Lloyd, Dane",Member,To attend a constituency or community event,2020/06/29,Rivière Qui Barre,Stony Plain,,,,,,,
+T0202760,2020/06/29,2020/07/01,"Lloyd, Dane",Member,To attend a constituency or community event,2020/07/01,Stony Plain,Morinville,,,,,,,
+T0203730,2020/07/03,2020/07/28,,,,,,,2256.7400,0.0000,0.0000,1.0000,0,0,2256.74
+T0203730,2020/07/03,2020/07/28,"Lloyd, Dane",Member,To travel to/from constituency and Ottawa,2020/07/03,Stony Plain,Ottawa,,,,,,,
+T0203730,2020/07/03,2020/07/28,"Lloyd, Dane",Member,To travel to/from constituency and Ottawa,2020/07/28,Ottawa,Stony Plain,,,,,,,
+T0204110,2020/07/24,2020/08/23,,,,,,,0.0000,71.6300,0.0000,0,0,0,71.63
+T0204110,2020/07/24,2020/08/23,"Lloyd, Dane",Member,Secondary Residence,2020/07/24,Ottawa,Ottawa,,,,,,,
+T0204262,2020/08/01,2020/08/25,,,,,,,2256.7400,0.0000,0.0000,1.0000,0,0,2256.74
+T0204262,2020/08/01,2020/08/25,"Lloyd, Dane",Member,To travel to/from constituency and Ottawa,2020/08/01,Stony Plain,Ottawa,,,,,,,
+T0204262,2020/08/01,2020/08/25,"Lloyd, Dane",Member,To travel to/from constituency and Ottawa,2020/08/25,Ottawa,Stony Plain,,,,,,,
+200430749,2020/08/01,2020/08/31,,,,,,,0.0000,2247.2600,0.0000,0,0,0,2247.26
+200430749,2020/08/01,2020/08/31,"Lloyd, Dane",Member,Secondary Residence,2020/08/01,OTTAWA,OTTAWA,,,,,,,
+200437232,2020/09/01,2020/09/30,,,,,,,0.0000,2247.2600,0.0000,0,0,0,2247.26
+200437232,2020/09/01,2020/09/30,"Lloyd, Dane",Member,Secondary Residence,2020/09/01,OTTAWA,OTTAWA,,,,,,,
+T0204812,2020/09/08,2020/09/10,,,,,,,2306.9900,0.0000,165.7100,1.0000,0,0,2472.70
+T0204812,2020/09/08,2020/09/10,"Lloyd, Dane",Member,To travel to/from constituency and Ottawa,2020/09/08,Stony Plain,Ottawa,,,,,,,
+T0204812,2020/09/08,2020/09/10,"Lloyd, Dane",Member,To travel to/from constituency and Ottawa,2020/09/10,Ottawa,Stony Plain,,,,,,,
+200442094,2020/10/01,2020/10/31,,,,,,,0.0000,2247.2600,0.0000,0,0,0,2247.26
+200442094,2020/10/01,2020/10/31,"Lloyd, Dane",Member,Secondary Residence,2020/10/01,OTTAWA,OTTAWA,,,,,,,

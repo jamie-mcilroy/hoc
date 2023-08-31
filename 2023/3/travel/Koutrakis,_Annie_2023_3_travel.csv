@@ -1,0 +1,101 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0235720,2022/08/29,2022/09/02,,,,,,,997.0200,0.0000,0.0000,0,1.0000,0,997.02
+T0235720,2022/08/29,2022/09/02,,Designated Traveller,To unite the family with the Member,2022/08/29,Dorval,Gaspé,,,,,,,
+T0235720,2022/08/29,2022/09/02,,Designated Traveller,To unite the family with the Member,2022/09/02,Gaspé,Dorval,,,,,,,
+T0236258,2022/09/04,2022/09/17,,,,,,,96.4800,0.0000,0.0000,0,0.0000,0,96.48
+T0236258,2022/09/04,2022/09/17,"Bégin, Sylvie",Employee,To represent the Member at an event,2022/09/04,Saint-Lazare,Laval,,,,,,,
+T0236258,2022/09/04,2022/09/17,"Bégin, Sylvie",Employee,To represent the Member at an event,2022/09/04,Laval,Saint-Lazare,,,,,,,
+T0236258,2022/09/04,2022/09/17,"Bégin, Sylvie",Employee,To represent the Member at an event,2022/09/17,Saint-Lazare,Laval,,,,,,,
+T0236258,2022/09/04,2022/09/17,"Bégin, Sylvie",Employee,To represent the Member at an event,2022/09/17,Laval,Saint-Lazare,,,,,,,
+T0236679,2022/09/10,2022/09/14,,,,,,,656.2500,0.0000,0.0000,0,1.0000,0,656.25
+T0236679,2022/09/10,2022/09/14,,Designated Traveller,To unite the family with the Member,2022/09/10,Montréal,Saint-John,,,,,,,
+T0236034,2022/09/10,2022/09/14,,,,,,,1213.1800,1083.0700,501.2900,0,1.0000,0,2797.54
+T0236034,2022/09/10,2022/09/14,"Koutrakis, Annie",Member,To attend a national caucus meeting,2022/09/10,Montréal,Saint-John,,,,,,,
+T0236679,2022/09/10,2022/09/14,,Designated Traveller,To unite the family with the Member,2022/09/14,Fredericton,Montreal,,,,,,,
+T0236034,2022/09/10,2022/09/14,"Koutrakis, Annie",Member,To attend a national caucus meeting,2022/09/14,Fredericton,Montreal,,,,,,,
+T0236659,2022/09/19,2022/09/23,,,,,,,87.8500,0.0000,454.9600,0.0000,0,0,542.81
+T0236659,2022/09/19,2022/09/23,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/09/19,Laval (Ville),Ottawa,,,,,,,
+T0236659,2022/09/19,2022/09/23,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/09/23,Ottawa,Laval (Ville),,,,,,,
+T0238806,2022/09/23,2022/11/06,,,,,,,136.3000,0.0000,0.0000,0,0.0000,0,136.30
+T0238806,2022/09/23,2022/11/06,"Koutrakis, Annie",Member,To attend an event as a matter of protocol,2022/09/30,Montréal,Montréal,,,,,,,
+T0238806,2022/09/23,2022/11/06,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/11/02,Montréal,Montréal,,,,,,,
+T0238806,2022/09/23,2022/11/06,"Koutrakis, Annie",Member,To attend an event as a matter of protocol,2022/09/23,Montréal,Montréal,,,,,,,
+T0238806,2022/09/23,2022/11/06,"Koutrakis, Annie",Member,To attend an event as a matter of protocol,2022/09/23,Montréal,Montréal,,,,,,,
+T0238806,2022/09/23,2022/11/06,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/10/22,Montreal,Montreal,,,,,,,
+T0238806,2022/09/23,2022/11/06,"Koutrakis, Annie",Member,To attend an event as a matter of protocol,2022/09/30,Montréal,Montréal,,,,,,,
+T0238806,2022/09/23,2022/11/06,"Koutrakis, Annie",Member,To attend an event as a matter of protocol,2022/10/29,Montréal,Laval,,,,,,,
+T0238806,2022/09/23,2022/11/06,"Koutrakis, Annie",Member,To attend an event as a matter of protocol,2022/10/29,Laval,Montréal,,,,,,,
+T0238806,2022/09/23,2022/11/06,"Koutrakis, Annie",Member,To attend an event as a matter of protocol,2022/10/30,Montréal,Montréal,,,,,,,
+T0238806,2022/09/23,2022/11/06,"Koutrakis, Annie",Member,To attend an event as a matter of protocol,2022/10/30,Montréal,Montréal,,,,,,,
+T0238806,2022/09/23,2022/11/06,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/10/30,Montréal,Laval,,,,,,,
+T0238806,2022/09/23,2022/11/06,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/10/30,Laval,Montréal,,,,,,,
+T0238806,2022/09/23,2022/11/06,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/11/02,Montréal,Montréal,,,,,,,
+T0236675,2022/09/25,2022/09/30,,,,,,,297.0200,0.0000,468.1700,0.5000,0,0,765.19
+T0236675,2022/09/25,2022/09/30,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/09/25,Laval (Ville),Ottawa,,,,,,,
+T0236675,2022/09/25,2022/09/30,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/09/30,Ottawa,Laval (Ville),,,,,,,
+T0239058,2022/10/03,2022/10/07,,,,,,,104.3700,0.0000,498.7900,0.0000,0,0,603.16
+T0239058,2022/10/03,2022/10/07,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/10/03,Laval (Ville),Ottawa,,,,,,,
+T0239058,2022/10/03,2022/10/07,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/10/07,Ottawa,Laval (Ville),,,,,,,
+T0239979,2022/10/17,2022/10/21,,,,,,,58.1900,0.0000,0.0000,0.0000,0,0,58.19
+T0239979,2022/10/17,2022/10/21,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/10/17,Laval (Ville),Ottawa,,,,,,,
+T0239979,2022/10/17,2022/10/21,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/10/21,Ottawa,Laval (Ville),,,,,,,
+T0239372,2022/10/24,2022/10/28,,,,,,,200.0900,0.0000,472.8200,1.0000,0,0,672.91
+T0239372,2022/10/24,2022/10/28,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/10/24,Laval (Ville),Ottawa,,,,,,,
+T0239372,2022/10/24,2022/10/28,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/10/28,Ottawa,Laval (Ville),,,,,,,
+T0239499,2022/10/31,2022/11/04,,,,,,,200.0900,0.0000,0.0000,1.0000,0,0,200.09
+T0239499,2022/10/31,2022/11/04,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/10/31,Laval (Ville),Ottawa,,,,,,,
+T0239499,2022/10/31,2022/11/04,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/11/02,Ottawa,Laval (Ville),,,,,,,
+200616329,2022/11/01,2022/11/30,,,,,,,0.0000,2400.0000,0.0000,0,0,0,2400.00
+200616329,2022/11/01,2022/11/30,"Koutrakis, Annie",Member,Secondary Residence,2022/11/01,OTTAWA,OTTAWA,,,,,,,
+T0239374,2022/11/03,2022/11/09,,,,,,,73.9800,0.0000,0.0000,0,0.0000,0,73.98
+T0239374,2022/11/03,2022/11/09,"Bégin, Sylvie",Employee,To represent the Member at an event,2022/11/03,Laval,Laval,,,,,,,
+T0239374,2022/11/03,2022/11/09,"Bégin, Sylvie",Employee,Attending event with Member,2022/11/09,Laval,Laval,,,,,,,
+T0239374,2022/11/03,2022/11/09,"Bégin, Sylvie",Employee,To represent the Member at an event,2022/11/03,Laval,Saint-Lazare,,,,,,,
+T0239374,2022/11/03,2022/11/09,"Bégin, Sylvie",Employee,Attending event with Member,2022/11/06,Saint-Lazare,Laval,,,,,,,
+T0239374,2022/11/03,2022/11/09,"Bégin, Sylvie",Employee,To represent the Member at an event,2022/11/06,Laval,Laval,,,,,,,
+T0239374,2022/11/03,2022/11/09,"Bégin, Sylvie",Employee,Attending event with Member,2022/11/07,Laval,Laval,,,,,,,
+T0239374,2022/11/03,2022/11/09,"Bégin, Sylvie",Employee,Attending event with Member,2022/11/07,Laval,Laval,,,,,,,
+T0239374,2022/11/03,2022/11/09,"Bégin, Sylvie",Employee,Attending event with Member,2022/11/07,Laval,Laval,,,,,,,
+T0239374,2022/11/03,2022/11/09,"Bégin, Sylvie",Employee,Attending event with Member,2022/11/09,Laval,Laval,,,,,,,
+T0239374,2022/11/03,2022/11/09,"Bégin, Sylvie",Employee,Attending event with Member,2022/11/09,Laval,Laval,,,,,,,
+T0239364,2022/11/05,2022/11/13,,,,,,,115.3300,0.0000,0.0000,0,0.0000,0,115.33
+T0239364,2022/11/05,2022/11/13,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/11/05,Montréal,Montréal,,,,,,,
+T0239364,2022/11/05,2022/11/13,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/11/07,Laval,Montréal,,,,,,,
+T0239364,2022/11/05,2022/11/13,"Koutrakis, Annie",Member,To attend meetings about constituency issues,2022/11/09,Montréal,Laval,,,,,,,
+T0239364,2022/11/05,2022/11/13,"Koutrakis, Annie",Member,To attend meetings about constituency issues,2022/11/09,Laval,Laval,,,,,,,
+T0239364,2022/11/05,2022/11/13,"Koutrakis, Annie",Member,To attend meetings about constituency issues,2022/11/09,Laval,Montréal,,,,,,,
+T0239364,2022/11/05,2022/11/13,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/11/13,Montréal,Laval,,,,,,,
+T0239364,2022/11/05,2022/11/13,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/11/13,Laval,Montréal,,,,,,,
+T0239364,2022/11/05,2022/11/13,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/11/13,Montréal,Montréal,,,,,,,
+T0239364,2022/11/05,2022/11/13,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/11/13,Montréal,Montréal,,,,,,,
+T0239364,2022/11/05,2022/11/13,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/11/05,Montréal,Montréal,,,,,,,
+T0239364,2022/11/05,2022/11/13,"Koutrakis, Annie",Member,To attend an event as a matter of protocol,2022/11/06,Montréal,Laval,,,,,,,
+T0239364,2022/11/05,2022/11/13,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/11/06,Laval,Montréal,,,,,,,
+T0239364,2022/11/05,2022/11/13,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/11/06,Montréal,Montréal,,,,,,,
+T0239364,2022/11/05,2022/11/13,"Koutrakis, Annie",Member,To attend an event as a matter of protocol,2022/11/07,Montréal,Laval,,,,,,,
+T0239364,2022/11/05,2022/11/13,"Koutrakis, Annie",Member,To attend meetings about constituency issues,2022/11/07,Laval,Laval,,,,,,,
+T0239364,2022/11/05,2022/11/13,"Koutrakis, Annie",Member,To attend meetings about constituency issues,2022/11/07,Laval,Montréal,,,,,,,
+T0239364,2022/11/05,2022/11/13,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/11/07,Montréal,Laval,,,,,,,
+T0239973,2022/11/14,2022/11/18,,,,,,,217.1100,0.0000,0.0000,1.0000,0,0,217.11
+T0239973,2022/11/14,2022/11/18,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/11/14,Laval (Ville),Ottawa,,,,,,,
+T0239973,2022/11/14,2022/11/18,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/11/18,Ottawa,Laval (Ville),,,,,,,
+T0240430,2022/11/19,2022/11/20,,,,,,,30.0200,0.0000,0.0000,0,0.0000,0,30.02
+T0240430,2022/11/19,2022/11/20,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/11/19,Montréal,Laval,,,,,,,
+T0240430,2022/11/19,2022/11/20,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/11/19,Laval,Montréal,,,,,,,
+T0240430,2022/11/19,2022/11/20,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/11/20,Montréal,Laval,,,,,,,
+T0240430,2022/11/19,2022/11/20,"Koutrakis, Annie",Member,To attend a constituency or community event,2022/11/20,Laval,Montréal,,,,,,,
+T0239980,2022/11/20,2022/11/25,,,,,,,212.5200,0.0000,0.0000,1.0000,0,0,212.52
+T0239980,2022/11/20,2022/11/25,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/11/20,Laval (Ville),Ottawa,,,,,,,
+T0239980,2022/11/20,2022/11/25,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/11/25,Ottawa,Laval (Ville),,,,,,,
+T0240498,2022/11/21,2022/11/26,,,,,,,62.0800,0.0000,0.0000,0,0.0000,0,62.08
+T0240498,2022/11/21,2022/11/26,"Bégin, Sylvie",Employee,To represent the Member at an event,2022/11/21,Laval,Laval,,,,,,,
+T0240498,2022/11/21,2022/11/26,"Bégin, Sylvie",Employee,To represent the Member at an event,2022/11/21,Laval,Laval,,,,,,,
+T0240498,2022/11/21,2022/11/26,"Bégin, Sylvie",Employee,To conduct constituency office business,2022/11/26,Saint-Lazare,Laval,,,,,,,
+T0240498,2022/11/21,2022/11/26,"Bégin, Sylvie",Employee,To conduct constituency office business,2022/11/26,Laval,Saint-Lazare,,,,,,,
+T0240752,2022/11/27,2022/12/02,,,,,,,204.8700,0.0000,0.0000,1.0000,0,0,204.87
+T0240752,2022/11/27,2022/12/02,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/11/27,Laval (Ville),Ottawa,,,,,,,
+T0240752,2022/11/27,2022/12/02,"Koutrakis, Annie",Member,To travel to/from constituency and Ottawa,2022/12/02,Ottawa,Laval (Ville),,,,,,,
+200625181,2022/12/01,2022/12/31,,,,,,,0.0000,2400.0000,0.0000,0,0,0,2400.00
+200625181,2022/12/01,2022/12/31,"Koutrakis, Annie",Member,Secondary Residence,2022/12/01,OTTAWA,OTTAWA,,,,,,,
+200634517,2023/01/01,2023/01/31,,,,,,,0.0000,2400.0000,0.0000,0,0,0,2400.00
+200634517,2023/01/01,2023/01/31,"Koutrakis, Annie",Member,Secondary Residence,2023/01/01,OTTAWA,OTTAWA,,,,,,,

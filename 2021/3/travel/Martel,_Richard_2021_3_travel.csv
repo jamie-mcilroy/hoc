@@ -1,0 +1,59 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0205842,2020/09/28,2020/10/01,,,,,,,621.3300,422.8700,375.4000,1.0000,0,0,1419.60
+T0205842,2020/09/28,2020/10/01,"Martel, Richard",Member,To travel to/from constituency and Ottawa,2020/09/28,Chicoutimi,Ottawa,,,,,,,
+T0205842,2020/09/28,2020/10/01,"Martel, Richard",Member,To travel to/from constituency and Ottawa,2020/10/01,Ottawa,Chicoutimi,,,,,,,
+T0207186,2020/10/02,2020/11/02,,,,,,,597.7300,0.0000,0.0000,1.0000,0,0,597.73
+T0207186,2020/10/02,2020/11/02,"Simard, Philip",Employee,To travel to/from constituency and Ottawa,2020/10/02,Ottawa,Chicoutimi,,,,,,,
+T0207186,2020/10/02,2020/11/02,"Simard, Philip",Employee,To travel to/from constituency and Ottawa,2020/11/02,Chicoutimi,Ottawa,,,,,,,
+T0206130,2020/10/05,2020/10/08,,,,,,,627.2600,518.8300,349.6000,1.0000,0,0,1495.69
+T0206130,2020/10/05,2020/10/08,"Martel, Richard",Member,To travel to/from constituency and Ottawa,2020/10/05,Chicoutimi,Ottawa,,,,,,,
+T0206130,2020/10/05,2020/10/08,"Martel, Richard",Member,To travel to/from constituency and Ottawa,2020/10/08,Ottawa,Chicoutimi,,,,,,,
+T0206135,2020/10/05,2020/10/08,,,,,,,0.0000,0.0000,349.6000,0.0000,0,0,349.60
+T0206135,2020/10/05,2020/10/08,"Fortin, Marc-Olivier",Employee,To travel to/from constituency and Ottawa,2020/10/05,Chicoutimi,Ottawa,,,,,,,
+T0206135,2020/10/05,2020/10/08,"Fortin, Marc-Olivier",Employee,To travel to/from constituency and Ottawa,2020/10/08,Ottawa,Chicoutimi,,,,,,,
+T0207187,2020/10/07,2020/10/08,,,,,,,153.4800,0.0000,84.9000,0.0000,0,0,238.38
+T0207187,2020/10/07,2020/10/08,"Simard, Philip",Employee,To conduct constituency office business,2020/10/07,Saguenay,Petit-Saguenay,,,,,,,
+T0207187,2020/10/07,2020/10/08,"Simard, Philip",Employee,To conduct constituency office business,2020/10/07,Petit-Saguenay,L'Anse-Saint-Jean,,,,,,,
+T0207187,2020/10/07,2020/10/08,"Simard, Philip",Employee,To conduct constituency office business,2020/10/07,L'Anse-Saint-Jean,Rivière-Éternité,,,,,,,
+T0207187,2020/10/07,2020/10/08,"Simard, Philip",Employee,To conduct constituency office business,2020/10/07,Rivière-Éternité,Saguenay,,,,,,,
+T0207187,2020/10/07,2020/10/08,"Simard, Philip",Employee,To conduct constituency office business,2020/10/08,Saguenay,Ferland-et-Boilleau,,,,,,,
+T0207187,2020/10/07,2020/10/08,"Simard, Philip",Employee,To conduct constituency office business,2020/10/08,Ferland-et-Boilleau,Saint-Félix-d'Otis,,,,,,,
+T0207187,2020/10/07,2020/10/08,"Simard, Philip",Employee,To conduct constituency office business,2020/10/08,Saint-Félix-d'Otis,Saguenay,,,,,,,
+T0206533,2020/10/19,2020/10/22,,,,,,,0.0000,0.0000,377.1400,0.0000,0,0,377.14
+T0206533,2020/10/19,2020/10/22,"Fortin, Marc-Olivier",Employee,To travel to/from constituency and Ottawa,2020/10/19,Chicoutimi,Ottawa,,,,,,,
+T0206532,2020/10/19,2020/10/22,,,,,,,627.2600,382.9800,377.1400,1.0000,0,0,1387.38
+T0206532,2020/10/19,2020/10/22,"Martel, Richard",Member,To travel to/from constituency and Ottawa,2020/10/19,Chicoutimi,Ottawa,,,,,,,
+T0206533,2020/10/19,2020/10/22,"Fortin, Marc-Olivier",Employee,To travel to/from constituency and Ottawa,2020/10/22,Ottawa,Chicoutimi,,,,,,,
+T0206532,2020/10/19,2020/10/22,"Martel, Richard",Member,To travel to/from constituency and Ottawa,2020/10/22,Ottawa,Chicoutimi,,,,,,,
+T0206823,2020/10/26,2020/10/29,,,,,,,627.2600,382.9800,377.1400,1.0000,0,0,1387.38
+T0206823,2020/10/26,2020/10/29,"Martel, Richard",Member,To travel to/from constituency and Ottawa,2020/10/26,Chicoutimi,Ottawa,,,,,,,
+T0206825,2020/10/26,2020/10/29,,,,,,,0.0000,0.0000,377.1400,0.0000,0,0,377.14
+T0206825,2020/10/26,2020/10/29,"Fortin, Marc-Olivier",Employee,To travel to/from constituency and Ottawa,2020/10/26,Chicoutimi,Ottawa,,,,,,,
+T0206823,2020/10/26,2020/10/29,"Martel, Richard",Member,To travel to/from constituency and Ottawa,2020/10/29,Ottawa,Chicoutimi,,,,,,,
+T0206825,2020/10/26,2020/10/29,"Fortin, Marc-Olivier",Employee,To travel to/from constituency and Ottawa,2020/10/29,Ottawa,Chicoutimi,,,,,,,
+T0207074,2020/11/03,2020/11/05,,,,,,,627.2600,260.2100,278.2100,1.0000,0,0,1165.68
+T0207074,2020/11/03,2020/11/05,"Martel, Richard",Member,To travel to/from constituency and Ottawa,2020/11/03,Chicoutimi,Ottawa,,,,,,,
+T0207074,2020/11/03,2020/11/05,"Martel, Richard",Member,To travel to/from constituency and Ottawa,2020/11/05,Ottawa,Chicoutimi,,,,,,,
+T0207216,2020/11/09,2020/11/10,,,,,,,0.0000,0.0000,129.8900,0,0.0000,0,129.89
+T0207216,2020/11/09,2020/11/10,"Girard, Claude",Employee,Attending event with Member,2020/11/09,Chicoutimi,Montréal,,,,,,,
+T0207161,2020/11/09,2020/11/10,,,,,,,430.8800,151.3100,129.8900,0,0.0000,0,712.08
+T0207161,2020/11/09,2020/11/10,"Martel, Richard",Member,To attend an event as a guest speaker,2020/11/09,Chicoutimi,Montréal,,,,,,,
+T0207161,2020/11/09,2020/11/10,"Martel, Richard",Member,To attend an event as a guest speaker,2020/11/10,Montréal,Chicoutimi,,,,,,,
+T0207216,2020/11/09,2020/11/10,"Girard, Claude",Employee,Attending event with Member,2020/11/10,Montréal,Chicoutimi,,,,,,,
+T0207542,2020/11/16,2020/11/19,,,,,,,0.0000,0.0000,377.1400,0.0000,0,0,377.14
+T0207542,2020/11/16,2020/11/19,"Fortin, Marc-Olivier",Employee,To travel to/from constituency and Ottawa,2020/11/16,Chicoutimi,Ottawa,,,,,,,
+T0207539,2020/11/16,2020/11/19,,,,,,,627.2600,382.9900,377.1400,1.0000,0,0,1387.39
+T0207539,2020/11/16,2020/11/19,"Martel, Richard",Member,To travel to/from constituency and Ottawa,2020/11/16,Chicoutimi,Ottawa,,,,,,,
+T0207539,2020/11/16,2020/11/19,"Martel, Richard",Member,To travel to/from constituency and Ottawa,2020/11/19,Ottawa,Chicoutimi,,,,,,,
+T0207542,2020/11/16,2020/11/19,"Fortin, Marc-Olivier",Employee,To travel to/from constituency and Ottawa,2020/11/19,Ottawa,Chicoutimi,,,,,,,
+T0207838,2020/11/23,2020/11/27,,,,,,,1533.8300,505.7500,429.9600,1.0000,0,0,2469.54
+T0207838,2020/11/23,2020/11/27,"Martel, Richard",Member,To travel to/from constituency and Ottawa,2020/11/23,Chicoutimi,Ottawa,,,,,,,
+T0207838,2020/11/23,2020/11/27,"Martel, Richard",Member,To travel to/from constituency and Ottawa,2020/11/27,Ottawa,Chicoutimi,,,,,,,
+T0208457,2020/12/06,2020/12/11,,,,,,,627.2600,795.7000,509.2500,1.0000,0,0,1932.21
+T0208457,2020/12/06,2020/12/11,"Martel, Richard",Member,To travel to/from constituency and Ottawa,2020/12/06,Chicoutimi,Ottawa,,,,,,,
+T0208457,2020/12/06,2020/12/11,"Martel, Richard",Member,To travel to/from constituency and Ottawa,2020/12/11,Ottawa,Chicoutimi,,,,,,,
+T0208537,2020/12/06,2020/12/14,,,,,,,41.9200,0.0000,0.0000,0.0000,0.0000,0,41.92
+T0208537,2020/12/06,2020/12/14,"Martel, Richard",Member,To conduct constituency office business,2020/12/06,Chicoutimi,Jonquière,,,,,,,
+T0208537,2020/12/06,2020/12/14,"Martel, Richard",Member,To conduct constituency office business,2020/12/14,Jonquière,Chicoutimi,,,,,,,
+T0208537,2020/12/06,2020/12/14,"Martel, Richard",Member,To attend meetings about constituency issues,2020/12/14,Chicoutimi,La Baie (Saguenay),,,,,,,
+T0208537,2020/12/06,2020/12/14,"Martel, Richard",Member,To attend meetings about constituency issues,2020/12/14,La Baie (Saguenay),Chicoutimi,,,,,,,

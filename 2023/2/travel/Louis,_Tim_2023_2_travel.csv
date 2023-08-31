@@ -1,0 +1,63 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0233336,2022/03/17,2022/07/31,,,,,,,0.0000,431.4200,0.0000,0,0,0,431.42
+T0233336,2022/03/17,2022/07/31,"Louis, Tim",Member,Secondary Residence,2022/05/17,Ottawa,Ottawa,,,,,,,
+T0233336,2022/03/17,2022/07/31,"Louis, Tim",Member,Secondary Residence,2022/04/17,Ottawa,Ottawa,,,,,,,
+T0233336,2022/03/17,2022/07/31,"Louis, Tim",Member,Secondary Residence,2022/06/17,Ottawa,Ottawa,,,,,,,
+T0233336,2022/03/17,2022/07/31,"Louis, Tim",Member,Secondary Residence,2022/03/17,Ottawa,Ottawa,,,,,,,
+T0233326,2022/04/03,2022/04/07,,,,,,,1043.6800,0.0000,516.7400,1.0000,0,0,1560.42
+T0233326,2022/04/03,2022/04/07,"Louis, Tim",Member,To travel to/from constituency and Ottawa,2022/04/03,Kitchener,Ottawa,,,,,,,
+T0233326,2022/04/03,2022/04/07,"Louis, Tim",Member,To travel to/from constituency and Ottawa,2022/04/07,Ottawa,Kitchener,,,,,,,
+T0231943,2022/05/29,2022/06/03,,,,,,,1060.8400,0.0000,620.0900,1.0000,0,0,1680.93
+T0231943,2022/05/29,2022/06/03,"Louis, Tim",Member,To travel to/from constituency and Ottawa,2022/05/29,Kitchener,Ottawa,,,,,,,
+T0231943,2022/05/29,2022/06/03,"Louis, Tim",Member,To travel to/from constituency and Ottawa,2022/06/03,Ottawa,Kitchener,,,,,,,
+T0231945,2022/06/05,2022/06/10,,,,,,,1069.6600,0.0000,620.0900,1.0000,0,0,1689.75
+T0231945,2022/06/05,2022/06/10,"Louis, Tim",Member,To travel to/from constituency and Ottawa,2022/06/05,Kitchener,Ottawa,,,,,,,
+T0231945,2022/06/05,2022/06/10,"Louis, Tim",Member,To travel to/from constituency and Ottawa,2022/06/10,Ottawa,Kitchener,,,,,,,
+T0230844,2022/06/12,2022/06/17,,,,,,,656.6000,0.0000,620.0900,1.0000,0,0,1276.69
+T0230844,2022/06/12,2022/06/17,"Chmielewski, Keegan",Employee,To travel to/from constituency and Ottawa,2022/06/12,Toronto,Ottawa,,,,,,,
+T0231947,2022/06/12,2022/06/17,,,,,,,1172.4500,0.0000,620.0900,1.0000,0,0,1792.54
+T0231947,2022/06/12,2022/06/17,"Louis, Tim",Member,To travel to/from constituency and Ottawa,2022/06/12,Kitchener,Ottawa,,,,,,,
+T0231947,2022/06/12,2022/06/17,"Louis, Tim",Member,To travel to/from constituency and Ottawa,2022/06/17,Ottawa,Kitchener,,,,,,,
+T0230844,2022/06/12,2022/06/17,"Chmielewski, Keegan",Employee,To travel to/from constituency and Ottawa,2022/06/17,Ottawa,Toronto,,,,,,,
+T0233333,2022/06/14,2022/06/16,,,,,,,539.8600,0.0000,0.0000,1.0000,0,0,539.86
+T0233333,2022/06/14,2022/06/16,,Designated Traveller,To unite the family with the Member,2022/06/14,Kitchener,Ottawa,,,,,,,
+T0233333,2022/06/14,2022/06/16,,Designated Traveller,To unite the family with the Member,2022/06/16,Ottawa,Kitchener,,,,,,,
+T0232158,2022/06/19,2022/06/24,,,,,,,991.9500,0.0000,620.0900,1.0000,0,0,1612.04
+T0232158,2022/06/19,2022/06/24,"Louis, Tim",Member,To travel to/from constituency and Ottawa,2022/06/19,Kitchener,Ottawa,,,,,,,
+T0232158,2022/06/19,2022/06/24,"Louis, Tim",Member,To travel to/from constituency and Ottawa,2022/06/24,Ottawa,Kitchener,,,,,,,
+T0232272,2022/06/27,2022/07/01,,,,,,,38.7400,0.0000,0.0000,0.0000,0.0000,0,38.74
+T0232272,2022/06/27,2022/07/01,"Flynn, Erin",Employee,To conduct constituency office business,2022/06/27,Kitchener,Cambridge,,,,,,,
+T0232272,2022/06/27,2022/07/01,"Flynn, Erin",Employee,To conduct constituency office business,2022/06/27,Cambridge,Kitchener,,,,,,,
+T0232272,2022/06/27,2022/07/01,"Flynn, Erin",Employee,To conduct constituency office business,2022/07/01,Kitchener,Elmira,,,,,,,
+T0232274,2022/06/27,2022/07/07,,,,,,,89.9100,0.0000,0.0000,0.0000,0.0000,0,89.91
+T0232274,2022/06/27,2022/07/07,"Filbey, Alexander",Employee,Attending event with Member,2022/06/27,Kitchener,New Hamburg,,,,,,,
+T0232274,2022/06/27,2022/07/07,"Filbey, Alexander",Employee,Attending event with Member,2022/07/06,New Hamburg,Petersburg,,,,,,,
+T0232274,2022/06/27,2022/07/07,"Filbey, Alexander",Employee,Attending event with Member,2022/07/07,Kitchener,Kitchener,,,,,,,
+T0232274,2022/06/27,2022/07/07,"Filbey, Alexander",Employee,Attending event with Member,2022/06/27,New Hamburg,New Dundee,,,,,,,
+T0232274,2022/06/27,2022/07/07,"Filbey, Alexander",Employee,Attending event with Member,2022/06/27,New Dundee,Cambridge,,,,,,,
+T0232274,2022/06/27,2022/07/07,"Filbey, Alexander",Employee,Attending event with Member,2022/06/27,Cambridge,Kitchener,,,,,,,
+T0232274,2022/06/27,2022/07/07,"Filbey, Alexander",Employee,Attending event with Member,2022/07/01,Kitchener,New Hamburg,,,,,,,
+T0232274,2022/06/27,2022/07/07,"Filbey, Alexander",Employee,Attending event with Member,2022/07/01,Kitchener,New Hamburg,,,,,,,
+T0232274,2022/06/27,2022/07/07,"Filbey, Alexander",Employee,Attending event with Member,2022/07/06,Kitchener,Baden,,,,,,,
+T0232274,2022/06/27,2022/07/07,"Filbey, Alexander",Employee,Attending event with Member,2022/07/06,Baden,Kitchener,,,,,,,
+T0232274,2022/06/27,2022/07/07,"Filbey, Alexander",Employee,Attending event with Member,2022/07/06,Kitchener,New Hamburg,,,,,,,
+200582459,2022/07/01,2022/07/31,,,,,,,0.0000,1929.0000,0.0000,0,0,0,1929.00
+200582459,2022/07/01,2022/07/31,"Louis, Tim",Member,Secondary Residence,2022/07/01,OTTAWA,OTTAWA,,,,,,,
+200590086,2022/08/01,2022/08/31,,,,,,,0.0000,1929.0000,0.0000,0,0,0,1929.00
+200590086,2022/08/01,2022/08/31,"Louis, Tim",Member,Secondary Residence,2022/08/01,OTTAWA,OTTAWA,,,,,,,
+T0233335,2022/08/02,2022/08/04,,,,,,,556.9100,0.0000,0.0000,1.0000,0,0,556.91
+T0233335,2022/08/02,2022/08/04,"Ament, Mallory",Employee,To travel to/from constituency and Ottawa,2022/08/02,Ottawa,Kitchener,,,,,,,
+T0233335,2022/08/02,2022/08/04,"Ament, Mallory",Employee,To travel to/from constituency and Ottawa,2022/08/04,Kitchener,Ottawa,,,,,,,
+T0234824,2022/08/07,2022/08/12,,,,,,,1684.8300,1083.0200,604.8300,0,0.0000,0,3372.68
+T0234824,2022/08/07,2022/08/12,"Louis, Tim",Member,To attend language training,2022/08/07,Kitchener,Quebec City,,,,,,,
+T0234824,2022/08/07,2022/08/12,"Louis, Tim",Member,To attend language training,2022/08/12,Quebec City,Kitchener,,,,,,,
+T0234825,2022/08/16,2022/08/19,,,,,,,143.7300,789.6200,413.3900,0,1.0000,0,1346.74
+T0234825,2022/08/16,2022/08/19,"Louis, Tim",Member,To attend a regional or provincial caucus meeting,2022/08/16,Kitchener,Niagara Falls,,,,,,,
+T0234825,2022/08/16,2022/08/19,"Louis, Tim",Member,To attend a regional or provincial caucus meeting,2022/08/19,Niagara Falls,Kitchener,,,,,,,
+T0234371,2022/08/22,2022/08/27,,,,,,,561.5400,0.0000,0.0000,1.0000,0,0,561.54
+T0234371,2022/08/22,2022/08/27,"Ament, Mallory",Employee,To travel to/from constituency and Ottawa,2022/08/22,Ottawa,Kitchener,,,,,,,
+T0234371,2022/08/22,2022/08/27,"Ament, Mallory",Employee,To travel to/from constituency and Ottawa,2022/08/27,Kitchener,Ottawa,,,,,,,
+200600118,2022/09/01,2022/09/30,,,,,,,0.0000,1929.0000,0.0000,0,0,0,1929.00
+200600118,2022/09/01,2022/09/30,"Louis, Tim",Member,Secondary Residence,2022/09/01,OTTAWA,OTTAWA,,,,,,,
+200607409,2022/10/01,2022/10/31,,,,,,,0.0000,1929.0000,0.0000,0,0,0,1929.00
+200607409,2022/10/01,2022/10/31,"Louis, Tim",Member,Secondary Residence,2022/10/01,OTTAWA,OTTAWA,,,,,,,

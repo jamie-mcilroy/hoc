@@ -1,0 +1,83 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0231712,2022/05/01,2022/05/31,,,,,,,0.0000,30.6600,0.0000,0,0,0,30.66
+T0231712,2022/05/01,2022/05/31,"Kitchen, Robert",Member,Secondary Residence,2022/05/01,Ottawa,Ottawa,,,,,,,
+T0231704,2022/05/01,2022/05/31,,,,,,,314.7800,0.0000,0.0000,0.0000,0,0,314.78
+T0231704,2022/05/01,2022/05/31,"Kitchen, Robert",Member,To attend a constituency or community event,2022/05/25,Estevan,Weyburn,,,,,,,
+T0231704,2022/05/01,2022/05/31,"Kitchen, Robert",Member,To attend a constituency or community event,2022/05/25,Weyburn,Estevan,,,,,,,
+T0231704,2022/05/01,2022/05/31,"Kitchen, Robert",Member,To attend a constituency or community event,2022/05/26,Estevan,Carnduff,,,,,,,
+T0231704,2022/05/01,2022/05/31,"Kitchen, Robert",Member,To attend a constituency or community event,2022/05/26,Carnduff,Estevan,,,,,,,
+T0231704,2022/05/01,2022/05/31,"Kitchen, Robert",Member,To attend a constituency or community event,2022/05/27,Estevan,Weyburn,,,,,,,
+T0231704,2022/05/01,2022/05/31,"Kitchen, Robert",Member,To attend a constituency or community event,2022/05/27,Weyburn,Estevan,,,,,,,
+T0231405,2022/05/23,2022/07/22,,,,,,,0.0000,109.9800,0.0000,0,0,0,109.98
+T0231405,2022/05/23,2022/07/22,"Kitchen, Robert",Member,Secondary Residence,2022/05/23,Ottawa,Ottawa,,,,,,,
+T0231706,2022/06/01,2022/06/30,,,,,,,594.4800,0.0000,0.0000,0.0000,0,0,594.48
+T0231706,2022/06/01,2022/06/30,"Kitchen, Robert",Member,To attend a constituency or community event,2022/06/04,Estevan,Redvers,,,,,,,
+T0231706,2022/06/01,2022/06/30,"Kitchen, Robert",Member,To attend a constituency or community event,2022/06/30,Weyburn,Estevan,,,,,,,
+T0231706,2022/06/01,2022/06/30,"Kitchen, Robert",Member,To attend a constituency or community event,2022/06/04,Redvers,Estevan,,,,,,,
+T0231706,2022/06/01,2022/06/30,"Kitchen, Robert",Member,To attend a constituency or community event,2022/06/25,Estevan,Carlyle,,,,,,,
+T0231706,2022/06/01,2022/06/30,"Kitchen, Robert",Member,To attend a constituency or community event,2022/06/25,Carlyle,Estevan,,,,,,,
+T0231706,2022/06/01,2022/06/30,"Kitchen, Robert",Member,To attend a constituency or community event,2022/06/26,Estevan,Wawota,,,,,,,
+T0231706,2022/06/01,2022/06/30,"Kitchen, Robert",Member,To attend a constituency or community event,2022/06/26,Wawota,Estevan,,,,,,,
+T0231706,2022/06/01,2022/06/30,"Kitchen, Robert",Member,To attend a constituency or community event,2022/06/27,Estevan,Frobisher,,,,,,,
+T0231706,2022/06/01,2022/06/30,"Kitchen, Robert",Member,To attend a constituency or community event,2022/06/27,Frobisher,Estevan,,,,,,,
+T0231706,2022/06/01,2022/06/30,"Kitchen, Robert",Member,To attend a constituency or community event,2022/06/30,Estevan,Weyburn,,,,,,,
+T0231293,2022/06/12,2022/06/23,,,,,,,1905.7900,0.0000,826.7900,1.0000,0,0,2732.58
+T0231293,2022/06/12,2022/06/23,"Kitchen, Robert",Member,To travel to/from constituency and Ottawa,2022/06/12,Estevan,Ottawa,,,,,,,
+T0231293,2022/06/12,2022/06/23,"Kitchen, Robert",Member,To travel to/from constituency and Ottawa,2022/06/23,Ottawa,Estevan,,,,,,,
+T0233027,2022/07/01,2022/07/28,,,,,,,928.7400,0.0000,0.0000,0.0000,0,0,928.74
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend a constituency or community event,2022/07/01,Estevan,Bienfait,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/07/12,Weyburn,Estevan,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/07/14,Estevan,Roche Percee,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/07/14,Roche Percee,Estevan,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/07/15,Estevan,Weyburn,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/07/15,Weyburn,Estevan,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend a constituency or community event,2022/07/16,Estevan,Moosomin,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend a constituency or community event,2022/07/16,Moosomin,Estevan,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/07/23,Estevan,Midale,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/07/23,Midale,Estevan,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/07/27,Estevan,Weyburn,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend a constituency or community event,2022/07/01,Bienfait,Estevan,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/07/27,Weyburn,Estevan,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend a constituency or community event,2022/07/01,Estevan,Midale,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend a constituency or community event,2022/07/01,Midale,Estevan,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend a constituency or community event,2022/07/01,Midale,Weyburn,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend a constituency or community event,2022/07/01,Weyburn,Midale,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/07/11,Estevan,Carnduff,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/07/11,Carnduff,Estevan,,,,,,,
+T0233027,2022/07/01,2022/07/28,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/07/12,Estevan,Weyburn,,,,,,,
+200582448,2022/07/01,2022/07/31,,,,,,,0.0000,1741.5400,0.0000,0,0,0,1741.54
+200582448,2022/07/01,2022/07/31,"Kitchen, Robert",Member,Secondary Residence,2022/07/01,OTTAWA,OTTAWA,,,,,,,
+T0232827,2022/07/17,2022/07/22,,,,,,,3566.2700,357.9000,0.0000,0,1.0000,0,3924.17
+T0232827,2022/07/17,2022/07/22,"Kitchen, Robert",Member,To support a parliamentary association,2022/07/17,Estevan,Charlottetown,,,,,,,
+T0232827,2022/07/17,2022/07/22,"Kitchen, Robert",Member,To support a parliamentary association,2022/07/22,Charlottetown,Estevan,,,,,,,
+T0234485,2022/07/30,2022/08/31,,,,,,,1189.5200,0.0000,0.0000,0.0000,0,0,1189.52
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend a constituency or community event,2022/07/30,Estevan,Weyburn,,,,,,,
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/08/06,Kenosee Lake,Estevan,,,,,,,
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/08/11,Estevan,Weyburn,,,,,,,
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/08/11,Weyburn,Estevan,,,,,,,
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/08/17,Estevan,Weyburn,,,,,,,
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/08/17,Weyburn,Estevan,,,,,,,
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/08/19,Estevan,Radville,,,,,,,
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/08/19,Radville,Estevan,,,,,,,
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/08/31,Estevan,Weyburn,,,,,,,
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/08/31,Weyburn,Estevan,,,,,,,
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend a constituency or community event,2022/07/30,Weyburn,Estevan,,,,,,,
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend a constituency or community event,2022/07/31,Estevan,Midale,,,,,,,
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend a constituency or community event,2022/07/31,Midale,Estevan,,,,,,,
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/08/02,Estevan,Davin,,,,,,,
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/08/02,Davin,Estevan,,,,,,,
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/08/04,Estevan,Carnduff,,,,,,,
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/08/04,Carnduff,Estevan,,,,,,,
+T0234485,2022/07/30,2022/08/31,"Kitchen, Robert",Member,To attend meetings about constituency issues,2022/08/06,Estevan,Kenosee Lake,,,,,,,
+200590075,2022/08/01,2022/08/31,,,,,,,0.0000,1741.5400,0.0000,0,0,0,1741.54
+200590075,2022/08/01,2022/08/31,"Kitchen, Robert",Member,Secondary Residence,2022/08/01,OTTAWA,OTTAWA,,,,,,,
+T0233512,2022/08/07,2022/08/09,,,,,,,1828.5500,0.0000,103.3500,1.0000,0,0,1931.90
+T0233512,2022/08/07,2022/08/09,"Kitchen, Robert",Member,To travel to/from constituency and Ottawa,2022/08/07,Estevan,Ottawa,,,,,,,
+T0233512,2022/08/07,2022/08/09,"Kitchen, Robert",Member,To travel to/from constituency and Ottawa,2022/08/09,Ottawa,Estevan,,,,,,,
+T0234351,2022/08/21,2022/08/25,,,,,,,5037.1300,0.0000,0.0000,0,1.0000,0,5037.13
+T0234351,2022/08/21,2022/08/25,"Kitchen, Robert",Member,To support a parliamentary association,2022/08/21,Estevan,Halifax,,,,,,,
+T0234351,2022/08/21,2022/08/25,"Kitchen, Robert",Member,To support a parliamentary association,2022/08/25,Halifax,Estevan,,,,,,,
+200600107,2022/09/01,2022/09/30,,,,,,,0.0000,1741.5400,0.0000,0,0,0,1741.54
+200600107,2022/09/01,2022/09/30,"Kitchen, Robert",Member,Secondary Residence,2022/09/01,OTTAWA,OTTAWA,,,,,,,
+200607398,2022/10/01,2022/10/31,,,,,,,0.0000,1741.5400,0.0000,0,0,0,1741.54
+200607398,2022/10/01,2022/10/31,"Kitchen, Robert",Member,Secondary Residence,2022/10/01,OTTAWA,OTTAWA,,,,,,,

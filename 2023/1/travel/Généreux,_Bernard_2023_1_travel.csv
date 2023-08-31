@@ -1,0 +1,87 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+400134791,2022/04/01,2022/04/30,,,,,,,0.0000,1650.0000,0.0000,0,0,0,1650.00
+400134791,2022/04/01,2022/04/30,"Généreux, Bernard",Member,Secondary Residence,2022/04/01,GATINEAU,GATINEAU,,,,,,,
+T0229852,2022/04/01,2022/04/30,,,,,,,325.5700,0.0000,0.0000,0.0000,0,0,325.57
+T0229852,2022/04/01,2022/04/30,"Généreux, Bernard",Member,To attend a conference,2022/04/12,Saint-Roch-des-Aulnaies,Montmagny,,,,,,,
+T0229852,2022/04/01,2022/04/30,"Généreux, Bernard",Member,To conduct constituency office business,2022/04/28,Saint-Roch-des-Aulnaies,Montmagny,,,,,,,
+T0229852,2022/04/01,2022/04/30,"Généreux, Bernard",Member,To conduct constituency office business,2022/04/28,Montmagny,Saint-Roch-des-Aulnaies,,,,,,,
+T0229852,2022/04/01,2022/04/30,"Généreux, Bernard",Member,To attend meetings about constituency issues,2022/04/12,Montmagny,La Pocatière,,,,,,,
+T0229852,2022/04/01,2022/04/30,"Généreux, Bernard",Member,To attend meetings about constituency issues,2022/04/12,La Pocatière,Saint-Roch-des-Aulnaies,,,,,,,
+T0229852,2022/04/01,2022/04/30,"Généreux, Bernard",Member,To attend meetings about constituency issues,2022/04/13,Saint-Roch-des-Aulnaies,Rivière-du-Loup,,,,,,,
+T0229852,2022/04/01,2022/04/30,"Généreux, Bernard",Member,To attend meetings about constituency issues,2022/04/13,Rivière-du-Loup,Saint-Roch-des-Aulnaies,,,,,,,
+T0229852,2022/04/01,2022/04/30,"Généreux, Bernard",Member,To attend a constituency or community event,2022/04/14,Saint-Roch-des-Aulnaies,Rivière-du-Loup,,,,,,,
+T0229852,2022/04/01,2022/04/30,"Généreux, Bernard",Member,To attend a constituency or community event,2022/04/14,Rivière-du-Loup,Saint-Roch-des-Aulnaies,,,,,,,
+T0229852,2022/04/01,2022/04/30,"Généreux, Bernard",Member,To attend a constituency or community event,2022/04/15,Saint-Roch-des-Aulnaies,Montmagny,,,,,,,
+T0229852,2022/04/01,2022/04/30,"Généreux, Bernard",Member,To attend a constituency or community event,2022/04/15,Montmagny,Saint-Roch-des-Aulnaies,,,,,,,
+T0226782,2022/04/03,2022/04/08,,,,,,,560.8300,0.0000,620.0900,1.0000,0,0,1180.92
+T0226782,2022/04/03,2022/04/08,"Généreux, Bernard",Member,To travel to/from constituency and Ottawa,2022/04/03,Saint-Roch-des-Aulnaies,Ottawa,,,,,,,
+T0226779,2022/04/03,2022/04/08,,,,,,,595.9300,876.6100,620.0900,1.0000,0,0,2092.63
+T0226779,2022/04/03,2022/04/08,"Francoeur, Annie",Employee,To travel to/from constituency and Ottawa,2022/04/03,Saint-Alexandre-de-Kamouraska,Ottawa,,,,,,,
+T0226782,2022/04/03,2022/04/08,"Généreux, Bernard",Member,To travel to/from constituency and Ottawa,2022/04/08,Ottawa,Saint-Roch-des-Aulnaies,,,,,,,
+T0226779,2022/04/03,2022/04/08,"Francoeur, Annie",Employee,To travel to/from constituency and Ottawa,2022/04/08,Ottawa,Saint-Alexandre-de-Kamouraska,,,,,,,
+T0227976,2022/04/18,2022/04/22,,,,,,,2859.6200,795.9700,473.3200,0,1.0000,0,4128.91
+T0227976,2022/04/18,2022/04/22,"Généreux, Bernard",Member,To attend meetings with stakeholders about business of the House,2022/04/18,Saint-Roch-des-Aulnaies,Banff,,,,,,,
+T0227976,2022/04/18,2022/04/22,"Généreux, Bernard",Member,To attend meetings with stakeholders about business of the House,2022/04/19,Banff,Jasper,,,,,,,
+T0227976,2022/04/18,2022/04/22,"Généreux, Bernard",Member,To attend meetings with stakeholders about business of the House,2022/04/21,Jasper,Edmonton,,,,,,,
+T0227976,2022/04/18,2022/04/22,"Généreux, Bernard",Member,To attend meetings with stakeholders about business of the House,2022/04/22,Edmonton,Saint-Roch-des-Aulnaies,,,,,,,
+T0227535,2022/04/24,2022/04/27,,,,,,,560.8300,0.0000,413.3900,1.0000,0,0,974.22
+T0227535,2022/04/24,2022/04/27,"Généreux, Bernard",Member,To travel to/from constituency and Ottawa,2022/04/24,Saint-Roch-des-Aulnaies,Ottawa,,,,,,,
+T0227535,2022/04/24,2022/04/27,"Généreux, Bernard",Member,To travel to/from constituency and Ottawa,2022/04/27,Ottawa,Saint-Roch-des-Aulnaies,,,,,,,
+T0228061,2022/05/01,2022/05/06,,,,,,,0.0000,0.0000,620.0900,0,0,0,620.09
+T0228061,2022/05/01,2022/05/06,"Généreux, Bernard",Member,To travel to/from constituency and Ottawa,2022/05/01,Saint-Roch-des-Aulnaies,Ottawa,,,,,,,
+T0228060,2022/05/01,2022/05/06,,,,,,,595.9300,876.6100,620.0900,1.0000,0,0,2092.63
+T0228060,2022/05/01,2022/05/06,"Francoeur, Annie",Employee,To travel to/from constituency and Ottawa,2022/05/01,Saint-Alexandre-de-Kamouraska,Ottawa,,,,,,,
+T0228060,2022/05/01,2022/05/06,"Francoeur, Annie",Employee,To travel to/from constituency and Ottawa,2022/05/06,Ottawa,Saint-Alexandre-de-Kamouraska,,,,,,,
+200569599,2022/05/01,2022/05/31,,,,,,,0.0000,1650.0000,0.0000,0,0,0,1650.00
+200569599,2022/05/01,2022/05/31,"Généreux, Bernard",Member,Secondary Residence,2022/05/01,GATINEAU,GATINEAU,,,,,,,
+T0229853,2022/05/01,2022/05/31,,,,,,,525.4700,0.0000,0.0000,0.0000,0.0000,0,525.47
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To attend an event as a guest speaker,2022/05/07,Saint-Roch-des-Aulnaies,Rivière-Ouelle,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To conduct constituency office business,2022/05/24,La Pocatière,Rivière-du-Loup,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To conduct constituency office business,2022/05/24,Rivière-du-Loup,Saint-Roch-des-Aulnaies,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To conduct constituency office business,2022/05/25,Saint-Roch-des-Aulnaies,Cacouna,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To conduct constituency office business,2022/05/25,Cacouna,Montmagny,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To conduct constituency office business,2022/05/25,Montmagny,Saint-Roch-des-Aulnaies,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To attend a constituency or community event,2022/05/27,Saint-Roch-des-Aulnaies,Saint-Cyprien,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To conduct constituency office business,2022/05/26,Saint-Roch-des-Aulnaies,Montmagny,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To attend a conference,2022/05/26,Montmagny,Cap-Saint-Ignace,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To attend a constituency or community event,2022/05/27,Saint-Cyprien,Saint-Roch-des-Aulnaies,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To attend a constituency or community event,2022/05/27,Saint-Roch-des-Aulnaies,La Pocatière,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To attend an event as a guest speaker,2022/05/07,Rivière-Ouelle,Saint-Roch-des-Aulnaies,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To attend a constituency or community event,2022/05/27,La Pocatière,Saint-Roch-des-Aulnaies,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Soucy, Mireille",Employee,To attend a conference,2022/05/25,Montmagny,Montmagny,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Soucy, Mireille",Employee,To attend a conference,2022/05/25,Montmagny,Saint-Jean-Port-Joli,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Soucy, Mireille",Employee,To attend a conference,2022/05/25,Saint-Jean-Port-Joli,Montmagny,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To conduct constituency office business,2022/05/07,Saint-Roch-des-Aulnaies,La Pocatière,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To conduct constituency office business,2022/05/07,La Pocatière,Saint-Roch-des-Aulnaies,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To attend a constituency or community event,2022/05/07,Saint-Roch-des-Aulnaies,Cap-Saint-Ignace,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To attend a constituency or community event,2022/05/07,Cap-Saint-Ignace,Saint-Roch-des-Aulnaies,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To attend a constituency or community event,2022/05/21,Saint-Roch-des-Aulnaies,Saint-Jean-Port-Joli,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To attend a constituency or community event,2022/05/21,Saint-Jean-Port-Joli,Saint-Roch-des-Aulnaies,,,,,,,
+T0229853,2022/05/01,2022/05/31,"Généreux, Bernard",Member,To attend a constituency or community event,2022/05/24,Saint-Roch-des-Aulnaies,La Pocatière,,,,,,,
+T0228522,2022/05/08,2022/05/11,,,,,,,560.8300,0.0000,413.3900,1.0000,0,0,974.22
+T0228522,2022/05/08,2022/05/11,"Généreux, Bernard",Member,To travel to/from constituency and Ottawa,2022/05/08,Saint-Roch-des-Aulnaies,Ottawa,,,,,,,
+T0228522,2022/05/08,2022/05/11,"Généreux, Bernard",Member,To travel to/from constituency and Ottawa,2022/05/11,Ottawa,Saint-Roch-des-Aulnaies,,,,,,,
+T0229001,2022/05/15,2022/05/20,,,,,,,560.8300,0.0000,525.1800,1.0000,0,0,1086.01
+T0229001,2022/05/15,2022/05/20,"Généreux, Bernard",Member,To travel to/from constituency and Ottawa,2022/05/15,Saint-Roch-des-Aulnaies,Ottawa,,,,,,,
+T0229001,2022/05/15,2022/05/20,"Généreux, Bernard",Member,To travel to/from constituency and Ottawa,2022/05/20,Ottawa,Saint-Roch-des-Aulnaies,,,,,,,
+T0228960,2022/05/17,2022/05/20,,,,,,,605.7400,525.9600,413.3900,1.0000,0,0,1545.09
+T0228960,2022/05/17,2022/05/20,"Francoeur, Annie",Employee,To travel to/from constituency and Ottawa,2022/05/17,Saint-Alexandre-de-Kamouraska,Ottawa,,,,,,,
+T0228960,2022/05/17,2022/05/20,"Francoeur, Annie",Employee,To travel to/from constituency and Ottawa,2022/05/20,Ottawa,Saint-Alexandre-de-Kamouraska,,,,,,,
+T0229855,2022/05/25,2022/05/25,,,,,,,39.4800,0.0000,0.0000,0.0000,0,0,39.48
+T0229855,2022/05/25,2022/05/25,"Soucy, Mireille",Employee,To attend a constituency or community event,2022/05/25,Montmagny,Montmagny,,,,,,,
+T0229855,2022/05/25,2022/05/25,"Soucy, Mireille",Employee,To attend a constituency or community event,2022/05/25,Montmagny,Saint-Jean-Port-Joli,,,,,,,
+T0229855,2022/05/25,2022/05/25,"Soucy, Mireille",Employee,To attend a constituency or community event,2022/05/25,Saint-Jean-Port-Joli,Montmagny,,,,,,,
+T0229850,2022/05/29,2022/06/03,,,,,,,560.8300,0.0000,620.0900,1.0000,0,0,1180.92
+T0229850,2022/05/29,2022/06/03,"Généreux, Bernard",Member,To travel to/from constituency and Ottawa,2022/05/29,Saint-Roch-des-Aulnaies,Ottawa,,,,,,,
+T0229850,2022/05/29,2022/06/03,"Généreux, Bernard",Member,To travel to/from constituency and Ottawa,2022/06/03,Ottawa,Saint-Roch-des-Aulnaies,,,,,,,
+200575737,2022/06/01,2022/06/30,,,,,,,0.0000,1650.0000,0.0000,0,0,0,1650.00
+200575737,2022/06/01,2022/06/30,"Généreux, Bernard",Member,Secondary Residence,2022/06/01,GATINEAU,GATINEAU,,,,,,,
+T0230261,2022/06/05,2022/06/09,,,,,,,78.0200,701.2900,516.7400,1.0000,0,0,1296.05
+T0230261,2022/06/05,2022/06/09,"Francoeur, Annie",Employee,To travel to/from constituency and Ottawa,2022/06/05,Saint-Alexandre-de-Kamouraska,Ottawa,,,,,,,
+T0230260,2022/06/05,2022/06/09,,,,,,,560.8300,0.0000,516.7400,1.0000,0,0,1077.57
+T0230260,2022/06/05,2022/06/09,"Généreux, Bernard",Member,To travel to/from constituency and Ottawa,2022/06/05,Saint-Roch-des-Aulnaies,Ottawa,,,,,,,
+T0230260,2022/06/05,2022/06/09,"Généreux, Bernard",Member,To travel to/from constituency and Ottawa,2022/06/09,Ottawa,Saint-Roch-des-Aulnaies,,,,,,,
+T0230261,2022/06/05,2022/06/09,"Francoeur, Annie",Employee,To travel to/from constituency and Ottawa,2022/06/09,Ottawa,Saint-Alexandre-de-Kamouraska,,,,,,,
+T0230681,2022/06/12,2022/06/16,,,,,,,560.8300,0.0000,496.9600,1.0000,0,0,1057.79
+T0230681,2022/06/12,2022/06/16,"Généreux, Bernard",Member,To travel to/from constituency and Ottawa,2022/06/12,Saint-Roch-des-Aulnaies,Ottawa,,,,,,,
+T0230681,2022/06/12,2022/06/16,"Généreux, Bernard",Member,To travel to/from constituency and Ottawa,2022/06/16,Ottawa,Saint-Roch-des-Aulnaies,,,,,,,

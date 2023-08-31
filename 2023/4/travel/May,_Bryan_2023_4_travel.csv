@@ -1,0 +1,46 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0239837,2022/11/13,2022/11/18,,,,,,,25.0800,0.0000,0.0000,0,0,0,25.08
+T0239837,2022/11/13,2022/11/18,"May, Bryan",Member,To travel to/from constituency and Ottawa,2022/11/13,Cambridge,Ottawa,,,,,,,
+T0239837,2022/11/13,2022/11/18,"May, Bryan",Member,To travel to/from constituency and Ottawa,2022/11/18,Ottawa,Cambridge,,,,,,,
+T0241024,2022/11/27,2022/12/02,,,,,,,51.6600,0.0000,0.0000,0,0,0,51.66
+T0241024,2022/11/27,2022/12/02,"May, Bryan",Member,To travel to/from constituency and Ottawa,2022/11/27,Cambridge,Ottawa,,,,,,,
+T0241026,2022/11/27,2022/12/02,,,,,,,0.0000,0.0000,91.4700,0.0000,0,0,91.47
+T0241026,2022/11/27,2022/12/02,"Lee, William",Employee,To travel to/from constituency and Ottawa,2022/11/27,Cambridge,Ottawa,,,,,,,
+T0241026,2022/11/27,2022/12/02,"Lee, William",Employee,To travel to/from constituency and Ottawa,2022/12/02,Ottawa,Cambridge,,,,,,,
+T0241024,2022/11/27,2022/12/02,"May, Bryan",Member,To travel to/from constituency and Ottawa,2022/12/02,Ottawa,Cambridge,,,,,,,
+T0241482,2022/12/04,2022/12/09,,,,,,,29.6100,0.0000,0.0000,0,0,0,29.61
+T0241482,2022/12/04,2022/12/09,"May, Bryan",Member,To travel to/from constituency and Ottawa,2022/12/04,Cambridge,Ottawa,,,,,,,
+T0241483,2022/12/04,2022/12/09,,,,,,,0.0000,0.0000,91.4700,0.0000,0,0,91.47
+T0241483,2022/12/04,2022/12/09,"Lee, William",Employee,To travel to/from constituency and Ottawa,2022/12/04,Cambridge,Ottawa,,,,,,,
+T0241483,2022/12/04,2022/12/09,"Lee, William",Employee,To travel to/from constituency and Ottawa,2022/12/09,Ottawa,Cambridge,,,,,,,
+T0241482,2022/12/04,2022/12/09,"May, Bryan",Member,To travel to/from constituency and Ottawa,2022/12/09,Ottawa,Cambridge,,,,,,,
+T0242290,2022/12/11,2022/12/16,,,,,,,0.0000,970.5800,91.4700,0.0000,0,0,1062.05
+T0242290,2022/12/11,2022/12/16,"Lee, William",Employee,To travel to/from constituency and Ottawa,2022/12/11,Cambridge,Ottawa,,,,,,,
+T0242291,2022/12/11,2022/12/16,,,,,,,559.9400,970.5800,91.4700,1.0000,0,0,1621.99
+T0242291,2022/12/11,2022/12/16,"May, Bryan",Member,To travel to/from constituency and Ottawa,2022/12/11,Cambridge,Ottawa,,,,,,,
+T0242290,2022/12/11,2022/12/16,"Lee, William",Employee,To travel to/from constituency and Ottawa,2022/12/11,Cambridge,Ottawa,,,,,,,
+T0242291,2022/12/11,2022/12/16,"May, Bryan",Member,To travel to/from constituency and Ottawa,2022/12/16,Ottawa,Cambridge,,,,,,,
+T0242290,2022/12/11,2022/12/16,"Lee, William",Employee,To travel to/from constituency and Ottawa,2022/12/16,Ottawa,Cambridge,,,,,,,
+T0242290,2022/12/11,2022/12/16,"Lee, William",Employee,To travel to/from constituency and Ottawa,2022/12/16,Ottawa,Cambridge,,,,,,,
+T0242291,2022/12/11,2022/12/16,"May, Bryan",Member,To travel to/from constituency and Ottawa,2022/12/16,Ottawa,Cambridge,,,,,,,
+T0245918,2023/01/26,2023/02/03,,,,,,,1871.4600,2110.0400,284.0200,2.5000,0,0,4265.52
+T0245918,2023/01/26,2023/02/03,"May, Bryan",Member,To travel to/from constituency and Ottawa,2023/01/26,Cambridge,Ottawa,,,,,,,
+T0245918,2023/01/26,2023/02/03,"May, Bryan",Member,To travel to/from constituency and Ottawa,2023/02/03,Ottawa,Cambridge,,,,,,,
+T0245918,2023/01/26,2023/02/03,,Designated Traveller,To unite the family with the Member,2023/01/28,Ottawa,Cambridge,,,,,,,
+T0245918,2023/01/26,2023/02/03,,Dependant,To unite the family with the Member,2023/01/28,Ottawa,Cambridge,,,,,,,
+T0245918,2023/01/26,2023/02/03,,Dependant,To unite the family with the Member,2023/01/28,Ottawa,Cambridge,,,,,,,
+T0246136,2023/02/05,2023/02/10,,,,,,,591.7500,1044.0100,263.6600,1.0000,0,0,1899.42
+T0246136,2023/02/05,2023/02/10,"May, Bryan",Member,To travel to/from constituency and Ottawa,2023/02/05,Cambridge,Ottawa,,,,,,,
+T0246136,2023/02/05,2023/02/10,"May, Bryan",Member,To travel to/from constituency and Ottawa,2023/02/10,Ottawa,Cambridge,,,,,,,
+T0246144,2023/02/12,2023/02/17,,,,,,,567.3400,1047.0000,263.6600,1.0000,0,0,1878.00
+T0246144,2023/02/12,2023/02/17,"May, Bryan",Member,To travel to/from constituency and Ottawa,2023/02/12,Cambridge,Ottawa,,,,,,,
+T0246144,2023/02/12,2023/02/17,"May, Bryan",Member,To travel to/from constituency and Ottawa,2023/02/17,Ottawa,Cambridge,,,,,,,
+T0247733,2023/03/05,2023/03/10,,,,,,,520.5900,1044.0200,324.9600,1.0000,0,0,1889.57
+T0247733,2023/03/05,2023/03/10,"May, Bryan",Member,To travel to/from constituency and Ottawa,2023/03/05,Cambridge,Ottawa,,,,,,,
+T0247733,2023/03/05,2023/03/10,"May, Bryan",Member,To travel to/from constituency and Ottawa,2023/03/10,Ottawa,Cambridge,,,,,,,
+T0248519,2023/03/19,2023/03/25,,,,,,,490.9800,1252.8200,213.1200,1.0000,0,0,1956.92
+T0248519,2023/03/19,2023/03/25,"May, Bryan",Member,To travel to/from constituency and Ottawa,2023/03/19,Cambridge,Ottawa,,,,,,,
+T0248519,2023/03/19,2023/03/25,"May, Bryan",Member,To travel to/from constituency and Ottawa,2023/03/25,Ottawa,Cambridge,,,,,,,
+T0249242,2023/03/26,2023/03/31,,,,,,,490.4600,1044.0200,534.6000,1.0000,0,0,2069.08
+T0249242,2023/03/26,2023/03/31,"May, Bryan",Member,To travel to/from constituency and Ottawa,2023/03/26,Cambridge,Ottawa,,,,,,,
+T0249242,2023/03/26,2023/03/31,"May, Bryan",Member,To travel to/from constituency and Ottawa,2023/03/31,Ottawa,Cambridge,,,,,,,

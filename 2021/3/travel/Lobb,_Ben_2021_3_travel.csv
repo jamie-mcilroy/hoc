@@ -1,0 +1,51 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0207084,2020/08/14,2020/09/13,,,,,,,105.8300,0.0000,0.0000,0.0000,0,0,105.83
+T0207084,2020/08/14,2020/09/13,"Lobb, Ben",Member,To travel to/from constituency and Ottawa,2020/08/23,Point Clark,Ottawa,,,,,,,
+T0207084,2020/08/14,2020/09/13,"Lobb, Ben",Member,To travel to/from constituency and Ottawa,2020/08/24,Ottawa,Point Clark,,,,,,,
+T0207084,2020/08/14,2020/09/13,"Lobb, Ben",Member,To attend meetings about constituency issues,2020/09/06,Point Clark,Point Clark,,,,,,,
+T0207078,2020/08/14,2020/09/15,,,,,,,0.0000,88.6900,0.0000,0,0,0,88.69
+T0207078,2020/08/14,2020/09/15,"Lobb, Ben",Member,Secondary Residence,2020/08/14,Ottawa,Ottawa,,,,,,,
+T0205660,2020/09/01,2020/09/30,,,,,,,0.0000,1500.0000,0.0000,0,0,0,1500.00
+T0205660,2020/09/01,2020/09/30,"Lobb, Ben",Member,Secondary Residence,2020/09/01,Ottawa,Ottawa,,,,,,,
+T0207081,2020/09/04,2020/09/28,,,,,,,0.0000,94.9900,0.0000,0,0,0,94.99
+T0207081,2020/09/04,2020/09/28,"Lobb, Ben",Member,Secondary Residence,2020/09/04,Ottawa,Ottawa,,,,,,,
+T0207086,2020/09/14,2020/10/13,,,,,,,105.5400,0.0000,0.0000,0,0.0000,0,105.54
+T0207086,2020/09/14,2020/10/13,"Lobb, Ben",Member,To attend meetings about constituency issues,2020/10/01,Alliston,Point Clark,,,,,,,
+T0207079,2020/09/16,2020/10/14,,,,,,,0.0000,89.5400,0.0000,0,0,0,89.54
+T0207079,2020/09/16,2020/10/14,"Lobb, Ben",Member,Secondary Residence,2020/09/16,Ottawa,Ottawa,,,,,,,
+T0205671,2020/09/20,2020/10/01,,,,,,,620.6700,0.0000,249.1900,1.0000,0,0,869.86
+T0205671,2020/09/20,2020/10/01,"Lobb, Ben",Member,To travel to/from constituency and Ottawa,2020/09/20,Point Clark,Ottawa,,,,,,,
+T0205671,2020/09/20,2020/10/01,"Lobb, Ben",Member,To travel to/from constituency and Ottawa,2020/10/01,Ottawa,Point Clark,,,,,,,
+T0206918,2020/10/01,2020/10/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0206918,2020/10/01,2020/10/31,"Lobb, Ben",Member,Secondary Residence,2020/10/01,Ottawa,Ottawa,,,,,,,
+T0206959,2020/10/04,2020/10/09,,,,,,,626.6600,0.0000,250.4500,1.0000,0,0,877.11
+T0206959,2020/10/04,2020/10/09,"Lobb, Ben",Member,To travel to/from constituency and Ottawa,2020/10/04,Point Clark,Ottawa,,,,,,,
+T0206959,2020/10/04,2020/10/09,"Lobb, Ben",Member,To travel to/from constituency and Ottawa,2020/10/09,Ottawa,Point Clark,,,,,,,
+T0207082,2020/10/04,2020/10/28,,,,,,,0.0000,94.9900,0.0000,0,0,0,94.99
+T0207082,2020/10/04,2020/10/28,"Lobb, Ben",Member,Secondary Residence,2020/10/04,Ottawa,Ottawa,,,,,,,
+T0206966,2020/10/18,2020/10/22,,,,,,,626.6600,0.0000,250.4500,1.0000,0,0,877.11
+T0206966,2020/10/18,2020/10/22,"Lobb, Ben",Member,To travel to/from constituency and Ottawa,2020/10/18,Point Clark,Ottawa,,,,,,,
+T0206966,2020/10/18,2020/10/22,"Lobb, Ben",Member,To travel to/from constituency and Ottawa,2020/10/22,Ottawa,Point Clark,,,,,,,
+T0206926,2020/10/23,2020/11/03,,,,,,,162.4900,0.0000,0.0000,0.0000,0,0,162.49
+T0206926,2020/10/23,2020/11/03,"Twolan, Brittny",Employee,To attend a constituency or community event,2020/10/23,Goderich,Wingham,,,,,,,
+T0206926,2020/10/23,2020/11/03,"Twolan, Brittny",Employee,To attend a constituency or community event,2020/10/23,Wingham,Point Clark,,,,,,,
+T0206926,2020/10/23,2020/11/03,"Twolan, Brittny",Employee,To attend a constituency or community event,2020/10/30,Goderich,Walkerton,,,,,,,
+T0206926,2020/10/23,2020/11/03,"Twolan, Brittny",Employee,To attend a constituency or community event,2020/10/30,Walkerton,Point Clark,,,,,,,
+T0206926,2020/10/23,2020/11/03,"Twolan, Brittny",Employee,To attend a constituency or community event,2020/11/03,Point Clark,Saugeen Shores,,,,,,,
+T0206926,2020/10/23,2020/11/03,"Twolan, Brittny",Employee,To attend a constituency or community event,2020/11/03,Saugeen Shores,Goderich,,,,,,,
+T0206968,2020/10/25,2020/11/05,,,,,,,626.6600,0.0000,250.4500,1.0000,0,0,877.11
+T0206968,2020/10/25,2020/11/05,"Lobb, Ben",Member,To travel to/from constituency and Ottawa,2020/10/25,Point Clark,Ottawa,,,,,,,
+T0206968,2020/10/25,2020/11/05,"Lobb, Ben",Member,To travel to/from constituency and Ottawa,2020/11/05,Ottawa,Point Clark,,,,,,,
+T0207994,2020/11/01,2020/11/30,,,,,,,0.0000,1500.0000,0.0000,0,0,0,1500.00
+T0207994,2020/11/01,2020/11/30,"Lobb, Ben",Member,Secondary Residence,2020/11/01,Ottawa,Ottawa,,,,,,,
+T0207083,2020/11/01,2020/11/30,,,,,,,0.0000,97.9900,0.0000,0,0,0,97.99
+T0207083,2020/11/01,2020/11/30,"Lobb, Ben",Member,Secondary Residence,2020/11/01,Ottawa,Ottawa,,,,,,,
+T0207995,2020/11/15,2020/11/20,,,,,,,626.6600,0.0000,166.9600,1.0000,0,0,793.62
+T0207995,2020/11/15,2020/11/20,"Lobb, Ben",Member,To travel to/from constituency and Ottawa,2020/11/15,Point Clark,Ottawa,,,,,,,
+T0207995,2020/11/15,2020/11/20,"Lobb, Ben",Member,To travel to/from constituency and Ottawa,2020/11/20,Ottawa,Point Clark,,,,,,,
+T0207999,2020/11/22,2020/11/26,,,,,,,626.6600,0.0000,166.9600,1.0000,0,0,793.62
+T0207999,2020/11/22,2020/11/26,"Lobb, Ben",Member,To travel to/from constituency and Ottawa,2020/11/22,Point Clark,Ottawa,,,,,,,
+T0207999,2020/11/22,2020/11/26,"Lobb, Ben",Member,To travel to/from constituency and Ottawa,2020/11/26,Ottawa,Point Clark,,,,,,,
+T0208002,2020/11/28,2020/12/04,,,,,,,626.6600,0.0000,250.4500,1.0000,0,0,877.11
+T0208002,2020/11/28,2020/12/04,"Lobb, Ben",Member,To travel to/from constituency and Ottawa,2020/11/28,Point Clark,Ottawa,,,,,,,
+T0208002,2020/11/28,2020/12/04,"Lobb, Ben",Member,To travel to/from constituency and Ottawa,2020/12/04,Ottawa,Point Clark,,,,,,,

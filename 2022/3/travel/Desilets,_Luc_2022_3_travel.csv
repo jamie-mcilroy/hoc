@@ -1,0 +1,60 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0218588,2021/06/18,2021/07/13,,,,,,,49.4400,0.0000,0.0000,0.0000,0.0000,0,49.44
+T0218588,2021/06/18,2021/07/13,"Parent, Benjamin",Employee,Attending event with Member,2021/06/18,Saint-Eustache,Boisbriand,,,,,,,
+T0218588,2021/06/18,2021/07/13,"Parent, Benjamin",Employee,Attending event with Member,2021/06/24,Saint-Eustache,Boisbriand,,,,,,,
+T0218588,2021/06/18,2021/07/13,"Parent, Benjamin",Employee,Attending event with Member,2021/06/29,Saint-Eustache,Sainte-Thérèse,,,,,,,
+T0218588,2021/06/18,2021/07/13,"Parent, Benjamin",Employee,Attending event with Member,2021/07/07,Saint-Eustache,Rosemère,,,,,,,
+T0218588,2021/06/18,2021/07/13,"Parent, Benjamin",Employee,Attending event with Member,2021/07/10,Saint-Eustache,Deux-Montagnes,,,,,,,
+T0218588,2021/06/18,2021/07/13,"Parent, Benjamin",Employee,Attending event with Member,2021/07/12,Saint-Eustache,Saint-Eustache,,,,,,,
+T0218588,2021/06/18,2021/07/13,"Parent, Benjamin",Employee,Attending event with Member,2021/07/13,Saint-Eustache,Boisbriand,,,,,,,
+T0216253,2021/09/27,2021/09/27,,,,,,,44.8600,0.0000,0.0000,0,1.0000,0,44.86
+T0216253,2021/09/27,2021/09/27,"Desilets, Luc",Member,To attend a national caucus meeting,2021/09/27,Rosemère,Saint-Sauveur,,,,,,,
+T0216253,2021/09/27,2021/09/27,"Desilets, Luc",Member,To attend a national caucus meeting,2021/09/27,Saint-Sauveur,Rosemère,,,,,,,
+T0216582,2021/10/04,2021/10/06,,,,,,,175.8800,0.0000,171.3400,1.0000,0,0,347.22
+T0216582,2021/10/04,2021/10/06,"Desilets, Luc",Member,To attend a national caucus meeting,2021/10/04,Rosemère,Ottawa,,,,,,,
+T0216582,2021/10/04,2021/10/06,"Desilets, Luc",Member,To attend a national caucus meeting,2021/10/06,Ottawa,Rosemère,,,,,,,
+T0217233,2021/10/26,2021/10/28,,,,,,,175.8800,0.0000,190.6200,1.0000,0,0,366.50
+T0217233,2021/10/26,2021/10/28,"Desilets, Luc",Member,To attend a national caucus meeting,2021/10/26,Rosemère,Ottawa,,,,,,,
+T0217233,2021/10/26,2021/10/28,"Desilets, Luc",Member,To attend a national caucus meeting,2021/10/28,Ottawa,Rosemère,,,,,,,
+T0217783,2021/11/01,2021/11/05,,,,,,,175.8800,0.0000,342.6800,1.0000,0,0,518.56
+T0217783,2021/11/01,2021/11/05,"Desilets, Luc",Member,To attend a national caucus meeting,2021/11/01,Rosemère,Ottawa,,,,,,,
+T0217783,2021/11/01,2021/11/05,"Desilets, Luc",Member,To travel to/from constituency and Ottawa,2021/11/05,Ottawa,Rosemère,,,,,,,
+200524044,2021/11/01,2021/11/30,,,,,,,0.0000,1810.0000,0.0000,0,0,0,1810.00
+200524044,2021/11/01,2021/11/30,"Desilets, Luc",Member,Secondary Residence,2021/11/01,GATINEAU,GATINEAU,,,,,,,
+T0217687,2021/11/02,2021/11/03,,,,,,,0.0000,0.0000,66.6100,0.0000,0,0,66.61
+T0217687,2021/11/02,2021/11/03,"Parent, Benjamin",Employee,To travel to/from constituency and Ottawa,2021/11/02,Saint-Eustache,Ottawa,,,,,,,
+T0217660,2021/11/02,2021/11/03,,,,,,,0.0000,150.8900,85.6700,0.0000,0,0,236.56
+T0217660,2021/11/02,2021/11/03,"Guimont, Corinne",Employee,To travel to/from constituency and Ottawa,2021/11/02,Saint-Eustache,Ottawa,,,,,,,
+T0217657,2021/11/02,2021/11/03,,,,,,,0.0000,150.8900,85.6700,0.0000,0,0,236.56
+T0217657,2021/11/02,2021/11/03,"St-Amand, Sonia",Employee,To travel to/from constituency and Ottawa,2021/11/02,Saint-Eustache,Ottawa,,,,,,,
+T0217661,2021/11/02,2021/11/03,,,,,,,165.6300,0.0000,66.6100,1.0000,0,0,232.24
+T0217661,2021/11/02,2021/11/03,"Lavallée, Daniel",Employee,To travel to/from constituency and Ottawa,2021/11/02,Saint-Eustache,Ottawa,,,,,,,
+T0217655,2021/11/02,2021/11/03,,,,,,,165.6300,150.8900,85.6700,1.0000,0,0,402.19
+T0217655,2021/11/02,2021/11/03,"Collin-Gascon, Arianne",Employee,To travel to/from constituency and Ottawa,2021/11/02,Saint-Eustache,Ottawa,,,,,,,
+T0217687,2021/11/02,2021/11/03,"Parent, Benjamin",Employee,To travel to/from constituency and Ottawa,2021/11/03,Ottawa,Saint-Eustache,,,,,,,
+T0217660,2021/11/02,2021/11/03,"Guimont, Corinne",Employee,To travel to/from constituency and Ottawa,2021/11/03,Ottawa,Saint-Eustache,,,,,,,
+T0217655,2021/11/02,2021/11/03,"Collin-Gascon, Arianne",Employee,To travel to/from constituency and Ottawa,2021/11/03,Ottawa,Saint-Eustache,,,,,,,
+T0217661,2021/11/02,2021/11/03,"Lavallée, Daniel",Employee,To travel to/from constituency and Ottawa,2021/11/03,Ottawa,Saint-Eustache,,,,,,,
+T0217657,2021/11/02,2021/11/03,"St-Amand, Sonia",Employee,To travel to/from constituency and Ottawa,2021/11/03,Ottawa,Saint-Eustache,,,,,,,
+T0217850,2021/11/06,2021/11/07,,,,,,,166.1100,0.0000,83.5600,1.0000,0,0,249.67
+T0217850,2021/11/06,2021/11/07,"Bergeron, Christophe",Employee,To conduct constituency office business,2021/11/06,Ottawa,Saint-Eustache,,,,,,,
+T0217850,2021/11/06,2021/11/07,"Bergeron, Christophe",Employee,To travel to/from constituency and Ottawa,2021/11/07,Saint-Eustache,Ottawa,,,,,,,
+T0218587,2021/11/09,2021/11/09,,,,,,,165.1400,0.0000,19.2900,1.0000,0,0,184.43
+T0218587,2021/11/09,2021/11/09,"Collin-Gascon, Arianne",Employee,To travel to/from constituency and Ottawa,2021/11/09,Saint-Eustache,Ottawa,,,,,,,
+T0218587,2021/11/09,2021/11/09,"Collin-Gascon, Arianne",Employee,To travel to/from constituency and Ottawa,2021/11/09,Ottawa,Saint-Eustache,,,,,,,
+T0218419,2021/11/09,2021/11/11,,,,,,,175.8800,0.0000,171.3400,1.0000,0,0,347.22
+T0218419,2021/11/09,2021/11/11,"Desilets, Luc",Member,To attend a national caucus meeting,2021/11/09,Rosemère,Ottawa,,,,,,,
+T0218419,2021/11/09,2021/11/11,"Desilets, Luc",Member,To attend a national caucus meeting,2021/11/11,Ottawa,Rosemère,,,,,,,
+T0219282,2021/11/21,2021/11/26,,,,,,,175.8800,0.0000,409.0600,1.0000,0,0,584.94
+T0219282,2021/11/21,2021/11/26,"Desilets, Luc",Member,To travel to/from constituency and Ottawa,2021/11/21,Rosemère,Ottawa,,,,,,,
+T0219282,2021/11/21,2021/11/26,"Desilets, Luc",Member,To travel to/from constituency and Ottawa,2021/11/26,Ottawa,Rosemère,,,,,,,
+T0220269,2021/11/29,2021/12/03,,,,,,,175.8800,0.0000,323.3900,1.0000,0,0,499.27
+T0220269,2021/11/29,2021/12/03,"Desilets, Luc",Member,To travel to/from constituency and Ottawa,2021/11/29,Rosemère,Ottawa,,,,,,,
+T0220269,2021/11/29,2021/12/03,"Desilets, Luc",Member,To travel to/from constituency and Ottawa,2021/12/03,Ottawa,Rosemère,,,,,,,
+200530286,2021/12/01,2021/12/31,,,,,,,0.0000,1810.0000,0.0000,0,0,0,1810.00
+200530286,2021/12/01,2021/12/31,"Desilets, Luc",Member,Secondary Residence,2021/12/01,GATINEAU,GATINEAU,,,,,,,
+T0220376,2021/12/06,2021/12/10,,,,,,,175.8800,0.0000,342.6800,1.0000,0,0,518.56
+T0220376,2021/12/06,2021/12/10,"Desilets, Luc",Member,To travel to/from constituency and Ottawa,2021/12/06,Rosemère,Ottawa,,,,,,,
+T0220376,2021/12/06,2021/12/10,"Desilets, Luc",Member,To travel to/from constituency and Ottawa,2021/12/10,Ottawa,Rosemère,,,,,,,
+200538476,2022/01/01,2022/01/31,,,,,,,0.0000,1810.0000,0.0000,0,0,0,1810.00
+200538476,2022/01/01,2022/01/31,"Desilets, Luc",Member,Secondary Residence,2022/01/01,GATINEAU,GATINEAU,,,,,,,

@@ -1,0 +1,46 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0224208,2021/05/04,2021/09/20,,,,,,,0.0000,110.1300,0.0000,0,0,0,110.13
+T0224208,2021/05/04,2021/09/20,"Angus, Charlie",Member,Secondary Residence,2021/06/03,Ottawa,Ottawa,,,,,,,
+T0224208,2021/05/04,2021/09/20,"Angus, Charlie",Member,Secondary Residence,2021/07/03,Ottawa,Ottawa,,,,,,,
+T0224208,2021/05/04,2021/09/20,"Angus, Charlie",Member,Secondary Residence,2021/05/04,Ottawa,Ottawa,,,,,,,
+T0223031,2021/09/30,2022/01/04,,,,,,,0.0000,66.2600,0.0000,0,0,0,66.26
+T0223031,2021/09/30,2022/01/04,"Angus, Charlie",Member,Secondary Residence,2021/11/03,Ottawa,Ottawa,,,,,,,
+T0223031,2021/09/30,2022/01/04,"Angus, Charlie",Member,Secondary Residence,2021/09/30,Ottawa,Ottawa,,,,,,,
+T0223031,2021/09/30,2022/01/04,"Angus, Charlie",Member,Secondary Residence,2021/12/02,Ottawa,Ottawa,,,,,,,
+T0221670,2021/12/13,2021/12/17,,,,,,,277.0000,0.0000,202.2300,0.0000,0,0,479.23
+T0221670,2021/12/13,2021/12/17,"Labreche, Diane",Employee,To conduct constituency office business,2021/12/14,Timmins,Kirkland Lake,,,,,,,
+T0221670,2021/12/13,2021/12/17,"Labreche, Diane",Employee,To conduct constituency office business,2021/12/17,Kirkland Lake,Timmins,,,,,,,
+T0221670,2021/12/13,2021/12/17,"Labreche, Diane",Employee,To conduct constituency office business,2021/12/16,Timmins,Kirkland Lake,,,,,,,
+T0221670,2021/12/13,2021/12/17,"Labreche, Diane",Employee,To conduct constituency office business,2021/12/17,Kirkland Lake,Timmins,,,,,,,
+T0224532,2022/01/05,2022/03/03,,,,,,,0.0000,45.0000,0.0000,0,0,0,45.00
+T0224532,2022/01/05,2022/03/03,"Angus, Charlie",Member,Secondary Residence,2022/01/05,Ottawa,Ottawa,,,,,,,
+T0224532,2022/01/05,2022/03/03,"Angus, Charlie",Member,Secondary Residence,2022/02/03,Ottawa,Ottawa,,,,,,,
+T0221825,2022/01/16,2022/01/21,,,,,,,496.6200,0.0000,606.7000,1.0000,0,0,1103.32
+T0221825,2022/01/16,2022/01/21,"Angus, Charlie",Member,To travel to/from constituency and Ottawa,2022/01/16,Cobalt,Ottawa,,,,,,,
+T0221825,2022/01/16,2022/01/21,"Angus, Charlie",Member,To travel to/from constituency and Ottawa,2022/01/21,Ottawa,Cobalt,,,,,,,
+T0222650,2022/01/30,2022/02/08,,,,,,,498.6000,0.0000,1011.1600,1.0000,0,0,1509.76
+T0222650,2022/01/30,2022/02/08,"Angus, Charlie",Member,To travel to/from constituency and Ottawa,2022/01/30,Cobalt,Ottawa,,,,,,,
+T0222650,2022/01/30,2022/02/08,"Angus, Charlie",Member,To travel to/from constituency and Ottawa,2022/02/08,Ottawa,Cobalt,,,,,,,
+200543865,2022/02/01,2022/02/28,,,,,,,0.0000,1187.0000,0.0000,0,0,0,1187.00
+200543865,2022/02/01,2022/02/28,"Angus, Charlie",Member,Secondary Residence,2022/02/01,OTTAWA,OTTAWA,,,,,,,
+T0222991,2022/02/08,2022/02/10,,,,,,,277.0000,0.0000,202.2300,0.0000,0,0,479.23
+T0222991,2022/02/08,2022/02/10,"Labreche, Diane",Employee,To conduct constituency office business,2022/02/08,Timmins,Kirkland Lake,,,,,,,
+T0222991,2022/02/08,2022/02/10,"Labreche, Diane",Employee,To conduct constituency office business,2022/02/08,Kirkland Lake,Timmins,,,,,,,
+T0222991,2022/02/08,2022/02/10,"Labreche, Diane",Employee,To conduct constituency office business,2022/02/10,Timmins,Kirkland Lake,,,,,,,
+T0222991,2022/02/08,2022/02/10,"Labreche, Diane",Employee,To conduct constituency office business,2022/02/10,Kirkland Lake,Timmins,,,,,,,
+T0223458,2022/02/13,2022/02/20,,,,,,,496.6200,0.0000,808.9300,1.0000,0,0,1305.55
+T0223458,2022/02/13,2022/02/20,"Angus, Charlie",Member,To travel to/from constituency and Ottawa,2022/02/13,Cobalt,Ottawa,,,,,,,
+T0223458,2022/02/13,2022/02/20,"Angus, Charlie",Member,To travel to/from constituency and Ottawa,2022/02/20,Ottawa,Cobalt,,,,,,,
+T0224013,2022/02/27,2022/03/08,,,,,,,496.6200,0.0000,1011.1600,1.0000,0,0,1507.78
+T0224013,2022/02/27,2022/03/08,"Angus, Charlie",Member,To travel to/from constituency and Ottawa,2022/02/27,Cobalt,Ottawa,,,,,,,
+T0224013,2022/02/27,2022/03/08,"Angus, Charlie",Member,To travel to/from constituency and Ottawa,2022/03/08,Ottawa,Cobalt,,,,,,,
+200552126,2022/03/01,2022/03/31,,,,,,,0.0000,1187.0000,0.0000,0,0,0,1187.00
+200552126,2022/03/01,2022/03/31,"Angus, Charlie",Member,Secondary Residence,2022/03/01,OTTAWA,OTTAWA,,,,,,,
+T0224366,2022/03/12,2022/03/13,,,,,,,227.5400,88.7900,53.7900,0.0000,0,0,370.12
+T0224366,2022/03/12,2022/03/13,"Angus, Charlie",Member,To attend a constituency or community event,2022/03/12,Cobalt,Timmins,,,,,,,
+T0224366,2022/03/12,2022/03/13,"Angus, Charlie",Member,To attend a constituency or community event,2022/03/13,Timmins,Cobalt,,,,,,,
+T0224544,2022/03/20,2022/03/24,,,,,,,496.6200,0.0000,404.4600,1.0000,0,0,901.08
+T0224544,2022/03/20,2022/03/24,"Angus, Charlie",Member,To travel to/from constituency and Ottawa,2022/03/20,Cobalt,Ottawa,,,,,,,
+T0224544,2022/03/20,2022/03/24,"Angus, Charlie",Member,To travel to/from constituency and Ottawa,2022/03/24,Ottawa,Cobalt,,,,,,,
+T0225331,2022/03/27,2022/03/31,,,,,,,248.3100,0.0000,505.5800,0.5000,0,0,753.89
+T0225331,2022/03/27,2022/03/31,"Angus, Charlie",Member,To travel to/from constituency and Ottawa,2022/03/27,Cobalt,Ottawa,,,,,,,

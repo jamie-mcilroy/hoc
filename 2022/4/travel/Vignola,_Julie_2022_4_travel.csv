@@ -1,0 +1,57 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0220741,2021/12/12,2021/12/16,,,,,,,439.7000,0.0000,486.5200,1.0000,0,0,926.22
+T0220741,2021/12/12,2021/12/16,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2021/12/12,Québec,Ottawa,,,,,,,
+T0220741,2021/12/12,2021/12/16,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2021/12/16,Ottawa,Québec,,,,,,,
+T0220914,2021/12/16,2021/12/17,,,,,,,439.7000,87.6300,159.8500,1.0000,0,0,687.18
+T0220914,2021/12/16,2021/12/17,"Paradis, Mathieu",Employee,To travel to/from constituency and Ottawa,2021/12/16,Ottawa,Québec,,,,,,,
+T0220914,2021/12/16,2021/12/17,"Paradis, Mathieu",Employee,To travel to/from constituency and Ottawa,2021/12/17,Québec,Ottawa,,,,,,,
+T0221990,2022/01/23,2022/01/24,,,,,,,439.7000,0.0000,178.6600,1.0000,0,0,618.36
+T0221990,2022/01/23,2022/01/24,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2022/01/23,Québec,Ottawa,,,,,,,
+T0221990,2022/01/23,2022/01/24,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2022/01/24,Ottawa,Québec,,,,,,,
+T0222807,2022/01/31,2022/02/11,,,,,,,742.6000,0.0000,887.6400,2.0000,0,0,1630.24
+T0222807,2022/01/31,2022/02/11,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2022/01/31,Québec,Ottawa,,,,,,,
+T0222807,2022/01/31,2022/02/11,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2022/02/11,Ottawa,Québec,,,,,,,
+T0222807,2022/01/31,2022/02/11,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2022/02/05,Ottawa,Québec,,,,,,,
+T0222807,2022/01/31,2022/02/11,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2022/02/07,Québec,Ottawa,,,,,,,
+T0223020,2022/01/31,2022/02/15,,,,,,,1319.1000,0.0000,125.3300,3.0000,0,0,1444.43
+T0223020,2022/01/31,2022/02/15,"Rompré, David",Employee,To travel to/from constituency and Ottawa,2022/01/31,Québec,Ottawa,,,,,,,
+T0223020,2022/01/31,2022/02/15,"Rompré, David",Employee,To travel to/from constituency and Ottawa,2022/02/01,Ottawa,Québec,,,,,,,
+T0223020,2022/01/31,2022/02/15,"Rompré, David",Employee,To travel to/from constituency and Ottawa,2022/02/07,Québec,Ottawa,,,,,,,
+T0223020,2022/01/31,2022/02/15,"Rompré, David",Employee,To travel to/from constituency and Ottawa,2022/02/08,Ottawa,Québec,,,,,,,
+T0223020,2022/01/31,2022/02/15,"Rompré, David",Employee,To travel to/from constituency and Ottawa,2022/02/14,Québec,Ottawa,,,,,,,
+T0223020,2022/01/31,2022/02/15,"Rompré, David",Employee,To travel to/from constituency and Ottawa,2022/02/15,Ottawa,Québec,,,,,,,
+200543999,2022/02/01,2022/02/28,,,,,,,0.0000,1950.0000,0.0000,0,0,0,1950.00
+200543999,2022/02/01,2022/02/28,"Vignola, Julie",Member,Secondary Residence,2022/02/01,GATINEAU,GATINEAU,,,,,,,
+T0223140,2022/02/14,2022/02/21,,,,,,,439.7000,0.0000,770.4300,1.0000,0,0,1210.13
+T0223140,2022/02/14,2022/02/21,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2022/02/14,Québec,Ottawa,,,,,,,
+T0223140,2022/02/14,2022/02/21,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2022/02/21,Ottawa,Québec,,,,,,,
+T0225029,2022/02/26,2022/03/05,,,,,,,401.0000,0.0000,0.0000,0,3.0000,0,401.00
+T0225029,2022/02/26,2022/03/05,,Designated Traveller,Trip cancellation expenses due to unforeseen circumstance,2022/02/26,,,,,,,,,
+T0223872,2022/02/26,2022/03/05,,,,,,,439.7000,0.0000,808.9300,1.0000,0,0,1248.63
+T0223872,2022/02/26,2022/03/05,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2022/02/26,Québec,Ottawa,,,,,,,
+T0225029,2022/02/26,2022/03/05,,Dependant,Trip cancellation expenses due to unforeseen circumstance,2022/02/26,,,,,,,,,
+T0223872,2022/02/26,2022/03/05,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2022/03/05,Ottawa,Québec,,,,,,,
+T0225029,2022/02/26,2022/03/05,,Dependant,Trip cancellation expenses due to unforeseen circumstance,2022/02/26,,,,,,,,,
+T0225029,2022/02/26,2022/03/05,,Dependant,Trip cancellation expenses due to unforeseen circumstance,2022/02/26,,,,,,,,,
+T0225029,2022/02/26,2022/03/05,,Designated Traveller,Trip cancellation expenses due to unforeseen circumstance,2022/02/26,,,,,,,,,
+T0225029,2022/02/26,2022/03/05,,Dependant,Trip cancellation expenses due to unforeseen circumstance,2022/02/26,,,,,,,,,
+T0224335,2022/02/28,2022/03/01,,,,,,,439.7000,0.0000,98.6200,1.0000,0,0,538.32
+T0224335,2022/02/28,2022/03/01,"Aprile, Mara",Employee,To travel to/from constituency and Ottawa,2022/02/28,Québec,Ottawa,,,,,,,
+T0224335,2022/02/28,2022/03/01,"Aprile, Mara",Employee,To travel to/from constituency and Ottawa,2022/03/01,Ottawa,Québec,,,,,,,
+200552264,2022/03/01,2022/03/31,,,,,,,0.0000,1950.0000,0.0000,0,0,0,1950.00
+200552264,2022/03/01,2022/03/31,"Vignola, Julie",Member,Secondary Residence,2022/03/01,GATINEAU,GATINEAU,,,,,,,
+T0224123,2022/03/07,2022/03/08,,,,,,,439.7000,0.0000,98.6200,1.0000,0,0,538.32
+T0224123,2022/03/07,2022/03/08,"Paradis, Mathieu",Employee,To travel to/from constituency and Ottawa,2022/03/07,Ottawa,Québec,,,,,,,
+T0224123,2022/03/07,2022/03/08,"Paradis, Mathieu",Employee,To travel to/from constituency and Ottawa,2022/03/08,Québec,Ottawa,,,,,,,
+T0224658,2022/03/14,2022/03/15,,,,,,,439.7000,0.0000,178.6600,1.0000,0,0,618.36
+T0224658,2022/03/14,2022/03/15,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2022/03/14,Québec,Ottawa,,,,,,,
+T0224658,2022/03/14,2022/03/15,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2022/03/15,Ottawa,Québec,,,,,,,
+T0224849,2022/03/21,2022/03/22,,,,,,,439.7000,0.0000,98.6200,1.0000,0,0,538.32
+T0224849,2022/03/21,2022/03/22,"Duquette, Christian",Employee,To travel to/from constituency and Ottawa,2022/03/21,Québec,Ottawa,,,,,,,
+T0224849,2022/03/21,2022/03/22,"Duquette, Christian",Employee,To travel to/from constituency and Ottawa,2022/03/22,Ottawa,Québec,,,,,,,
+T0225023,2022/03/21,2022/03/25,,,,,,,439.7000,0.0000,474.5400,1.0000,0,0,914.24
+T0225023,2022/03/21,2022/03/25,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2022/03/21,Québec,Ottawa,,,,,,,
+T0225023,2022/03/21,2022/03/25,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2022/03/25,Ottawa,Québec,,,,,,,
+T0226066,2022/03/28,2022/04/01,,,,,,,439.7000,0.0000,476.7300,1.0000,0,0,916.43
+T0226066,2022/03/28,2022/04/01,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2022/03/28,Québec,Ottawa,,,,,,,
+T0226066,2022/03/28,2022/04/01,"Vignola, Julie",Member,To travel to/from constituency and Ottawa,2022/04/01,Ottawa,Québec,,,,,,,

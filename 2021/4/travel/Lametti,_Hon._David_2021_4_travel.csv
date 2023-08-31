@@ -1,0 +1,49 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0204768,2020/09/04,2020/09/04,,,,,,,0.0000,0.0000,0.0000,0.0000,-1.0000,0,0.00
+T0204768,2020/09/04,2020/09/04,"Rémillard, François",Employee,Attending event with Member,2020/09/04,Montréal,Magog,,,,,,,
+T0204768,2020/09/04,2020/09/04,"Rémillard, François",Employee,Attending event with Member,2020/09/04,Magog,Montréal,,,,,,,
+T0209361,2020/12/07,2020/12/18,,,,,,,182.1900,0.0000,401.9600,1.0000,0,0,584.15
+T0209361,2020/12/07,2020/12/18,"Lametti, David",Member,To travel to/from constituency and Ottawa,2020/12/07,Verdun,Ottawa,,,,,,,
+T0209361,2020/12/07,2020/12/18,"Lametti, David",Member,To travel to/from constituency and Ottawa,2020/12/18,Ottawa,Verdun,,,,,,,
+T0209924,2020/12/10,2021/01/10,,,,,,,0.0000,32.6800,0.0000,0,0,0,32.68
+T0209924,2020/12/10,2021/01/10,"Lametti, David",Member,Secondary Residence,2020/12/10,Ottawa,Ottawa,,,,,,,
+T0209916,2021/01/11,2021/01/22,,,,,,,183.9300,0.0000,401.9600,1.0000,0,0,585.89
+T0209916,2021/01/11,2021/01/22,"Lametti, David",Member,To travel to/from constituency and Ottawa,2021/01/11,Verdun,Ottawa,,,,,,,
+T0209916,2021/01/11,2021/01/22,"Lametti, David",Member,To travel to/from constituency and Ottawa,2021/01/22,Ottawa,Verdun,,,,,,,
+T0209923,2021/01/18,2021/01/18,,,,,,,183.9300,0.0000,0.0000,1.0000,0,0,183.93
+T0209923,2021/01/18,2021/01/18,"Rémillard, François",Employee,To travel to/from constituency and Ottawa,2021/01/18,Verdun,Ottawa,,,,,,,
+T0209923,2021/01/18,2021/01/18,"Rémillard, François",Employee,To travel to/from constituency and Ottawa,2021/01/18,Ottawa,Verdun,,,,,,,
+T0209917,2021/01/24,2021/01/29,,,,,,,183.9300,0.0000,200.9800,1.0000,0,0,384.91
+T0209917,2021/01/24,2021/01/29,"Lametti, David",Member,To travel to/from constituency and Ottawa,2021/01/24,Verdun,Ottawa,,,,,,,
+T0209917,2021/01/24,2021/01/29,"Lametti, David",Member,To travel to/from constituency and Ottawa,2021/01/29,Ottawa,Verdun,,,,,,,
+T0209922,2021/01/26,2021/01/26,,,,,,,183.9300,0.0000,0.0000,1.0000,0,0,183.93
+T0209922,2021/01/26,2021/01/26,"Rémillard, François",Employee,To travel to/from constituency and Ottawa,2021/01/26,Verdun,Ottawa,,,,,,,
+T0209922,2021/01/26,2021/01/26,"Rémillard, François",Employee,To travel to/from constituency and Ottawa,2021/01/26,Ottawa,Verdun,,,,,,,
+T0209919,2021/01/31,2021/02/05,,,,,,,183.9300,0.0000,200.9800,1.0000,0,0,384.91
+T0209919,2021/01/31,2021/02/05,"Lametti, David",Member,To travel to/from constituency and Ottawa,2021/01/31,Verdun,Ottawa,,,,,,,
+T0209919,2021/01/31,2021/02/05,"Lametti, David",Member,To travel to/from constituency and Ottawa,2021/02/05,Ottawa,Verdun,,,,,,,
+T0209921,2021/02/01,2021/02/01,,,,,,,183.9300,0.0000,0.0000,1.0000,0,0,183.93
+T0209921,2021/02/01,2021/02/01,"Rémillard, François",Employee,To travel to/from constituency and Ottawa,2021/02/01,Verdun,Ottawa,,,,,,,
+T0209921,2021/02/01,2021/02/01,"Rémillard, François",Employee,To travel to/from constituency and Ottawa,2021/02/01,Ottawa,Verdun,,,,,,,
+200467596,2021/02/01,2021/02/28,,,,,,,0.0000,1760.0000,0.0000,0,0,0,1760.00
+200467596,2021/02/01,2021/02/28,"Lametti, David",Member,Secondary Residence,2021/02/01,OTTAWA,OTTAWA,,,,,,,
+T0210550,2021/02/22,2021/02/22,,,,,,,183.9300,0.0000,0.0000,1.0000,0,0,183.93
+T0210550,2021/02/22,2021/02/22,"Rémillard, François",Employee,To travel to/from constituency and Ottawa,2021/02/22,Verdun,Ottawa,,,,,,,
+T0210550,2021/02/22,2021/02/22,"Rémillard, François",Employee,To travel to/from constituency and Ottawa,2021/02/22,Ottawa,Verdun,,,,,,,
+T0210554,2021/02/22,2021/02/26,,,,,,,184.3800,0.0000,253.7900,1.0000,0,0,438.17
+T0210554,2021/02/22,2021/02/26,"Lametti, David",Member,To travel to/from constituency and Ottawa,2021/02/22,Verdun,Ottawa,,,,,,,
+T0210554,2021/02/22,2021/02/26,"Lametti, David",Member,To travel to/from constituency and Ottawa,2021/02/26,Ottawa,Verdun,,,,,,,
+200475597,2021/03/01,2021/03/31,,,,,,,0.0000,1760.0000,0.0000,0,0,0,1760.00
+200475597,2021/03/01,2021/03/31,"Lametti, David",Member,Secondary Residence,2021/03/01,OTTAWA,OTTAWA,,,,,,,
+T0210549,2021/03/08,2021/03/08,,,,,,,185.3100,0.0000,0.0000,1.0000,0,0,185.31
+T0210549,2021/03/08,2021/03/08,"Rémillard, François",Employee,To travel to/from constituency and Ottawa,2021/03/08,Verdun,Ottawa,,,,,,,
+T0210549,2021/03/08,2021/03/08,"Rémillard, François",Employee,To travel to/from constituency and Ottawa,2021/03/08,Ottawa,Verdun,,,,,,,
+T0211254,2021/03/08,2021/03/12,,,,,,,184.3800,0.0000,253.7900,1.0000,0,0,438.17
+T0211254,2021/03/08,2021/03/12,"Lametti, David",Member,To travel to/from constituency and Ottawa,2021/03/08,Verdun,Ottawa,,,,,,,
+T0211254,2021/03/08,2021/03/12,"Lametti, David",Member,To travel to/from constituency and Ottawa,2021/03/12,Ottawa,Verdun,,,,,,,
+T0211450,2021/03/22,2021/03/25,,,,,,,184.3800,233.0700,0.0000,1.0000,0,0,417.45
+T0211450,2021/03/22,2021/03/25,"Malouin, Nicholas",Employee,To travel to/from constituency and Ottawa,2021/03/22,Verdun,Ottawa,,,,,,,
+T0211450,2021/03/22,2021/03/25,"Malouin, Nicholas",Employee,To travel to/from constituency and Ottawa,2021/03/25,Ottawa,Verdun,,,,,,,
+T0211259,2021/03/22,2021/03/26,,,,,,,184.3800,0.0000,253.7900,1.0000,0,0,438.17
+T0211259,2021/03/22,2021/03/26,"Lametti, David",Member,To travel to/from constituency and Ottawa,2021/03/22,Verdun,Ottawa,,,,,,,
+T0211259,2021/03/22,2021/03/26,"Lametti, David",Member,To travel to/from constituency and Ottawa,2021/03/26,Ottawa,Verdun,,,,,,,

@@ -1,0 +1,16 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0205879,2020/08/25,2020/09/20,,,,,,,1606.4700,0.0000,0.0000,1.0000,0,0,1606.47
+T0205879,2020/08/25,2020/09/20,,Designated Traveller,To travel to/from constituency and Ottawa,2020/08/25,Ottawa,Stony Plain,,,,,,,
+T0205879,2020/08/25,2020/09/20,,Designated Traveller,To travel to/from constituency and Ottawa,2020/09/20,Stony Plain,Ottawa,,,,,,,
+T0207210,2020/09/20,2020/11/07,,,,,,,1644.6400,0.0000,1125.4900,1.0000,0,0,2770.13
+T0207210,2020/09/20,2020/11/07,"Lloyd, Dane",Member,To travel to/from constituency and Ottawa,2020/09/20,Stony Plain,Ottawa,,,,,,,
+T0207210,2020/09/20,2020/11/07,"Lloyd, Dane",Member,To travel to/from constituency and Ottawa,2020/11/07,Ottawa,Stony Plain,,,,,,,
+T0206414,2020/09/24,2020/10/07,,,,,,,0.0000,46.2700,0.0000,0,0,0,46.27
+T0206414,2020/09/24,2020/10/07,"Lloyd, Dane",Member,Secondary Residence,2020/09/24,Ottawa,Ottawa,,,,,,,
+T0206425,2020/09/29,2020/10/09,,,,,,,1146.0100,1564.4600,583.7500,1.0000,0,0,3294.22
+T0206425,2020/09/29,2020/10/09,"Furber, Jesse",Employee,To travel to/from constituency and Ottawa,2020/09/29,Stony Plain,Ottawa,,,,,,,
+T0206425,2020/09/29,2020/10/09,"Furber, Jesse",Employee,To travel to/from constituency and Ottawa,2020/10/09,Ottawa,Stony Plain,,,,,,,
+T0206921,2020/10/15,2020/10/31,,,,,,,0.0000,850.0000,0.0000,0,0,0,850.00
+T0206921,2020/10/15,2020/10/31,"Lloyd, Dane",Member,Secondary Residence,2020/10/15,Ottawa,Ottawa,,,,,,,
+T0207911,2020/11/01,2020/11/30,,,,,,,0.0000,1500.0000,0.0000,0,0,0,1500.00
+T0207911,2020/11/01,2020/11/30,"Lloyd, Dane",Member,Secondary Residence,2020/11/01,Ottawa,Ottawa,,,,,,,

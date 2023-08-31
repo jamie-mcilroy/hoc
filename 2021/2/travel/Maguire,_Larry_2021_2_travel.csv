@@ -1,0 +1,14 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0203014,2020/06/01,2020/07/31,,,,,,,0.0000,3642.3200,0.0000,0,0,0,3642.32
+T0203014,2020/06/01,2020/07/31,"Maguire, Larry",Member,Secondary Residence,2020/07/01,Ottawa,Ottawa,,,,,,,
+T0203014,2020/06/01,2020/07/31,"Maguire, Larry",Member,Secondary Residence,2020/06/01,Ottawa,Ottawa,,,,,,,
+T0203678,2020/08/01,2020/08/31,,,,,,,0.0000,1821.1600,0.0000,0,0,0,1821.16
+T0203678,2020/08/01,2020/08/31,"Maguire, Larry",Member,Secondary Residence,2020/08/01,Ottawa,Ottawa,,,,,,,
+T0204271,2020/08/23,2020/08/25,,,,,,,285.1200,310.1500,138.7500,0,0.0000,0,734.02
+T0204271,2020/08/23,2020/08/25,"Dodds, Madison",Employee,To attend a regional or provincial caucus meeting,2020/08/23,Brandon,Gimli,,,,,,,
+T0204271,2020/08/23,2020/08/25,"Dodds, Madison",Employee,To attend a regional or provincial caucus meeting,2020/08/23,Gimli,Brandon,,,,,,,
+T0204339,2020/08/23,2020/08/26,,,,,,,285.1200,504.0000,178.4600,0,1.0000,0,967.58
+T0204339,2020/08/23,2020/08/26,"Maguire, Larry",Member,To attend a regional or provincial caucus meeting,2020/08/23,Brandon,Gimli,,,,,,,
+T0204339,2020/08/23,2020/08/26,"Maguire, Larry",Member,To attend a regional or provincial caucus meeting,2020/08/26,Gimli,Brandon,,,,,,,
+T0204625,2020/09/01,2020/09/30,,,,,,,0.0000,1908.5800,0.0000,0,0,0,1908.58
+T0204625,2020/09/01,2020/09/30,"Maguire, Larry",Member,Secondary Residence,2020/09/01,Ottawa,Ottawa,,,,,,,

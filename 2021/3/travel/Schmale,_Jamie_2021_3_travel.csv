@@ -1,0 +1,87 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0205361,2020/08/11,2020/10/18,,,,,,,0.0000,127.2300,0.0000,0,0,0,127.23
+T0205361,2020/08/11,2020/10/18,"Schmale, Jamie",Member,Secondary Residence,2020/08/11,Ottawa,Ottawa,,,,,,,
+T0205361,2020/08/11,2020/10/18,"Schmale, Jamie",Member,Secondary Residence,2020/09/19,Ottawa,Ottawa,,,,,,,
+T0206607,2020/09/10,2020/11/18,,,,,,,0.0000,173.2300,0.0000,0,0,0,173.23
+T0206607,2020/09/10,2020/11/18,"Schmale, Jamie",Member,Secondary Residence,2020/09/10,Ottawa,Ottawa,,,,,,,
+T0206607,2020/09/10,2020/11/18,"Schmale, Jamie",Member,Secondary Residence,2020/10/19,Ottawa,Ottawa,,,,,,,
+T0205363,2020/09/20,2020/09/24,,,,,,,291.3000,0.0000,165.7100,1.0000,0,0,457.01
+T0205363,2020/09/20,2020/09/24,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/09/20,Lindsay,Ottawa,,,,,,,
+T0205363,2020/09/20,2020/09/24,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/09/24,Ottawa,Lindsay,,,,,,,
+T0205717,2020/09/26,2020/10/02,,,,,,,178.4800,0.0000,0.0000,0.0000,0.0000,0,178.48
+T0205717,2020/09/26,2020/10/02,"Schmale, Jamie",Member,To attend an event as a guest speaker,2020/09/26,Kawartha Lakes,Toronto,,,,,,,
+T0205717,2020/09/26,2020/10/02,"Schmale, Jamie",Member,To attend an event as a guest speaker,2020/09/26,Toronto,Kawartha Lakes,,,,,,,
+T0205717,2020/09/26,2020/10/02,"Schmale, Jamie",Member,To attend a constituency or community event,2020/09/26,Kawartha Lakes,Sunderland,,,,,,,
+T0205717,2020/09/26,2020/10/02,"Schmale, Jamie",Member,To attend a constituency or community event,2020/09/26,Sunderland,Kawartha Lakes,,,,,,,
+T0205717,2020/09/26,2020/10/02,"Schmale, Jamie",Member,To attend a constituency or community event,2020/09/27,Kawartha Lakes,Downeyville,,,,,,,
+T0205717,2020/09/26,2020/10/02,"Schmale, Jamie",Member,To attend a constituency or community event,2020/09/27,Downeyville,Kawartha Lakes,,,,,,,
+T0205717,2020/09/26,2020/10/02,"Schmale, Jamie",Member,To attend meetings with stakeholders about business of the House,2020/10/02,Kawartha Lakes,Peterborough,,,,,,,
+T0205717,2020/09/26,2020/10/02,"Schmale, Jamie",Member,To attend meetings with stakeholders about business of the House,2020/10/02,Peterborough,Kawartha Lakes,,,,,,,
+T0205721,2020/09/27,2020/10/01,,,,,,,294.1400,0.0000,165.7100,1.0000,0,0,459.85
+T0205721,2020/09/27,2020/10/01,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/09/27,Lindsay,Ottawa,,,,,,,
+T0205721,2020/09/27,2020/10/01,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/10/01,Ottawa,Lindsay,,,,,,,
+T0205573,2020/09/28,2020/09/30,,,,,,,291.3000,374.0300,199.8200,1.0000,0,0,865.15
+T0205573,2020/09/28,2020/09/30,"Robichaud, Dylan",Employee,To travel to/from constituency and Ottawa,2020/09/28,Lindsay,Ottawa,,,,,,,
+T0205573,2020/09/28,2020/09/30,"Robichaud, Dylan",Employee,To travel to/from constituency and Ottawa,2020/09/30,Ottawa,Lindsay,,,,,,,
+T0206035,2020/10/04,2020/10/09,,,,,,,296.9800,0.0000,166.9600,1.0000,0,0,463.94
+T0206035,2020/10/04,2020/10/09,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/10/04,Lindsay,Ottawa,,,,,,,
+T0206035,2020/10/04,2020/10/09,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/10/08,Ottawa,Lindsay,,,,,,,
+T0206612,2020/10/04,2020/10/18,,,,,,,57.8800,0.0000,0.0000,0.0000,0,0,57.88
+T0206612,2020/10/04,2020/10/18,"Schmale, Jamie",Member,To attend a constituency or community event,2020/10/04,Kawartha Lakes,Sunderland,,,,,,,
+T0206612,2020/10/04,2020/10/18,"Schmale, Jamie",Member,To attend a constituency or community event,2020/10/04,Sunderland,Kawartha Lakes,,,,,,,
+T0206612,2020/10/04,2020/10/18,"Schmale, Jamie",Member,To attend a constituency or community event,2020/10/18,Kawartha Lakes,Kawartha Lakes,,,,,,,
+T0206612,2020/10/04,2020/10/18,"Schmale, Jamie",Member,To attend a constituency or community event,2020/10/18,Kawartha Lakes,Kawartha Lakes,,,,,,,
+T0207720,2020/10/11,2020/12/18,,,,,,,0.0000,178.9800,0.0000,0,0,0,178.98
+T0207720,2020/10/11,2020/12/18,"Schmale, Jamie",Member,Secondary Residence,2020/11/19,Ottawa,Ottawa,,,,,,,
+T0207720,2020/10/11,2020/12/18,"Schmale, Jamie",Member,Secondary Residence,2020/10/11,Ottawa,Ottawa,,,,,,,
+T0206354,2020/10/20,2020/10/23,,,,,,,296.9800,0.0000,166.9600,1.0000,0,0,463.94
+T0206354,2020/10/20,2020/10/23,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/10/21,Lindsay,Ottawa,,,,,,,
+T0206354,2020/10/20,2020/10/23,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/10/23,Ottawa,Lindsay,,,,,,,
+T0206623,2020/10/26,2020/10/28,,,,,,,330.3400,312.6800,197.8600,1.0000,0,0,840.88
+T0206623,2020/10/26,2020/10/28,"Robichaud, Dylan",Employee,To travel to/from constituency and Ottawa,2020/10/26,Lindsay,Ottawa,,,,,,,
+T0206623,2020/10/26,2020/10/28,"Robichaud, Dylan",Employee,To travel to/from constituency and Ottawa,2020/10/28,Ottawa,Kinmount,,,,,,,
+T0206717,2020/10/28,2020/11/11,,,,,,,129.8200,0.0000,0.0000,0.0000,0,0,129.82
+T0206717,2020/10/28,2020/11/11,"Robichaud, Dylan",Employee,To conduct constituency office business,2020/10/28,Kinmount,Kawartha Lakes,,,,,,,
+T0206717,2020/10/28,2020/11/11,"Robichaud, Dylan",Employee,To represent the Member at an event,2020/11/11,Kawartha Lakes,Wilberforce,,,,,,,
+T0206717,2020/10/28,2020/11/11,"Robichaud, Dylan",Employee,To represent the Member at an event,2020/11/11,Wilberforce,Kawartha Lakes,,,,,,,
+T0207226,2020/10/30,2020/11/13,,,,,,,248.4400,0.0000,0.0000,0.0000,0.0000,0,248.44
+T0207226,2020/10/30,2020/11/13,"Schmale, Jamie",Member,To attend meetings about constituency issues,2020/10/30,Kawartha Lakes,Peterborough,,,,,,,
+T0207226,2020/10/30,2020/11/13,"Schmale, Jamie",Member,To attend a constituency or community event,2020/11/11,Kawartha Lakes,Kawartha Lakes,,,,,,,
+T0207226,2020/10/30,2020/11/13,"Schmale, Jamie",Member,To attend a constituency or community event,2020/11/11,Kawartha Lakes,Kawartha Lakes,,,,,,,
+T0207226,2020/10/30,2020/11/13,"Schmale, Jamie",Member,To attend meetings about constituency issues,2020/11/13,Kawartha Lakes,Peterborough,,,,,,,
+T0207226,2020/10/30,2020/11/13,"Schmale, Jamie",Member,To attend meetings about constituency issues,2020/11/13,Peterborough,Kawartha Lakes,,,,,,,
+T0207226,2020/10/30,2020/11/13,"Schmale, Jamie",Member,To attend meetings about constituency issues,2020/10/30,Peterborough,Kawartha Lakes,,,,,,,
+T0207226,2020/10/30,2020/11/13,"Schmale, Jamie",Member,To attend a constituency or community event,2020/11/08,Kawartha Lakes,Kawartha Lakes,,,,,,,
+T0207226,2020/10/30,2020/11/13,"Schmale, Jamie",Member,To attend a constituency or community event,2020/11/08,Kawartha Lakes,Gelert,,,,,,,
+T0207226,2020/10/30,2020/11/13,"Schmale, Jamie",Member,To attend a constituency or community event,2020/11/08,Gelert,Gooderham,,,,,,,
+T0207226,2020/10/30,2020/11/13,"Schmale, Jamie",Member,To attend a constituency or community event,2020/11/08,Gooderham,Kawartha Lakes,,,,,,,
+T0207226,2020/10/30,2020/11/13,"Schmale, Jamie",Member,To attend meetings about constituency issues,2020/11/10,Kawartha Lakes,Kawartha Lakes,,,,,,,
+T0207226,2020/10/30,2020/11/13,"Schmale, Jamie",Member,To attend meetings about constituency issues,2020/11/10,Kawartha Lakes,Kawartha Lakes,,,,,,,
+T0207226,2020/10/30,2020/11/13,"Schmale, Jamie",Member,To attend a constituency or community event,2020/11/11,Kawartha Lakes,Kawartha Lakes,,,,,,,
+T0207001,2020/11/01,2020/11/06,,,,,,,296.9800,0.0000,166.9600,1.0000,0,0,463.94
+T0207001,2020/11/01,2020/11/06,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/11/01,Lindsay,Ottawa,,,,,,,
+T0207001,2020/11/01,2020/11/06,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/11/06,Ottawa,Lindsay,,,,,,,
+200449088,2020/11/01,2020/11/30,,,,,,,0.0000,2100.0000,0.0000,0,0,0,2100.00
+200449088,2020/11/01,2020/11/30,"Schmale, Jamie",Member,Secondary Residence,2020/11/01,OTTAWA,OTTAWA,,,,,,,
+T0207217,2020/11/11,2020/11/11,,,,,,,26.1400,0.0000,0.0000,0.0000,0,0,26.14
+T0207217,2020/11/11,2020/11/11,"Porter, Kate",Employee,To represent the Member at an event,2020/11/11,Kawartha Lakes,Kawartha Lakes,,,,,,,
+T0207221,2020/11/11,2020/11/11,,,,,,,35.4800,0.0000,0.0000,0.0000,0,0,35.48
+T0207221,2020/11/11,2020/11/11,"Hoppenrath, Marnie",Employee,To represent the Member at an event,2020/11/11,Kawartha Lakes,Kirkfield,,,,,,,
+T0207217,2020/11/11,2020/11/11,"Porter, Kate",Employee,To represent the Member at an event,2020/11/11,Kawartha Lakes,Kawartha Lakes,,,,,,,
+T0207221,2020/11/11,2020/11/11,"Hoppenrath, Marnie",Employee,To represent the Member at an event,2020/11/11,Kirkfield,Kawartha Lakes,,,,,,,
+T0207463,2020/11/17,2020/11/19,,,,,,,296.9800,0.0000,166.9600,1.0000,0,0,463.94
+T0207463,2020/11/17,2020/11/19,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/11/17,Lindsay,Ottawa,,,,,,,
+T0207463,2020/11/17,2020/11/19,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/11/19,Ottawa,Lindsay,,,,,,,
+T0207722,2020/11/22,2020/11/27,,,,,,,296.9800,0.0000,166.9600,1.0000,0,0,463.94
+T0207722,2020/11/22,2020/11/27,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/11/22,Lindsay,Ottawa,,,,,,,
+T0207722,2020/11/22,2020/11/27,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/11/27,Ottawa,Lindsay,,,,,,,
+T0208070,2020/11/29,2020/12/04,,,,,,,296.9800,0.0000,166.9600,1.0000,0,0,463.94
+T0208070,2020/11/29,2020/12/04,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/11/29,Lindsay,Ottawa,,,,,,,
+T0208070,2020/11/29,2020/12/04,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/12/04,Ottawa,Lindsay,,,,,,,
+200455990,2020/12/01,2020/12/31,,,,,,,0.0000,2100.0000,0.0000,0,0,0,2100.00
+200455990,2020/12/01,2020/12/31,"Schmale, Jamie",Member,Secondary Residence,2020/12/01,OTTAWA,OTTAWA,,,,,,,
+T0208303,2020/12/06,2020/12/10,,,,,,,296.9800,0.0000,250.4500,1.0000,0,0,547.43
+T0208303,2020/12/06,2020/12/10,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/12/06,Lindsay,Ottawa,,,,,,,
+T0208303,2020/12/06,2020/12/10,"Schmale, Jamie",Member,To travel to/from constituency and Ottawa,2020/12/10,Ottawa,Lindsay,,,,,,,
+200461677,2021/01/01,2021/01/31,,,,,,,0.0000,2100.0000,0.0000,0,0,0,2100.00
+200461677,2021/01/01,2021/01/31,"Schmale, Jamie",Member,Secondary Residence,2021/01/01,OTTAWA,OTTAWA,,,,,,,

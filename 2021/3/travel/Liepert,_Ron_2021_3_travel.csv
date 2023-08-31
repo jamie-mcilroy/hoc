@@ -1,0 +1,33 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0206103,2020/04/29,2020/09/28,,,,,,,0.0000,88.1100,0.0000,0,0,0,88.11
+T0206103,2020/04/29,2020/09/28,"Liepert, Ron",Member,Secondary Residence,2020/08/29,Ottawa,Ottawa,,,,,,,
+T0206103,2020/04/29,2020/09/28,"Liepert, Ron",Member,Secondary Residence,2020/04/29,Ottawa,Ottawa,,,,,,,
+T0206103,2020/04/29,2020/09/28,"Liepert, Ron",Member,Secondary Residence,2020/05/29,Ottawa,Ottawa,,,,,,,
+T0206103,2020/04/29,2020/09/28,"Liepert, Ron",Member,Secondary Residence,2020/07/29,Ottawa,Ottawa,,,,,,,
+T0206103,2020/04/29,2020/09/28,"Liepert, Ron",Member,Secondary Residence,2020/06/29,Ottawa,Ottawa,,,,,,,
+T0206236,2020/09/01,2020/10/01,,,,,,,0.0000,34.7100,0.0000,0,0,0,34.71
+T0206236,2020/09/01,2020/10/01,"Liepert, Ron",Member,Secondary Residence,2020/09/01,Ottawa,Ottawa,,,,,,,
+T0206106,2020/09/26,2020/10/10,,,,,,,1022.4600,0.0000,0.0000,1.0000,0,0,1022.46
+T0206106,2020/09/26,2020/10/10,"Smith, Michael",Employee,To travel to/from constituency and Ottawa,2020/09/26,Calgary,Ottawa,,,,,,,
+T0206106,2020/09/26,2020/10/10,"Smith, Michael",Employee,To travel to/from constituency and Ottawa,2020/10/10,Ottawa,Calgary,,,,,,,
+T0206614,2020/09/29,2020/10/28,,,,,,,0.0000,77.8800,0.0000,0,0,0,77.88
+T0206614,2020/09/29,2020/10/28,"Liepert, Ron",Member,Secondary Residence,2020/09/29,Ottawa,Ottawa,,,,,,,
+T0207306,2020/10/01,2020/10/31,,,,,,,0.0000,37.4900,0.0000,0,0,0,37.49
+T0207306,2020/10/01,2020/10/31,"Liepert, Ron",Member,Secondary Residence,2020/10/01,Ottawa,Ottawa,,,,,,,
+T0206112,2020/10/04,2020/10/09,,,,,,,2181.8300,0.0000,426.1600,1.0000,0,0,2607.99
+T0206112,2020/10/04,2020/10/09,"Liepert, Ron",Member,To travel to/from constituency and Ottawa,2020/10/04,Calgary,Ottawa,,,,,,,
+T0206112,2020/10/04,2020/10/09,"Liepert, Ron",Member,To travel to/from constituency and Ottawa,2020/10/09,Ottawa,Calgary,,,,,,,
+T0207058,2020/10/25,2020/10/29,,,,,,,2337.1300,0.0000,358.1200,1.0000,0,0,2695.25
+T0207058,2020/10/25,2020/10/29,"Liepert, Ron",Member,To travel to/from constituency and Ottawa,2020/10/25,Calgary,Ottawa,,,,,,,
+T0207058,2020/10/25,2020/10/29,"Liepert, Ron",Member,To travel to/from constituency and Ottawa,2020/10/29,Ottawa,Calgary,,,,,,,
+T0207935,2020/10/29,2020/11/28,,,,,,,0.0000,93.8000,0.0000,0,0,0,93.80
+T0207935,2020/10/29,2020/11/28,"Liepert, Ron",Member,Secondary Residence,2020/10/29,Ottawa,Ottawa,,,,,,,
+200449050,2020/11/01,2020/11/30,,,,,,,0.0000,2091.6000,0.0000,0,0,0,2091.60
+200449050,2020/11/01,2020/11/30,"Liepert, Ron",Member,Secondary Residence,2020/11/01,OTTAWA,OTTAWA,,,,,,,
+T0208296,2020/11/29,2020/12/04,,,,,,,1269.6100,0.0000,327.2300,1.0000,0,0,1596.84
+T0208296,2020/11/29,2020/12/04,"Liepert, Ron",Member,To travel to/from constituency and Ottawa,2020/11/29,Calgary,Ottawa,,,,,,,
+T0208296,2020/11/29,2020/12/04,"Liepert, Ron",Member,To travel to/from constituency and Ottawa,2020/12/04,Ottawa,Calgary,,,,,,,
+200455951,2020/12/01,2020/12/31,,,,,,,0.0000,2091.6000,0.0000,0,0,0,2091.60
+200455951,2020/12/01,2020/12/31,"Liepert, Ron",Member,Secondary Residence,2020/12/01,OTTAWA,OTTAWA,,,,,,,
+200461638,2021/01/01,2021/01/31,,,,,,,0.0000,2091.6000,0.0000,0,0,0,2091.60
+200461638,2021/01/01,2021/01/31,"Liepert, Ron",Member,Secondary Residence,2021/01/01,OTTAWA,OTTAWA,,,,,,,

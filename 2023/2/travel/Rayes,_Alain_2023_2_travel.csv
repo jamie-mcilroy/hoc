@@ -1,0 +1,76 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0230501,2022/06/03,2022/06/09,,,,,,,261.0000,0.0000,0.0000,0.0000,0.0000,0,261.00
+T0230501,2022/06/03,2022/06/09,"Plamondon, Benoit",Employee,To attend meetings with stakeholders about business of the House,2022/06/03,Victoriaville,Saint-Denis-de-Brompton,,,,,,,
+T0230501,2022/06/03,2022/06/09,"Plamondon, Benoit",Employee,To attend a constituency or community event,2022/06/09,Val-des-Sources,Victoriaville,,,,,,,
+T0230501,2022/06/03,2022/06/09,"Plamondon, Benoit",Employee,To attend meetings with stakeholders about business of the House,2022/06/03,Saint-Denis-de-Brompton,Victoriaville,,,,,,,
+T0230501,2022/06/03,2022/06/09,"Plamondon, Benoit",Employee,To represent the Member at an event,2022/06/07,Victoriaville,Sainte-Clotilde-de-Horton,,,,,,,
+T0230501,2022/06/03,2022/06/09,"Plamondon, Benoit",Employee,To represent the Member at an event,2022/06/07,Sainte-Clotilde-de-Horton,Victoriaville,,,,,,,
+T0230501,2022/06/03,2022/06/09,"Plamondon, Benoit",Employee,To represent the Member at an event,2022/06/08,Victoriaville,Melbourne,,,,,,,
+T0230501,2022/06/03,2022/06/09,"Plamondon, Benoit",Employee,To represent the Member at an event,2022/06/08,Melbourne,Victoriaville,,,,,,,
+T0230501,2022/06/03,2022/06/09,"Plamondon, Benoit",Employee,To attend a constituency or community event,2022/06/08,Victoriaville,Cleveland,,,,,,,
+T0230501,2022/06/03,2022/06/09,"Plamondon, Benoit",Employee,To attend a constituency or community event,2022/06/08,Cleveland,Victoriaville,,,,,,,
+T0230501,2022/06/03,2022/06/09,"Plamondon, Benoit",Employee,To attend a constituency or community event,2022/06/09,Victoriaville,Val-des-Sources,,,,,,,
+T0232907,2022/06/16,2022/07/09,,,,,,,157.7600,0.0000,0.0000,0.0000,0,0,157.76
+T0232907,2022/06/16,2022/07/09,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2022/06/16,Victoriaville,Warwick,,,,,,,
+T0232907,2022/06/16,2022/07/09,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2022/06/16,Warwick,Victoriaville,,,,,,,
+T0232907,2022/06/16,2022/07/09,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2022/06/17,Victoriaville,Sainte-Clotilde-de-Horton,,,,,,,
+T0232907,2022/06/16,2022/07/09,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2022/06/17,Sainte-Clotilde-de-Horton,Victoriaville,,,,,,,
+T0232907,2022/06/16,2022/07/09,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2022/06/22,Victoriaville,Richmond,,,,,,,
+T0232907,2022/06/16,2022/07/09,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2022/06/22,Richmond,Victoriaville,,,,,,,
+T0232907,2022/06/16,2022/07/09,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2022/07/09,Victoriaville,Kingsbury,,,,,,,
+T0232907,2022/06/16,2022/07/09,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2022/07/09,Kingsbury,Victoriaville,,,,,,,
+T0231798,2022/06/17,2022/06/17,,,,,,,28.9000,0.0000,0.0000,0.0000,0,0,28.90
+T0231798,2022/06/17,2022/06/17,"Rayes, Alain",Member,To attend a constituency or community event,2022/06/17,Victoriaville,Sainte-Clotilde-de-Horton,,,,,,,
+T0231798,2022/06/17,2022/06/17,"Rayes, Alain",Member,To attend a constituency or community event,2022/06/17,Sainte-Clotilde-de-Horton,Victoriaville,,,,,,,
+T0231252,2022/06/18,2022/07/17,,,,,,,0.0000,82.1800,0.0000,0,0,0,82.18
+T0231252,2022/06/18,2022/07/17,"Rayes, Alain",Member,Secondary Residence,2022/06/18,Gatineau,Gatineau,,,,,,,
+T0231231,2022/06/20,2022/06/23,,,,,,,355.9900,0.0000,393.8400,1.0000,0,0,749.83
+T0231231,2022/06/20,2022/06/23,"Rayes, Alain",Member,To travel to/from constituency and Ottawa,2022/06/20,Victoriaville,Ottawa,,,,,,,
+T0231231,2022/06/20,2022/06/23,"Rayes, Alain",Member,To travel to/from constituency and Ottawa,2022/06/23,Ottawa,Victoriaville,,,,,,,
+T0231232,2022/06/23,2022/06/23,,,,,,,74.6400,0.0000,0.0000,0.0000,0.0000,0,74.64
+T0231232,2022/06/23,2022/06/23,"Turcotte, Danielle",Employee,To attend a constituency or community event,2022/06/23,Victoriaville,Val-des-Sources,,,,,,,
+T0231232,2022/06/23,2022/06/23,"Turcotte, Danielle",Employee,To attend a constituency or community event,2022/06/23,Val-des-Sources,Windsor,,,,,,,
+T0231232,2022/06/23,2022/06/23,"Turcotte, Danielle",Employee,To attend a constituency or community event,2022/06/23,Windsor,Victoriaville,,,,,,,
+200582486,2022/07/01,2022/07/31,,,,,,,0.0000,1800.0000,0.0000,0,0,0,1800.00
+200582486,2022/07/01,2022/07/31,"Rayes, Alain",Member,Secondary Residence,2022/07/01,GATINEAU,GATINEAU,,,,,,,
+T0233038,2022/07/18,2022/08/17,,,,,,,0.0000,82.1800,0.0000,0,0,0,82.18
+T0233038,2022/07/18,2022/08/17,"Rayes, Alain",Member,Secondary Residence,2022/07/18,Gatineau,Gatineau,,,,,,,
+T0234229,2022/07/20,2022/07/20,,,,,,,77.9000,0.0000,0.0000,0.0000,0.0000,0,77.90
+T0234229,2022/07/20,2022/07/20,"Turcotte, Danielle",Employee,To attend a constituency or community event,2022/07/20,Victoriaville,Val-des-Sources,,,,,,,
+T0234229,2022/07/20,2022/07/20,"Turcotte, Danielle",Employee,To attend a constituency or community event,2022/07/20,Val-des-Sources,Windsor,,,,,,,
+T0234229,2022/07/20,2022/07/20,"Turcotte, Danielle",Employee,To attend a constituency or community event,2022/07/20,Windsor,Victoriaville,,,,,,,
+200590113,2022/08/01,2022/08/31,,,,,,,0.0000,1800.0000,0.0000,0,0,0,1800.00
+200590113,2022/08/01,2022/08/31,"Rayes, Alain",Member,Secondary Residence,2022/08/01,GATINEAU,GATINEAU,,,,,,,
+T0233826,2022/08/13,2022/08/13,,,,,,,55.2800,0.0000,0.0000,0.0000,0,0,55.28
+T0233826,2022/08/13,2022/08/13,"Rayes, Alain",Member,To attend a constituency or community event,2022/08/13,Victoriaville,Melbourne,,,,,,,
+T0233826,2022/08/13,2022/08/13,"Rayes, Alain",Member,To attend a constituency or community event,2022/08/13,Melbourne,Victoriaville,,,,,,,
+T0234803,2022/08/18,2022/08/20,,,,,,,120.5900,0.0000,0.0000,0.0000,0.0000,0,120.59
+T0234803,2022/08/18,2022/08/20,"Rayes, Alain",Member,To attend a constituency or community event,2022/08/18,Victoriaville,Richmond,,,,,,,
+T0234803,2022/08/18,2022/08/20,"Rayes, Alain",Member,To attend a constituency or community event,2022/08/18,Richmond,Victoriaville,,,,,,,
+T0234803,2022/08/18,2022/08/20,"Rayes, Alain",Member,To attend a constituency or community event,2022/08/20,Victoriaville,Saints-Martyrs-Canadiens,,,,,,,
+T0234803,2022/08/18,2022/08/20,"Rayes, Alain",Member,To attend a constituency or community event,2022/08/20,Saints-Martyrs-Canadiens,Val-des-Sources,,,,,,,
+T0234803,2022/08/18,2022/08/20,"Rayes, Alain",Member,To attend a constituency or community event,2022/08/20,Val-des-Sources,Victoriaville,,,,,,,
+T0234213,2022/08/18,2022/09/17,,,,,,,0.0000,82.1800,0.0000,0,0,0,82.18
+T0234213,2022/08/18,2022/09/17,"Rayes, Alain",Member,Secondary Residence,2022/08/18,Gatineau,Gatineau,,,,,,,
+T0234231,2022/08/25,2022/08/25,,,,,,,77.9000,0.0000,0.0000,0.0000,0.0000,0,77.90
+T0234231,2022/08/25,2022/08/25,"Turcotte, Danielle",Employee,To attend a constituency or community event,2022/08/25,Victoriaville,Val-des-Sources,,,,,,,
+T0234231,2022/08/25,2022/08/25,"Turcotte, Danielle",Employee,To attend a constituency or community event,2022/08/25,Val-des-Sources,Windsor,,,,,,,
+T0234231,2022/08/25,2022/08/25,"Turcotte, Danielle",Employee,To attend a constituency or community event,2022/08/25,Windsor,Victoriaville,,,,,,,
+T0234808,2022/08/26,2022/09/02,,,,,,,65.3400,0.0000,0.0000,0.0000,0,0,65.34
+T0234808,2022/08/26,2022/09/02,"Rayes, Alain",Member,To attend a constituency or community event,2022/08/26,Victoriaville,Warwick,,,,,,,
+T0234808,2022/08/26,2022/09/02,"Rayes, Alain",Member,To attend a constituency or community event,2022/08/26,Warwick,Victoriaville,,,,,,,
+T0234808,2022/08/26,2022/09/02,"Rayes, Alain",Member,To attend a constituency or community event,2022/08/31,Victoriaville,Warwick,,,,,,,
+T0234808,2022/08/26,2022/09/02,"Rayes, Alain",Member,To attend a constituency or community event,2022/08/31,Warwick,Victoriaville,,,,,,,
+T0234808,2022/08/26,2022/09/02,"Rayes, Alain",Member,To attend a constituency or community event,2022/09/02,Victoriaville,Danville,,,,,,,
+T0234808,2022/08/26,2022/09/02,"Rayes, Alain",Member,To attend a constituency or community event,2022/09/02,Danville,Victoriaville,,,,,,,
+200600145,2022/09/01,2022/09/30,,,,,,,0.0000,1800.0000,0.0000,0,0,0,1800.00
+200600145,2022/09/01,2022/09/30,"Rayes, Alain",Member,Secondary Residence,2022/09/01,GATINEAU,GATINEAU,,,,,,,
+T0234778,2022/09/06,2022/09/08,,,,,,,102.5200,0.0000,0.0000,0.0000,0,0,102.52
+T0234778,2022/09/06,2022/09/08,"Rayes, Alain",Member,To attend a constituency or community event,2022/09/06,Victoriaville,Danville,,,,,,,
+T0234778,2022/09/06,2022/09/08,"Rayes, Alain",Member,To attend a constituency or community event,2022/09/06,Danville,Victoriaville,,,,,,,
+T0234778,2022/09/06,2022/09/08,"Rayes, Alain",Member,To attend a constituency or community event,2022/09/07,Victoriaville,Warwick,,,,,,,
+T0234778,2022/09/06,2022/09/08,"Rayes, Alain",Member,To attend a constituency or community event,2022/09/07,Warwick,Victoriaville,,,,,,,
+T0234778,2022/09/06,2022/09/08,"Rayes, Alain",Member,To attend a constituency or community event,2022/09/08,Victoriaville,Richmond,,,,,,,
+T0234778,2022/09/06,2022/09/08,"Rayes, Alain",Member,To attend a constituency or community event,2022/09/08,Richmond,Victoriaville,,,,,,,
+200607435,2022/10/01,2022/10/31,,,,,,,0.0000,1800.0000,0.0000,0,0,0,1800.00
+200607435,2022/10/01,2022/10/31,"Rayes, Alain",Member,Secondary Residence,2022/10/01,GATINEAU,GATINEAU,,,,,,,

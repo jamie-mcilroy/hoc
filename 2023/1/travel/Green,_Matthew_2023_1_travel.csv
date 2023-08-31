@@ -1,0 +1,13 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+400134798,2022/04/01,2022/04/30,,,,,,,0.0000,1785.0000,0.0000,0,0,0,1785.00
+400134798,2022/04/01,2022/04/30,"Green, Matthew",Member,Secondary Residence,2022/04/01,OTTAWA,OTTAWA,,,,,,,
+T0225956,2022/04/01,2022/04/30,,,,,,,0.0000,71.0000,0.0000,0,0,0,71.00
+T0225956,2022/04/01,2022/04/30,"Green, Matthew",Member,Secondary Residence,2022/04/01,Ottawa,Ottawa,,,,,,,
+200574975,2022/05/01,2022/05/31,,,,,,,0.0000,2871.9700,0.0000,0,0,0,2871.97
+200574975,2022/05/01,2022/05/31,"Green, Matthew",Member,Secondary Residence,2022/05/01,Ottawa,Ottawa,,,,,,,
+T0229495,2022/05/24,2022/05/27,,,,,,,584.5600,0.0000,132.1400,1.0000,0,0,716.70
+T0229495,2022/05/24,2022/05/27,"Jamula, Ryan",Parliamentary Intern,To travel to/from constituency and Ottawa,2022/05/24,Ottawa,Hamilton (City / Ville),,,,,,,
+T0229295,2022/05/24,2022/05/27,,,,,,,1204.7400,863.7400,167.3700,1.0000,0,0,2235.85
+T0229295,2022/05/24,2022/05/27,"Crosby, Tyler",Employee,To travel to/from constituency and Ottawa,2022/05/24,Ottawa,Hamilton (City / Ville),,,,,,,
+T0229295,2022/05/24,2022/05/27,"Crosby, Tyler",Employee,To travel to/from constituency and Ottawa,2022/05/27,Hamilton (City / Ville),Ottawa,,,,,,,
+T0229495,2022/05/24,2022/05/27,"Jamula, Ryan",Parliamentary Intern,To travel to/from constituency and Ottawa,2022/05/27,Hamilton (City / Ville),Ottawa,,,,,,,

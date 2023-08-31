@@ -1,0 +1,79 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0210707,2020/05/28,2020/06/27,,,,,,,0.0000,30.0600,0.0000,0,0,0,30.06
+T0210707,2020/05/28,2020/06/27,"O'Connell, Jennifer",Member,Secondary Residence,2020/05/28,Ottawa,Ottawa,,,,,,,
+T0210708,2020/06/27,2020/07/28,,,,,,,0.0000,31.8500,0.0000,0,0,0,31.85
+T0210708,2020/06/27,2020/07/28,"O'Connell, Jennifer",Member,Secondary Residence,2020/06/27,Ottawa,Ottawa,,,,,,,
+T0210670,2020/07/12,2020/08/11,,,,,,,0.0000,105.9500,0.0000,0,0,0,105.95
+T0210670,2020/07/12,2020/08/11,"O'Connell, Jennifer",Member,Secondary Residence,2020/07/12,Ottawa,Ottawa,,,,,,,
+T0210709,2020/07/28,2020/08/27,,,,,,,0.0000,31.2900,0.0000,0,0,0,31.29
+T0210709,2020/07/28,2020/08/27,"O'Connell, Jennifer",Member,Secondary Residence,2020/07/28,Ottawa,Ottawa,,,,,,,
+T0210671,2020/08/12,2020/09/11,,,,,,,0.0000,105.9500,0.0000,0,0,0,105.95
+T0210671,2020/08/12,2020/09/11,"O'Connell, Jennifer",Member,Secondary Residence,2020/08/12,Ottawa,Ottawa,,,,,,,
+T0210761,2020/08/13,2020/09/12,,,,,,,0.0000,25.0900,0.0000,0,0,0,25.09
+T0210761,2020/08/13,2020/09/12,"O'Connell, Jennifer",Member,Secondary Residence,2020/08/13,Ottawa,Ottawa,,,,,,,
+T0210712,2020/08/27,2020/09/27,,,,,,,0.0000,30.3300,0.0000,0,0,0,30.33
+T0210712,2020/08/27,2020/09/27,"O'Connell, Jennifer",Member,Secondary Residence,2020/08/27,Ottawa,Ottawa,,,,,,,
+T0210672,2020/09/12,2020/10/11,,,,,,,0.0000,105.9500,0.0000,0,0,0,105.95
+T0210672,2020/09/12,2020/10/11,"O'Connell, Jennifer",Member,Secondary Residence,2020/09/12,Ottawa,Ottawa,,,,,,,
+T0210762,2020/09/13,2020/10/12,,,,,,,0.0000,25.0900,0.0000,0,0,0,25.09
+T0210762,2020/09/13,2020/10/12,"O'Connell, Jennifer",Member,Secondary Residence,2020/09/13,Ottawa,Ottawa,,,,,,,
+T0210714,2020/09/27,2020/10/27,,,,,,,0.0000,38.1500,0.0000,0,0,0,38.15
+T0210714,2020/09/27,2020/10/27,"O'Connell, Jennifer",Member,Secondary Residence,2020/09/27,Ottawa,Ottawa,,,,,,,
+T0210674,2020/10/12,2020/11/11,,,,,,,0.0000,105.9500,0.0000,0,0,0,105.95
+T0210674,2020/10/12,2020/11/11,"O'Connell, Jennifer",Member,Secondary Residence,2020/10/12,Ottawa,Ottawa,,,,,,,
+T0210763,2020/10/13,2020/11/12,,,,,,,0.0000,25.0900,0.0000,0,0,0,25.09
+T0210763,2020/10/13,2020/11/12,"O'Connell, Jennifer",Member,Secondary Residence,2020/10/13,Ottawa,Ottawa,,,,,,,
+T0210718,2020/10/27,2020/11/26,,,,,,,0.0000,28.3300,0.0000,0,0,0,28.33
+T0210718,2020/10/27,2020/11/26,"O'Connell, Jennifer",Member,Secondary Residence,2020/10/27,Ottawa,Ottawa,,,,,,,
+T0210675,2020/11/12,2020/12/11,,,,,,,0.0000,105.9500,0.0000,0,0,0,105.95
+T0210675,2020/11/12,2020/12/11,"O'Connell, Jennifer",Member,Secondary Residence,2020/11/12,Ottawa,Ottawa,,,,,,,
+T0210764,2020/11/13,2020/12/12,,,,,,,0.0000,25.0900,0.0000,0,0,0,25.09
+T0210764,2020/11/13,2020/12/12,"O'Connell, Jennifer",Member,Secondary Residence,2020/11/13,Ottawa,Ottawa,,,,,,,
+T0210720,2020/11/26,2020/12/26,,,,,,,0.0000,33.1700,0.0000,0,0,0,33.17
+T0210720,2020/11/26,2020/12/26,"O'Connell, Jennifer",Member,Secondary Residence,2020/11/26,Ottawa,Ottawa,,,,,,,
+T0210307,2020/11/27,2020/11/27,,,,,,,53.5500,0.0000,0.0000,0,0.0000,0,53.55
+T0210307,2020/11/27,2020/11/27,"O'Connell, Jennifer",Member,To support a parliamentary committee,2020/11/27,Pickering,Toronto,,,,,,,
+T0210307,2020/11/27,2020/11/27,"O'Connell, Jennifer",Member,To support a parliamentary committee,2020/11/27,Pickering,Toronto,,,,,,,
+T0210307,2020/11/27,2020/11/27,"O'Connell, Jennifer",Member,To support a parliamentary committee,2020/11/27,Toronto,Pickering,,,,,,,
+T0210144,2020/11/29,2020/12/04,,,,,,,384.7800,0.0000,395.7100,1.0000,0,0,780.49
+T0210144,2020/11/29,2020/12/04,"O'Connell, Jennifer",Member,To travel to/from constituency and Ottawa,2020/11/29,Pickering,Ottawa,,,,,,,
+T0210144,2020/11/29,2020/12/04,"O'Connell, Jennifer",Member,To travel to/from constituency and Ottawa,2020/12/04,Ottawa,Pickering,,,,,,,
+T0210305,2020/12/06,2020/12/10,,,,,,,384.7800,0.0000,376.9200,1.0000,0,0,761.70
+T0210305,2020/12/06,2020/12/10,"O'Connell, Jennifer",Member,To travel to/from constituency and Ottawa,2020/12/06,Pickering,Ottawa,,,,,,,
+T0210305,2020/12/06,2020/12/10,"O'Connell, Jennifer",Member,To travel to/from constituency and Ottawa,2020/12/10,Ottawa,Pickering,,,,,,,
+T0210308,2020/12/11,2020/12/11,,,,,,,55.3400,0.0000,0.0000,0,0.0000,0,55.34
+T0210308,2020/12/11,2020/12/11,"O'Connell, Jennifer",Member,To support a parliamentary committee,2020/12/11,Pickering,Toronto,,,,,,,
+T0210308,2020/12/11,2020/12/11,"O'Connell, Jennifer",Member,To support a parliamentary committee,2020/12/11,Toronto,Pickering,,,,,,,
+T0210308,2020/12/11,2020/12/11,"O'Connell, Jennifer",Member,To support a parliamentary committee,2020/12/11,Pickering,Toronto,,,,,,,
+T0210676,2020/12/12,2021/01/11,,,,,,,0.0000,105.9500,0.0000,0,0,0,105.95
+T0210676,2020/12/12,2021/01/11,"O'Connell, Jennifer",Member,Secondary Residence,2020/12/12,Ottawa,Ottawa,,,,,,,
+T0210766,2020/12/13,2021/01/12,,,,,,,0.0000,25.0900,0.0000,0,0,0,25.09
+T0210766,2020/12/13,2021/01/12,"O'Connell, Jennifer",Member,Secondary Residence,2020/12/13,Ottawa,Ottawa,,,,,,,
+T0210721,2020/12/26,2021/01/25,,,,,,,0.0000,31.4000,0.0000,0,0,0,31.40
+T0210721,2020/12/26,2021/01/25,"O'Connell, Jennifer",Member,Secondary Residence,2020/12/26,Ottawa,Ottawa,,,,,,,
+T0210678,2021/01/12,2021/02/11,,,,,,,0.0000,105.9500,0.0000,0,0,0,105.95
+T0210678,2021/01/12,2021/02/11,"O'Connell, Jennifer",Member,Secondary Residence,2021/01/12,Ottawa,Ottawa,,,,,,,
+T0210767,2021/01/13,2021/02/12,,,,,,,0.0000,25.0900,0.0000,0,0,0,25.09
+T0210767,2021/01/13,2021/02/12,"O'Connell, Jennifer",Member,Secondary Residence,2021/01/13,Ottawa,Ottawa,,,,,,,
+T0210930,2021/01/25,2021/02/24,,,,,,,0.0000,31.3800,0.0000,0,0,0,31.38
+T0210930,2021/01/25,2021/02/24,"O'Connell, Jennifer",Member,Secondary Residence,2021/01/25,Ottawa,Ottawa,,,,,,,
+T0210722,2021/01/25,2021/02/24,,,,,,,0.0000,31.3800,0.0000,0,0,0,31.38
+T0210722,2021/01/25,2021/02/24,"O'Connell, Jennifer",Member,Secondary Residence,2021/01/25,Ottawa,Ottawa,,,,,,,
+200467623,2021/02/01,2021/02/28,,,,,,,0.0000,1850.0000,0.0000,0,0,0,1850.00
+200467623,2021/02/01,2021/02/28,"O’Connell, Jennifer",Member,Secondary Residence,2021/02/01,OTTAWA,OTTAWA,,,,,,,
+T0210680,2021/02/12,2021/03/11,,,,,,,0.0000,105.9500,0.0000,0,0,0,105.95
+T0210680,2021/02/12,2021/03/11,"O'Connell, Jennifer",Member,Secondary Residence,2021/02/12,Ottawa,Ottawa,,,,,,,
+T0210768,2021/02/13,2021/03/12,,,,,,,0.0000,25.0900,0.0000,0,0,0,25.09
+T0210768,2021/02/13,2021/03/12,"O'Connell, Jennifer",Member,Secondary Residence,2021/02/13,Ottawa,Ottawa,,,,,,,
+T0210309,2021/02/19,2021/02/19,,,,,,,53.9300,0.0000,0.0000,0,0.0000,0,53.93
+T0210309,2021/02/19,2021/02/19,"O'Connell, Jennifer",Member,To support a parliamentary committee,2021/02/19,Pickering,Toronto,,,,,,,
+T0210309,2021/02/19,2021/02/19,"O'Connell, Jennifer",Member,To support a parliamentary committee,2021/02/19,Toronto,Pickering,,,,,,,
+T0210309,2021/02/19,2021/02/19,"O'Connell, Jennifer",Member,To support a parliamentary committee,2021/02/19,Pickering,Toronto,,,,,,,
+T0210310,2021/02/26,2021/02/26,,,,,,,53.9300,0.0000,0.0000,0,0.0000,0,53.93
+T0210310,2021/02/26,2021/02/26,"O'Connell, Jennifer",Member,To support a parliamentary committee,2021/02/26,Pickering,Toronto,,,,,,,
+T0210310,2021/02/26,2021/02/26,"O'Connell, Jennifer",Member,To support a parliamentary committee,2021/02/26,Toronto,Pickering,,,,,,,
+T0210310,2021/02/26,2021/02/26,"O'Connell, Jennifer",Member,To support a parliamentary committee,2021/02/26,Pickering,Toronto,,,,,,,
+200475624,2021/03/01,2021/03/31,,,,,,,0.0000,1850.0000,0.0000,0,0,0,1850.00
+200475624,2021/03/01,2021/03/31,"O'Connell, Jennifer",Member,Secondary Residence,2021/03/01,OTTAWA,OTTAWA,,,,,,,
+T0210929,2021/03/12,2021/03/31,,,,,,,0.0000,70.2700,0.0000,0,0,0,70.27
+T0210929,2021/03/12,2021/03/31,"O'Connell, Jennifer",Member,Secondary Residence,2021/03/12,Ottawa,Ottawa,,,,,,,

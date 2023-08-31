@@ -1,0 +1,16 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0217061,2021/05/01,2021/09/20,,,,,,,0.0000,175.0000,0.0000,0,0,0,175.00
+T0217061,2021/05/01,2021/09/20,"Casey, Sean",Member,Secondary Residence,2021/05/01,Ottawa,Ottawa,,,,,,,
+T0217063,2021/08/15,2021/09/20,,,,,,,0.0000,1850.0000,0.0000,0,0,0,1850.00
+T0217063,2021/08/15,2021/09/20,"Casey, Sean",Member,Secondary Residence,2021/08/15,Ottawa,Ottawa,,,,,,,
+T0217651,2021/09/21,2021/10/31,,,,,,,0.0000,2050.0000,0.0000,0,0,0,2050.00
+T0217651,2021/09/21,2021/10/31,"Casey, Sean",Member,Secondary Residence,2021/09/21,Ottawa,Ottawa,,,,,,,
+T0219803,2021/11/12,2021/11/27,,,,,,,840.5200,1218.2100,1245.7100,1.0000,0,0,3304.44
+T0219803,2021/11/12,2021/11/27,"Peters, Nicole A.",Employee,To travel to/from constituency and Ottawa,2021/11/12,Charlottetown,Ottawa,,,,,,,
+T0219803,2021/11/12,2021/11/27,"Peters, Nicole A.",Employee,To travel to/from constituency and Ottawa,2021/11/27,Ottawa,Charlottetown,,,,,,,
+T0219014,2021/11/19,2021/11/21,,,,,,,1150.1800,286.3700,257.0100,1.0000,0,0,1693.56
+T0219014,2021/11/19,2021/11/21,"Reid, Corinne",Employee,To travel to/from constituency and Ottawa,2021/11/19,Charlottetown,Ottawa,,,,,,,
+T0219016,2021/11/19,2021/11/21,,,,,,,1295.3000,0.0000,257.0100,1.0000,0,0,1552.31
+T0219016,2021/11/19,2021/11/21,"Halliwell, Lisa",Employee,To travel to/from constituency and Ottawa,2021/11/19,Charlottetown,Ottawa,,,,,,,
+T0219014,2021/11/19,2021/11/21,"Reid, Corinne",Employee,To travel to/from constituency and Ottawa,2021/11/21,Ottawa,Charlottetown,,,,,,,
+T0219016,2021/11/19,2021/11/21,"Halliwell, Lisa",Employee,To travel to/from constituency and Ottawa,2021/11/21,Ottawa,Charlottetown,,,,,,,

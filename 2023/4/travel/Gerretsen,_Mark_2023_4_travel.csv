@@ -1,0 +1,65 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0242784,2022/11/10,2023/01/04,,,,,,,0.0000,147.6500,0.0000,0,0,0,147.65
+T0242784,2022/11/10,2023/01/04,"Gerretsen, Mark",Member,Secondary Residence,2022/11/10,Ottawa,Ottawa,,,,,,,
+T0242784,2022/11/10,2023/01/04,"Gerretsen, Mark",Member,Secondary Residence,2022/12/05,Ottawa,Ottawa,,,,,,,
+T0242057,2022/11/14,2022/11/17,,,,,,,114.4000,0.0000,0.0000,1.0000,0,0,114.40
+T0242057,2022/11/14,2022/11/17,"Hubbard, Gabriella",Employee,To travel to/from constituency and Ottawa,2022/11/14,Kingston,Ottawa,,,,,,,
+T0242057,2022/11/14,2022/11/17,"Hubbard, Gabriella",Employee,To travel to/from constituency and Ottawa,2022/11/17,Ottawa,Kingston,,,,,,,
+T0244274,2022/12/10,2023/02/04,,,,,,,0.0000,153.4900,0.0000,0,0,0,153.49
+T0244274,2022/12/10,2023/02/04,"Gerretsen, Mark",Member,Secondary Residence,2022/12/10,Ottawa,Ottawa,,,,,,,
+T0244274,2022/12/10,2023/02/04,"Gerretsen, Mark",Member,Secondary Residence,2023/01/05,Ottawa,Ottawa,,,,,,,
+T0242043,2022/12/14,2022/12/15,,,,,,,0.0000,291.8000,0.0000,0.0000,0,0,291.80
+T0242043,2022/12/14,2022/12/15,"Honderich, Nicole",Employee,To travel to/from constituency and Ottawa,2022/12/14,Kingston,Ottawa,,,,,,,
+T0241679,2022/12/14,2022/12/15,,,,,,,201.5400,0.0000,213.8400,1.0000,0,0,415.38
+T0241679,2022/12/14,2022/12/15,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2022/12/14,Kingston,Ottawa,,,,,,,
+T0241991,2022/12/14,2022/12/15,,,,,,,546.4100,291.8000,0.0000,1.0000,0,0,838.21
+T0241991,2022/12/14,2022/12/15,"Parker, Ann",Employee,To travel to/from constituency and Ottawa,2022/12/14,Kingston,Ottawa,,,,,,,
+T0241991,2022/12/14,2022/12/15,"Parker, Ann",Employee,To travel to/from constituency and Ottawa,2022/12/15,Ottawa,Kingston,,,,,,,
+T0242043,2022/12/14,2022/12/15,"Honderich, Nicole",Employee,To travel to/from constituency and Ottawa,2022/12/15,Ottawa,Kingston,,,,,,,
+T0241679,2022/12/14,2022/12/15,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2022/12/15,Ottawa,Kingston,,,,,,,
+T0246252,2023/01/11,2023/03/04,,,,,,,0.0000,160.9100,0.0000,0,0,0,160.91
+T0246252,2023/01/11,2023/03/04,"Gerretsen, Mark",Member,Secondary Residence,2023/01/11,Ottawa,Ottawa,,,,,,,
+T0246252,2023/01/11,2023/03/04,"Gerretsen, Mark",Member,Secondary Residence,2023/02/05,Ottawa,Ottawa,,,,,,,
+T0244160,2023/01/30,2023/01/31,,,,,,,194.7600,0.0000,213.8400,1.0000,0,0,408.60
+T0244160,2023/01/30,2023/01/31,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/01/30,Kingston,Ottawa,,,,,,,
+T0244160,2023/01/30,2023/01/31,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/01/31,Ottawa,Kingston,,,,,,,
+T0244445,2023/02/01,2023/02/02,,,,,,,194.7600,0.0000,193.4800,1.0000,0,0,388.24
+T0244445,2023/02/01,2023/02/02,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/02/01,Kingston,Ottawa,,,,,,,
+T0244445,2023/02/01,2023/02/02,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/02/02,Ottawa,Kingston,,,,,,,
+200643190,2023/02/01,2023/02/28,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+200643190,2023/02/01,2023/02/28,"Gerretsen, Mark",Member,Secondary Residence,2023/02/01,OTTAWA,OTTAWA,,,,,,,
+T0244741,2023/02/06,2023/02/09,,,,,,,194.7600,0.0000,407.1000,1.0000,0,0,601.86
+T0244741,2023/02/06,2023/02/09,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/02/06,Kingston,Ottawa,,,,,,,
+T0244741,2023/02/06,2023/02/09,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/02/09,Ottawa,Kingston,,,,,,,
+T0248486,2023/02/10,2023/04/04,,,,,,,0.0000,153.3900,0.0000,0,0,0,153.39
+T0248486,2023/02/10,2023/04/04,"Gerretsen, Mark",Member,Secondary Residence,2023/03/05,Ottawa,Ottawa,,,,,,,
+T0248486,2023/02/10,2023/04/04,"Gerretsen, Mark",Member,Secondary Residence,2023/02/10,Ottawa,Ottawa,,,,,,,
+T0245201,2023/02/13,2023/02/14,,,,,,,194.7600,0.0000,193.2600,1.0000,0,0,388.02
+T0245201,2023/02/13,2023/02/14,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/02/13,Kingston,Ottawa,,,,,,,
+T0245201,2023/02/13,2023/02/14,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/02/14,Ottawa,Kingston,,,,,,,
+T0245301,2023/02/15,2023/02/17,,,,,,,194.7600,0.0000,300.1800,1.0000,0,0,494.94
+T0245301,2023/02/15,2023/02/17,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/02/15,Kingston,Ottawa,,,,,,,
+T0245301,2023/02/15,2023/02/17,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/02/17,Ottawa,Kingston,,,,,,,
+200652980,2023/03/01,2023/03/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+200652980,2023/03/01,2023/03/31,"Gerretsen, Mark",Member,Secondary Residence,2023/03/01,OTTAWA,OTTAWA,,,,,,,
+T0246251,2023/03/02,2023/03/02,,,,,,,194.7600,0.0000,86.3400,1.0000,0,0,281.10
+T0246251,2023/03/02,2023/03/02,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/03/02,Kingston,Ottawa,,,,,,,
+T0246251,2023/03/02,2023/03/02,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/03/02,Ottawa,Kingston,,,,,,,
+T0246499,2023/03/06,2023/03/06,,,,,,,194.7600,0.0000,106.9200,1.0000,0,0,301.68
+T0246499,2023/03/06,2023/03/06,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/03/06,Kingston,Ottawa,,,,,,,
+T0246499,2023/03/06,2023/03/06,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/03/06,Ottawa,Kingston,,,,,,,
+T0246666,2023/03/07,2023/03/09,,,,,,,194.7600,0.0000,279.8200,1.0000,0,0,474.58
+T0246666,2023/03/07,2023/03/09,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/03/07,Kingston,Ottawa,,,,,,,
+T0246666,2023/03/07,2023/03/09,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/03/09,Ottawa,Kingston,,,,,,,
+T0247025,2023/03/14,2023/03/14,,,,,,,194.7600,0.0000,86.3400,1.0000,0,0,281.10
+T0247025,2023/03/14,2023/03/14,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/03/14,Kingston,Ottawa,,,,,,,
+T0247025,2023/03/14,2023/03/14,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/03/14,Ottawa,Kingston,,,,,,,
+T0247454,2023/03/19,2023/03/20,,,,,,,209.9400,0.0000,152.3200,1.0000,0,0,362.26
+T0247454,2023/03/19,2023/03/20,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/03/19,Kingston,Ottawa,,,,,,,
+T0247454,2023/03/19,2023/03/20,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/03/20,Ottawa,Kingston,,,,,,,
+T0247709,2023/03/22,2023/03/25,,,,,,,209.9400,0.0000,285.4500,1.0000,0,0,495.39
+T0247709,2023/03/22,2023/03/25,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/03/22,Kingston,Ottawa,,,,,,,
+T0247709,2023/03/22,2023/03/25,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/03/25,Ottawa,Kingston,,,,,,,
+T0248171,2023/03/27,2023/03/30,,,,,,,194.7600,0.0000,366.1600,1.0000,0,0,560.92
+T0248171,2023/03/27,2023/03/30,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/03/27,Kingston,Ottawa,,,,,,,
+T0248171,2023/03/27,2023/03/30,"Gerretsen, Mark",Member,To travel to/from constituency and Ottawa,2023/03/30,Ottawa,Kingston,,,,,,,

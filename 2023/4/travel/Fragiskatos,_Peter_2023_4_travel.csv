@@ -1,0 +1,60 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0241717,2022/12/01,2022/12/02,,,,,,,1182.4300,194.1200,106.9200,1.0000,0,0,1483.47
+T0241717,2022/12/01,2022/12/02,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2022/12/01,London,Ottawa,,,,,,,
+T0241717,2022/12/01,2022/12/02,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2022/12/02,Ottawa,London,,,,,,,
+T0242172,2022/12/11,2022/12/16,,,,,,,1111.4400,970.5800,198.3900,1.0000,0,0,2280.41
+T0242172,2022/12/11,2022/12/16,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2022/12/11,London,Ottawa,,,,,,,
+T0242172,2022/12/11,2022/12/16,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2022/12/16,Ottawa,London,,,,,,,
+T0242166,2022/12/12,2022/12/16,,,,,,,1042.8700,877.2100,198.3900,1.0000,0,0,2118.47
+T0242166,2022/12/12,2022/12/16,"Gauss, Ryan",Employee,To travel to/from constituency and Ottawa,2022/12/12,London,Ottawa,,,,,,,
+T0242166,2022/12/12,2022/12/16,"Gauss, Ryan",Employee,To travel to/from constituency and Ottawa,2022/12/16,Ottawa,London,,,,,,,
+T0242162,2022/12/13,2022/12/16,,,,,,,696.2400,0.0000,0.0000,1.0000,0,0,696.24
+T0242162,2022/12/13,2022/12/16,,Designated Traveller,To unite the family with the Member,2022/12/13,London,Ottawa,,,,,,,
+T0242179,2022/12/13,2022/12/16,,,,,,,839.6500,689.4900,198.3900,1.0000,0,0,1727.53
+T0242179,2022/12/13,2022/12/16,"Chadwick, Josh",Employee,To travel to/from constituency and Ottawa,2022/12/13,London,Ottawa,,,,,,,
+T0242179,2022/12/13,2022/12/16,"Chadwick, Josh",Employee,To travel to/from constituency and Ottawa,2022/12/16,Ottawa,London,,,,,,,
+T0242162,2022/12/13,2022/12/16,,Designated Traveller,To unite the family with the Member,2022/12/16,Ottawa,London,,,,,,,
+T0243530,2022/12/22,2022/12/22,,,,,,,110.8500,0.0000,0.0000,0,0.0000,0,110.85
+T0243530,2022/12/22,2022/12/22,"Gauss, Ryan",Employee,Attending event with Member,2022/12/22,London,Sarnia,,,,,,,
+T0243530,2022/12/22,2022/12/22,"Gauss, Ryan",Employee,Attending event with Member,2022/12/22,Sarnia,Watford,,,,,,,
+T0243530,2022/12/22,2022/12/22,"Gauss, Ryan",Employee,Attending event with Member,2022/12/22,Watford,London,,,,,,,
+T0243532,2023/01/13,2023/01/13,,,,,,,44.0800,0.0000,0.0000,0,0.0000,0,44.08
+T0243532,2023/01/13,2023/01/13,"Gauss, Ryan",Employee,Attending event with Member,2023/01/13,London,Mossley,,,,,,,
+T0243532,2023/01/13,2023/01/13,"Gauss, Ryan",Employee,Attending event with Member,2023/01/13,Mossley,St. Thomas,,,,,,,
+T0243532,2023/01/13,2023/01/13,"Gauss, Ryan",Employee,Attending event with Member,2023/01/13,St. Thomas,London,,,,,,,
+T0244249,2023/01/25,2023/01/25,,,,,,,46.1200,0.0000,0.0000,0,0.0000,0,46.12
+T0244249,2023/01/25,2023/01/25,"Gauss, Ryan",Employee,Attending event with Member,2023/01/25,London,Woodstock,,,,,,,
+T0244249,2023/01/25,2023/01/25,"Gauss, Ryan",Employee,Attending event with Member,2023/01/25,Woodstock,London,,,,,,,
+T0244657,2023/01/26,2023/02/03,,,,,,,1060.4600,1670.4300,427.6800,1.0000,0,0,3158.57
+T0244657,2023/01/26,2023/02/03,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2023/01/26,London,Ottawa,,,,,,,
+T0244657,2023/01/26,2023/02/03,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2023/02/03,Ottawa,London,,,,,,,
+T0245185,2023/02/05,2023/02/10,,,,,,,947.3900,1044.0100,198.3900,1.0000,0,0,2189.79
+T0245185,2023/02/05,2023/02/10,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2023/02/05,London,Ottawa,,,,,,,
+T0245185,2023/02/05,2023/02/10,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2023/02/10,Ottawa,London,,,,,,,
+T0245860,2023/02/12,2023/02/17,,,,,,,948.3100,1044.0200,198.3900,1.0000,0,0,2190.72
+T0245860,2023/02/12,2023/02/17,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2023/02/12,London,Ottawa,,,,,,,
+T0245860,2023/02/12,2023/02/17,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2023/02/17,Ottawa,London,,,,,,,
+T0246450,2023/02/19,2023/02/24,,,,,,,1438.4600,0.0000,0.0000,0,0.0000,0,1438.46
+T0246450,2023/02/19,2023/02/24,"Fragiskatos, Peter",Member,To attend language training,2023/02/19,London,Québec,,,,,,,
+T0246450,2023/02/19,2023/02/24,"Fragiskatos, Peter",Member,To attend language training,2023/02/24,Québec,London,,,,,,,
+T0246713,2023/03/01,2023/03/01,,,,,,,27.6800,0.0000,0.0000,0,0.0000,0,27.68
+T0246713,2023/03/01,2023/03/01,"Gauss, Ryan",Employee,Attending event with Member,2023/03/01,London,St. Thomas,,,,,,,
+T0246713,2023/03/01,2023/03/01,"Gauss, Ryan",Employee,Attending event with Member,2023/03/01,St. Thomas,London,,,,,,,
+T0246715,2023/03/03,2023/03/03,,,,,,,43.0600,0.0000,0.0000,0,0.0000,0,43.06
+T0246715,2023/03/03,2023/03/03,"Gauss, Ryan",Employee,Attending event with Member,2023/03/03,London,Ingersoll,,,,,,,
+T0246715,2023/03/03,2023/03/03,"Gauss, Ryan",Employee,Attending event with Member,2023/03/03,Ingersoll,London,,,,,,,
+T0246929,2023/03/05,2023/03/10,,,,,,,1113.9700,1044.0200,198.3900,1.0000,0,0,2356.38
+T0246929,2023/03/05,2023/03/10,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2023/03/05,London,Ottawa,,,,,,,
+T0246929,2023/03/05,2023/03/10,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2023/03/10,Ottawa,London,,,,,,,
+T0247071,2023/03/12,2023/03/12,,,,,,,179.3800,0.0000,0.0000,0,0.0000,0,179.38
+T0247071,2023/03/12,2023/03/12,"Gauss, Ryan",Employee,To drive Member to/from terminal,2023/03/12,London,Mississauga,,,,,,,
+T0247071,2023/03/12,2023/03/12,"Gauss, Ryan",Employee,To drive Member to/from terminal,2023/03/12,Mississauga,London,,,,,,,
+T0247426,2023/03/16,2023/03/16,,,,,,,191.7500,0.0000,0.0000,0,0.0000,0,191.75
+T0247426,2023/03/16,2023/03/16,"Gauss, Ryan",Employee,To drive Member to/from terminal,2023/03/16,London,Mississauga,,,,,,,
+T0247426,2023/03/16,2023/03/16,"Gauss, Ryan",Employee,To drive Member to/from terminal,2023/03/16,Mississauga,London,,,,,,,
+T0249574,2023/03/19,2023/03/24,,,,,,,728.6800,835.2100,534.6000,1.0000,0,0,2098.49
+T0249574,2023/03/19,2023/03/24,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2023/03/19,London,Ottawa,,,,,,,
+T0249574,2023/03/19,2023/03/24,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2023/03/24,Ottawa,London,,,,,,,
+T0249583,2023/03/26,2023/03/31,,,,,,,1084.7600,1044.0200,534.6000,1.0000,0,0,2663.38
+T0249583,2023/03/26,2023/03/31,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2023/03/26,London,Ottawa,,,,,,,
+T0249583,2023/03/26,2023/03/31,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2023/03/30,Ottawa,London,,,,,,,

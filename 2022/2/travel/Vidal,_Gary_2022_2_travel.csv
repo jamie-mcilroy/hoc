@@ -1,0 +1,56 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0214159,2021/07/12,2021/07/14,,,,,,,278.7500,426.4700,202.9300,0.0000,0,0,908.15
+T0214159,2021/07/12,2021/07/14,"Vidal, Gary",Member,To attend a constituency or community event,2021/07/12,Meadow Lake,Big River,,,,,,,
+T0214166,2021/07/12,2021/07/14,,,,,,,0.0000,0.0000,202.9300,0.0000,0,0,202.93
+T0214166,2021/07/12,2021/07/14,"Petz, Dion",Employee,To attend a constituency or community event,2021/07/12,Meadow Lake,Big River,,,,,,,
+T0214166,2021/07/12,2021/07/14,"Petz, Dion",Employee,To attend meetings about constituency issues,2021/07/13,Big River,Debden,,,,,,,
+T0214159,2021/07/12,2021/07/14,"Vidal, Gary",Member,To attend meetings about constituency issues,2021/07/13,Big River,Debden,,,,,,,
+T0214159,2021/07/12,2021/07/14,"Vidal, Gary",Member,To attend a constituency or community event,2021/07/13,Debden,Canwood,,,,,,,
+T0214166,2021/07/12,2021/07/14,"Petz, Dion",Employee,To attend a constituency or community event,2021/07/13,Debden,Canwood,,,,,,,
+T0214166,2021/07/12,2021/07/14,"Petz, Dion",Employee,To attend meetings about constituency issues,2021/07/13,Canwood,Spiritwood,,,,,,,
+T0214159,2021/07/12,2021/07/14,"Vidal, Gary",Member,To attend meetings about constituency issues,2021/07/13,Canwood,Spiritwood,,,,,,,
+T0214159,2021/07/12,2021/07/14,"Vidal, Gary",Member,To attend meetings about constituency issues,2021/07/14,Spiritwood,Shell Lake,,,,,,,
+T0214166,2021/07/12,2021/07/14,"Petz, Dion",Employee,To attend meetings about constituency issues,2021/07/14,Spiritwood,Shell Lake,,,,,,,
+T0214166,2021/07/12,2021/07/14,"Petz, Dion",Employee,To attend meetings about constituency issues,2021/07/14,Shell Lake,Meadow Lake,,,,,,,
+T0214159,2021/07/12,2021/07/14,"Vidal, Gary",Member,To attend meetings about constituency issues,2021/07/14,Shell Lake,Meadow Lake,,,,,,,
+T0214245,2021/07/15,2021/07/16,,,,,,,0.0000,0.0000,121.3000,0.0000,0.0000,0,121.30
+T0214245,2021/07/15,2021/07/16,"Petz, Dion",Employee,Attending event with Member,2021/07/15,Meadow Lake,Regina,,,,,,,
+T0214244,2021/07/15,2021/07/16,,,,,,,766.1500,75.6300,121.3000,0.0000,0.0000,0,963.08
+T0214244,2021/07/15,2021/07/16,"Vidal, Gary",Member,To attend an event as a matter of protocol,2021/07/15,Meadow Lake,Regina,,,,,,,
+T0214245,2021/07/15,2021/07/16,"Petz, Dion",Employee,Attending event with Member,2021/07/16,Regina,Cowessess,,,,,,,
+T0214244,2021/07/15,2021/07/16,"Vidal, Gary",Member,To attend an event as a matter of protocol,2021/07/16,Regina,Cowessess,,,,,,,
+T0214245,2021/07/15,2021/07/16,"Petz, Dion",Employee,Attending event with Member,2021/07/16,Cowessess,Meadow Lake,,,,,,,
+T0214244,2021/07/15,2021/07/16,"Vidal, Gary",Member,To attend an event as a matter of protocol,2021/07/16,Cowessess,Meadow Lake,,,,,,,
+T0214517,2021/07/25,2021/07/27,,,,,,,369.9000,460.9200,141.3500,0,0.0000,0,972.17
+T0214517,2021/07/25,2021/07/27,"Vidal, Gary",Member,To attend meetings with stakeholders about business of the House,2021/07/25,Meadow Lake Provincial Park,Waskesiu Lake,,,,,,,
+T0214517,2021/07/25,2021/07/27,"Vidal, Gary",Member,To attend meetings with stakeholders about business of the House,2021/07/27,Waskesiu Lake,Meadow Lake Provincial Park,,,,,,,
+200507731,2021/08/01,2021/08/31,,,,,,,0.0000,1950.0000,0.0000,0,0,0,1950.00
+200507731,2021/08/01,2021/08/31,"Vidal, Gary",Member,Secondary Residence,2021/08/01,OTTAWA,OTTAWA,,,,,,,
+T0214916,2021/08/04,2021/08/05,,,,,,,711.3400,309.5200,178.7500,0.0000,0,0,1199.61
+T0214916,2021/08/04,2021/08/05,"Vidal, Gary",Member,To attend a constituency or community event,2021/08/04,Meadow Lake,Creighton,,,,,,,
+T0214931,2021/08/04,2021/08/05,,,,,,,0.0000,0.0000,178.7500,0.0000,0,0,178.75
+T0214931,2021/08/04,2021/08/05,"Petz, Dion",Employee,Attending event with Member,2021/08/04,Meadow Lake,Creighton,,,,,,,
+T0214931,2021/08/04,2021/08/05,"Petz, Dion",Employee,Attending event with Member,2021/08/04,Creighton,Denare Beach,,,,,,,
+T0214916,2021/08/04,2021/08/05,"Vidal, Gary",Member,To attend a constituency or community event,2021/08/05,Creighton,Meadow Lake,,,,,,,
+T0214931,2021/08/04,2021/08/05,"Petz, Dion",Employee,Attending event with Member,2021/08/05,Denare Beach,Creighton,,,,,,,
+T0214916,2021/08/04,2021/08/05,"Vidal, Gary",Member,To attend a constituency or community event,2021/08/04,Creighton,Denare Beach,,,,,,,
+T0214931,2021/08/04,2021/08/05,"Petz, Dion",Employee,Attending event with Member,2021/08/05,Creighton,Meadow Lake,,,,,,,
+T0214916,2021/08/04,2021/08/05,"Vidal, Gary",Member,To attend a constituency or community event,2021/08/05,Denare Beach,Creighton,,,,,,,
+T0215113,2021/08/09,2021/08/10,,,,,,,458.4200,133.4100,128.3700,0.0000,0.0000,0,720.20
+T0215113,2021/08/09,2021/08/10,"Vidal, Gary",Member,To attend a constituency or community event,2021/08/09,Meadow Lake,Paddockwood,,,,,,,
+T0215127,2021/08/09,2021/08/10,,,,,,,0.0000,0.0000,128.3700,0.0000,0.0000,0,128.37
+T0215127,2021/08/09,2021/08/10,"Petz, Dion",Employee,To attend a constituency or community event,2021/08/09,Meadow Lake,Paddockwood,,,,,,,
+T0215113,2021/08/09,2021/08/10,"Vidal, Gary",Member,To attend a constituency or community event,2021/08/09,Paddockwood,La Ronge,,,,,,,
+T0215127,2021/08/09,2021/08/10,"Petz, Dion",Employee,To attend a constituency or community event,2021/08/09,Paddockwood,La Ronge,,,,,,,
+T0215127,2021/08/09,2021/08/10,"Petz, Dion",Employee,To attend a constituency or community event,2021/08/10,La Ronge,Meadow Lake,,,,,,,
+T0215113,2021/08/09,2021/08/10,"Vidal, Gary",Member,To attend a constituency or community event,2021/08/10,La Ronge,Meadow Lake,,,,,,,
+T0215379,2021/08/14,2021/08/14,,,,,,,224.4600,0.0000,20.5300,0,0.0000,0,244.99
+T0215379,2021/08/14,2021/08/14,"Vidal, Gary",Member,To attend a constituency or community event,2021/08/14,Meadow Lake,Shellbrook,,,,,,,
+T0215381,2021/08/14,2021/08/14,,,,,,,0.0000,0.0000,20.5300,0,0.0000,0,20.53
+T0215381,2021/08/14,2021/08/14,"Petz, Dion",Employee,To attend a constituency or community event,2021/08/14,Meadow Lake,Shellbrook,,,,,,,
+T0215379,2021/08/14,2021/08/14,"Vidal, Gary",Member,To attend a constituency or community event,2021/08/14,Shellbrook,Meadow Lake,,,,,,,
+T0215381,2021/08/14,2021/08/14,"Petz, Dion",Employee,To attend a constituency or community event,2021/08/14,Shellbrook,Meadow Lake,,,,,,,
+200515781,2021/09/01,2021/09/30,,,,,,,0.0000,1950.0000,0.0000,0,0,0,1950.00
+200515781,2021/09/01,2021/09/30,"Vidal, Gary",Member,Secondary Residence,2021/09/01,OTTAWA,OTTAWA,,,,,,,
+200519958,2021/10/01,2021/10/31,,,,,,,0.0000,1950.0000,0.0000,0,0,0,1950.00
+200519958,2021/10/01,2021/10/31,"Vidal, Gary",Member,Secondary Residence,2021/10/01,OTTAWA,OTTAWA,,,,,,,

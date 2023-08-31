@@ -1,0 +1,50 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0216228,2021/08/01,2021/09/18,,,,,,,0.0000,1649.9900,0.0000,0,0,0,1649.99
+T0216228,2021/08/01,2021/09/18,"Johns, Gord",Member,Secondary Residence,2021/08/19,Ottawa,Ottawa,,,,,,,
+T0216228,2021/08/01,2021/09/18,"Johns, Gord",Member,Secondary Residence,2021/08/01,Ottawa,Ottawa,,,,,,,
+T0216383,2021/09/01,2021/09/20,,,,,,,0.0000,1000.0000,0.0000,0,0,0,1000.00
+T0216383,2021/09/01,2021/09/20,"Johns, Gord",Member,Secondary Residence,2021/09/01,Ottawa,Ottawa,,,,,,,
+T0216380,2021/09/21,2021/09/30,,,,,,,0.0000,450.0000,0.0000,0,0,0,450.00
+T0216380,2021/09/21,2021/09/30,"Johns, Gord",Member,Secondary Residence,2021/09/22,Ottawa,Ottawa,,,,,,,
+T0216386,2021/09/21,2021/10/18,,,,,,,0.0000,599.9900,0.0000,0,0,0,599.99
+T0216386,2021/09/21,2021/10/18,"Johns, Gord",Member,Secondary Residence,2021/09/21,Ottawa,Ottawa,,,,,,,
+T0218401,2021/09/26,2021/09/27,,,,,,,132.7800,0.0000,0.0000,0.0000,0,0,132.78
+T0218401,2021/09/26,2021/09/27,"Johns, Gord",Member,To attend meetings about constituency issues,2021/09/26,Port Alberni,Tofino,,,,,,,
+T0218401,2021/09/26,2021/09/27,"Johns, Gord",Member,To attend meetings about constituency issues,2021/09/27,Tofino,Port Alberni,,,,,,,
+T0217344,2021/10/01,2021/11/18,,,,,,,0.0000,1649.9900,0.0000,0,0,0,1649.99
+T0217344,2021/10/01,2021/11/18,"Johns, Gord",Member,Secondary Residence,2021/10/19,Ottawa,Ottawa,,,,,,,
+T0217344,2021/10/01,2021/11/18,"Johns, Gord",Member,Secondary Residence,2021/10/01,Ottawa,Ottawa,,,,,,,
+T0216571,2021/10/04,2021/10/12,,,,,,,2792.9300,0.0000,447.4100,1.0000,0,0,3240.34
+T0216571,2021/10/04,2021/10/12,"Johns, Gord",Member,To travel to/from constituency and Ottawa,2021/10/04,Port Alberni,Ottawa,,,,,,,
+T0216571,2021/10/04,2021/10/12,"Johns, Gord",Member,To travel to/from constituency and Ottawa,2021/10/12,Ottawa,Port Alberni,,,,,,,
+T0216569,2021/10/14,2021/10/14,,,,,,,67.1200,0.0000,20.5300,0.0000,0,0,87.65
+T0216569,2021/10/14,2021/10/14,"Johns, Gord",Member,To attend meetings about constituency issues,2021/10/14,Port Alberni,Tofino,,,,,,,
+T0218407,2021/10/18,2021/10/27,,,,,,,1447.6000,1957.3700,727.6900,0,2.5000,0,4132.66
+T0218407,2021/10/18,2021/10/27,"Johns, Gord",Member,To attend meetings with stakeholders about business of the House,2021/10/18,Port Alberni,Hope,,,,,,,
+T0218407,2021/10/18,2021/10/27,"Johns, Gord",Member,To attend meetings with stakeholders about business of the House,2021/10/19,Hope,Jasper,,,,,,,
+T0218407,2021/10/18,2021/10/27,"Johns, Gord",Member,To attend meetings with stakeholders about business of the House,2021/10/21,Jasper,Banff,,,,,,,
+T0218407,2021/10/18,2021/10/27,"Johns, Gord",Member,To attend meetings with stakeholders about business of the House,2021/10/25,Banff,Penticton,,,,,,,
+T0218407,2021/10/18,2021/10/27,"Johns, Gord",Member,To attend meetings with stakeholders about business of the House,2021/10/27,Penticton,Port Alberni,,,,,,,
+T0219561,2021/11/01,2021/12/18,,,,,,,0.0000,1599.9900,0.0000,0,0,0,1599.99
+T0219561,2021/11/01,2021/12/18,"Johns, Gord",Member,Secondary Residence,2021/11/19,Ottawa,Ottawa,,,,,,,
+T0219561,2021/11/01,2021/12/18,"Johns, Gord",Member,Secondary Residence,2021/11/01,Ottawa,Ottawa,,,,,,,
+T0218396,2021/11/05,2021/11/05,,,,,,,105.4800,0.0000,71.7300,0.0000,0,0,177.21
+T0218396,2021/11/05,2021/11/05,"Johns, Gord",Member,To attend meetings about constituency issues,2021/11/05,Port Alberni,Cumberland,,,,,,,
+T0218396,2021/11/05,2021/11/05,"Johns, Gord",Member,To attend meetings about constituency issues,2021/11/05,Cumberland,Port Alberni,,,,,,,
+T0219069,2021/11/05,2021/11/15,,,,,,,378.6300,0.0000,217.7900,0.0000,0.0000,0,596.42
+T0219069,2021/11/05,2021/11/15,"Chaput, Ryan",Employee,Attending event with Member,2021/11/05,Black Creek (Comox),Cumberland,,,,,,,
+T0219069,2021/11/05,2021/11/15,"Chaput, Ryan",Employee,Attending event with Member,2021/11/15,Vancouver,Black Creek (Comox),,,,,,,
+T0219069,2021/11/05,2021/11/15,"Chaput, Ryan",Employee,Attending event with Member,2021/11/15,Cumberland,Black Creek (Comox),,,,,,,
+T0219069,2021/11/05,2021/11/15,"Chaput, Ryan",Employee,To conduct constituency office business,2021/11/08,Black Creek (Comox),Bowser,,,,,,,
+T0219069,2021/11/05,2021/11/15,"Chaput, Ryan",Employee,To conduct constituency office business,2021/11/08,Bowser,Cumberland,,,,,,,
+T0219069,2021/11/05,2021/11/15,"Chaput, Ryan",Employee,To conduct constituency office business,2021/11/08,Cumberland,Black Creek (Comox),,,,,,,
+T0219069,2021/11/05,2021/11/15,"Chaput, Ryan",Employee,Attending event with Member,2021/11/14,Black Creek (Comox),Vancouver,,,,,,,
+T0219069,2021/11/05,2021/11/15,"Chaput, Ryan",Employee,Attending event with Member,2021/11/14,West Vancouver,Vancouver,,,,,,,
+T0219069,2021/11/05,2021/11/15,"Chaput, Ryan",Employee,Attending event with Member,2021/11/14,Vancouver,Vancouver,,,,,,,
+T0219069,2021/11/05,2021/11/15,"Chaput, Ryan",Employee,Attending event with Member,2021/11/15,Vancouver,West Vancouver,,,,,,,
+T0218391,2021/11/10,2021/11/14,,,,,,,219.4800,0.0000,348.2700,0.0000,0,0,567.75
+T0218391,2021/11/10,2021/11/14,"Johns, Gord",Member,To attend meetings about constituency issues,2021/11/10,Port Alberni,Qualicum Beach,,,,,,,
+T0218391,2021/11/10,2021/11/14,"Johns, Gord",Member,To attend meetings about constituency issues,2021/11/10,Qualicum Beach,Tofino,,,,,,,
+T0218391,2021/11/10,2021/11/14,"Johns, Gord",Member,To attend meetings about constituency issues,2021/11/11,Tofino,Ucluelet,,,,,,,
+T0218391,2021/11/10,2021/11/14,"Johns, Gord",Member,To attend meetings about constituency issues,2021/11/14,Ucluelet,Tofino,,,,,,,
+T0218391,2021/11/10,2021/11/14,"Johns, Gord",Member,To attend meetings about constituency issues,2021/11/14,Tofino,Port Alberni,,,,,,,

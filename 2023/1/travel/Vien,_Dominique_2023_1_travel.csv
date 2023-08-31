@@ -1,0 +1,35 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+400134878,2022/04/01,2022/04/30,,,,,,,0.0000,1975.0000,0.0000,0,0,0,1975.00
+400134878,2022/04/01,2022/04/30,"Vien, Dominique",Member,Secondary Residence,2022/04/01,GATINEAU,GATINEAU,,,,,,,
+T0226926,2022/04/04,2022/04/08,,,,,,,424.2900,0.0000,302.8100,1.0000,0,0,727.10
+T0226926,2022/04/04,2022/04/08,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/04/04,Lévis (Lévis),Ottawa,,,,,,,
+T0226926,2022/04/04,2022/04/08,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/04/08,Ottawa,Lévis (Lévis),,,,,,,
+T0227381,2022/04/04,2022/06/07,,,,,,,195.5300,0.0000,19.2900,0.0000,0,0,214.82
+T0227381,2022/04/04,2022/06/07,"Gagné, Denise",Employee,To conduct constituency office business,2022/04/13,Lévis (Lévis),Saint-Lazare-de-Bellechasse,,,,,,,
+T0227381,2022/04/04,2022/06/07,"Gagné, Denise",Employee,Attending event with Member,2022/06/03,Saint-Lazare-de-Bellechasse,Lévis,,,,,,,
+T0227381,2022/04/04,2022/06/07,"Gagné, Denise",Employee,To attend a constituency or community event,2022/05/26,Lévis,Saint-Vallier,,,,,,,
+T0227381,2022/04/04,2022/06/07,"Gagné, Denise",Employee,To attend a constituency or community event,2022/06/03,Sainte-Claire,Saint-Lazare-de-Bellechasse,,,,,,,
+T0227381,2022/04/04,2022/06/07,"Gagné, Denise",Employee,To conduct constituency office business,2022/04/13,Saint-Lazare-de-Bellechasse,Sainte-Claire,,,,,,,
+T0227381,2022/04/04,2022/06/07,"Gagné, Denise",Employee,Attending event with Member,2022/04/30,Sainte-Claire,Notre-Dame-Auxiliatrice-de-Buckland,,,,,,,
+T0227381,2022/04/04,2022/06/07,"Gagné, Denise",Employee,Attending event with Member,2022/04/30,Notre-Dame-Auxiliatrice-de-Buckland,Sainte-Claire,,,,,,,
+T0227381,2022/04/04,2022/06/07,"Gagné, Denise",Employee,To attend a constituency or community event,2022/05/05,Lévis (Lévis),Notre-Dame-Auxiliatrice-de-Buckland,,,,,,,
+T0227381,2022/04/04,2022/06/07,"Gagné, Denise",Employee,To attend a constituency or community event,2022/05/05,Notre-Dame-Auxiliatrice-de-Buckland,Lévis (Lévis),,,,,,,
+T0227381,2022/04/04,2022/06/07,"Gagné, Denise",Employee,To conduct constituency office business,2022/05/24,Lévis (Lévis),Saint-Gervais,,,,,,,
+T0227381,2022/04/04,2022/06/07,"Gagné, Denise",Employee,To conduct constituency office business,2022/05/24,Saint-Gervais,Sainte-Claire,,,,,,,
+T0227381,2022/04/04,2022/06/07,"Gagné, Denise",Employee,Attending event with Member,2022/05/26,Saint-Vallier,Sainte-Claire,,,,,,,
+200569686,2022/05/01,2022/05/31,,,,,,,0.0000,1975.0000,0.0000,0,0,0,1975.00
+200569686,2022/05/01,2022/05/31,"Vien, Dominique",Member,Secondary Residence,2022/05/01,GATINEAU,GATINEAU,,,,,,,
+T0228241,2022/05/02,2022/05/06,,,,,,,436.9500,0.0000,312.0500,1.0000,0,0,749.00
+T0228241,2022/05/02,2022/05/06,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/05/02,Lévis (Lévis),Ottawa,,,,,,,
+T0228241,2022/05/02,2022/05/06,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/05/06,Ottawa,Lévis (Lévis),,,,,,,
+T0228533,2022/05/09,2022/05/12,,,,,,,436.9500,0.0000,263.7100,1.0000,0,0,700.66
+T0228533,2022/05/09,2022/05/12,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/05/09,Lévis (Lévis),Ottawa,,,,,,,
+T0228533,2022/05/09,2022/05/12,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/05/12,Ottawa,Lévis (Lévis),,,,,,,
+T0229239,2022/05/16,2022/05/19,,,,,,,436.9500,0.0000,243.9300,1.0000,0,0,680.88
+T0229239,2022/05/16,2022/05/19,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/05/16,Lévis (Lévis),Ottawa,,,,,,,
+T0229239,2022/05/16,2022/05/19,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/05/19,Ottawa,Lévis (Lévis),,,,,,,
+T0229183,2022/05/19,2022/05/19,,,,,,,36.6000,0.0000,19.2900,0.0000,0,0,55.89
+T0229183,2022/05/19,2022/05/19,"Brochu, Marie-Pier",Employee,To conduct constituency office business,2022/05/19,Lévis (Lévis),Saint-Lazare-de-Bellechasse,,,,,,,
+T0229183,2022/05/19,2022/05/19,"Brochu, Marie-Pier",Employee,To conduct constituency office business,2022/05/19,Saint-Lazare-de-Bellechasse,Lévis (Lévis),,,,,,,
+200575825,2022/06/01,2022/06/30,,,,,,,0.0000,1975.0000,0.0000,0,0,0,1975.00
+200575825,2022/06/01,2022/06/30,"Vien, Dominique",Member,Secondary Residence,2022/06/01,GATINEAU,GATINEAU,,,,,,,

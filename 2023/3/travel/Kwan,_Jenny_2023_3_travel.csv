@@ -1,0 +1,77 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0235266,2022/06/30,2022/09/02,,,,,,,31.2500,0.0000,0.0000,0.0000,0,0,31.25
+T0235266,2022/06/30,2022/09/02,"Yiu, Gabriel",Employee,To conduct constituency office business,2022/06/30,Vancouver,Vancouver,,,,,,,
+T0235266,2022/06/30,2022/09/02,"Yiu, Gabriel",Employee,To conduct constituency office business,2022/07/10,Vancouver,Vancouver,,,,,,,
+T0235266,2022/06/30,2022/09/02,"Yiu, Gabriel",Employee,To conduct constituency office business,2022/07/09,Vancouver,Vancouver,,,,,,,
+T0235266,2022/06/30,2022/09/02,"Yiu, Gabriel",Employee,To conduct constituency office business,2022/09/02,Vancouver,Vancouver,,,,,,,
+T0235266,2022/06/30,2022/09/02,"Yiu, Gabriel",Employee,To conduct constituency office business,2022/07/01,Vancouver,Vancouver,,,,,,,
+T0235266,2022/06/30,2022/09/02,"Yiu, Gabriel",Employee,To conduct constituency office business,2022/07/01,Vancouver,Vancouver,,,,,,,
+T0236009,2022/08/11,2022/09/30,,,,,,,0.0000,1668.9700,0.0000,0,0,0,1668.97
+T0236009,2022/08/11,2022/09/30,"Kwan, Jenny",Member,Secondary Residence,2022/09/01,Ottawa,Ottawa,,,,,,,
+T0236009,2022/08/11,2022/09/30,"Kwan, Jenny",Member,Secondary Residence,2022/08/11,Ottawa,Ottawa,,,,,,,
+T0235129,2022/08/19,2022/08/31,,,,,,,281.6100,0.0000,42.3600,0,0.0000,0,323.97
+T0235129,2022/08/19,2022/08/31,"Kwan, Jenny",Member,To attend a conference,2022/08/19,Vancouver,Nanaimo,,,,,,,
+T0235129,2022/08/19,2022/08/31,"Kwan, Jenny",Member,To attend a conference,2022/08/31,Nanaimo,Vancouver,,,,,,,
+T0235129,2022/08/19,2022/08/31,,Dependant,To unite the family with the Member,2022/08/19,Vancouver,Nanaimo,,,,,,,
+T0235129,2022/08/19,2022/08/31,,Dependant,To unite the family with the Member,2022/08/31,Nanaimo,Vancouver,,,,,,,
+T0235129,2022/08/19,2022/08/31,,Dependant,To unite the family with the Member,2022/08/19,Vancouver,Nanaimo,,,,,,,
+T0235129,2022/08/19,2022/08/31,,Dependant,To unite the family with the Member,2022/08/31,Nanaimo,Vancouver,,,,,,,
+T0238045,2022/09/02,2022/09/17,,,,,,,33.8500,0.0000,0.0000,0.0000,0,0,33.85
+T0238045,2022/09/02,2022/09/17,"Yiu, Gabriel",Employee,Attending event with Member,2022/09/02,Vancouver,Vancouver,,,,,,,
+T0238045,2022/09/02,2022/09/17,"Yiu, Gabriel",Employee,Attending event with Member,2022/09/05,Vancouver,Vancouver,,,,,,,
+T0238045,2022/09/02,2022/09/17,"Yiu, Gabriel",Employee,Attending event with Member,2022/09/17,Vancouver,Vancouver,,,,,,,
+T0235268,2022/09/06,2022/09/10,,,,,,,4850.9200,736.7400,335.3100,0,1.0000,0,5922.97
+T0235268,2022/09/06,2022/09/10,"Kwan, Jenny",Member,To attend a national caucus meeting,2022/09/06,Vancouver,Halifax,,,,,,,
+T0235268,2022/09/06,2022/09/10,"Kwan, Jenny",Member,To attend a national caucus meeting,2022/09/10,Halifax,Vancouver,,,,,,,
+T0238057,2022/09/10,2022/10/31,,,,,,,0.0000,1688.7100,0.0000,0,0,0,1688.71
+T0238057,2022/09/10,2022/10/31,"Kwan, Jenny",Member,Secondary Residence,2022/09/10,Ottawa,Ottawa,,,,,,,
+T0236014,2022/09/14,2022/09/16,,,,,,,2523.1600,0.0000,244.1500,1.0000,0,0,2767.31
+T0236014,2022/09/14,2022/09/16,"Kwan, Jenny",Member,To travel to/from constituency and Ottawa,2022/09/14,Vancouver,Ottawa,,,,,,,
+T0236014,2022/09/14,2022/09/16,"Kwan, Jenny",Member,To travel to/from constituency and Ottawa,2022/09/16,Ottawa,Vancouver,,,,,,,
+T0236017,2022/09/19,2022/09/22,,,,,,,2516.8400,0.0000,332.0500,1.0000,0,0,2848.89
+T0236017,2022/09/19,2022/09/22,"Kwan, Jenny",Member,To travel to/from constituency and Ottawa,2022/09/19,Vancouver,Ottawa,,,,,,,
+T0236017,2022/09/19,2022/09/22,"Kwan, Jenny",Member,To travel to/from constituency and Ottawa,2022/09/22,Ottawa,Vancouver,,,,,,,
+T0237136,2022/09/25,2022/09/28,,,,,,,2517.7500,0.0000,413.3900,1.0000,0,0,2931.14
+T0237136,2022/09/25,2022/09/28,"Kwan, Jenny",Member,To travel to/from constituency and Ottawa,2022/09/25,Vancouver,Ottawa,,,,,,,
+T0237136,2022/09/25,2022/09/28,"Kwan, Jenny",Member,To travel to/from constituency and Ottawa,2022/09/28,Ottawa,Vancouver,,,,,,,
+T0239536,2022/10/01,2022/11/09,,,,,,,253.1000,0.0000,0.0000,0.0000,0.0000,0,253.10
+T0239536,2022/10/01,2022/11/09,"Yiu, Gabriel",Employee,Attending event with Member,2022/10/01,Burnaby,Vancouver,,,,,,,
+T0239536,2022/10/01,2022/11/09,"Yiu, Gabriel",Employee,Attending event with Member,2022/10/07,Vancouver,Vancouver,,,,,,,
+T0239536,2022/10/01,2022/11/09,"Yiu, Gabriel",Employee,To conduct constituency office business,2022/10/08,Vancouver,Vancouver,,,,,,,
+T0239536,2022/10/01,2022/11/09,"Yiu, Gabriel",Employee,Attending event with Member,2022/10/10,Vancouver,Vancouver,,,,,,,
+T0239536,2022/10/01,2022/11/09,"Yiu, Gabriel",Employee,Attending event with Member,2022/10/14,Vancouver,Vancouver,,,,,,,
+T0239536,2022/10/01,2022/11/09,"Yiu, Gabriel",Employee,Attending event with Member,2022/10/15,Vancouver,Vancouver,,,,,,,
+T0239536,2022/10/01,2022/11/09,"Yiu, Gabriel",Employee,To attend meetings about constituency issues,2022/10/26,Vancouver,Vancouver,,,,,,,
+T0239536,2022/10/01,2022/11/09,"Yiu, Gabriel",Employee,Attending event with Member,2022/10/29,Vancouver,Vancouver,,,,,,,
+T0237137,2022/10/02,2022/10/06,,,,,,,2514.9600,0.0000,437.0100,1.0000,0,0,2951.97
+T0237137,2022/10/02,2022/10/06,"Kwan, Jenny",Member,To travel to/from constituency and Ottawa,2022/10/02,Vancouver,Ottawa,,,,,,,
+T0237137,2022/10/02,2022/10/06,"Kwan, Jenny",Member,To travel to/from constituency and Ottawa,2022/10/06,Ottawa,Vancouver,,,,,,,
+T0240680,2022/10/11,2022/11/30,,,,,,,0.0000,1689.2900,0.0000,0,0,0,1689.29
+T0240680,2022/10/11,2022/11/30,"Kwan, Jenny",Member,Secondary Residence,2022/10/11,Ottawa,Ottawa,,,,,,,
+T0240680,2022/10/11,2022/11/30,"Kwan, Jenny",Member,Secondary Residence,2022/11/01,Ottawa,Ottawa,,,,,,,
+T0237807,2022/10/16,2022/10/19,,,,,,,2521.3400,0.0000,345.5400,1.0000,0,0,2866.88
+T0237807,2022/10/16,2022/10/19,"Kwan, Jenny",Member,To travel to/from constituency and Ottawa,2022/10/16,Vancouver,Ottawa,,,,,,,
+T0237807,2022/10/16,2022/10/19,"Kwan, Jenny",Member,To travel to/from constituency and Ottawa,2022/10/19,Ottawa,Vancouver,,,,,,,
+T0238281,2022/10/23,2022/10/28,,,,,,,2519.1400,0.0000,528.4800,1.0000,0,0,3047.62
+T0238281,2022/10/23,2022/10/28,"Kwan, Jenny",Member,To travel to/from constituency and Ottawa,2022/10/23,Vancouver,Ottawa,,,,,,,
+T0238281,2022/10/23,2022/10/28,"Kwan, Jenny",Member,To travel to/from constituency and Ottawa,2022/10/28,Ottawa,Vancouver,,,,,,,
+T0240389,2022/10/30,2022/11/04,,,,,,,2513.2200,0.0000,538.7900,1.0000,0,0,3052.01
+T0240389,2022/10/30,2022/11/04,"Kwan, Jenny",Member,To travel to/from constituency and Ottawa,2022/10/30,Vancouver,Ottawa,,,,,,,
+T0240389,2022/10/30,2022/11/04,"Kwan, Jenny",Member,To travel to/from constituency and Ottawa,2022/11/04,Ottawa,Vancouver,,,,,,,
+T0240729,2022/11/01,2022/11/26,,,,,,,165.0400,0.0000,0.0000,0.0000,0.0000,0,165.04
+T0240729,2022/11/01,2022/11/26,"Yiu, Gabriel",Employee,To conduct constituency office business,2022/11/01,Vancouver,Vancouver,,,,,,,
+T0240729,2022/11/01,2022/11/26,"Yiu, Gabriel",Employee,Attending event with Member,2022/11/05,Vancouver,Vancouver,,,,,,,
+T0240729,2022/11/01,2022/11/26,"Yiu, Gabriel",Employee,Attending event with Member,2022/11/08,Vancouver,Vancouver,,,,,,,
+T0240729,2022/11/01,2022/11/26,"Yiu, Gabriel",Employee,Attending event with Member,2022/11/11,Vancouver,Vancouver,,,,,,,
+T0240729,2022/11/01,2022/11/26,"Yiu, Gabriel",Employee,To attend meetings about constituency issues,2022/11/16,Vancouver,Vancouver,,,,,,,
+T0240729,2022/11/01,2022/11/26,"Yiu, Gabriel",Employee,Attending event with Member,2022/11/25,Vancouver,Surrey,,,,,,,
+T0240729,2022/11/01,2022/11/26,"Yiu, Gabriel",Employee,Attending event with Member,2022/11/26,Vancouver,Vancouver,,,,,,,
+T0240729,2022/11/01,2022/11/26,"Yiu, Gabriel",Employee,To conduct constituency office business,2022/11/07,Vancouver,Vancouver,,,,,,,
+T0239955,2022/11/08,2022/12/07,,,,,,,0.0000,84.9900,0.0000,0,0,0,84.99
+T0239955,2022/11/08,2022/12/07,"Kwan, Jenny",Member,Secondary Residence,2022/11/08,Ottawa,Ottawa,,,,,,,
+T0240391,2022/11/13,2022/11/24,,,,,,,2523.5200,0.0000,721.7400,1.0000,0,0,3245.26
+T0240391,2022/11/13,2022/11/24,"Kwan, Jenny",Member,To travel to/from constituency and Ottawa,2022/11/13,Vancouver,Ottawa,,,,,,,
+T0240391,2022/11/13,2022/11/24,"Kwan, Jenny",Member,To travel to/from constituency and Ottawa,2022/11/24,Ottawa,Vancouver,,,,,,,
+T0240072,2022/11/17,2022/11/20,,,,,,,2873.1600,1350.5000,383.2200,0,1.0000,0,4606.88
+T0240072,2022/11/17,2022/11/20,"Kwan, Jenny",Member,To attend a national caucus meeting,2022/11/17,Ottawa,Calgary,,,,,,,
+T0240072,2022/11/17,2022/11/20,"Kwan, Jenny",Member,To attend a national caucus meeting,2022/11/20,Calgary,Ottawa,,,,,,,

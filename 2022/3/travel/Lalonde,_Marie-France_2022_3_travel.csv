@@ -1,0 +1,7 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0219023,2021/11/17,2021/11/19,,,,,,,48.0200,270.7100,124.0200,1.0000,0,0,442.75
+T0219023,2021/11/17,2021/11/19,"Lalonde, Marie-France",Member,To travel to/from constituency and Ottawa,2021/11/17,Ottawa,Toronto,,,,,,,
+T0219028,2021/11/17,2021/11/19,,,,,,,330.5600,270.7100,124.0200,1.0000,0,0,725.29
+T0219028,2021/11/17,2021/11/19,"Tremblay, Anick",Employee,Attending event with Member,2021/11/17,Ottawa,Toronto,,,,,,,
+T0219028,2021/11/17,2021/11/19,"Tremblay, Anick",Employee,Attending event with Member,2021/11/19,Toronto,Ottawa,,,,,,,
+T0219023,2021/11/17,2021/11/19,"Lalonde, Marie-France",Member,To travel to/from constituency and Ottawa,2021/11/19,Toronto,Ottawa,,,,,,,

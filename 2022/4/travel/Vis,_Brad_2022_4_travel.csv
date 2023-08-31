@@ -1,0 +1,59 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0219227,2021/10/08,2021/11/20,,,,,,,1636.6500,0.0000,0.0000,0.5000,0,0,1636.65
+T0219227,2021/10/08,2021/11/20,"Kesteven, Blair",Employee,To travel to/from constituency and Ottawa,2021/10/08,Mission,Ottawa,,,,,,,
+T0221881,2021/11/26,2021/12/27,,,,,,,0.0000,34.5400,0.0000,0,0,0,34.54
+T0221881,2021/11/26,2021/12/27,"Vis, Brad",Member,Secondary Residence,2021/11/26,Ottawa,Ottawa,,,,,,,
+T0220558,2021/12/12,2021/12/14,,,,,,,2341.6500,0.0000,186.7900,1.0000,0,0,2528.44
+T0220558,2021/12/12,2021/12/14,"Vis, Brad",Member,To travel to/from constituency and Ottawa,2021/12/12,Mission,Ottawa,,,,,,,
+T0220558,2021/12/12,2021/12/14,"Vis, Brad",Member,To travel to/from constituency and Ottawa,2021/12/14,Ottawa,Mission,,,,,,,
+T0222950,2021/12/18,2021/12/18,,,,,,,454.3000,0.0000,0.0000,0.5000,0,0,454.30
+T0222950,2021/12/18,2021/12/18,"Kesteven, Blair",Employee,To travel to/from constituency and Ottawa,2021/12/18,Ottawa,Mission,,,,,,,
+T0223089,2021/12/27,2022/01/26,,,,,,,0.0000,31.6200,0.0000,0,0,0,31.62
+T0223089,2021/12/27,2022/01/26,"Vis, Brad",Member,Secondary Residence,2021/12/27,Ottawa,Ottawa,,,,,,,
+T0221531,2022/01/01,2022/01/31,,,,,,,0.0000,2067.4800,0.0000,0,0,0,2067.48
+T0221531,2022/01/01,2022/01/31,"Vis, Brad",Member,Secondary Residence,2022/01/01,Ottawa,Ottawa,,,,,,,
+T0221813,2022/01/12,2022/01/17,,,,,,,206.6700,0.0000,0.0000,0.0000,0.0000,0,206.67
+T0221813,2022/01/12,2022/01/17,"Vis, Brad",Member,To attend meetings about constituency issues,2022/01/12,Mission,Agassiz,,,,,,,
+T0221813,2022/01/12,2022/01/17,"Vis, Brad",Member,To attend meetings about constituency issues,2022/01/13,Mission,Chilliwack,,,,,,,
+T0221813,2022/01/12,2022/01/17,"Vis, Brad",Member,To attend meetings about constituency issues,2022/01/14,Mission,Vancouver,,,,,,,
+T0221813,2022/01/12,2022/01/17,"Vis, Brad",Member,To attend meetings about constituency issues,2022/01/17,Mission,Mission,,,,,,,
+T0222213,2022/01/21,2022/01/21,,,,,,,61.9800,0.0000,0.0000,0,0.0000,0,61.98
+T0222213,2022/01/21,2022/01/21,"Vis, Brad",Member,To attend meetings about constituency issues,2022/01/21,Mission,Vancouver,,,,,,,
+T0222043,2022/01/22,2022/01/24,,,,,,,63.9300,0.0000,0.0000,0.0000,0.0000,0,63.93
+T0222043,2022/01/22,2022/01/24,"Vis, Brad",Member,To attend meetings about constituency issues,2022/01/22,Mission,Chilliwack,,,,,,,
+T0222043,2022/01/22,2022/01/24,"Vis, Brad",Member,To attend meetings about constituency issues,2022/01/24,Mission,Abbotsford,,,,,,,
+T0222208,2022/01/25,2022/01/27,,,,,,,2504.4100,0.0000,186.7900,1.0000,0,0,2691.20
+T0222208,2022/01/25,2022/01/27,"Vis, Brad",Member,To travel to/from constituency and Ottawa,2022/01/25,Mission,Ottawa,,,,,,,
+T0222208,2022/01/25,2022/01/27,"Vis, Brad",Member,To travel to/from constituency and Ottawa,2022/01/27,Ottawa,Mission,,,,,,,
+T0224321,2022/01/26,2022/02/25,,,,,,,0.0000,32.1500,0.0000,0,0,0,32.15
+T0224321,2022/01/26,2022/02/25,"Vis, Brad",Member,Secondary Residence,2022/01/26,Ottawa,Ottawa,,,,,,,
+T0222480,2022/01/30,2022/02/03,,,,,,,2557.8800,0.0000,357.1400,1.0000,0,0,2915.02
+T0222480,2022/01/30,2022/02/03,"Vis, Brad",Member,To travel to/from constituency and Ottawa,2022/01/30,Mission,Ottawa,,,,,,,
+T0222480,2022/01/30,2022/02/03,"Vis, Brad",Member,To travel to/from constituency and Ottawa,2022/02/03,Ottawa,Mission,,,,,,,
+T0222217,2022/02/01,2022/02/28,,,,,,,0.0000,2067.4800,0.0000,0,0,0,2067.48
+T0222217,2022/02/01,2022/02/28,"Vis, Brad",Member,Secondary Residence,2022/02/01,Ottawa,Ottawa,,,,,,,
+T0223199,2022/02/13,2022/02/19,,,,,,,1938.6500,0.0000,707.8100,1.0000,0,0,2646.46
+T0223199,2022/02/13,2022/02/19,"Vis, Brad",Member,To travel to/from constituency and Ottawa,2022/02/13,Mission,Ottawa,,,,,,,
+T0223199,2022/02/13,2022/02/19,"Vis, Brad",Member,To travel to/from constituency and Ottawa,2022/02/19,Ottawa,Mission,,,,,,,
+T0225069,2022/02/27,2022/03/01,,,,,,,458.6100,144.3700,133.5600,0.5000,0,0,736.54
+T0225069,2022/02/27,2022/03/01,"Snider, Allison",Employee,To attend meetings about constituency issues,2022/02/27,Mission,Cache Creek,,,,,,,
+T0223718,2022/02/27,2022/03/03,,,,,,,1864.1500,0.0000,404.4600,1.0000,0,0,2268.61
+T0223718,2022/02/27,2022/03/03,"Vis, Brad",Member,To travel to/from constituency and Ottawa,2022/02/28,Mission,Ottawa,,,,,,,
+T0223718,2022/02/27,2022/03/03,"Vis, Brad",Member,To travel to/from constituency and Ottawa,2022/03/03,Ottawa,Mission,,,,,,,
+T0223728,2022/02/28,2022/03/01,,,,,,,0.0000,0.0000,184.5200,0.0000,0,0,184.52
+T0223728,2022/02/28,2022/03/01,"Lang, Brittany",Employee,To attend meetings about constituency issues,2022/02/28,Mission,Cache Creek,,,,,,,
+T0223728,2022/02/28,2022/03/01,"Lang, Brittany",Employee,To attend meetings about constituency issues,2022/03/01,Cache Creek,Mission,,,,,,,
+T0223717,2022/03/01,2022/03/31,,,,,,,0.0000,2067.4800,0.0000,0,0,0,2067.48
+T0223717,2022/03/01,2022/03/31,"Vis, Brad",Member,Secondary Residence,2022/03/01,Ottawa,Ottawa,,,,,,,
+T0224031,2022/03/03,2022/03/07,,,,,,,908.6000,571.0400,235.4800,1.0000,0,0,1715.12
+T0224031,2022/03/03,2022/03/07,"Hill-Pettipas, Riley",Employee,To travel to/from constituency and Ottawa,2022/03/03,Ottawa,Mission,,,,,,,
+T0224031,2022/03/03,2022/03/07,"Hill-Pettipas, Riley",Employee,To travel to/from constituency and Ottawa,2022/03/07,Mission,Ottawa,,,,,,,
+T0224319,2022/03/09,2022/03/09,,,,,,,58.6100,0.0000,0.0000,0.5000,0,0,58.61
+T0224319,2022/03/09,2022/03/09,"Vis, Brad",Member,To attend meetings about constituency issues,2022/03/09,Mission,Harrison Hot Springs,,,,,,,
+T0225062,2022/03/20,2022/03/25,,,,,,,2416.4900,0.0000,423.5300,1.0000,0,0,2840.02
+T0225062,2022/03/20,2022/03/25,"Vis, Brad",Member,To travel to/from constituency and Ottawa,2022/03/20,Mission,Ottawa,,,,,,,
+T0225062,2022/03/20,2022/03/25,"Vis, Brad",Member,To travel to/from constituency and Ottawa,2022/03/20,Mission,Ottawa,,,,,,,
+T0225062,2022/03/20,2022/03/25,"Vis, Brad",Member,To travel to/from constituency and Ottawa,2022/03/25,Ottawa,Mission,,,,,,,
+T0225600,2022/03/28,2022/03/29,,,,,,,2455.7100,0.0000,101.1200,1.0000,0,0,2556.83
+T0225600,2022/03/28,2022/03/29,"Vis, Brad",Member,To travel to/from constituency and Ottawa,2022/03/28,Mission,Ottawa,,,,,,,
+T0225600,2022/03/28,2022/03/29,"Vis, Brad",Member,To travel to/from constituency and Ottawa,2022/03/29,Ottawa,Mission,,,,,,,

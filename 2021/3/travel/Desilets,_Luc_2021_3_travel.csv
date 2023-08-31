@@ -1,0 +1,57 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0206660,2020/07/17,2020/09/11,,,,,,,57.1700,0.0000,0.0000,0.0000,0.0000,0,57.17
+T0206660,2020/07/17,2020/09/11,"Lavallée, Daniel",Employee,Attending event with Member,2020/07/17,Saint-Eustache,Laval,,,,,,,
+T0206660,2020/07/17,2020/09/11,"Lavallée, Daniel",Employee,Attending event with Member,2020/07/17,Laval,Saint-Eustache,,,,,,,
+T0206660,2020/07/17,2020/09/11,"Lavallée, Daniel",Employee,Attending event with Member,2020/08/04,Saint-Eustache,Saint-Jérôme,,,,,,,
+T0206660,2020/07/17,2020/09/11,"Lavallée, Daniel",Employee,Attending event with Member,2020/08/04,Saint-Jérôme,Saint-Eustache,,,,,,,
+T0206660,2020/07/17,2020/09/11,"Lavallée, Daniel",Employee,To attend a constituency or community event,2020/09/11,Saint-Eustache,Rosemère,,,,,,,
+T0206660,2020/07/17,2020/09/11,"Lavallée, Daniel",Employee,To attend a constituency or community event,2020/09/11,Rosemère,Boisbriand,,,,,,,
+T0206660,2020/07/17,2020/09/11,"Lavallée, Daniel",Employee,To attend a constituency or community event,2020/09/11,Boisbriand,Saint-Eustache,,,,,,,
+T0206668,2020/09/03,2020/09/14,,,,,,,47.8000,0.0000,44.6300,0.0000,0.0000,0,92.43
+T0206668,2020/09/03,2020/09/14,"Laplante, Priscillia",Employee,Attending event with Member,2020/09/03,Saint-Eustache,Saint-Colomban,,,,,,,
+T0206668,2020/09/03,2020/09/14,"Laplante, Priscillia",Employee,Attending event with Member,2020/09/03,Saint-Colomban,Saint-Eustache,,,,,,,
+T0206668,2020/09/03,2020/09/14,"Laplante, Priscillia",Employee,Attending event with Member,2020/09/14,Saint-Eustache,Saint-Eustache,,,,,,,
+T0206668,2020/09/03,2020/09/14,"Laplante, Priscillia",Employee,Attending event with Member,2020/09/14,Saint-Eustache,Rosemère,,,,,,,
+T0206668,2020/09/03,2020/09/14,"Laplante, Priscillia",Employee,Attending event with Member,2020/09/14,Rosemère,Saint-Eustache,,,,,,,
+T0207461,2020/09/14,2020/10/29,,,,,,,37.9300,0.0000,0.0000,0.0000,0.0000,0,37.93
+T0207461,2020/09/14,2020/10/29,"Guimont, Corinne",Employee,Attending event with Member,2020/09/14,Saint-Eustache,Saint-Eustache,,,,,,,
+T0207461,2020/09/14,2020/10/29,"Guimont, Corinne",Employee,Attending event with Member,2020/09/14,Saint-Eustache,Rosemère,,,,,,,
+T0207461,2020/09/14,2020/10/29,"Guimont, Corinne",Employee,Attending event with Member,2020/09/14,Rosemère,Saint-Eustache,,,,,,,
+T0207461,2020/09/14,2020/10/29,"Guimont, Corinne",Employee,To conduct constituency office business,2020/10/29,Saint-Eustache,Laval,,,,,,,
+T0207461,2020/09/14,2020/10/29,"Guimont, Corinne",Employee,To conduct constituency office business,2020/10/29,Laval,Saint-Eustache,,,,,,,
+T0206837,2020/10/05,2020/10/08,,,,,,,166.9600,0.0000,395.7100,1.0000,0,0,562.67
+T0206837,2020/10/05,2020/10/08,"Desilets, Luc",Member,To travel to/from constituency and Ottawa,2020/10/05,Rosemère,Ottawa,,,,,,,
+T0206837,2020/10/05,2020/10/08,"Desilets, Luc",Member,To travel to/from constituency and Ottawa,2020/10/08,Ottawa,Rosemère,,,,,,,
+T0206836,2020/10/19,2020/10/20,,,,,,,166.9600,0.0000,197.8600,1.0000,0,0,364.82
+T0206836,2020/10/19,2020/10/20,"Desilets, Luc",Member,To travel to/from constituency and Ottawa,2020/10/19,Rosemère,Ottawa,,,,,,,
+T0206836,2020/10/19,2020/10/20,"Desilets, Luc",Member,To travel to/from constituency and Ottawa,2020/10/20,Ottawa,Rosemère,,,,,,,
+T0208164,2020/10/23,2020/12/04,,,,,,,55.6000,0.0000,18.3300,0.0000,0.0000,0,73.93
+T0208164,2020/10/23,2020/12/04,"Laplante, Priscillia",Employee,To conduct constituency office business,2020/10/23,Saint-Eustache,Saint-Eustache,,,,,,,
+T0208164,2020/10/23,2020/12/04,"Laplante, Priscillia",Employee,To attend a constituency or community event,2020/11/28,Boisbriand,Saint-Eustache,,,,,,,
+T0208164,2020/10/23,2020/12/04,"Laplante, Priscillia",Employee,To conduct constituency office business,2020/11/29,Saint-Eustache,Saint-Eustache,,,,,,,
+T0208164,2020/10/23,2020/12/04,"Laplante, Priscillia",Employee,To conduct constituency office business,2020/11/29,Saint-Eustache,Saint-Eustache,,,,,,,
+T0208164,2020/10/23,2020/12/04,"Laplante, Priscillia",Employee,To conduct constituency office business,2020/12/04,Saint-Eustache,Oka,,,,,,,
+T0208164,2020/10/23,2020/12/04,"Laplante, Priscillia",Employee,To conduct constituency office business,2020/12/04,Oka,Saint-Eustache,,,,,,,
+T0208164,2020/10/23,2020/12/04,"Laplante, Priscillia",Employee,To conduct constituency office business,2020/10/23,Saint-Eustache,Saint-Eustache,,,,,,,
+T0208164,2020/10/23,2020/12/04,"Laplante, Priscillia",Employee,Attending event with Member,2020/10/27,Saint-Eustache,Boisbriand,,,,,,,
+T0208164,2020/10/23,2020/12/04,"Laplante, Priscillia",Employee,Attending event with Member,2020/10/27,Boisbriand,Saint-Eustache,,,,,,,
+T0208164,2020/10/23,2020/12/04,"Laplante, Priscillia",Employee,To conduct constituency office business,2020/10/28,Saint-Eustache,Saint-Eustache,,,,,,,
+T0208164,2020/10/23,2020/12/04,"Laplante, Priscillia",Employee,To conduct constituency office business,2020/10/28,Saint-Eustache,Saint-Eustache,,,,,,,
+T0208164,2020/10/23,2020/12/04,"Laplante, Priscillia",Employee,Attending event with Member,2020/11/10,Saint-Eustache,Boisbriand,,,,,,,
+T0208164,2020/10/23,2020/12/04,"Laplante, Priscillia",Employee,Attending event with Member,2020/11/10,Boisbriand,Saint-Eustache,,,,,,,
+T0208164,2020/10/23,2020/12/04,"Laplante, Priscillia",Employee,To attend a constituency or community event,2020/11/28,Saint-Eustache,Boisbriand,,,,,,,
+T0206835,2020/10/25,2020/10/30,,,,,,,166.9600,0.0000,593.5700,1.0000,0,0,760.53
+T0206835,2020/10/25,2020/10/30,"Desilets, Luc",Member,To travel to/from constituency and Ottawa,2020/10/25,Rosemère,Ottawa,,,,,,,
+T0206835,2020/10/25,2020/10/30,"Desilets, Luc",Member,To travel to/from constituency and Ottawa,2020/10/30,Ottawa,Rosemère,,,,,,,
+200449000,2020/11/01,2020/11/30,,,,,,,0.0000,1810.0000,0.0000,0,0,0,1810.00
+200449000,2020/11/01,2020/11/30,"Desilets, Luc",Member,Secondary Residence,2020/11/01,GATINEAU,GATINEAU,,,,,,,
+T0207974,2020/11/16,2020/11/19,,,,,,,166.9600,0.0000,395.7100,1.0000,0,0,562.67
+T0207974,2020/11/16,2020/11/19,"Desilets, Luc",Member,To travel to/from constituency and Ottawa,2020/11/16,Rosemère,Ottawa,,,,,,,
+T0207974,2020/11/16,2020/11/19,"Desilets, Luc",Member,To travel to/from constituency and Ottawa,2020/11/19,Ottawa,Rosemère,,,,,,,
+T0207973,2020/11/22,2020/11/27,,,,,,,166.9600,0.0000,593.5700,1.0000,0,0,760.53
+T0207973,2020/11/22,2020/11/27,"Desilets, Luc",Member,To travel to/from constituency and Ottawa,2020/11/22,Rosemère,Ottawa,,,,,,,
+T0207973,2020/11/22,2020/11/27,"Desilets, Luc",Member,To travel to/from constituency and Ottawa,2020/11/27,Ottawa,Rosemère,,,,,,,
+200455900,2020/12/01,2020/12/31,,,,,,,0.0000,1810.0000,0.0000,0,0,0,1810.00
+200455900,2020/12/01,2020/12/31,"Desilets, Luc",Member,Secondary Residence,2020/12/01,GATINEAU,GATINEAU,,,,,,,
+200461587,2021/01/01,2021/01/31,,,,,,,0.0000,1810.0000,0.0000,0,0,0,1810.00
+200461587,2021/01/01,2021/01/31,"Desilets, Luc",Member,Secondary Residence,2021/01/01,GATINEAU,GATINEAU,,,,,,,

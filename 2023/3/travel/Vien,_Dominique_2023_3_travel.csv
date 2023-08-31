@@ -1,0 +1,68 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0234289,2022/08/28,2022/09/29,,,,,,,216.5700,0.0000,38.3600,0.0000,0,0,254.93
+T0234289,2022/08/28,2022/09/29,"Gagné, Denise",Employee,Attending event with Member,2022/08/28,Sainte-Claire,Saint-Vallier,,,,,,,
+T0234289,2022/08/28,2022/09/29,"Gagné, Denise",Employee,Attending event with Member,2022/09/24,Saint-Henri-de-Lévis,Sainte-Claire,,,,,,,
+T0234289,2022/08/28,2022/09/29,"Gagné, Denise",Employee,Attending event with Member,2022/08/28,Saint-Vallier,Sainte-Claire,,,,,,,
+T0234289,2022/08/28,2022/09/29,"Gagné, Denise",Employee,Attending event with Member,2022/09/03,Sainte-Claire,Beaumont,,,,,,,
+T0234289,2022/08/28,2022/09/29,"Gagné, Denise",Employee,Attending event with Member,2022/09/03,Beaumont,Sainte-Claire,,,,,,,
+T0234289,2022/08/28,2022/09/29,"Gagné, Denise",Employee,To conduct constituency office business,2022/09/16,Lévis (Lévis),Saint-Louis-de-Gonzague (Les Etchemins),,,,,,,
+T0234289,2022/08/28,2022/09/29,"Gagné, Denise",Employee,To conduct constituency office business,2022/09/16,Saint-Louis-de-Gonzague (Les Etchemins),Sainte-Claire,,,,,,,
+T0234289,2022/08/28,2022/09/29,"Gagné, Denise",Employee,Attending event with Member,2022/09/17,Sainte-Claire,Saint-Damien-de-Buckland,,,,,,,
+T0234289,2022/08/28,2022/09/29,"Gagné, Denise",Employee,Attending event with Member,2022/09/17,Saint-Damien-de-Buckland,Sainte-Claire,,,,,,,
+T0234289,2022/08/28,2022/09/29,"Gagné, Denise",Employee,Attending event with Member,2022/09/24,Sainte-Claire,Saint-Henri-de-Lévis,,,,,,,
+T0234920,2022/09/08,2022/09/29,,,,,,,45.7300,0.0000,0.0000,0.0000,0.0000,0,45.73
+T0234920,2022/09/08,2022/09/29,"Picard, Julie",Employee,To conduct constituency office business,2022/09/08,Lévis (Lévis),Saint-Damien-de-Buckland,,,,,,,
+T0234920,2022/09/08,2022/09/29,"Picard, Julie",Employee,To conduct constituency office business,2022/09/08,Saint-Damien-de-Buckland,Sainte-Hénédine,,,,,,,
+T0235989,2022/09/09,2022/09/12,,,,,,,447.2800,0.0000,68.3500,1.0000,0,0,515.63
+T0235989,2022/09/09,2022/09/12,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/09/09,Lévis,Ottawa,,,,,,,
+T0235989,2022/09/09,2022/09/12,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/09/12,Ottawa,Lévis,,,,,,,
+T0235996,2022/09/20,2022/09/23,,,,,,,446.7600,0.0000,180.9400,1.0000,0,0,627.70
+T0235996,2022/09/20,2022/09/23,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/09/20,Lévis,Ottawa,,,,,,,
+T0235996,2022/09/20,2022/09/23,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/09/23,Ottawa,Lévis,,,,,,,
+T0236765,2022/09/26,2022/09/30,,,,,,,446.7600,0.0000,136.7000,1.0000,0,0,583.46
+T0236765,2022/09/26,2022/09/30,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/09/26,Lévis,Ottawa,,,,,,,
+T0236765,2022/09/26,2022/09/30,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/09/30,Ottawa,Lévis,,,,,,,
+T0237199,2022/10/02,2022/10/31,,,,,,,126.7200,0.0000,0.0000,0.0000,0,0,126.72
+T0237199,2022/10/02,2022/10/31,"Gagné, Denise",Employee,To attend a constituency or community event,2022/10/05,Sainte-Claire,Lac-Etchemin,,,,,,,
+T0237199,2022/10/02,2022/10/31,"Gagné, Denise",Employee,To attend a constituency or community event,2022/10/26,Saint-Henri-de-Lévis,Lévis (Lévis),,,,,,,
+T0237199,2022/10/02,2022/10/31,"Gagné, Denise",Employee,To attend a constituency or community event,2022/10/05,Lac-Etchemin,Sainte-Claire,,,,,,,
+T0237199,2022/10/02,2022/10/31,"Gagné, Denise",Employee,To attend a constituency or community event,2022/10/16,Sainte-Claire,Beaumont,,,,,,,
+T0237199,2022/10/02,2022/10/31,"Gagné, Denise",Employee,To attend a constituency or community event,2022/10/16,Beaumont,Sainte-Claire,,,,,,,
+T0237199,2022/10/02,2022/10/31,"Gagné, Denise",Employee,To attend a constituency or community event,2022/10/21,Lévis (Lévis),Beaumont,,,,,,,
+T0237199,2022/10/02,2022/10/31,"Gagné, Denise",Employee,To attend a constituency or community event,2022/10/21,Beaumont,Lévis (Lévis),,,,,,,
+T0237199,2022/10/02,2022/10/31,"Gagné, Denise",Employee,To attend a constituency or community event,2022/10/22,Sainte-Claire,Saint-Damien-de-Buckland,,,,,,,
+T0237199,2022/10/02,2022/10/31,"Gagné, Denise",Employee,To attend a constituency or community event,2022/10/22,Saint-Damien-de-Buckland,Sainte-Claire,,,,,,,
+T0237199,2022/10/02,2022/10/31,"Gagné, Denise",Employee,To attend a constituency or community event,2022/10/26,Lévis (Lévis),Saint-Henri-de-Lévis,,,,,,,
+T0237996,2022/10/03,2022/10/07,,,,,,,465.2300,0.0000,187.6300,1.0000,0,0,652.86
+T0237996,2022/10/03,2022/10/07,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/10/03,Lévis,Ottawa,,,,,,,
+T0237996,2022/10/03,2022/10/07,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/10/07,Ottawa,Lévis,,,,,,,
+T0238000,2022/10/17,2022/10/21,,,,,,,459.9300,0.0000,162.8100,1.0000,0,0,622.74
+T0238000,2022/10/17,2022/10/21,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/10/17,Lévis,Ottawa,,,,,,,
+T0238000,2022/10/17,2022/10/21,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/10/21,Ottawa,Lévis,,,,,,,
+T0238437,2022/10/28,2022/11/19,,,,,,,143.7900,0.0000,0.0000,0.0000,0.0000,0,143.79
+T0238437,2022/10/28,2022/11/19,"Gagné, Denise",Employee,To conduct constituency office business,2022/10/28,Sainte-Claire,Saint-Damien-de-Buckland,,,,,,,
+T0238437,2022/10/28,2022/11/19,"Gagné, Denise",Employee,To conduct constituency office business,2022/10/28,Saint-Damien-de-Buckland,Sainte-Claire,,,,,,,
+T0238437,2022/10/28,2022/11/19,"Gagné, Denise",Employee,Attending event with Member,2022/11/08,Sainte-Claire,Armagh,,,,,,,
+T0238437,2022/10/28,2022/11/19,"Gagné, Denise",Employee,Attending event with Member,2022/11/08,Armagh,Sainte-Claire,,,,,,,
+T0238437,2022/10/28,2022/11/19,"Gagné, Denise",Employee,Attending event with Member,2022/11/09,Lévis (Lévis),Charny,,,,,,,
+T0238437,2022/10/28,2022/11/19,"Gagné, Denise",Employee,Attending event with Member,2022/11/09,Charny,Sainte-Claire,,,,,,,
+T0238437,2022/10/28,2022/11/19,"Gagné, Denise",Employee,Attending event with Member,2022/11/10,Lévis (Lévis),Sainte-Claire,,,,,,,
+T0238437,2022/10/28,2022/11/19,"Gagné, Denise",Employee,Attending event with Member,2022/11/11,Sainte-Claire,Lévis (Lévis),,,,,,,
+T0238437,2022/10/28,2022/11/19,"Gagné, Denise",Employee,Attending event with Member,2022/11/11,Lévis (Lévis),Sainte-Claire,,,,,,,
+200616396,2022/11/01,2022/11/30,,,,,,,0.0000,1975.0000,0.0000,0,0,0,1975.00
+200616396,2022/11/01,2022/11/30,"Vien, Dominique",Member,Secondary Residence,2022/11/01,GATINEAU,GATINEAU,,,,,,,
+T0239213,2022/11/06,2022/11/30,,,,,,,16.5600,0.0000,0.0000,0.0000,0,0,16.56
+T0239213,2022/11/06,2022/11/30,"Marion, Christine",Employee,Attending event with Member,2022/11/06,Lévis (Lévis),Lévis (Lévis),,,,,,,
+T0239213,2022/11/06,2022/11/30,"Marion, Christine",Employee,Attending event with Member,2022/11/06,Lévis (Lévis),Lévis (Lévis),,,,,,,
+T0239213,2022/11/06,2022/11/30,"Marion, Christine",Employee,To attend a constituency or community event,2022/11/10,Lévis (Lévis),Lévis (Lévis),,,,,,,
+T0239213,2022/11/06,2022/11/30,"Marion, Christine",Employee,To attend a constituency or community event,2022/11/10,Lévis (Lévis),Lévis (Lévis),,,,,,,
+T0239117,2022/11/10,2022/11/30,,,,,,,47.5900,0.0000,0.0000,0.0000,0.0000,0,47.59
+T0239117,2022/11/10,2022/11/30,"Picard, Julie",Employee,To conduct constituency office business,2022/11/10,Sainte-Hénédine,Saint-Damien-de-Buckland,,,,,,,
+T0239117,2022/11/10,2022/11/30,"Picard, Julie",Employee,To conduct constituency office business,2022/11/10,Saint-Damien-de-Buckland,Lévis,,,,,,,
+T0240369,2022/11/14,2022/11/18,,,,,,,459.9300,0.0000,187.6300,1.0000,0,0,647.56
+T0240369,2022/11/14,2022/11/18,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/11/14,Lévis,Ottawa,,,,,,,
+T0240369,2022/11/14,2022/11/18,"Vien, Dominique",Member,To travel to/from constituency and Ottawa,2022/11/18,Ottawa,Lévis,,,,,,,
+200625249,2022/12/01,2022/12/31,,,,,,,0.0000,1975.0000,0.0000,0,0,0,1975.00
+200625249,2022/12/01,2022/12/31,"Vien, Dominique",Member,Secondary Residence,2022/12/01,GATINEAU,GATINEAU,,,,,,,
+200634585,2023/01/01,2023/01/31,,,,,,,0.0000,1975.0000,0.0000,0,0,0,1975.00
+200634585,2023/01/01,2023/01/31,"Vien, Dominique",Member,Secondary Residence,2023/01/01,GATINEAU,GATINEAU,,,,,,,

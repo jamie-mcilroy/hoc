@@ -1,0 +1,51 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0242198,2022/12/11,2022/12/17,,,,,,,777.6600,1044.0200,445.4500,1.0000,0,0,2267.13
+T0242198,2022/12/11,2022/12/17,"Saks, Ya'ara",Member,To travel to/from constituency and Ottawa,2022/12/11,Toronto,Ottawa,,,,,,,
+T0242198,2022/12/11,2022/12/17,"Saks, Ya'ara",Member,To travel to/from constituency and Ottawa,2022/12/16,Ottawa,Toronto,,,,,,,
+T0242033,2022/12/14,2022/12/15,,,,,,,696.8200,195.3300,69.2400,1.0000,0,0,961.39
+T0242033,2022/12/14,2022/12/15,"Giugovaz, Alessandro",Employee,To travel to/from constituency and Ottawa,2022/12/14,Toronto,Ottawa,,,,,,,
+T0242187,2022/12/14,2022/12/15,,,,,,,767.5900,195.3300,127.5000,1.0000,0,0,1090.42
+T0242187,2022/12/14,2022/12/15,"Ferrer, Eliza Daennis",Employee,To travel to/from constituency and Ottawa,2022/12/14,Toronto,Ottawa,,,,,,,
+T0242187,2022/12/14,2022/12/15,"Ferrer, Eliza Daennis",Employee,To travel to/from constituency and Ottawa,2022/12/15,Ottawa,Toronto,,,,,,,
+T0242033,2022/12/14,2022/12/15,"Giugovaz, Alessandro",Employee,To travel to/from constituency and Ottawa,2022/12/15,Ottawa,Toronto,,,,,,,
+T0242021,2022/12/14,2022/12/16,,,,,,,588.6300,204.2400,140.1300,1.0000,0,0,933.00
+T0242021,2022/12/14,2022/12/16,"Shindman, Jeremy",Employee,To travel to/from constituency and Ottawa,2022/12/14,Toronto,Ottawa,,,,,,,
+T0242021,2022/12/14,2022/12/16,"Shindman, Jeremy",Employee,To travel to/from constituency and Ottawa,2022/12/16,Ottawa,Toronto,,,,,,,
+T0242170,2022/12/14,2022/12/18,,,,,,,538.0300,195.3300,140.1300,1.0000,0,0,873.49
+T0242170,2022/12/14,2022/12/18,"Vitucci, Sandra",Employee,To travel to/from constituency and Ottawa,2022/12/14,Toronto,Ottawa,,,,,,,
+T0242170,2022/12/14,2022/12/18,"Vitucci, Sandra",Employee,To travel to/from constituency and Ottawa,2022/12/18,Ottawa,Toronto,,,,,,,
+T0244919,2022/12/19,2023/01/21,,,,,,,54.1000,0.0000,0.0000,0.0000,0.0000,0,54.10
+T0244919,2022/12/19,2023/01/21,"Saks, Ya'ara",Member,To attend a constituency or community event,2022/12/19,Toronto,Toronto,,,,,,,
+T0244919,2022/12/19,2023/01/21,"Saks, Ya'ara",Member,To attend a constituency or community event,2023/01/18,Toronto,Toronto,,,,,,,
+T0244919,2022/12/19,2023/01/21,"Saks, Ya'ara",Member,To attend a constituency or community event,2023/01/18,Toronto,Toronto,,,,,,,
+T0244919,2022/12/19,2023/01/21,"Saks, Ya'ara",Member,To attend a constituency or community event,2023/01/21,Toronto,Mississauga,,,,,,,
+T0244919,2022/12/19,2023/01/21,"Saks, Ya'ara",Member,To attend a constituency or community event,2023/01/21,Mississauga,Toronto,,,,,,,
+T0244919,2022/12/19,2023/01/21,"Saks, Ya'ara",Member,To attend an event as a matter of protocol,2023/01/20,Toronto,Toronto,,,,,,,
+T0244919,2022/12/19,2023/01/21,"Saks, Ya'ara",Member,To attend an event as a matter of protocol,2023/01/20,Toronto,Toronto,,,,,,,
+T0244673,2023/01/26,2023/02/03,,,,,,,782.2300,1636.8700,732.7700,1.0000,0,0,3151.87
+T0244673,2023/01/26,2023/02/03,"Saks, Ya'ara",Member,To travel to/from constituency and Ottawa,2023/01/26,Toronto,Ottawa,,,,,,,
+T0244673,2023/01/26,2023/02/03,"Saks, Ya'ara",Member,To travel to/from constituency and Ottawa,2023/02/03,Ottawa,Toronto,,,,,,,
+T0244652,2023/01/29,2023/02/03,,,,,,,895.0500,842.0500,488.2600,1.0000,0,0,2225.36
+T0244652,2023/01/29,2023/02/03,"Shindman, Jeremy",Employee,To travel to/from constituency and Ottawa,2023/01/29,Toronto,Ottawa,,,,,,,
+T0244652,2023/01/29,2023/02/03,"Shindman, Jeremy",Employee,To travel to/from constituency and Ottawa,2023/02/03,Ottawa,Toronto,,,,,,,
+T0246139,2023/02/08,2023/02/17,,,,,,,1570.9000,1044.0200,494.1100,2.0000,0,0,3109.03
+T0246139,2023/02/08,2023/02/17,"Saks, Ya'ara",Member,To travel to/from constituency and Ottawa,2023/02/08,Toronto,Ottawa,,,,,,,
+T0246139,2023/02/08,2023/02/17,"Saks, Ya'ara",Member,To travel to/from constituency and Ottawa,2023/02/08,Ottawa,Toronto,,,,,,,
+T0246139,2023/02/08,2023/02/17,"Saks, Ya'ara",Member,To travel to/from constituency and Ottawa,2023/02/12,Toronto,Ottawa,,,,,,,
+T0246139,2023/02/08,2023/02/17,"Saks, Ya'ara",Member,To travel to/from constituency and Ottawa,2023/02/17,Ottawa,Toronto,,,,,,,
+T0247189,2023/02/23,2023/02/28,,,,,,,37.9200,0.0000,0.0000,0.0000,0,0,37.92
+T0247189,2023/02/23,2023/02/28,"Saks, Ya'ara",Member,To attend an event as a matter of protocol,2023/02/23,Toronto,Toronto,,,,,,,
+T0247189,2023/02/23,2023/02/28,"Saks, Ya'ara",Member,To attend an event as a matter of protocol,2023/02/23,Toronto,Toronto,,,,,,,
+T0247189,2023/02/23,2023/02/28,"Saks, Ya'ara",Member,To attend a constituency or community event,2023/02/24,Toronto,Toronto,,,,,,,
+T0247189,2023/02/23,2023/02/28,"Saks, Ya'ara",Member,To attend a constituency or community event,2023/02/24,Toronto,Toronto,,,,,,,
+T0247189,2023/02/23,2023/02/28,"Saks, Ya'ara",Member,To attend meetings about constituency issues,2023/02/28,Toronto,Toronto,,,,,,,
+T0247189,2023/02/23,2023/02/28,"Saks, Ya'ara",Member,To attend meetings about constituency issues,2023/02/28,Toronto,Toronto,,,,,,,
+T0247099,2023/03/05,2023/03/11,,,,,,,853.2100,1242.3300,436.7900,1.0000,0,0,2532.33
+T0247099,2023/03/05,2023/03/11,"Saks, Ya'ara",Member,To travel to/from constituency and Ottawa,2023/03/05,Toronto,Ottawa,,,,,,,
+T0247099,2023/03/05,2023/03/11,"Saks, Ya'ara",Member,To travel to/from constituency and Ottawa,2023/03/10,Ottawa,Toronto,,,,,,,
+T0248141,2023/03/20,2023/03/25,,,,,,,762.5900,1148.6600,294.7800,1.0000,0,0,2206.03
+T0248141,2023/03/20,2023/03/25,"Saks, Ya'ara",Member,To travel to/from constituency and Ottawa,2023/03/20,Toronto,Ottawa,,,,,,,
+T0248141,2023/03/20,2023/03/25,"Saks, Ya'ara",Member,To travel to/from constituency and Ottawa,2023/03/25,Ottawa,Toronto,,,,,,,
+T0248998,2023/03/26,2023/03/31,,,,,,,766.6000,1148.9700,401.7000,1.0000,0,0,2317.27
+T0248998,2023/03/26,2023/03/31,"Saks, Ya'ara",Member,To travel to/from constituency and Ottawa,2023/03/26,Toronto,Ottawa,,,,,,,
+T0248998,2023/03/26,2023/03/31,"Saks, Ya'ara",Member,To travel to/from constituency and Ottawa,2023/03/31,Ottawa,Toronto,,,,,,,

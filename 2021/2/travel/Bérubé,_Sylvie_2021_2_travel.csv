@@ -1,0 +1,79 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0202959,2020/05/15,2020/06/15,,,,,,,0.0000,23.8800,0.0000,0,0,0,23.88
+T0202959,2020/05/15,2020/06/15,"Bérubé, Sylvie",Member,Secondary Residence,2020/05/15,Gatineau,Gatineau,,,,,,,
+T0203862,2020/05/26,2020/09/05,,,,,,,0.0000,2662.9300,0.0000,0,0,0,2662.93
+T0203862,2020/05/26,2020/09/05,"Bérubé, Sylvie",Member,Secondary Residence,2020/08/01,Gatineau,Gatineau,,,,,,,
+T0203862,2020/05/26,2020/09/05,"Bérubé, Sylvie",Member,Secondary Residence,2020/05/26,Gatineau,Gatineau,,,,,,,
+T0203862,2020/05/26,2020/09/05,"Bérubé, Sylvie",Member,Secondary Residence,2020/08/06,Gatineau,Gatineau,,,,,,,
+T0202390,2020/06/15,2020/06/15,,,,,,,98.4200,0.0000,18.2100,0,0,0,116.63
+T0202390,2020/06/15,2020/06/15,"Perreault, Lynda",Employee,To represent the Member at an event,2020/06/15,Val-d'Or,Rouyn-Noranda,,,,,,,
+T0202390,2020/06/15,2020/06/15,"Perreault, Lynda",Employee,To represent the Member at an event,2020/06/15,Rouyn-Noranda,Val-d'Or,,,,,,,
+T0202908,2020/07/01,2020/08/05,,,,,,,0.0000,1993.7200,0.0000,0,0,0,1993.72
+T0202908,2020/07/01,2020/08/05,"Bérubé, Sylvie",Member,Secondary Residence,2020/07/06,Gatineau,Gatineau,,,,,,,
+T0202908,2020/07/01,2020/08/05,"Bérubé, Sylvie",Member,Secondary Residence,2020/07/01,Gatineau,Gatineau,,,,,,,
+T0202904,2020/07/05,2020/07/06,,,,,,,0.0000,0.0000,155.5800,0.0000,0,0,155.58
+T0202904,2020/07/05,2020/07/06,"Bérubé, Sylvie",Member,To attend a constituency or community event,2020/07/05,Val-d'Or,Chibougamau,,,,,,,
+T0202900,2020/07/05,2020/07/06,,,,,,,365.4600,279.8300,155.5800,1.0000,0,0,800.87
+T0202900,2020/07/05,2020/07/06,"Perreault, Lynda",Employee,To attend a constituency or community event,2020/07/05,Val-d'Or,Chibougamau,,,,,,,
+T0202900,2020/07/05,2020/07/06,"Perreault, Lynda",Employee,To attend a constituency or community event,2020/07/06,Chibougamau,Val-d'Or,,,,,,,
+T0202904,2020/07/05,2020/07/06,"Bérubé, Sylvie",Member,To attend a constituency or community event,2020/07/06,Chibougamau,Val-d'Or,,,,,,,
+T0203688,2020/07/27,2020/07/31,,,,,,,377.3000,0.0000,393.2100,1.0000,0,0,770.51
+T0203688,2020/07/27,2020/07/31,"Bérubé, Sylvie",Member,To travel to/from constituency and Ottawa,2020/07/27,Val-d'Or,Ottawa,,,,,,,
+T0203688,2020/07/27,2020/07/31,"Bérubé, Sylvie",Member,To travel to/from constituency and Ottawa,2020/07/31,Ottawa,Val-d'Or,,,,,,,
+T0203811,2020/08/10,2020/08/12,,,,,,,139.3800,176.1700,233.7000,0.0000,0,0,549.25
+T0203811,2020/08/10,2020/08/12,"Perreault, Lynda",Employee,To attend a constituency or community event,2020/08/10,Val-d'Or,Lebel-sur-Quévillon,,,,,,,
+T0203811,2020/08/10,2020/08/12,"Perreault, Lynda",Employee,To attend a constituency or community event,2020/08/12,Lebel-sur-Quévillon,Val-d'Or,,,,,,,
+T0204047,2020/08/16,2020/08/19,,,,,,,1221.4400,187.6000,269.6700,0,1.0000,0,1678.71
+T0204047,2020/08/16,2020/08/19,"Bérubé, Sylvie",Member,To attend a regional or provincial caucus meeting,2020/08/16,Val-d'Or,Bonaventure,,,,,,,
+T0204047,2020/08/16,2020/08/19,"Bérubé, Sylvie",Member,To attend a regional or provincial caucus meeting,2020/08/19,Bonaventure,Val-d'Or,,,,,,,
+T0203948,2020/08/16,2020/08/20,,,,,,,365.4600,580.3400,435.7000,0.0000,0,0,1381.50
+T0203948,2020/08/16,2020/08/20,"Perreault, Lynda",Employee,To conduct constituency office business,2020/08/16,Val-d'Or,Chibougamau,,,,,,,
+T0203948,2020/08/16,2020/08/20,"Perreault, Lynda",Employee,To conduct constituency office business,2020/08/20,Chibougamau,Val-d'Or,,,,,,,
+T0204098,2020/08/24,2020/08/28,,,,,,,465.0700,331.6300,443.4600,0.0000,0,0,1240.16
+T0204098,2020/08/24,2020/08/28,"Perreault, Lynda",Employee,To conduct constituency office business,2020/08/24,Val-d'Or,Lebel-sur-Quévillon,,,,,,,
+T0204098,2020/08/24,2020/08/28,"Perreault, Lynda",Employee,To conduct constituency office business,2020/08/24,Lebel-sur-Quévillon,Matagami,,,,,,,
+T0204098,2020/08/24,2020/08/28,"Perreault, Lynda",Employee,To conduct constituency office business,2020/08/25,Matagami,Val-d'Or,,,,,,,
+T0204098,2020/08/24,2020/08/28,"Perreault, Lynda",Employee,To conduct constituency office business,2020/08/26,Val-d'Or,Lebel-sur-Quévillon,,,,,,,
+T0204098,2020/08/24,2020/08/28,"Perreault, Lynda",Employee,To conduct constituency office business,2020/08/28,Lebel-sur-Quévillon,Val-d'Or,,,,,,,
+T0204269,2020/08/27,2020/08/27,,,,,,,139.3800,0.0000,33.2700,0.0000,0,0,172.65
+T0204269,2020/08/27,2020/08/27,"Bérubé, Sylvie",Member,To attend a constituency or community event,2020/08/27,Val-d'Or,Lebel-sur-Quévillon,,,,,,,
+T0204269,2020/08/27,2020/08/27,"Bérubé, Sylvie",Member,To attend a constituency or community event,2020/08/27,Lebel-sur-Quévillon,Val-d'Or,,,,,,,
+T0204452,2020/08/30,2020/09/03,,,,,,,365.4600,310.9100,311.6000,1.0000,0,0,987.97
+T0204452,2020/08/30,2020/09/03,"Perreault, Lynda",Employee,To conduct constituency office business,2020/08/30,Val-d'Or,Chibougamau,,,,,,,
+T0204453,2020/08/30,2020/09/03,,,,,,,60.7600,310.9100,307.2100,0.0000,0.0000,0,678.88
+T0204453,2020/08/30,2020/09/03,"Bérubé, Sylvie",Member,To conduct constituency office business,2020/08/30,Val-d'Or,Chibougamau,,,,,,,
+T0204452,2020/08/30,2020/09/03,"Perreault, Lynda",Employee,To conduct constituency office business,2020/09/02,Chibougamau,Val-d'Or,,,,,,,
+T0204453,2020/08/30,2020/09/03,"Bérubé, Sylvie",Member,To conduct constituency office business,2020/09/02,Chibougamau,Val-d'Or,,,,,,,
+T0204453,2020/08/30,2020/09/03,"Bérubé, Sylvie",Member,To conduct constituency office business,2020/09/03,Val-d'Or,Amos,,,,,,,
+T0204453,2020/08/30,2020/09/03,"Bérubé, Sylvie",Member,To conduct constituency office business,2020/09/03,Amos,Val-d'Or,,,,,,,
+T0204454,2020/09/01,2020/10/05,,,,,,,0.0000,2000.6300,0.0000,0,0,0,2000.63
+T0204454,2020/09/01,2020/10/05,"Bérubé, Sylvie",Member,Secondary Residence,2020/09/06,Gatineau,Gatineau,,,,,,,
+T0204454,2020/09/01,2020/10/05,"Bérubé, Sylvie",Member,Secondary Residence,2020/09/01,Gatineau,Gatineau,,,,,,,
+T0204668,2020/09/02,2020/09/02,,,,,,,39.3000,0.0000,18.2100,0.0000,0,0,57.51
+T0204668,2020/09/02,2020/09/02,"Ouellet, Julie",Employee,To conduct constituency office business,2020/09/02,Chibougamau,Chapais (Jamésie),,,,,,,
+T0204668,2020/09/02,2020/09/02,"Ouellet, Julie",Employee,To conduct constituency office business,2020/09/02,Chapais (Jamésie),Chibougamau,,,,,,,
+T0204610,2020/09/07,2020/09/13,,,,,,,542.3400,347.2000,297.5500,0.0000,0.0000,0,1187.09
+T0204610,2020/09/07,2020/09/13,"Perreault, Lynda",Employee,To conduct constituency office business,2020/09/07,Val-d'Or,Lebel-sur-Quévillon,,,,,,,
+T0204611,2020/09/07,2020/09/13,,,,,,,0.0000,329.5700,185.6900,0.0000,0.0000,0,515.26
+T0204611,2020/09/07,2020/09/13,"Bérubé, Sylvie",Member,To conduct constituency office business,2020/09/07,Val-d'Or,Saint-Hyacinthe,,,,,,,
+T0204610,2020/09/07,2020/09/13,"Perreault, Lynda",Employee,To conduct constituency office business,2020/09/08,Lebel-sur-Quévillon,Val-d'Or,,,,,,,
+T0204611,2020/09/07,2020/09/13,"Bérubé, Sylvie",Member,To conduct constituency office business,2020/09/10,Rouyn-Noranda,Amos,,,,,,,
+T0204610,2020/09/07,2020/09/13,"Perreault, Lynda",Employee,To conduct constituency office business,2020/09/09,Val-d'Or,Rouyn-Noranda,,,,,,,
+T0204610,2020/09/07,2020/09/13,"Perreault, Lynda",Employee,To conduct constituency office business,2020/09/10,Rouyn-Noranda,Amos,,,,,,,
+T0204611,2020/09/07,2020/09/13,"Bérubé, Sylvie",Member,To conduct constituency office business,2020/09/10,Amos,Val-d'Or,,,,,,,
+T0204610,2020/09/07,2020/09/13,"Perreault, Lynda",Employee,To conduct constituency office business,2020/09/10,Amos,Val-d'Or,,,,,,,
+T0204611,2020/09/07,2020/09/13,"Bérubé, Sylvie",Member,To conduct constituency office business,2020/09/11,Val-d'Or,Lebel-sur-Quévillon,,,,,,,
+T0204611,2020/09/07,2020/09/13,"Bérubé, Sylvie",Member,To conduct constituency office business,2020/09/11,Lebel-sur-Quévillon,Val-d'Or,,,,,,,
+T0204610,2020/09/07,2020/09/13,"Perreault, Lynda",Employee,To conduct constituency office business,2020/09/11,Val-d'Or,Lebel-sur-Quévillon,,,,,,,
+T0204610,2020/09/07,2020/09/13,"Perreault, Lynda",Employee,To conduct constituency office business,2020/09/11,Lebel-sur-Quévillon,Val-d'Or,,,,,,,
+T0204611,2020/09/07,2020/09/13,"Bérubé, Sylvie",Member,To conduct constituency office business,2020/09/13,Val-d'Or,Lebel-sur-Quévillon,,,,,,,
+T0204610,2020/09/07,2020/09/13,"Perreault, Lynda",Employee,To conduct constituency office business,2020/09/13,Val-d'Or,Lebel-sur-Quévillon,,,,,,,
+T0204611,2020/09/07,2020/09/13,"Bérubé, Sylvie",Member,To conduct constituency office business,2020/09/13,Lebel-sur-Quévillon,Val-d'Or,,,,,,,
+T0204611,2020/09/07,2020/09/13,"Bérubé, Sylvie",Member,To conduct constituency office business,2020/09/09,Saint-Hyacinthe,Rouyn-Noranda,,,,,,,
+T0204610,2020/09/07,2020/09/13,"Perreault, Lynda",Employee,To conduct constituency office business,2020/09/13,Lebel-sur-Quévillon,Val-d'Or,,,,,,,
+T0205103,2020/09/14,2020/09/15,,,,,,,377.3000,0.0000,113.7500,1.0000,0,0,491.05
+T0205103,2020/09/14,2020/09/15,"Bérubé, Sylvie",Member,To travel to/from constituency and Ottawa,2020/09/14,Val-d'Or,Ottawa,,,,,,,
+T0205103,2020/09/14,2020/09/15,"Bérubé, Sylvie",Member,To travel to/from constituency and Ottawa,2020/09/15,Ottawa,Val-d'Or,,,,,,,
+T0205129,2020/09/20,2020/09/22,,,,,,,139.3800,176.1800,156.5000,0.0000,0,0,472.06
+T0205129,2020/09/20,2020/09/22,"Perreault, Lynda",Employee,To conduct constituency office business,2020/09/20,Val-d'Or,Lebel-sur-Quévillon,,,,,,,
+T0205129,2020/09/20,2020/09/22,"Perreault, Lynda",Employee,To conduct constituency office business,2020/09/22,Lebel-sur-Quévillon,Val-d'Or,,,,,,,

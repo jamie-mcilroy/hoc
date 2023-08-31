@@ -1,0 +1,47 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0202612,2020/05/01,2020/05/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0202612,2020/05/01,2020/05/31,"Shields, Martin",Member,Secondary Residence,2020/05/01,Ottawa,Ottawa,,,,,,,
+T0202646,2020/05/02,2020/05/09,,,,,,,2575.3300,113.1800,589.8200,1.0000,0,0,3278.33
+T0202646,2020/05/02,2020/05/09,"Shields, Martin",Member,To travel to/from constituency and Ottawa,2020/05/02,Brooks,Ottawa,,,,,,,
+T0202646,2020/05/02,2020/05/09,"Shields, Martin",Member,To travel to/from constituency and Ottawa,2020/05/09,Ottawa,Brooks,,,,,,,
+T0205344,2020/06/01,2020/06/05,,,,,,,635.4800,0.0000,0.0000,0.0000,0,0,635.48
+T0205344,2020/06/01,2020/06/05,"Shields, Martin",Member,To attend meetings about constituency issues,2020/06/01,Brooks,Bassano,,,,,,,
+T0205344,2020/06/01,2020/06/05,"Shields, Martin",Member,To attend meetings about constituency issues,2020/06/05,Chestermere,Brooks,,,,,,,
+T0205344,2020/06/01,2020/06/05,"Shields, Martin",Member,To attend meetings about constituency issues,2020/06/01,Bassano,Brooks,,,,,,,
+T0205344,2020/06/01,2020/06/05,"Shields, Martin",Member,To attend meetings about constituency issues,2020/06/02,Brooks,Strathmore,,,,,,,
+T0205344,2020/06/01,2020/06/05,"Shields, Martin",Member,To attend meetings about constituency issues,2020/06/02,Strathmore,Brooks,,,,,,,
+T0205344,2020/06/01,2020/06/05,"Shields, Martin",Member,To attend meetings about constituency issues,2020/06/03,Brooks,Namaka,,,,,,,
+T0205344,2020/06/01,2020/06/05,"Shields, Martin",Member,To attend meetings about constituency issues,2020/06/03,Namaka,Brooks,,,,,,,
+T0205344,2020/06/01,2020/06/05,"Shields, Martin",Member,To attend meetings about constituency issues,2020/06/04,Brooks,Taber,,,,,,,
+T0205344,2020/06/01,2020/06/05,"Shields, Martin",Member,To attend meetings about constituency issues,2020/06/04,Taber,Brooks,,,,,,,
+T0205344,2020/06/01,2020/06/05,"Shields, Martin",Member,To attend meetings about constituency issues,2020/06/05,Brooks,Chestermere,,,,,,,
+T0203361,2020/06/01,2020/06/30,,,,,,,0.0000,1500.0000,0.0000,0,0,0,1500.00
+T0203361,2020/06/01,2020/06/30,"Shields, Martin",Member,Secondary Residence,2020/06/01,Ottawa,Ottawa,,,,,,,
+T0202648,2020/06/06,2020/06/16,,,,,,,1541.4600,0.0000,589.8200,1.0000,0,0,2131.28
+T0202648,2020/06/06,2020/06/16,"Shields, Martin",Member,To travel to/from constituency and Ottawa,2020/06/06,Brooks,Ottawa,,,,,,,
+T0202648,2020/06/06,2020/06/16,"Shields, Martin",Member,To travel to/from constituency and Ottawa,2020/06/16,Ottawa,Brooks,,,,,,,
+T0203671,2020/07/01,2020/07/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0203671,2020/07/01,2020/07/31,"Shields, Martin",Member,Secondary Residence,2020/07/01,Ottawa,Ottawa,,,,,,,
+T0203626,2020/07/09,2020/07/31,,,,,,,624.9600,0.0000,0.0000,0.0000,0.0000,0,624.96
+T0203626,2020/07/09,2020/07/31,"Hook, Andrea",Employee,To attend meetings about constituency issues,2020/07/09,Strathmore,Hussar,,,,,,,
+T0203626,2020/07/09,2020/07/31,"Hook, Andrea",Employee,To attend meetings about constituency issues,2020/07/10,Rosebud,Strathmore,,,,,,,
+T0203626,2020/07/09,2020/07/31,"Hook, Andrea",Employee,To attend meetings about constituency issues,2020/07/14,Strathmore,Acme,,,,,,,
+T0203626,2020/07/09,2020/07/31,"Hook, Andrea",Employee,To attend meetings about constituency issues,2020/07/14,Acme,Arrowwood,,,,,,,
+T0203626,2020/07/09,2020/07/31,"Hook, Andrea",Employee,To attend meetings about constituency issues,2020/07/14,Arrowwood,Strathmore,,,,,,,
+T0203626,2020/07/09,2020/07/31,"Hook, Andrea",Employee,To attend meetings about constituency issues,2020/07/28,Strathmore,Taber,,,,,,,
+T0203626,2020/07/09,2020/07/31,"Hook, Andrea",Employee,To attend meetings about constituency issues,2020/07/28,Taber,Strathmore,,,,,,,
+T0203626,2020/07/09,2020/07/31,"Hook, Andrea",Employee,To attend meetings about constituency issues,2020/07/09,Hussar,Carseland,,,,,,,
+T0203626,2020/07/09,2020/07/31,"Hook, Andrea",Employee,To attend meetings about constituency issues,2020/07/09,Carseland,Chestermere,,,,,,,
+T0203626,2020/07/09,2020/07/31,"Hook, Andrea",Employee,To attend meetings about constituency issues,2020/07/09,Chestermere,Irricana,,,,,,,
+T0203626,2020/07/09,2020/07/31,"Hook, Andrea",Employee,To attend meetings about constituency issues,2020/07/09,Irricana,Three Hills,,,,,,,
+T0203626,2020/07/09,2020/07/31,"Hook, Andrea",Employee,To attend meetings about constituency issues,2020/07/09,Three Hills,Strathmore,,,,,,,
+T0203626,2020/07/09,2020/07/31,"Hook, Andrea",Employee,To attend meetings about constituency issues,2020/07/10,Strathmore,Standard,,,,,,,
+T0203626,2020/07/09,2020/07/31,"Hook, Andrea",Employee,To attend meetings about constituency issues,2020/07/10,Standard,Rockyford,,,,,,,
+T0203626,2020/07/09,2020/07/31,"Hook, Andrea",Employee,To attend meetings about constituency issues,2020/07/10,Rockyford,Rosebud,,,,,,,
+T0203672,2020/07/17,2020/07/26,,,,,,,4836.9900,214.8300,491.5200,2.0000,0,0,5543.34
+T0203672,2020/07/17,2020/07/26,"Shields, Martin",Member,To travel to/from constituency and Ottawa,2020/07/17,Brooks,Ottawa,,,,,,,
+T0203672,2020/07/17,2020/07/26,,Designated Traveller,To unite the family with the Member,2020/07/17,Brooks,Ottawa,,,,,,,
+T0203672,2020/07/17,2020/07/26,"Shields, Martin",Member,To travel to/from constituency and Ottawa,2020/07/26,Ottawa,Brooks,,,,,,,
+T0203672,2020/07/17,2020/07/26,,Designated Traveller,To unite the family with the Member,2020/07/26,Ottawa,Brooks,,,,,,,
+T0204709,2020/08/01,2020/08/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0204709,2020/08/01,2020/08/31,"Shields, Martin",Member,Secondary Residence,2020/08/01,Ottawa,Ottawa,,,,,,,

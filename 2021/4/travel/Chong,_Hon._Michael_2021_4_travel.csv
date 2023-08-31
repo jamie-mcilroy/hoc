@@ -1,0 +1,42 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0209312,2020/11/09,2020/12/09,,,,,,,0.0000,26.0400,0.0000,0,0,0,26.04
+T0209312,2020/11/09,2020/12/09,"Chong, Michael",Member,Secondary Residence,2020/11/09,Ottawa,Ottawa,,,,,,,
+T0209636,2020/11/16,2020/12/17,,,,,,,246.6000,0.0000,0.0000,0.0000,0,0,246.60
+T0209636,2020/11/16,2020/12/17,"Chong, Michael",Member,To travel to/from constituency and Ottawa,2020/11/16,Fergus,Ottawa,,,,,,,
+T0209636,2020/11/16,2020/12/17,"Chong, Michael",Member,To travel to/from constituency and Ottawa,2020/11/20,Ottawa,Fergus,,,,,,,
+T0209636,2020/11/16,2020/12/17,"Chong, Michael",Member,To travel to/from constituency and Ottawa,2020/12/07,Fergus,Ottawa,,,,,,,
+T0209636,2020/11/16,2020/12/17,"Chong, Michael",Member,To travel to/from constituency and Ottawa,2020/12/10,Ottawa,Fergus,,,,,,,
+T0209636,2020/11/16,2020/12/17,"Chong, Michael",Member,To travel to/from constituency and Ottawa,2020/12/14,Fergus,Ottawa,,,,,,,
+T0209636,2020/11/16,2020/12/17,"Chong, Michael",Member,To travel to/from constituency and Ottawa,2020/12/15,Ottawa,Toronto,,,,,,,
+T0209518,2020/12/09,2021/01/08,,,,,,,0.0000,25.8400,0.0000,0,0,0,25.84
+T0209518,2020/12/09,2021/01/08,"Chong, Michael",Member,Secondary Residence,2020/12/09,Ottawa,Ottawa,,,,,,,
+T0209311,2020/12/11,2021/01/10,,,,,,,0.0000,70.4900,0.0000,0,0,0,70.49
+T0209311,2020/12/11,2021/01/10,"Chong, Michael",Member,Secondary Residence,2020/12/11,Ottawa,Ottawa,,,,,,,
+T0210014,2020/12/18,2020/12/18,,,,,,,21.4800,0.0000,0.0000,0.0000,0,0,21.48
+T0210014,2020/12/18,2020/12/18,"Chong, Michael",Member,To attend a constituency or community event,2020/12/18,Fergus,Erin,,,,,,,
+T0210014,2020/12/18,2020/12/18,"Chong, Michael",Member,To attend a constituency or community event,2020/12/18,Erin,Fergus,,,,,,,
+T0209076,2021/01/01,2021/01/31,,,,,,,0.0000,1358.3000,0.0000,0,0,0,1358.30
+T0209076,2021/01/01,2021/01/31,"Chong, Michael",Member,Secondary Residence,2021/01/01,Ottawa,Ottawa,,,,,,,
+T0210375,2021/01/08,2021/02/07,,,,,,,0.0000,27.3400,0.0000,0,0,0,27.34
+T0210375,2021/01/08,2021/02/07,"Chong, Michael",Member,Secondary Residence,2021/01/08,Ottawa,Ottawa,,,,,,,
+T0209998,2021/01/11,2021/02/10,,,,,,,0.0000,70.4900,0.0000,0,0,0,70.49
+T0209998,2021/01/11,2021/02/10,"Chong, Michael",Member,Secondary Residence,2021/01/11,Ottawa,Ottawa,,,,,,,
+T0209626,2021/02/01,2021/02/28,,,,,,,0.0000,1358.3000,0.0000,0,0,0,1358.30
+T0209626,2021/02/01,2021/02/28,"Chong, Michael",Member,Secondary Residence,2021/02/01,Ottawa,Ottawa,,,,,,,
+T0211545,2021/02/07,2021/03/09,,,,,,,0.0000,28.1900,0.0000,0,0,0,28.19
+T0211545,2021/02/07,2021/03/09,"Chong, Michael",Member,Secondary Residence,2021/02/07,Ottawa,Ottawa,,,,,,,
+T0210140,2021/02/11,2021/03/10,,,,,,,0.0000,70.4900,0.0000,0,0,0,70.49
+T0210140,2021/02/11,2021/03/10,"Chong, Michael",Member,Secondary Residence,2021/02/11,Ottawa,Ottawa,,,,,,,
+T0210141,2021/02/15,2021/02/19,,,,,,,457.2800,0.0000,296.3400,1.0000,0,0,753.62
+T0210141,2021/02/15,2021/02/19,"Chong, Michael",Member,To travel to/from constituency and Ottawa,2021/02/15,Fergus,Ottawa,,,,,,,
+T0211555,2021/02/15,2021/02/19,,,,,,,68.6700,0.0000,0.0000,0.0000,0,0,68.67
+T0211555,2021/02/15,2021/02/19,"Chong, Michael",Member,To attend meetings with stakeholders about business of the House,2021/02/15,Fergus,Ottawa,,,,,,,
+T0210141,2021/02/15,2021/02/19,"Chong, Michael",Member,To travel to/from constituency and Ottawa,2021/02/19,Ottawa,Fergus,,,,,,,
+T0211555,2021/02/15,2021/02/19,"Chong, Michael",Member,To attend meetings with stakeholders about business of the House,2021/02/19,Ottawa,Fergus,,,,,,,
+T0211241,2021/03/01,2021/03/31,,,,,,,0.0000,1358.3000,0.0000,0,0,0,1358.30
+T0211241,2021/03/01,2021/03/31,"Chong, Michael",Member,Secondary Residence,2021/03/01,Ottawa,Ottawa,,,,,,,
+T0210945,2021/03/11,2021/04/10,,,,,,,0.0000,70.4900,0.0000,0,0,0,70.49
+T0210945,2021/03/11,2021/04/10,"Chong, Michael",Member,Secondary Residence,2021/03/11,Ottawa,Ottawa,,,,,,,
+T0211789,2021/03/21,2021/03/26,,,,,,,413.0400,0.0000,296.1200,1.0000,0,0,709.16
+T0211789,2021/03/21,2021/03/26,"Chong, Michael",Member,To travel to/from constituency and Ottawa,2021/03/21,Fergus,Ottawa,,,,,,,
+T0211789,2021/03/21,2021/03/26,"Chong, Michael",Member,To travel to/from constituency and Ottawa,2021/03/26,Ottawa,Fergus,,,,,,,

@@ -1,0 +1,22 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0213001,2021/05/01,2021/05/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0213001,2021/05/01,2021/05/31,"Bendayan, Rachel",Member,Secondary Residence,2021/05/01,Ottawa,Ottawa,,,,,,,
+T0213002,2021/05/24,2021/05/25,,,,,,,182.0300,0.0000,44.5000,1.0000,0,0,226.53
+T0213002,2021/05/24,2021/05/25,"Abramowicz, Sylvain",Employee,To travel to/from constituency and Ottawa,2021/05/24,Ottawa,Outremont,,,,,,,
+T0213002,2021/05/24,2021/05/25,"Abramowicz, Sylvain",Employee,To travel to/from constituency and Ottawa,2021/05/25,Outremont,Ottawa,,,,,,,
+T0213335,2021/05/31,2021/06/04,,,,,,,127.5600,320.2300,198.6500,1.0000,0,0,646.44
+T0213335,2021/05/31,2021/06/04,"Abramowicz, Sylvain",Employee,To travel to/from constituency and Ottawa,2021/05/31,Ottawa,Outremont,,,,,,,
+T0213335,2021/05/31,2021/06/04,"Abramowicz, Sylvain",Employee,To travel to/from constituency and Ottawa,2021/06/04,Outremont,Ottawa,,,,,,,
+T0213984,2021/06/01,2021/06/30,,,,,,,0.0000,1500.0000,0.0000,0,0,0,1500.00
+T0213984,2021/06/01,2021/06/30,"Bendayan, Rachel",Member,Secondary Residence,2021/06/01,Ottawa,Ottawa,,,,,,,
+T0215750,2021/07/01,2021/07/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0215750,2021/07/01,2021/07/31,"Bendayan, Rachel",Member,Secondary Residence,2021/07/01,Ottawa,Ottawa,,,,,,,
+T0215755,2021/07/25,2021/08/12,,,,,,,566.3700,820.9600,1024.4600,3.0000,0,0,2411.79
+T0215755,2021/07/25,2021/08/12,"Abramowicz, Sylvain",Employee,To travel to/from constituency and Ottawa,2021/07/25,Ottawa,Outremont,,,,,,,
+T0215755,2021/07/25,2021/08/12,"Abramowicz, Sylvain",Employee,To travel to/from constituency and Ottawa,2021/07/29,Outremont,Ottawa,,,,,,,
+T0215755,2021/07/25,2021/08/12,"Abramowicz, Sylvain",Employee,To travel to/from constituency and Ottawa,2021/08/03,Ottawa,Outremont,,,,,,,
+T0215755,2021/07/25,2021/08/12,"Abramowicz, Sylvain",Employee,To travel to/from constituency and Ottawa,2021/08/06,Outremont,Ottawa,,,,,,,
+T0215755,2021/07/25,2021/08/12,"Abramowicz, Sylvain",Employee,To travel to/from constituency and Ottawa,2021/08/08,Ottawa,Montreal,,,,,,,
+T0215755,2021/07/25,2021/08/12,"Abramowicz, Sylvain",Employee,To travel to/from constituency and Ottawa,2021/08/12,Montreal,Ottawa,,,,,,,
+T0215754,2021/08/01,2021/08/15,,,,,,,0.0000,750.0000,0.0000,0,0,0,750.00
+T0215754,2021/08/01,2021/08/15,"Bendayan, Rachel",Member,Secondary Residence,2021/08/01,Ottawa,Ottawa,,,,,,,

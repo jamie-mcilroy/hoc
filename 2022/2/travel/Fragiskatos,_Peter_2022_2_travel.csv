@@ -1,0 +1,10 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0214238,2021/07/14,2021/07/16,,,,,,,0.0000,357.0700,100.1300,0.0000,0,0,457.20
+T0214238,2021/07/14,2021/07/16,"Fragiskatos, Peter",Member,To support a parliamentary committee,2021/07/14,London,Toronto,,,,,,,
+T0214238,2021/07/14,2021/07/16,"Fragiskatos, Peter",Member,To support a parliamentary committee,2021/07/16,Toronto,London,,,,,,,
+T0214429,2021/07/19,2021/07/20,,,,,,,588.5100,177.1600,100.1300,1.0000,0,0,865.80
+T0214429,2021/07/19,2021/07/20,"Gauss, Ryan",Employee,To travel to/from constituency and Ottawa,2021/07/19,London,Ottawa,,,,,,,
+T0214428,2021/07/19,2021/07/20,,,,,,,0.0000,174.1800,100.1300,0.0000,0,0,274.31
+T0214428,2021/07/19,2021/07/20,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2021/07/19,London,Ottawa,,,,,,,
+T0214429,2021/07/19,2021/07/20,"Gauss, Ryan",Employee,To travel to/from constituency and Ottawa,2021/07/20,Ottawa,London,,,,,,,
+T0214428,2021/07/19,2021/07/20,"Fragiskatos, Peter",Member,To travel to/from constituency and Ottawa,2021/07/20,Ottawa,London,,,,,,,

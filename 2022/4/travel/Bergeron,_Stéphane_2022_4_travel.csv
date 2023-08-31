@@ -1,0 +1,89 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0226880,2021/04/05,2021/05/04,,,,,,,0.0000,107.7200,0.0000,0,0,0,107.72
+T0226880,2021/04/05,2021/05/04,"Bergeron, Stéphane",Member,Secondary Residence,2021/04/05,Gatineau,Gatineau,,,,,,,
+T0226884,2021/05/05,2021/06/04,,,,,,,0.0000,107.7200,0.0000,0,0,0,107.72
+T0226884,2021/05/05,2021/06/04,"Bergeron, Stéphane",Member,Secondary Residence,2021/05/05,Gatineau,Gatineau,,,,,,,
+T0226885,2021/06/05,2021/07/04,,,,,,,0.0000,107.7200,0.0000,0,0,0,107.72
+T0226885,2021/06/05,2021/07/04,"Bergeron, Stéphane",Member,Secondary Residence,2021/06/05,Gatineau,Gatineau,,,,,,,
+T0226886,2021/07/05,2021/08/04,,,,,,,0.0000,107.7200,0.0000,0,0,0,107.72
+T0226886,2021/07/05,2021/08/04,"Bergeron, Stéphane",Member,Secondary Residence,2021/07/05,Gatineau,Gatineau,,,,,,,
+T0226888,2021/08/05,2021/09/04,,,,,,,0.0000,107.7200,0.0000,0,0,0,107.72
+T0226888,2021/08/05,2021/09/04,"Bergeron, Stéphane",Member,Secondary Residence,2021/08/05,Gatineau,Gatineau,,,,,,,
+T0226890,2021/09/05,2021/09/20,,,,,,,0.0000,57.4600,0.0000,0,0,0,57.46
+T0226890,2021/09/05,2021/09/20,"Bergeron, Stéphane",Member,Secondary Residence,2021/09/05,Gatineau,Gatineau,,,,,,,
+T0226891,2021/09/21,2021/10/04,,,,,,,0.0000,50.2600,0.0000,0,0,0,50.26
+T0226891,2021/09/21,2021/10/04,"Bergeron, Stéphane",Member,Secondary Residence,2021/09/21,Gatineau,Gatineau,,,,,,,
+T0226893,2021/10/05,2021/11/04,,,,,,,0.0000,107.7200,0.0000,0,0,0,107.72
+T0226893,2021/10/05,2021/11/04,"Bergeron, Stéphane",Member,Secondary Residence,2021/10/05,Gatineau,Gatineau,,,,,,,
+T0226894,2021/11/05,2021/12/04,,,,,,,0.0000,107.7200,0.0000,0,0,0,107.72
+T0226894,2021/11/05,2021/12/04,"Bergeron, Stéphane",Member,Secondary Residence,2021/11/05,Gatineau,Gatineau,,,,,,,
+T0221657,2021/12/01,2021/12/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0221657,2021/12/01,2021/12/31,"Bergeron, Stéphane",Member,Secondary Residence,2021/12/01,Gatineau,Gatineau,,,,,,,
+T0226895,2021/12/05,2022/01/04,,,,,,,0.0000,107.7200,0.0000,0,0,0,107.72
+T0226895,2021/12/05,2022/01/04,"Bergeron, Stéphane",Member,Secondary Residence,2021/12/05,Gatineau,Gatineau,,,,,,,
+T0220934,2021/12/13,2021/12/16,,,,,,,219.8500,0.0000,185.9300,1.0000,0,0,405.78
+T0220934,2021/12/13,2021/12/16,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2021/12/13,Sainte-Julie (Sainte-Julie),Ottawa,,,,,,,
+T0220934,2021/12/13,2021/12/16,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2021/12/16,Ottawa,Sainte-Julie (Sainte-Julie),,,,,,,
+T0220937,2021/12/14,2021/12/15,,,,,,,723.0600,0.0000,56.0000,0,1.0000,0,779.06
+T0220937,2021/12/14,2021/12/15,"Bergeron, Stéphane",Member,To attend an event as a matter of protocol,2021/12/14,Ottawa,Rimouski,,,,,,,
+T0220938,2021/12/14,2021/12/15,,,,,,,0.0000,116.0700,0.0000,0,0.0000,0,116.07
+T0220938,2021/12/14,2021/12/15,"Deschênes, Colette",Employee,Attending event with Member,2021/12/14,Ottawa,Rimouski,,,,,,,
+T0220937,2021/12/14,2021/12/15,"Bergeron, Stéphane",Member,To attend an event as a matter of protocol,2021/12/15,Rimouski,Ottawa,,,,,,,
+T0220938,2021/12/14,2021/12/15,"Deschênes, Colette",Employee,Attending event with Member,2021/12/15,Rimouski,Ottawa,,,,,,,
+T0220943,2021/12/17,2021/12/17,,,,,,,219.8500,0.0000,0.0000,1.0000,0,0,219.85
+T0220943,2021/12/17,2021/12/17,"Deschênes, Colette",Employee,To travel to/from constituency and Ottawa,2021/12/17,Ottawa,Sainte-Julie (Sainte-Julie),,,,,,,
+T0220943,2021/12/17,2021/12/17,"Deschênes, Colette",Employee,To travel to/from constituency and Ottawa,2021/12/17,Sainte-Julie (Sainte-Julie),Ottawa,,,,,,,
+T0221059,2021/12/20,2021/12/21,,,,,,,219.8500,0.0000,0.0000,1.0000,0,0,219.85
+T0221059,2021/12/20,2021/12/21,"Deschênes, Colette",Employee,To travel to/from constituency and Ottawa,2021/12/20,Ottawa,Sainte-Julie (Sainte-Julie),,,,,,,
+T0221059,2021/12/20,2021/12/21,"Deschênes, Colette",Employee,To travel to/from constituency and Ottawa,2021/12/21,Sainte-Julie (Sainte-Julie),Ottawa,,,,,,,
+T0222194,2022/01/01,2022/01/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0222194,2022/01/01,2022/01/31,"Bergeron, Stéphane",Member,Secondary Residence,2022/01/01,Gatineau,Gatineau,,,,,,,
+T0226896,2022/01/05,2022/02/04,,,,,,,0.0000,107.7200,0.0000,0,0,0,107.72
+T0226896,2022/01/05,2022/02/04,"Bergeron, Stéphane",Member,Secondary Residence,2022/01/05,Gatineau,Gatineau,,,,,,,
+T0223138,2022/01/12,2022/01/12,,,,,,,219.8500,0.0000,0.0000,1.0000,0,0,219.85
+T0223138,2022/01/12,2022/01/12,"Deschênes, Colette",Employee,To travel to/from constituency and Ottawa,2022/01/12,Ottawa,Sainte-Julie (Sainte-Julie),,,,,,,
+T0223138,2022/01/12,2022/01/12,"Deschênes, Colette",Employee,To travel to/from constituency and Ottawa,2022/01/12,Sainte-Julie (Sainte-Julie),Ottawa,,,,,,,
+T0223139,2022/01/20,2022/01/20,,,,,,,219.8500,0.0000,0.0000,1.0000,0,0,219.85
+T0223139,2022/01/20,2022/01/20,"Deschênes, Colette",Employee,To travel to/from constituency and Ottawa,2022/01/20,Ottawa,Sainte-Julie (Sainte-Julie),,,,,,,
+T0223139,2022/01/20,2022/01/20,"Deschênes, Colette",Employee,To travel to/from constituency and Ottawa,2022/01/20,Sainte-Julie (Sainte-Julie),Ottawa,,,,,,,
+T0222500,2022/01/31,2022/02/03,,,,,,,219.8500,0.0000,241.9300,1.0000,0,0,461.78
+T0222500,2022/01/31,2022/02/03,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/01/31,Sainte-Julie (Sainte-Julie),Ottawa,,,,,,,
+T0222500,2022/01/31,2022/02/03,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/02/03,Ottawa,Sainte-Julie (Sainte-Julie),,,,,,,
+T0223428,2022/02/01,2022/02/28,,,,,,,0.0000,1400.0000,0.0000,0,0,0,1400.00
+T0223428,2022/02/01,2022/02/28,"Bergeron, Stéphane",Member,Secondary Residence,2022/02/01,Gatineau,Gatineau,,,,,,,
+T0226897,2022/02/05,2022/03/04,,,,,,,0.0000,107.7200,0.0000,0,0,0,107.72
+T0226897,2022/02/05,2022/03/04,"Bergeron, Stéphane",Member,Secondary Residence,2022/02/05,Gatineau,Gatineau,,,,,,,
+T0222798,2022/02/07,2022/02/10,,,,,,,219.8500,0.0000,288.0900,1.0000,0,0,507.94
+T0222798,2022/02/07,2022/02/10,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/02/07,Sainte-Julie (Sainte-Julie),Ottawa,,,,,,,
+T0222798,2022/02/07,2022/02/10,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/02/10,Ottawa,Sainte-Julie (Sainte-Julie),,,,,,,
+T0224419,2022/02/12,2022/02/12,,,,,,,219.8500,0.0000,0.0000,1.0000,0,0,219.85
+T0224419,2022/02/12,2022/02/12,"Deschênes, Colette",Employee,To travel to/from constituency and Ottawa,2022/02/12,Ottawa,Sainte-Julie (Sainte-Julie),,,,,,,
+T0224419,2022/02/12,2022/02/12,"Deschênes, Colette",Employee,To travel to/from constituency and Ottawa,2022/02/12,Sainte-Julie (Sainte-Julie),Ottawa,,,,,,,
+T0223030,2022/02/14,2022/02/17,,,,,,,219.8500,0.0000,250.4700,1.0000,0,0,470.32
+T0223030,2022/02/14,2022/02/17,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/02/14,Sainte-Julie (Sainte-Julie),Ottawa,,,,,,,
+T0223030,2022/02/14,2022/02/17,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/02/17,Ottawa,Sainte-Julie (Sainte-Julie),,,,,,,
+T0223137,2022/02/21,2022/02/21,,,,,,,219.8500,0.0000,18.8100,1.0000,0,0,238.66
+T0223137,2022/02/21,2022/02/21,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/02/21,Sainte-Julie (Sainte-Julie),Ottawa,,,,,,,
+T0223137,2022/02/21,2022/02/21,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/02/21,Ottawa,Sainte-Julie (Sainte-Julie),,,,,,,
+T0223669,2022/02/27,2022/03/03,,,,,,,219.8500,0.0000,288.0900,1.0000,0,0,507.94
+T0223669,2022/02/27,2022/03/03,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/02/27,Sainte-Julie (Sainte-Julie),Ottawa,,,,,,,
+T0223669,2022/02/27,2022/03/03,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/03/03,Ottawa,Sainte-Julie (Sainte-Julie),,,,,,,
+T0225694,2022/03/01,2022/03/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0225694,2022/03/01,2022/03/31,"Bergeron, Stéphane",Member,Secondary Residence,2022/03/01,Gatineau,Gatineau,,,,,,,
+T0226898,2022/03/05,2022/04/04,,,,,,,0.0000,107.7200,0.0000,0,0,0,107.72
+T0226898,2022/03/05,2022/04/04,"Bergeron, Stéphane",Member,Secondary Residence,2022/03/05,Gatineau,Gatineau,,,,,,,
+T0224108,2022/03/09,2022/03/09,,,,,,,219.8500,0.0000,37.4100,1.0000,0,0,257.26
+T0224108,2022/03/09,2022/03/09,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/03/09,Sainte-Julie (Sainte-Julie),Ottawa,,,,,,,
+T0224108,2022/03/09,2022/03/09,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/03/09,Ottawa,Sainte-Julie (Sainte-Julie),,,,,,,
+T0224411,2022/03/14,2022/03/15,,,,,,,219.8500,0.0000,37.4100,1.0000,0,0,257.26
+T0224411,2022/03/14,2022/03/15,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/03/14,Sainte-Julie (Sainte-Julie),Ottawa,,,,,,,
+T0224411,2022/03/14,2022/03/15,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/03/15,Ottawa,Sainte-Julie (Sainte-Julie),,,,,,,
+T0224934,2022/03/21,2022/03/24,,,,,,,219.8500,0.0000,185.7200,1.0000,0,0,405.57
+T0224934,2022/03/21,2022/03/24,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/03/21,Sainte-Julie (Sainte-Julie),Ottawa,,,,,,,
+T0224934,2022/03/21,2022/03/24,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/03/24,Ottawa,Sainte-Julie (Sainte-Julie),,,,,,,
+T0225695,2022/03/26,2022/03/26,,,,,,,219.8500,0.0000,0.0000,1.0000,0,0,219.85
+T0225695,2022/03/26,2022/03/26,"Deschênes, Colette",Employee,To travel to/from constituency and Ottawa,2022/03/26,Ottawa,Sainte-Julie (Sainte-Julie),,,,,,,
+T0225695,2022/03/26,2022/03/26,"Deschênes, Colette",Employee,To travel to/from constituency and Ottawa,2022/03/26,Sainte-Julie (Sainte-Julie),Ottawa,,,,,,,
+T0225883,2022/03/27,2022/04/01,,,,,,,219.6500,0.0000,307.6500,1.0000,0,0,527.30
+T0225883,2022/03/27,2022/04/01,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/03/27,Sainte-Julie (Sainte-Julie),Ottawa,,,,,,,
+T0225883,2022/03/27,2022/04/01,"Bergeron, Stéphane",Member,To travel to/from constituency and Ottawa,2022/04/01,Ottawa,Sainte-Julie (Sainte-Julie),,,,,,,

@@ -1,0 +1,54 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0241910,2022/12/13,2022/12/15,,,,,,,212.1800,534.3300,112.0500,1.0000,0,0,858.56
+T0241910,2022/12/13,2022/12/15,"Panopalis, Aglaia",Employee,To travel to/from constituency and Ottawa,2022/12/13,Montréal,Ottawa,,,,,,,
+T0241913,2022/12/13,2022/12/15,,,,,,,0.0000,534.3400,0.0000,0,0,0,534.34
+T0241913,2022/12/13,2022/12/15,"Bujold, Marie-Eve",Employee,To travel to/from constituency and Ottawa,2022/12/13,Montréal,Ottawa,,,,,,,
+T0241966,2022/12/13,2022/12/15,,,,,,,0.0000,534.3300,0.0000,0,0,0,534.33
+T0241966,2022/12/13,2022/12/15,"Chouinard, David",Employee,To travel to/from constituency and Ottawa,2022/12/13,Montréal,Ottawa,,,,,,,
+T0241910,2022/12/13,2022/12/15,"Panopalis, Aglaia",Employee,To travel to/from constituency and Ottawa,2022/12/15,Ottawa,Montréal,,,,,,,
+T0241966,2022/12/13,2022/12/15,"Chouinard, David",Employee,To travel to/from constituency and Ottawa,2022/12/15,Ottawa,Montréal,,,,,,,
+T0241913,2022/12/13,2022/12/15,"Bujold, Marie-Eve",Employee,To travel to/from constituency and Ottawa,2022/12/15,Ottawa,Montréal,,,,,,,
+T0241910,2022/12/13,2022/12/15,"Chouinard, David",Employee,To travel to/from constituency and Ottawa,2022/12/13,Montréal,Ottawa,,,,,,,
+T0241910,2022/12/13,2022/12/15,"Chouinard, David",Employee,To travel to/from constituency and Ottawa,2022/12/15,Ottawa,Montréal,,,,,,,
+T0241910,2022/12/13,2022/12/15,"Bujold, Marie-Eve",Employee,To travel to/from constituency and Ottawa,2022/12/13,Montréal,Ottawa,,,,,,,
+T0241910,2022/12/13,2022/12/15,"Bujold, Marie-Eve",Employee,To travel to/from constituency and Ottawa,2022/12/15,Ottawa,Montréal,,,,,,,
+T0244197,2023/01/22,2023/01/24,,,,,,,204.9700,0.0000,0.0000,1.0000,0,0,204.97
+T0244197,2023/01/22,2023/01/24,"Shoujounian, Aram",Employee,To travel to/from constituency and Ottawa,2023/01/22,Ottawa,Montréal,,,,,,,
+T0244197,2023/01/22,2023/01/24,"Shoujounian, Aram",Employee,To travel to/from constituency and Ottawa,2023/01/24,Montréal,Ottawa,,,,,,,
+T0244564,2023/01/26,2023/01/28,,,,,,,0.0000,0.0000,203.3000,0.0000,0,0,203.30
+T0244564,2023/01/26,2023/01/28,"Joly, Hon. Mélanie",Member,To travel to/from constituency and Ottawa,2023/01/26,Montréal,Ottawa,,,,,,,
+T0244564,2023/01/26,2023/01/28,"Joly, Hon. Mélanie",Member,To travel to/from constituency and Ottawa,2023/01/28,Ottawa,Montréal,,,,,,,
+T0244210,2023/01/28,2023/01/30,,,,,,,204.9700,0.0000,20.0700,1.0000,0,0,225.04
+T0244210,2023/01/28,2023/01/30,"Shoujounian, Aram",Employee,To travel to/from constituency and Ottawa,2023/01/28,Ottawa,Montréal,,,,,,,
+T0244210,2023/01/28,2023/01/30,"Shoujounian, Aram",Employee,To travel to/from constituency and Ottawa,2023/01/30,Montréal,Ottawa,,,,,,,
+T0244567,2023/01/30,2023/02/03,,,,,,,0.0000,0.0000,345.3100,0.0000,0,0,345.31
+T0244567,2023/01/30,2023/02/03,"Joly, Hon. Mélanie",Member,To travel to/from constituency and Ottawa,2023/01/30,Montréal,Ottawa,,,,,,,
+T0244567,2023/01/30,2023/02/03,"Joly, Hon. Mélanie",Member,To travel to/from constituency and Ottawa,2023/02/03,Ottawa,Montréal,,,,,,,
+200643202,2023/02/01,2023/02/28,,,,,,,0.0000,1650.0000,0.0000,0,0,0,1650.00
+200643202,2023/02/01,2023/02/28,"Joly, Hon. Mélanie",Member,Secondary Residence,2023/02/01,GATINEAU,GATINEAU,,,,,,,
+T0244928,2023/02/03,2023/02/05,,,,,,,125.1100,0.0000,0.0000,1.0000,0,0,125.11
+T0244928,2023/02/03,2023/02/05,"Shoujounian, Aram",Employee,To travel to/from constituency and Ottawa,2023/02/03,Ottawa,Montréal,,,,,,,
+T0244928,2023/02/03,2023/02/05,"Shoujounian, Aram",Employee,To travel to/from constituency and Ottawa,2023/02/05,Montréal,Ottawa,,,,,,,
+T0248097,2023/02/10,2023/02/11,,,,,,,202.4700,0.0000,20.0700,1.0000,0,0,222.54
+T0248097,2023/02/10,2023/02/11,"Shoujounian, Aram",Employee,To travel to/from constituency and Ottawa,2023/02/10,Ottawa,Montréal,,,,,,,
+T0248097,2023/02/10,2023/02/11,"Shoujounian, Aram",Employee,To travel to/from constituency and Ottawa,2023/02/11,Montréal,Ottawa,,,,,,,
+200652993,2023/03/01,2023/03/31,,,,,,,0.0000,1650.0000,0.0000,0,0,0,1650.00
+200652993,2023/03/01,2023/03/31,"Joly, Hon. Mélanie",Member,Secondary Residence,2023/03/01,GATINEAU,GATINEAU,,,,,,,
+T0246866,2023/03/06,2023/03/10,,,,,,,0.0000,0.0000,365.6700,0.0000,0,0,365.67
+T0246866,2023/03/06,2023/03/10,"Joly, Hon. Mélanie",Member,To travel to/from constituency and Ottawa,2023/03/06,Montréal,Ottawa,,,,,,,
+T0246866,2023/03/06,2023/03/10,"Joly, Hon. Mélanie",Member,To travel to/from constituency and Ottawa,2023/03/10,Ottawa,Montréal,,,,,,,
+T0248100,2023/03/17,2023/03/19,,,,,,,202.4700,0.0000,20.0700,1.0000,0,0,222.54
+T0248100,2023/03/17,2023/03/19,"Shoujounian, Aram",Employee,To travel to/from constituency and Ottawa,2023/03/17,Ottawa,Montréal,,,,,,,
+T0248100,2023/03/17,2023/03/19,"Shoujounian, Aram",Employee,To travel to/from constituency and Ottawa,2023/03/19,Montréal,Ottawa,,,,,,,
+T0247919,2023/03/20,2023/03/24,,,,,,,0.0000,0.0000,244.2400,0.0000,0,0,244.24
+T0247919,2023/03/20,2023/03/24,"Joly, Hon. Mélanie",Member,To travel to/from constituency and Ottawa,2023/03/20,Montréal,Ottawa,,,,,,,
+T0247919,2023/03/20,2023/03/24,"Joly, Hon. Mélanie",Member,To travel to/from constituency and Ottawa,2023/03/24,Ottawa,Montréal,,,,,,,
+T0247918,2023/03/21,2023/03/21,,,,,,,202.4700,0.0000,0.0000,1.0000,0,0,202.47
+T0247918,2023/03/21,2023/03/21,"Panopalis, Aglaia",Employee,To travel to/from constituency and Ottawa,2023/03/21,Montréal,Ottawa,,,,,,,
+T0247918,2023/03/21,2023/03/21,"Panopalis, Aglaia",Employee,To travel to/from constituency and Ottawa,2023/03/21,Ottawa,Montréal,,,,,,,
+T0248760,2023/03/27,2023/03/29,,,,,,,0.0000,0.0000,203.5300,0.0000,0,0,203.53
+T0248760,2023/03/27,2023/03/29,"Joly, Hon. Mélanie",Member,To travel to/from constituency and Ottawa,2023/03/27,Montréal,Ottawa,,,,,,,
+T0248760,2023/03/27,2023/03/29,"Joly, Hon. Mélanie",Member,To travel to/from constituency and Ottawa,2023/03/29,Ottawa,Montréal,,,,,,,
+T0248770,2023/03/29,2023/03/30,,,,,,,202.4700,0.0000,0.0000,1.0000,0,0,202.47
+T0248770,2023/03/29,2023/03/30,"Shoujounian, Aram",Employee,To travel to/from constituency and Ottawa,2023/03/29,Ottawa,Montréal,,,,,,,
+T0248770,2023/03/29,2023/03/30,"Shoujounian, Aram",Employee,To travel to/from constituency and Ottawa,2023/03/30,Montréal,Ottawa,,,,,,,

@@ -1,0 +1,26 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0212345,2021/03/09,2021/04/09,,,,,,,0.0000,29.7300,0.0000,0,0,0,29.73
+T0212345,2021/03/09,2021/04/09,"Chong, Hon. Michael",Member,Secondary Residence,2021/03/09,Ottawa,Ottawa,,,,,,,
+T0211547,2021/04/01,2021/04/30,,,,,,,0.0000,1358.3000,0.0000,0,0,0,1358.30
+T0211547,2021/04/01,2021/04/30,"Chong, Hon. Michael",Member,Secondary Residence,2021/04/01,Ottawa,Ottawa,,,,,,,
+T0212960,2021/04/09,2021/05/09,,,,,,,0.0000,32.8200,0.0000,0,0,0,32.82
+T0212960,2021/04/09,2021/05/09,"Chong, Hon. Michael",Member,Secondary Residence,2021/04/09,Ottawa,Ottawa,,,,,,,
+T0212139,2021/04/11,2021/05/10,,,,,,,0.0000,70.4900,0.0000,0,0,0,70.49
+T0212139,2021/04/11,2021/05/10,"Chong, Hon. Michael",Member,Secondary Residence,2021/04/11,Ottawa,Ottawa,,,,,,,
+T0212546,2021/04/26,2021/04/30,,,,,,,352.1300,0.0000,300.6200,1.0000,0,0,652.75
+T0212546,2021/04/26,2021/04/30,"Chong, Hon. Michael",Member,To travel to/from constituency and Ottawa,2021/04/26,Fergus,Ottawa,,,,,,,
+T0212546,2021/04/26,2021/04/30,"Chong, Hon. Michael",Member,To travel to/from constituency and Ottawa,2021/04/30,Ottawa,Fergus,,,,,,,
+T0212344,2021/05/01,2021/05/31,,,,,,,0.0000,1358.3000,0.0000,0,0,0,1358.30
+T0212344,2021/05/01,2021/05/31,"Chong, Hon. Michael",Member,Secondary Residence,2021/05/01,Ottawa,Ottawa,,,,,,,
+T0212969,2021/05/10,2021/05/14,,,,,,,754.7000,0.0000,281.5600,1.0000,0,0,1036.26
+T0212969,2021/05/10,2021/05/14,"Chong, Hon. Michael",Member,To travel to/from constituency and Ottawa,2021/05/10,Fergus,Ottawa,,,,,,,
+T0212969,2021/05/10,2021/05/14,"Chong, Hon. Michael",Member,To travel to/from constituency and Ottawa,2021/05/14,Ottawa,Fergus,,,,,,,
+T0212795,2021/05/11,2021/06/10,,,,,,,0.0000,70.4900,0.0000,0,0,0,70.49
+T0212795,2021/05/11,2021/06/10,"Chong, Hon. Michael",Member,Secondary Residence,2021/05/11,Ottawa,Ottawa,,,,,,,
+T0213012,2021/05/30,2021/06/04,,,,,,,460.7600,0.0000,291.7400,1.0000,0,0,752.50
+T0213012,2021/05/30,2021/06/04,"Chong, Hon. Michael",Member,To travel to/from constituency and Ottawa,2021/05/30,Fergus,Ottawa,,,,,,,
+T0213012,2021/05/30,2021/06/04,"Chong, Hon. Michael",Member,To travel to/from constituency and Ottawa,2021/06/04,Ottawa,Fergus,,,,,,,
+T0213165,2021/06/01,2021/06/30,,,,,,,0.0000,1358.3000,0.0000,0,0,0,1358.30
+T0213165,2021/06/01,2021/06/30,"Chong, Hon. Michael",Member,Secondary Residence,2021/06/01,Ottawa,Ottawa,,,,,,,
+T0213605,2021/06/11,2021/07/10,,,,,,,0.0000,70.4900,0.0000,0,0,0,70.49
+T0213605,2021/06/11,2021/07/10,"Chong, Hon. Michael",Member,Secondary Residence,2021/06/11,Ottawa,Ottawa,,,,,,,

@@ -1,0 +1,37 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0203945,2020/05/11,2020/07/09,,,,,,,32.3400,0.0000,0.0000,0.0000,0,0,32.34
+T0203945,2020/05/11,2020/07/09,"Beaudoin, Simon",Employee,To attend a constituency or community event,2020/05/11,Sainte-Thérèse,Bois-des-Filion,,,,,,,
+T0203945,2020/05/11,2020/07/09,"Beaudoin, Simon",Employee,To attend a constituency or community event,2020/05/11,Bois-des-Filion,Sainte-Thérèse,,,,,,,
+T0203945,2020/05/11,2020/07/09,"Beaudoin, Simon",Employee,To attend a constituency or community event,2020/06/22,Sainte-Thérèse,Blainville,,,,,,,
+T0203945,2020/05/11,2020/07/09,"Beaudoin, Simon",Employee,To attend a constituency or community event,2020/06/22,Blainville,Sainte-Thérèse,,,,,,,
+T0203945,2020/05/11,2020/07/09,"Beaudoin, Simon",Employee,To attend a constituency or community event,2020/07/09,Sainte-Thérèse,Blainville,,,,,,,
+T0203945,2020/05/11,2020/07/09,"Beaudoin, Simon",Employee,To attend a constituency or community event,2020/07/09,Blainville,Bois-des-Filion,,,,,,,
+T0203945,2020/05/11,2020/07/09,"Beaudoin, Simon",Employee,To attend a constituency or community event,2020/07/09,Bois-des-Filion,Lorraine,,,,,,,
+T0203945,2020/05/11,2020/07/09,"Beaudoin, Simon",Employee,To attend a constituency or community event,2020/07/09,Lorraine,Sainte-Thérèse,,,,,,,
+T0204675,2020/06/15,2020/09/08,,,,,,,78.1100,0.0000,0.0000,0.0000,0.0000,0,78.11
+T0204675,2020/06/15,2020/09/08,"Dicaire-Acosta, Michel",Employee,To attend a constituency or community event,2020/06/15,Sainte-Thérèse,Bois-des-Filion,,,,,,,
+T0204675,2020/06/15,2020/09/08,"Dicaire-Acosta, Michel",Employee,To attend a constituency or community event,2020/09/03,Saint-Colomban,Sainte-Thérèse,,,,,,,
+T0204675,2020/06/15,2020/09/08,"Dicaire-Acosta, Michel",Employee,To attend a constituency or community event,2020/09/08,Sainte-Thérèse,Rosemère,,,,,,,
+T0204675,2020/06/15,2020/09/08,"Dicaire-Acosta, Michel",Employee,To attend a constituency or community event,2020/09/08,Rosemère,Sainte-Thérèse,,,,,,,
+T0204675,2020/06/15,2020/09/08,"Dicaire-Acosta, Michel",Employee,To attend a constituency or community event,2020/09/08,Sainte-Thérèse,Bois-des-Filion,,,,,,,
+T0204675,2020/06/15,2020/09/08,"Dicaire-Acosta, Michel",Employee,To attend a constituency or community event,2020/09/08,Bois-des-Filion,Sainte-Thérèse,,,,,,,
+T0204675,2020/06/15,2020/09/08,"Dicaire-Acosta, Michel",Employee,To attend a constituency or community event,2020/06/15,Bois-des-Filion,Sainte-Thérèse,,,,,,,
+T0204675,2020/06/15,2020/09/08,"Dicaire-Acosta, Michel",Employee,To attend a constituency or community event,2020/06/30,Sainte-Thérèse,Blainville,,,,,,,
+T0204675,2020/06/15,2020/09/08,"Dicaire-Acosta, Michel",Employee,To attend a constituency or community event,2020/06/30,Blainville,Sainte-Thérèse,,,,,,,
+T0204675,2020/06/15,2020/09/08,"Dicaire-Acosta, Michel",Employee,To attend a constituency or community event,2020/07/02,Sainte-Thérèse,Saint-Eustache,,,,,,,
+T0204675,2020/06/15,2020/09/08,"Dicaire-Acosta, Michel",Employee,To attend a constituency or community event,2020/07/02,Saint-Eustache,Sainte-Thérèse,,,,,,,
+T0204675,2020/06/15,2020/09/08,"Dicaire-Acosta, Michel",Employee,To attend a constituency or community event,2020/07/13,Sainte-Thérèse,Laval,,,,,,,
+T0204675,2020/06/15,2020/09/08,"Dicaire-Acosta, Michel",Employee,To attend a constituency or community event,2020/07/13,Laval,Sainte-Thérèse,,,,,,,
+T0204675,2020/06/15,2020/09/08,"Dicaire-Acosta, Michel",Employee,To attend a constituency or community event,2020/09/03,Sainte-Thérèse,Saint-Colomban,,,,,,,
+T0203651,2020/07/19,2020/07/19,,,,,,,156.5300,0.0000,18.6600,1.0000,0,0,175.19
+T0203651,2020/07/19,2020/07/19,"Chabot, Louise",Member,To travel to/from constituency and Ottawa,2020/07/19,Sainte-Thérèse,Ottawa,,,,,,,
+T0203651,2020/07/19,2020/07/19,"Chabot, Louise",Member,To travel to/from constituency and Ottawa,2020/07/19,Ottawa,Sainte-Thérèse,,,,,,,
+T0204104,2020/08/17,2020/08/20,,,,,,,787.2000,345.1000,170.0800,0,1.0000,0,1302.38
+T0204104,2020/08/17,2020/08/20,"Chabot, Louise",Member,To attend a national caucus meeting,2020/08/17,Sainte-Thérèse,Bonaventure,,,,,,,
+T0204104,2020/08/17,2020/08/20,"Chabot, Louise",Member,To attend a national caucus meeting,2020/08/20,Bonaventure,Sainte-Thérèse,,,,,,,
+T0205260,2020/09/23,2020/09/23,,,,,,,156.5300,0.0000,98.3000,1.0000,0,0,254.83
+T0205260,2020/09/23,2020/09/23,"Dicaire-Acosta, Michel",Employee,To travel to/from constituency and Ottawa,2020/09/23,Sainte-Thérèse,Ottawa,,,,,,,
+T0205260,2020/09/23,2020/09/23,"Dicaire-Acosta, Michel",Employee,To travel to/from constituency and Ottawa,2020/09/23,Ottawa,Sainte-Thérèse,,,,,,,
+T0205339,2020/09/23,2020/09/24,,,,,,,156.5300,0.0000,61.2100,1.0000,0,0,217.74
+T0205339,2020/09/23,2020/09/24,"Farago, Simon",Employee,To travel to/from constituency and Ottawa,2020/09/23,Sainte-Thérèse,Ottawa,,,,,,,
+T0205339,2020/09/23,2020/09/24,"Farago, Simon",Employee,To travel to/from constituency and Ottawa,2020/09/24,Ottawa,Sainte-Thérèse,,,,,,,

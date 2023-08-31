@@ -1,0 +1,53 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0205789,2020/08/11,2020/09/10,,,,,,,0.0000,65.7900,0.0000,0,0,0,65.79
+T0205789,2020/08/11,2020/09/10,"Harder, Rachael",Member,Secondary Residence,2020/08/11,Ottawa,Ottawa,,,,,,,
+T0206795,2020/09/10,2020/10/11,,,,,,,0.0000,37.4200,0.0000,0,0,0,37.42
+T0206795,2020/09/10,2020/10/11,"Harder, Rachael",Member,Secondary Residence,2020/09/10,Ottawa,Ottawa,,,,,,,
+T0205791,2020/09/27,2020/10/01,,,,,,,2592.6800,0.0000,331.7000,1.0000,0,0,2924.38
+T0205791,2020/09/27,2020/10/01,"Harder, Rachael",Member,To travel to/from constituency and Ottawa,2020/09/27,Lethbridge,Ottawa,,,,,,,
+T0205791,2020/09/27,2020/10/01,"Harder, Rachael",Member,To travel to/from constituency and Ottawa,2020/10/01,Ottawa,Lethbridge,,,,,,,
+T0205470,2020/10/01,2020/10/31,,,,,,,0.0000,1573.1800,0.0000,0,0,0,1573.18
+T0205470,2020/10/01,2020/10/31,"Harder, Rachael",Member,Secondary Residence,2020/10/01,Ottawa,Ottawa,,,,,,,
+T0206784,2020/10/04,2020/10/09,,,,,,,2160.4700,0.0000,500.8900,1.0000,0,0,2661.36
+T0206784,2020/10/04,2020/10/09,"Harder, Rachael",Member,To travel to/from constituency and Ottawa,2020/10/04,Lethbridge,Ottawa,,,,,,,
+T0206784,2020/10/04,2020/10/09,"Harder, Rachael",Member,To travel to/from constituency and Ottawa,2020/10/09,Ottawa,Lethbridge,,,,,,,
+T0206822,2020/10/10,2020/10/14,,,,,,,1618.0600,0.0000,166.9600,0,1.0000,0,1785.02
+T0206822,2020/10/10,2020/10/14,"Harder, Rachael",Member,To attend meetings with stakeholders about business of the House,2020/10/10,Lethbridge,Toronto,,,,,,,
+T0206822,2020/10/10,2020/10/14,"Harder, Rachael",Member,To attend meetings with stakeholders about business of the House,2020/10/14,Toronto,Lethbridge,,,,,,,
+T0206448,2020/10/14,2020/10/15,,,,,,,85.5100,0.0000,0.0000,0.0000,0,0,85.51
+T0206448,2020/10/14,2020/10/15,"Harder, Rachael",Member,To attend meetings about constituency issues,2020/10/14,Lethbridge,Nobleford,,,,,,,
+T0206447,2020/10/14,2020/10/15,,,,,,,23.1300,0.0000,0.0000,0.0000,0,0,23.13
+T0206447,2020/10/14,2020/10/15,"Zoeteman, Alicia",Employee,To attend a constituency or community event,2020/10/14,Lethbridge,Lethbridge,,,,,,,
+T0206448,2020/10/14,2020/10/15,"Harder, Rachael",Member,To attend meetings about constituency issues,2020/10/14,Nobleford,Lethbridge,,,,,,,
+T0206447,2020/10/14,2020/10/15,"Zoeteman, Alicia",Employee,To attend a constituency or community event,2020/10/14,Lethbridge,Lethbridge,,,,,,,
+T0206447,2020/10/14,2020/10/15,"Zoeteman, Alicia",Employee,To attend a constituency or community event,2020/10/15,Lethbridge,Lethbridge,,,,,,,
+T0206448,2020/10/14,2020/10/15,"Harder, Rachael",Member,To attend meetings about constituency issues,2020/10/15,Lethbridge,Coaldale,,,,,,,
+T0206448,2020/10/14,2020/10/15,"Harder, Rachael",Member,To attend meetings about constituency issues,2020/10/15,Coaldale,Lethbridge,,,,,,,
+T0206447,2020/10/14,2020/10/15,"Zoeteman, Alicia",Employee,To attend a constituency or community event,2020/10/15,Lethbridge,Lethbridge,,,,,,,
+T0206448,2020/10/14,2020/10/15,"Harder, Rachael",Member,To attend meetings about constituency issues,2020/10/15,Lethbridge,Picture Butte,,,,,,,
+T0206447,2020/10/14,2020/10/15,"Zoeteman, Alicia",Employee,To attend meetings about constituency issues,2020/10/15,Lethbridge,Coaldale,,,,,,,
+T0206447,2020/10/14,2020/10/15,"Zoeteman, Alicia",Employee,To attend meetings about constituency issues,2020/10/15,Coaldale,Lethbridge,,,,,,,
+T0206448,2020/10/14,2020/10/15,"Harder, Rachael",Member,To attend meetings about constituency issues,2020/10/15,Picture Butte,Lethbridge,,,,,,,
+T0206448,2020/10/14,2020/10/15,"Harder, Rachael",Member,To attend meetings about constituency issues,2020/10/15,Lethbridge,Lethbridge,,,,,,,
+T0206801,2020/10/24,2020/10/29,,,,,,,2716.8600,306.3900,250.4500,0,1.0000,0,3273.70
+T0206801,2020/10/24,2020/10/29,"Harder, Rachael",Member,To attend meetings with stakeholders about business of the House,2020/10/24,Lethbridge,Toronto,,,,,,,
+T0206801,2020/10/24,2020/10/29,"Harder, Rachael",Member,To attend meetings with stakeholders about business of the House,2020/10/29,Toronto,Lethbridge,,,,,,,
+T0206765,2020/10/25,2020/10/28,,,,,,,285.1200,519.8000,213.0800,0,1.0000,0,1018.00
+T0206765,2020/10/25,2020/10/28,"Fischer, Sarah",Employee,Attending event with Member,2020/10/25,Ottawa,Toronto,,,,,,,
+T0206765,2020/10/25,2020/10/28,"Fischer, Sarah",Employee,Attending event with Member,2020/10/28,Toronto,Ottawa,,,,,,,
+T0207092,2020/11/01,2020/11/06,,,,,,,2344.6900,0.0000,482.3200,1.0000,0,0,2827.01
+T0207092,2020/11/01,2020/11/06,"Harder, Rachael",Member,To travel to/from constituency and Ottawa,2020/11/01,Lethbridge,Ottawa,,,,,,,
+T0207092,2020/11/01,2020/11/06,"Harder, Rachael",Member,To travel to/from constituency and Ottawa,2020/11/06,Ottawa,Lethbridge,,,,,,,
+T0206721,2020/11/01,2020/11/30,,,,,,,0.0000,1573.1800,0.0000,0,0,0,1573.18
+T0206721,2020/11/01,2020/11/30,"Harder, Rachael",Member,Secondary Residence,2020/11/01,Ottawa,Ottawa,,,,,,,
+T0207543,2020/11/13,2020/11/19,,,,,,,2605.6400,0.0000,379.8200,1.0000,0,0,2985.46
+T0207543,2020/11/13,2020/11/19,"Harder, Rachael",Member,To travel to/from constituency and Ottawa,2020/11/13,Lethbridge,Ottawa,,,,,,,
+T0207543,2020/11/13,2020/11/19,"Harder, Rachael",Member,To travel to/from constituency and Ottawa,2020/11/19,Ottawa,Lethbridge,,,,,,,
+T0207789,2020/11/22,2020/11/27,,,,,,,2446.0100,0.0000,435.9800,1.0000,0,0,2881.99
+T0207789,2020/11/22,2020/11/27,"Harder, Rachael",Member,To travel to/from constituency and Ottawa,2020/11/22,Lethbridge,Ottawa,,,,,,,
+T0207789,2020/11/22,2020/11/27,"Harder, Rachael",Member,To travel to/from constituency and Ottawa,2020/11/27,Ottawa,Lethbridge,,,,,,,
+T0208306,2020/11/29,2020/12/09,,,,,,,1943.5200,0.0000,816.2500,1.0000,0,0,2759.77
+T0208306,2020/11/29,2020/12/09,"Harder, Rachael",Member,To travel to/from constituency and Ottawa,2020/11/29,Lethbridge,Ottawa,,,,,,,
+T0208306,2020/11/29,2020/12/09,"Harder, Rachael",Member,To travel to/from constituency and Ottawa,2020/12/09,Ottawa,Lethbridge,,,,,,,
+T0207428,2020/12/01,2020/12/31,,,,,,,0.0000,1573.1800,0.0000,0,0,0,1573.18
+T0207428,2020/12/01,2020/12/31,"Harder, Rachael",Member,Secondary Residence,2020/12/01,Ottawa,Ottawa,,,,,,,

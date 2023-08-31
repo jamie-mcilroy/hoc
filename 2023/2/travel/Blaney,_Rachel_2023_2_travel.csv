@@ -1,0 +1,62 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0229441,2022/03/09,2022/05/09,,,,,,,0.0000,110.8600,0.0000,0,0,0,110.86
+T0229441,2022/03/09,2022/05/09,"Blaney, Rachel",Member,Secondary Residence,2022/03/09,Ottawa,Ottawa,,,,,,,
+T0229441,2022/03/09,2022/05/09,"Blaney, Rachel",Member,Secondary Residence,2022/04/08,Ottawa,Ottawa,,,,,,,
+T0232088,2022/04/01,2022/04/24,,,,,,,2664.9700,212.9100,0.0000,0.5000,0,0,2877.88
+T0232088,2022/04/01,2022/04/24,"Blaney, Rachel",Member,To travel to/from constituency and Ottawa,2022/04/18,Ottawa,Campbell River,,,,,,,
+T0232088,2022/04/01,2022/04/24,"Blaney, Rachel",Member,To travel to/from constituency and Ottawa,2022/04/23,Campbell River,Ottawa,,,,,,,
+T0229703,2022/04/19,2022/04/22,,,,,,,188.5800,215.2300,189.3300,0,0.0000,0,593.14
+T0229703,2022/04/19,2022/04/22,"Bell, Kristy",Employee,To attend a conference,2022/04/20,Comox,Vancouver,,,,,,,
+T0233312,2022/04/20,2022/05/13,,,,,,,40.9500,215.2300,146.9700,0.0000,0.0000,0,403.15
+T0233312,2022/04/20,2022/05/13,"Ponsford, Sophie",Employee,To attend a conference,2022/04/20,Powell River,Vancouver,,,,,,,
+T0233312,2022/04/20,2022/05/13,"Ponsford, Sophie",Employee,To conduct constituency office business,2022/05/13,Powell River,Comox,,,,,,,
+T0233312,2022/04/20,2022/05/13,"Ponsford, Sophie",Employee,To conduct constituency office business,2022/05/13,Comox,Powell River,,,,,,,
+T0232359,2022/04/25,2022/05/25,,,,,,,2891.9200,0.0000,0.0000,1.0000,0,0,2891.92
+T0232359,2022/04/25,2022/05/25,"Blaney, Rachel",Member,To travel to/from constituency and Ottawa,2022/05/12,Ottawa,Campbell River,,,,,,,
+T0232359,2022/04/25,2022/05/25,"Blaney, Rachel",Member,To travel to/from constituency and Ottawa,2022/05/24,Campbell River,Ottawa,,,,,,,
+T0232371,2022/05/05,2022/05/06,,,,,,,1133.3700,0.0000,0.0000,0,1.0000,0,1133.37
+T0232371,2022/05/05,2022/05/06,"Blaney, Rachel",Member,To attend a conference,2022/05/05,Toronto,Ottawa,,,,,,,
+T0232371,2022/05/05,2022/05/06,"Blaney, Rachel",Member,To attend a conference,2022/05/06,Ottawa,Toronto,,,,,,,
+T0233836,2022/05/09,2022/07/08,,,,,,,0.0000,253.9100,0.0000,0,0,0,253.91
+T0233836,2022/05/09,2022/07/08,"Blaney, Rachel",Member,Secondary Residence,2022/05/09,Ottawa,Ottawa,,,,,,,
+T0232383,2022/05/20,2022/05/22,,,,,,,186.4200,153.7000,94.6600,0.0000,0,0,434.78
+T0232383,2022/05/20,2022/05/22,"Blaney, Rachel",Member,To attend a constituency or community event,2022/05/20,Campbell River,Powell River,,,,,,,
+T0232383,2022/05/20,2022/05/22,"Blaney, Rachel",Member,To attend a constituency or community event,2022/05/21,Powell River,Campbell River,,,,,,,
+T0232384,2022/05/31,2022/07/16,,,,,,,0.0000,0.0000,879.0200,0.0000,0,0,879.02
+T0232384,2022/05/31,2022/07/16,"Blaney, Rachel",Member,To travel to/from constituency and Ottawa,2022/07/16,Ottawa,Campbell River,,,,,,,
+T0233310,2022/06/07,2022/06/24,,,,,,,183.9800,0.0000,0.0000,0.0000,0.0000,0,183.98
+T0233310,2022/06/07,2022/06/24,"Bois, Monique",Employee,To attend a constituency or community event,2022/06/07,Campbell River,Courtenay,,,,,,,
+T0233310,2022/06/07,2022/06/24,"Bois, Monique",Employee,To attend a constituency or community event,2022/06/18,Campbell River,Cumberland,,,,,,,
+T0233310,2022/06/07,2022/06/24,"Bois, Monique",Employee,To conduct constituency office business,2022/06/24,Campbell River,Comox,,,,,,,
+T0232385,2022/06/08,2022/06/20,,,,,,,2054.7900,0.0000,0.0000,1.0000,0,0,2054.79
+T0232385,2022/06/08,2022/06/20,"Blaney, Rachel",Member,To travel to/from constituency and Ottawa,2022/06/17,Ottawa,Campbell River,,,,,,,
+T0232385,2022/06/08,2022/06/20,"Blaney, Rachel",Member,To attend an event as a matter of protocol,2022/06/08,Ottawa East,Ottawa West,,,,,,,
+T0232385,2022/06/08,2022/06/20,"Blaney, Rachel",Member,To attend an event as a matter of protocol,2022/06/08,Ottawa West,Ottawa East,,,,,,,
+T0232385,2022/06/08,2022/06/20,"Blaney, Rachel",Member,To travel to/from constituency and Ottawa,2022/06/19,Campbell River,Ottawa,,,,,,,
+T0232386,2022/06/20,2022/06/24,,,,,,,1460.7600,0.0000,283.9900,0.5000,0,0,1744.75
+T0232386,2022/06/20,2022/06/24,"Blaney, Rachel",Member,To travel to/from constituency and Ottawa,2022/06/23,Ottawa,Campbell River,,,,,,,
+T0232704,2022/06/27,2022/06/27,,,,,,,62.7400,0.0000,0.0000,0.0000,0,0,62.74
+T0232704,2022/06/27,2022/06/27,"Blaney, Rachel",Member,To attend meetings with stakeholders about business of the House,2022/06/27,Campbell River,Comox,,,,,,,
+T0232086,2022/07/01,2022/07/03,,,,,,,84.7700,309.6200,262.6900,0.0000,0,0,657.08
+T0232086,2022/07/01,2022/07/03,"Blaney, Rachel",Member,To attend a constituency or community event,2022/07/01,Campbell River,Powell River,,,,,,,
+T0232086,2022/07/01,2022/07/03,"Blaney, Rachel",Member,To attend a constituency or community event,2022/07/03,Powell River,Campbell River,,,,,,,
+200582389,2022/07/01,2022/07/31,,,,,,,0.0000,2000.0000,0.0000,0,0,0,2000.00
+200582389,2022/07/01,2022/07/31,"Blaney, Rachel",Member,Secondary Residence,2022/07/01,OTTAWA,OTTAWA,,,,,,,
+T0234232,2022/07/08,2022/08/08,,,,,,,0.0000,211.5500,0.0000,0,0,0,211.55
+T0234232,2022/07/08,2022/08/08,"Blaney, Rachel",Member,Secondary Residence,2022/07/08,Ottawa,Ottawa,,,,,,,
+T0233161,2022/07/13,2022/07/14,,,,,,,293.0000,228.9500,189.3300,0.0000,0,0,711.28
+T0233161,2022/07/13,2022/07/14,"Blaney, Rachel",Member,To attend meetings about constituency issues,2022/07/13,Campbell River,Port Hardy,,,,,,,
+T0233842,2022/07/13,2022/07/14,,,,,,,0.0000,206.6200,137.0200,0.0000,0,0,343.64
+T0233842,2022/07/13,2022/07/14,"Bois, Monique",Employee,To conduct constituency office business,2022/07/13,Campbell River,Alert Bay,,,,,,,
+T0233147,2022/07/24,2022/07/26,,,,,,,27.7800,406.4200,146.9700,0.0000,0,0,581.17
+T0233147,2022/07/24,2022/07/26,"Ponsford, Sophie",Employee,To attend meetings about constituency issues,2022/07/24,Powell River,Campbell River,,,,,,,
+T0233147,2022/07/24,2022/07/26,"Ponsford, Sophie",Employee,To attend meetings about constituency issues,2022/07/26,Campbell River,Powell River,,,,,,,
+T0233414,2022/07/24,2022/08/07,,,,,,,1331.4400,1219.2700,494.3800,1.0000,0,0,3045.09
+T0233414,2022/07/24,2022/08/07,"Ackermann, Christine",Employee,To travel to/from constituency and Ottawa,2022/07/24,Ottawa,Campbell River,,,,,,,
+T0233414,2022/07/24,2022/08/07,"Ackermann, Christine",Employee,To travel to/from constituency and Ottawa,2022/08/07,Campbell River,Ottawa,,,,,,,
+200590016,2022/08/01,2022/08/31,,,,,,,0.0000,2000.0000,0.0000,0,0,0,2000.00
+200590016,2022/08/01,2022/08/31,"Blaney, Rachel",Member,Secondary Residence,2022/08/01,OTTAWA,OTTAWA,,,,,,,
+200600050,2022/09/01,2022/09/30,,,,,,,0.0000,2000.0000,0.0000,0,0,0,2000.00
+200600050,2022/09/01,2022/09/30,"Blaney, Rachel",Member,Secondary Residence,2022/09/01,OTTAWA,OTTAWA,,,,,,,
+200607340,2022/10/01,2022/10/31,,,,,,,0.0000,2000.0000,0.0000,0,0,0,2000.00
+200607340,2022/10/01,2022/10/31,"Blaney, Rachel",Member,Secondary Residence,2022/10/01,OTTAWA,OTTAWA,,,,,,,

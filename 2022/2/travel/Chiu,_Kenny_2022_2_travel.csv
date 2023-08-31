@@ -1,0 +1,42 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0213620,2021/06/07,2021/06/11,,,,,,,908.6000,0.0000,0.0000,1.0000,0.0000,0.0000,908.60
+T0213620,2021/06/07,2021/06/11,,Dependant,To unite the family with the Member,2021/06/07,Richmond,Ottawa,,,,,,,
+T0213619,2021/06/07,2021/06/17,,,,,,,908.6000,0.0000,0.0000,1.0000,0.0000,0.0000,908.60
+T0213619,2021/06/07,2021/06/17,,Dependant,To unite the family with the Member,2021/06/07,Richmond,Ottawa,,,,,,,
+T0213621,2021/06/09,2021/06/13,,,,,,,2256.7400,0.0000,0.0000,1.0000,0.0000,0.0000,2256.74
+T0213621,2021/06/09,2021/06/13,,Designated Traveller,To unite the family with the Member,2021/06/09,Richmond,Ottawa,,,,,,,
+T0213622,2021/06/09,2021/06/18,,,,,,,1200.5200,1206.5200,854.4200,1.0000,0,0,3261.46
+T0213622,2021/06/09,2021/06/18,"Chiu, Kenny",Member,To travel to/from constituency and Ottawa,2021/06/09,Richmond,Ottawa,,,,,,,
+T0213622,2021/06/09,2021/06/18,"Chiu, Kenny",Member,To travel to/from constituency and Ottawa,2021/06/18,Ottawa,Richmond,,,,,,,
+T0214272,2021/06/24,2021/07/20,,,,,,,159.2600,0.0000,0.0000,0.0000,0.0000,0,159.26
+T0214272,2021/06/24,2021/07/20,"Chiu, Kenny",Member,To attend meetings about constituency issues,2021/06/24,Richmond,Richmond,,,,,,,
+T0214272,2021/06/24,2021/07/20,"Chiu, Kenny",Member,To attend an event as a matter of protocol,2021/07/12,Langley,Richmond,,,,,,,
+T0214272,2021/06/24,2021/07/20,"Chiu, Kenny",Member,To attend meetings about constituency issues,2021/07/13,Richmond,Richmond,,,,,,,
+T0214272,2021/06/24,2021/07/20,"Chiu, Kenny",Member,To attend meetings about constituency issues,2021/07/13,Richmond,Richmond,,,,,,,
+T0214272,2021/06/24,2021/07/20,"Chiu, Kenny",Member,To attend an event as a guest speaker,2021/07/15,Richmond,Richmond,,,,,,,
+T0214272,2021/06/24,2021/07/20,"Chiu, Kenny",Member,To attend an event as a guest speaker,2021/07/15,Richmond,Richmond,,,,,,,
+T0214272,2021/06/24,2021/07/20,"Chiu, Kenny",Member,To attend meetings about constituency issues,2021/07/20,Richmond,Richmond,,,,,,,
+T0214272,2021/06/24,2021/07/20,"Chiu, Kenny",Member,To attend meetings about constituency issues,2021/07/20,Richmond,Richmond,,,,,,,
+T0214272,2021/06/24,2021/07/20,"Chiu, Kenny",Member,To attend meetings about constituency issues,2021/06/24,Richmond,Richmond,,,,,,,
+T0214272,2021/06/24,2021/07/20,"Chiu, Kenny",Member,To attend meetings about constituency issues,2021/06/25,Richmond,Richmond,,,,,,,
+T0214272,2021/06/24,2021/07/20,"Chiu, Kenny",Member,To attend meetings about constituency issues,2021/06/25,Richmond,Richmond,,,,,,,
+T0214272,2021/06/24,2021/07/20,"Chiu, Kenny",Member,To attend a constituency or community event,2021/06/26,Richmond,Richmond,,,,,,,
+T0214272,2021/06/24,2021/07/20,"Chiu, Kenny",Member,To attend a constituency or community event,2021/06/26,Richmond,Richmond,,,,,,,
+T0214272,2021/06/24,2021/07/20,"Chiu, Kenny",Member,To attend a constituency or community event,2021/07/12,Richmond,Richmond,,,,,,,
+T0214272,2021/06/24,2021/07/20,"Chiu, Kenny",Member,To attend a constituency or community event,2021/07/12,Richmond,Richmond,,,,,,,
+T0214272,2021/06/24,2021/07/20,"Chiu, Kenny",Member,To attend an event as a matter of protocol,2021/07/12,Richmond,Langley,,,,,,,
+T0214433,2021/07/06,2021/07/15,,,,,,,908.6000,0.0000,1078.3700,1.0000,0,0,1986.97
+T0214433,2021/07/06,2021/07/15,"Wood, Jordon",Employee,To travel to/from constituency and Ottawa,2021/07/06,Ottawa,Steveston,,,,,,,
+T0214433,2021/07/06,2021/07/15,"Wood, Jordon",Employee,To travel to/from constituency and Ottawa,2021/07/15,Steveston,Ottawa,,,,,,,
+T0214720,2021/07/17,2021/07/28,,,,,,,77.4500,0.0000,0.0000,0.0000,0.0000,0,77.45
+T0214720,2021/07/17,2021/07/28,"Chiu, Kenny",Member,To attend a constituency or community event,2021/07/17,Richmond,Vancouver,,,,,,,
+T0214720,2021/07/17,2021/07/28,"Chiu, Kenny",Member,To attend meetings about constituency issues,2021/07/28,Richmond,Richmond,,,,,,,
+T0214720,2021/07/17,2021/07/28,"Chiu, Kenny",Member,To attend meetings about constituency issues,2021/07/28,Richmond,Richmond,,,,,,,
+T0214720,2021/07/17,2021/07/28,"Chiu, Kenny",Member,To attend a constituency or community event,2021/07/17,Vancouver,Richmond,,,,,,,
+T0214720,2021/07/17,2021/07/28,"Chiu, Kenny",Member,To attend meetings about constituency issues,2021/07/23,Richmond,Richmond,,,,,,,
+T0214720,2021/07/17,2021/07/28,"Chiu, Kenny",Member,To attend meetings about constituency issues,2021/07/23,Richmond,Richmond,,,,,,,
+T0214720,2021/07/17,2021/07/28,"Chiu, Kenny",Member,To attend meetings about constituency issues,2021/07/23,Richmond,Richmond,,,,,,,
+T0214720,2021/07/17,2021/07/28,"Chiu, Kenny",Member,To attend meetings about constituency issues,2021/07/25,Richmond,Richmond,,,,,,,
+T0214720,2021/07/17,2021/07/28,"Chiu, Kenny",Member,To attend meetings about constituency issues,2021/07/25,Richmond,Richmond,,,,,,,
+T0214720,2021/07/17,2021/07/28,"Chiu, Kenny",Member,To attend meetings about constituency issues,2021/07/27,Richmond,Richmond,,,,,,,
+T0214720,2021/07/17,2021/07/28,"Chiu, Kenny",Member,To attend meetings about constituency issues,2021/07/27,Richmond,Richmond,,,,,,,

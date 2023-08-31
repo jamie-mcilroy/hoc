@@ -1,0 +1,31 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0230981,2022/04/25,2022/05/25,,,,,,,0.0000,70.5400,0.0000,0,0,0,70.54
+T0230981,2022/04/25,2022/05/25,"Davies, Don",Member,Secondary Residence,2022/04/25,Ottawa,Ottawa,,,,,,,
+T0231767,2022/05/01,2022/07/31,,,,,,,0.0000,1837.0100,0.0000,0,0,0,1837.01
+T0231767,2022/05/01,2022/07/31,"Davies, Don",Member,Secondary Residence,2022/05/01,Ottawa,Ottawa,,,,,,,
+T0231767,2022/05/01,2022/07/31,"Davies, Don",Member,Secondary Residence,2022/06/01,Ottawa,Ottawa,,,,,,,
+T0231767,2022/05/01,2022/07/31,"Davies, Don",Member,Secondary Residence,2022/07/01,Ottawa,Ottawa,,,,,,,
+T0232252,2022/05/25,2022/06/24,,,,,,,0.0000,52.2700,0.0000,0,0,0,52.27
+T0232252,2022/05/25,2022/06/24,"Davies, Don",Member,Secondary Residence,2022/05/25,Ottawa,Ottawa,,,,,,,
+T0231392,2022/06/12,2022/06/24,,,,,,,2406.2500,0.0000,310.0400,1.0000,0,0,2716.29
+T0231392,2022/06/12,2022/06/24,"Davies, Don",Member,To travel to/from constituency and Ottawa,2022/06/12,Vancouver,Ottawa,,,,,,,
+T0231392,2022/06/12,2022/06/24,"Davies, Don",Member,To travel to/from constituency and Ottawa,2022/06/24,Ottawa,Vancouver,,,,,,,
+T0234521,2022/06/24,2022/09/30,,,,,,,0.0000,1849.7600,0.0000,0,0,0,1849.76
+T0234521,2022/06/24,2022/09/30,"Davies, Don",Member,Secondary Residence,2022/06/24,Ottawa,Ottawa,,,,,,,
+T0234521,2022/06/24,2022/09/30,"Davies, Don",Member,Secondary Residence,2022/09/01,Ottawa,Ottawa,,,,,,,
+T0231625,2022/06/27,2022/06/29,,,,,,,2393.9800,0.0000,216.6700,0,1.0000,0,2610.65
+T0231625,2022/06/27,2022/06/29,"Davies, Don",Member,To attend a conference,2022/06/27,Vancouver,Montreal,,,,,,,
+T0231625,2022/06/27,2022/06/29,"Davies, Don",Member,To attend a conference,2022/06/29,Montreal,Vancouver,,,,,,,
+T0232465,2022/07/06,2022/07/17,,,,,,,1193.1400,336.5300,736.7300,1.0000,0,0,2266.40
+T0232465,2022/07/06,2022/07/17,"Hurley, Ryan",Employee,To travel to/from constituency and Ottawa,2022/07/06,Ottawa,Vancouver,,,,,,,
+T0232465,2022/07/06,2022/07/17,"Hurley, Ryan",Employee,To travel to/from constituency and Ottawa,2022/07/17,Vancouver,Ottawa,,,,,,,
+T0235048,2022/07/25,2022/08/24,,,,,,,0.0000,74.2700,0.0000,0,0,0,74.27
+T0235048,2022/07/25,2022/08/24,"Davies, Don",Member,Secondary Residence,2022/07/25,Ottawa,Ottawa,,,,,,,
+T0233164,2022/08/01,2022/08/31,,,,,,,0.0000,1500.0000,0.0000,0,0,0,1500.00
+T0233164,2022/08/01,2022/08/31,"Davies, Don",Member,Secondary Residence,2022/08/01,Ottawa,Ottawa,,,,,,,
+T0235801,2022/08/30,2022/09/16,,,,,,,1142.8400,0.0000,779.0900,1.0000,0,0,1921.93
+T0235801,2022/08/30,2022/09/16,"Farrell, Peter",Employee,To travel to/from constituency and Ottawa,2022/08/30,Ottawa,Vancouver,,,,,,,
+T0235801,2022/08/30,2022/09/16,"Farrell, Peter",Employee,To travel to/from constituency and Ottawa,2022/09/16,Vancouver,Ottawa,,,,,,,
+T0235246,2022/09/06,2022/09/10,,,,,,,5619.4700,0.0000,310.7000,0,1.0000,0,5930.17
+T0235246,2022/09/06,2022/09/10,"Davies, Don",Member,To attend a national caucus meeting,2022/09/06,Vancouver,Halifax,,,,,,,
+T0235246,2022/09/06,2022/09/10,"Davies, Don",Member,To attend a national caucus meeting,2022/09/10,Halifax,Vancouver,,,,,,,

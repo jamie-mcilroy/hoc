@@ -1,0 +1,85 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0212175,2021/04/05,2021/04/11,,,,,,,1435.2000,1077.6500,673.5900,1.0000,1.0000,0,3186.44
+T0212175,2021/04/05,2021/04/11,"Stasko, Daniel",Employee,Attending event with Member,2021/04/06,Toronto,Saskatoon,,,,,,,
+T0211768,2021/04/05,2021/04/11,,,,,,,2480.0600,1126.4400,673.5900,0,2.5000,0,4280.09
+T0211768,2021/04/05,2021/04/11,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/04/06,Toronto,Saskatoon,,,,,,,
+T0212175,2021/04/05,2021/04/11,"Stasko, Daniel",Employee,Attending event with Member,2021/04/11,Saskatoon,Toronto,,,,,,,
+T0211768,2021/04/05,2021/04/11,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/04/07,Saskatoon,Edmonton,,,,,,,
+T0212175,2021/04/05,2021/04/11,"Stasko, Daniel",Employee,To drive Member to/from terminal,2021/04/05,Vancouver,Toronto,,,,,,,
+T0211768,2021/04/05,2021/04/11,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/04/08,Edmonton,Calgary,,,,,,,
+T0211768,2021/04/05,2021/04/11,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/04/09,Calgary,Vancouver,,,,,,,
+T0212175,2021/04/05,2021/04/11,"Stasko, Daniel",Employee,To drive Member to/from terminal,2021/04/11,Toronto,Belleville,,,,,,,
+T0211768,2021/04/05,2021/04/11,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/04/11,Vancouver,Toronto,,,,,,,
+T0212182,2021/04/14,2021/04/16,,,,,,,251.7600,419.9000,169.3800,1.0000,0,0,841.04
+T0212182,2021/04/14,2021/04/16,"Stasko, Daniel",Employee,To travel to/from constituency and Ottawa,2021/04/14,Belleville,Ottawa,,,,,,,
+T0212040,2021/04/14,2021/04/16,,,,,,,0.0000,249.7300,140.3600,0.0000,0,0,390.09
+T0212040,2021/04/14,2021/04/16,"Sloan, Derek",Member,To travel to/from constituency and Ottawa,2021/04/14,Belleville,Ottawa,,,,,,,
+T0212182,2021/04/14,2021/04/16,"Stasko, Daniel",Employee,To travel to/from constituency and Ottawa,2021/04/16,Ottawa,Belleville,,,,,,,
+T0212210,2021/04/22,2021/04/23,,,,,,,266.0000,124.8700,200.2700,1.0000,0,0,591.14
+T0212210,2021/04/22,2021/04/23,"Sloan, Derek",Member,To travel to/from constituency and Ottawa,2021/04/22,Belleville,Ottawa,,,,,,,
+T0212210,2021/04/22,2021/04/23,"Sloan, Derek",Member,To travel to/from constituency and Ottawa,2021/04/23,Ottawa,Belleville,,,,,,,
+T0212183,2021/04/24,2021/04/26,,,,,,,598.5000,209.8600,112.6400,0,0.0000,0,921.00
+T0212183,2021/04/24,2021/04/26,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/04/24,Belleville,Barrie,,,,,,,
+T0212183,2021/04/24,2021/04/26,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/04/25,Barrie,Eden,,,,,,,
+T0212183,2021/04/24,2021/04/26,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/04/25,Eden,Stratford,,,,,,,
+T0212183,2021/04/24,2021/04/26,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/04/25,Stratford,London,,,,,,,
+T0212183,2021/04/24,2021/04/26,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/04/26,London,Chatham-Kent,,,,,,,
+T0212183,2021/04/24,2021/04/26,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/04/26,Chatham-Kent,Belleville,,,,,,,
+T0212376,2021/05/01,2021/05/01,,,,,,,317.3000,0.0000,0.0000,0,1.0000,0,317.30
+T0212376,2021/05/01,2021/05/01,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/05/01,Belleville,Simcoe,,,,,,,
+T0212376,2021/05/01,2021/05/01,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/05/01,Simcoe,Belleville,,,,,,,
+T0212396,2021/05/03,2021/05/04,,,,,,,266.0000,166.8400,153.4800,1.0000,0,0,586.32
+T0212396,2021/05/03,2021/05/04,"Sloan, Derek",Member,To travel to/from constituency and Ottawa,2021/05/03,Belleville,Ottawa,,,,,,,
+T0212396,2021/05/03,2021/05/04,"Sloan, Derek",Member,To travel to/from constituency and Ottawa,2021/05/04,Ottawa,Belleville,,,,,,,
+T0212527,2021/05/07,2021/05/08,,,,,,,331.5600,0.0000,46.7900,0,1.0000,0,378.35
+T0212527,2021/05/07,2021/05/08,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/05/07,Belleville,Tillsonburg,,,,,,,
+T0212528,2021/05/07,2021/05/08,,,,,,,0.0000,0.0000,46.7900,0,0.0000,0,46.79
+T0212528,2021/05/07,2021/05/08,"Stasko, Daniel",Employee,Attending event with Member,2021/05/07,Belleville,Tillsonburg,,,,,,,
+T0212528,2021/05/07,2021/05/08,"Stasko, Daniel",Employee,Attending event with Member,2021/05/08,Tillsonburg,Belleville,,,,,,,
+T0212527,2021/05/07,2021/05/08,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/05/08,Tillsonburg,Belleville,,,,,,,
+T0212620,2021/05/12,2021/05/14,,,,,,,418.0000,0.0000,65.6300,2.0000,0,0,483.63
+T0212620,2021/05/12,2021/05/14,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/05/12,Belleville,Toronto,,,,,,,
+T0212620,2021/05/12,2021/05/14,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/05/12,Toronto,Belleville,,,,,,,
+T0212620,2021/05/12,2021/05/14,"Sloan, Derek",Member,To travel to/from constituency and Ottawa,2021/05/14,Belleville,Ottawa,,,,,,,
+T0212620,2021/05/12,2021/05/14,"Sloan, Derek",Member,To travel to/from constituency and Ottawa,2021/05/14,Ottawa,Belleville,,,,,,,
+T0212707,2021/05/20,2021/05/20,,,,,,,216.6000,0.0000,100.1300,0,0.0000,0,316.73
+T0212707,2021/05/20,2021/05/20,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/05/20,Belleville,Vaughan,,,,,,,
+T0212707,2021/05/20,2021/05/20,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/05/20,Vaughan,Belleville,,,,,,,
+T0212708,2021/05/20,2021/05/20,,,,,,,0.0000,0.0000,46.7900,0,0.0000,0,46.79
+T0212708,2021/05/20,2021/05/20,"Stasko, Daniel",Employee,Attending event with Member,2021/05/20,Vaughan,Belleville,,,,,,,
+T0212708,2021/05/20,2021/05/20,"Stasko, Daniel",Employee,Attending event with Member,2021/05/20,Belleville,Vaughan,,,,,,,
+T0212924,2021/05/28,2021/05/31,,,,,,,0.0000,0.0000,165.9800,0.0000,0,0,165.98
+T0212924,2021/05/28,2021/05/31,"Stasko, Daniel",Employee,Attending event with Member,2021/05/28,Belleville,Ottawa,,,,,,,
+T0212922,2021/05/28,2021/05/31,,,,,,,532.0000,0.0000,65.8500,2.0000,0,0,597.85
+T0212922,2021/05/28,2021/05/31,"Sloan, Derek",Member,To travel to/from constituency and Ottawa,2021/05/28,Belleville,Ottawa,,,,,,,
+T0212922,2021/05/28,2021/05/31,"Sloan, Derek",Member,To travel to/from constituency and Ottawa,2021/05/31,Ottawa,Belleville,,,,,,,
+T0212924,2021/05/28,2021/05/31,"Stasko, Daniel",Employee,Attending event with Member,2021/05/31,Ottawa,Belleville,,,,,,,
+T0212924,2021/05/28,2021/05/31,"Stasko, Daniel",Employee,Attending event with Member,2021/05/31,Belleville,Ottawa,,,,,,,
+T0212922,2021/05/28,2021/05/31,"Sloan, Derek",Member,To travel to/from constituency and Ottawa,2021/05/31,Belleville,Ottawa,,,,,,,
+T0212924,2021/05/28,2021/05/31,"Stasko, Daniel",Employee,Attending event with Member,2021/05/31,Ottawa,Belleville,,,,,,,
+T0212922,2021/05/28,2021/05/31,"Sloan, Derek",Member,To travel to/from constituency and Ottawa,2021/05/31,Ottawa,Belleville,,,,,,,
+T0212945,2021/05/29,2021/05/30,,,,,,,0.0000,0.0000,65.8500,0,0.0000,0,65.85
+T0212945,2021/05/29,2021/05/30,"Stasko, Daniel",Employee,Attending event with Member,2021/05/29,Belleville,Aylmer,,,,,,,
+T0212944,2021/05/29,2021/05/30,,,,,,,370.0300,0.0000,65.8500,0,2.0000,0,435.88
+T0212944,2021/05/29,2021/05/30,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/05/29,Belleville,Aylmer,,,,,,,
+T0212945,2021/05/29,2021/05/30,"Stasko, Daniel",Employee,Attending event with Member,2021/05/30,Aylmer,Woodstock,,,,,,,
+T0212944,2021/05/29,2021/05/30,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/05/30,Aylmer,Woodstock,,,,,,,
+T0212944,2021/05/29,2021/05/30,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/05/30,Woodstock,Waterloo,,,,,,,
+T0212945,2021/05/29,2021/05/30,"Stasko, Daniel",Employee,Attending event with Member,2021/05/30,Woodstock,Waterloo,,,,,,,
+T0212945,2021/05/29,2021/05/30,"Stasko, Daniel",Employee,Attending event with Member,2021/05/30,Waterloo,Belleville,,,,,,,
+T0212944,2021/05/29,2021/05/30,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/05/30,Waterloo,Belleville,,,,,,,
+T0213341,2021/06/08,2021/06/15,,,,,,,3494.5300,1017.6100,361.2100,1.0000,1.5000,0,4873.35
+T0213341,2021/06/08,2021/06/15,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/06/09,Toronto,Edmonton,,,,,,,
+T0213341,2021/06/08,2021/06/15,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/06/11,Edmonton,Vancouver,,,,,,,
+T0213341,2021/06/08,2021/06/15,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/06/14,Vancouver,Toronto,,,,,,,
+T0213341,2021/06/08,2021/06/15,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/06/08,Stirling-Rawdon,Toronto,,,,,,,
+T0213341,2021/06/08,2021/06/15,"Sloan, Derek",Member,To attend meetings with stakeholders about business of the House,2021/06/15,Toronto,Stirling-Rawdon,,,,,,,
+T0213490,2021/06/08,2021/06/17,,,,,,,1891.3600,889.8200,540.0200,1.5000,1.0000,0,3321.20
+T0213490,2021/06/08,2021/06/17,"Stasko, Daniel",Employee,Attending event with Member,2021/06/08,Belleville,Toronto,,,,,,,
+T0213490,2021/06/08,2021/06/17,"Stasko, Daniel",Employee,Attending event with Member,2021/06/11,Edmonton,Vancouver,,,,,,,
+T0213490,2021/06/08,2021/06/17,"Stasko, Daniel",Employee,Attending event with Member,2021/06/14,Vancouver,Toronto,,,,,,,
+T0213490,2021/06/08,2021/06/17,"Stasko, Daniel",Employee,To travel to/from constituency and Ottawa,2021/06/17,Belleville,Ottawa,,,,,,,
+T0213490,2021/06/08,2021/06/17,"Stasko, Daniel",Employee,To travel to/from constituency and Ottawa,2021/06/17,Ottawa,Belleville,,,,,,,
+T0213420,2021/06/17,2021/06/18,,,,,,,266.0000,166.5700,119.2000,1.0000,0,0,551.77
+T0213420,2021/06/17,2021/06/18,"Sloan, Derek",Member,To travel to/from constituency and Ottawa,2021/06/17,Belleville,Ottawa,,,,,,,
+T0213420,2021/06/17,2021/06/18,"Sloan, Derek",Member,To travel to/from constituency and Ottawa,2021/06/18,Ottawa,Belleville,,,,,,,

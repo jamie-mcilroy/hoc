@@ -1,0 +1,55 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0221171,2021/11/04,2021/11/06,,,,,,,0.0000,337.8800,237.9500,0.0000,0,0,575.83
+T0221171,2021/11/04,2021/11/06,"Leblanc, Carolle",Employee,To travel to/from constituency and Ottawa,2021/11/04,Edmundston,Ottawa,,,,,,,
+T0221175,2021/11/04,2021/11/06,,,,,,,216.6600,0.0000,0.0000,0,0.0000,0,216.66
+T0221175,2021/11/04,2021/11/06,"Leblanc, Carolle",Employee,To attend meetings about constituency issues,2021/11/04,Balmoral,Edmundston,,,,,,,
+T0221171,2021/11/04,2021/11/06,"Leblanc, Carolle",Employee,To travel to/from constituency and Ottawa,2021/11/06,Ottawa,Edmundston,,,,,,,
+T0221175,2021/11/04,2021/11/06,"Leblanc, Carolle",Employee,To attend meetings about constituency issues,2021/11/06,Edmundston,Balmoral,,,,,,,
+T0225034,2021/11/06,2022/03/29,,,,,,,0.0000,232.0000,0.0000,0,0,0,232.00
+T0225034,2021/11/06,2022/03/29,"Arseneault, René",Member,Secondary Residence,2022/02/22,Gatineau,Gatineau,,,,,,,
+T0225034,2021/11/06,2022/03/29,"Arseneault, René",Member,Secondary Residence,2022/01/08,Gatineau,Gatineau,,,,,,,
+T0225034,2021/11/06,2022/03/29,"Arseneault, René",Member,Secondary Residence,2021/11/06,Gatineau,Gatineau,,,,,,,
+T0220748,2021/12/12,2021/12/16,,,,,,,964.5600,138.8700,404.4600,1.0000,0,0,1507.89
+T0220748,2021/12/12,2021/12/16,"Arseneault, René",Member,To travel to/from constituency and Ottawa,2021/12/12,Charlo,Ottawa,,,,,,,
+T0220748,2021/12/12,2021/12/16,"Arseneault, René",Member,To travel to/from constituency and Ottawa,2021/12/15,Ottawa,Charlo,,,,,,,
+T0221242,2021/12/12,2021/12/17,,,,,,,414.9900,616.2900,437.5400,1.0000,0,0,1468.82
+T0221242,2021/12/12,2021/12/17,"Daigle, Michelle",Employee,To travel to/from constituency and Ottawa,2021/12/12,Edmundston,Ottawa,,,,,,,
+T0221242,2021/12/12,2021/12/17,"Daigle, Michelle",Employee,To travel to/from constituency and Ottawa,2021/12/17,Ottawa,Edmundston,,,,,,,
+T0221549,2022/01/05,2022/01/05,,,,,,,232.4800,0.0000,101.1200,0.0000,0,0,333.60
+T0221549,2022/01/05,2022/01/05,"Arseneault, René",Member,To attend meetings about constituency issues,2022/01/05,Charlo,Edmundston,,,,,,,
+T0221549,2022/01/05,2022/01/05,"Arseneault, René",Member,To attend meetings about constituency issues,2022/01/05,Edmundston,Charlo,,,,,,,
+200543867,2022/02/01,2022/02/28,,,,,,,0.0000,1565.0000,0.0000,0,0,0,1565.00
+200543867,2022/02/01,2022/02/28,"Arseneault, René",Member,Secondary Residence,2022/02/01,GATINEAU,GATINEAU,,,,,,,
+T0223021,2022/02/13,2022/02/15,,,,,,,974.4400,0.0000,303.3500,1.0000,0,0,1277.79
+T0223021,2022/02/13,2022/02/15,"Arseneault, René",Member,To travel to/from constituency and Ottawa,2022/02/13,Charlo,Ottawa,,,,,,,
+T0223021,2022/02/13,2022/02/15,"Arseneault, René",Member,To travel to/from constituency and Ottawa,2022/02/15,Ottawa,Charlo,,,,,,,
+T0223403,2022/02/19,2022/02/20,,,,,,,116.2400,124.3400,82.0500,0.0000,0,0,322.63
+T0223403,2022/02/19,2022/02/20,"Arseneault, René",Member,To attend a constituency or community event,2022/02/19,Charlo,Edmundston,,,,,,,
+T0223404,2022/02/20,2022/02/23,,,,,,,873.0500,0.0000,404.4600,1.0000,0,0,1277.51
+T0223404,2022/02/20,2022/02/23,"Arseneault, René",Member,To travel to/from constituency and Ottawa,2022/02/20,Edmundston,Ottawa,,,,,,,
+T0223404,2022/02/20,2022/02/23,"Arseneault, René",Member,To travel to/from constituency and Ottawa,2022/02/23,Ottawa,Charlo,,,,,,,
+T0225571,2022/02/24,2022/02/25,,,,,,,0.0000,0.0000,28.8200,0,0.0000,0,28.82
+T0225571,2022/02/24,2022/02/25,"Saucier Nadeau, Gaëtane",Employee,To attend meetings about constituency issues,2022/02/24,Edmundston,Dalhousie,,,,,,,
+T0225644,2022/02/24,2022/02/25,,,,,,,224.5800,134.7700,28.8200,0.0000,0,0,388.17
+T0225644,2022/02/24,2022/02/25,"Daigle, Michelle",Employee,To conduct constituency office business,2022/02/24,Edmundston,Charlo,,,,,,,
+T0225644,2022/02/24,2022/02/25,"Daigle, Michelle",Employee,To conduct constituency office business,2022/02/25,Charlo,Edmundston,,,,,,,
+T0225571,2022/02/24,2022/02/25,"Saucier Nadeau, Gaëtane",Employee,To attend meetings about constituency issues,2022/02/25,Dalhousie,Edmundston,,,,,,,
+T0223780,2022/02/27,2022/03/03,,,,,,,996.7000,0.0000,303.3500,1.0000,0,0,1300.05
+T0223780,2022/02/27,2022/03/03,"Arseneault, René",Member,To travel to/from constituency and Ottawa,2022/02/27,Charlo,Ottawa,,,,,,,
+T0223780,2022/02/27,2022/03/03,"Arseneault, René",Member,To travel to/from constituency and Ottawa,2022/03/03,Ottawa,Charlo,,,,,,,
+T0223782,2022/02/28,2022/03/02,,,,,,,1016.5500,395.4900,179.7400,0,1.0000,0,1591.78
+T0223782,2022/02/28,2022/03/02,"Arseneault, René",Member,To participate in a government program initiative,2022/02/28,Ottawa,Halifax,,,,,,,
+T0223782,2022/02/28,2022/03/02,"Arseneault, René",Member,To participate in a government program initiative,2022/03/02,Halifax,Ottawa,,,,,,,
+200552128,2022/03/01,2022/03/31,,,,,,,0.0000,1565.0000,0.0000,0,0,0,1565.00
+200552128,2022/03/01,2022/03/31,"Arseneault, René",Member,Secondary Residence,2022/03/01,GATINEAU,GATINEAU,,,,,,,
+T0225640,2022/03/17,2022/03/18,,,,,,,221.6000,102.6800,56.8600,0,0.0000,0,381.14
+T0225640,2022/03/17,2022/03/18,"Daigle, Michelle",Employee,Attending event with Member,2022/03/17,Edmundston,Dalhousie,,,,,,,
+T0225240,2022/03/17,2022/03/18,,,,,,,0.0000,102.6800,56.8600,0,0.0000,0,159.54
+T0225240,2022/03/17,2022/03/18,"Saucier Nadeau, Gaëtane",Employee,To attend a constituency or community event,2022/03/17,Edmundston,Dalhousie,,,,,,,
+T0225240,2022/03/17,2022/03/18,"Saucier Nadeau, Gaëtane",Employee,To attend a constituency or community event,2022/03/18,Dalhousie,Edmundston,,,,,,,
+T0225640,2022/03/17,2022/03/18,"Daigle, Michelle",Employee,Attending event with Member,2022/03/18,Dalhousie,Edmundston,,,,,,,
+T0224998,2022/03/20,2022/03/24,,,,,,,984.3400,0.0000,505.5800,1.0000,0,0,1489.92
+T0224998,2022/03/20,2022/03/24,"Arseneault, René",Member,To travel to/from constituency and Ottawa,2022/03/20,Charlo,Ottawa,,,,,,,
+T0224998,2022/03/20,2022/03/24,"Arseneault, René",Member,To travel to/from constituency and Ottawa,2022/03/24,Ottawa,Charlo,,,,,,,
+T0226136,2022/03/30,2022/03/31,,,,,,,118.7100,113.7100,202.2300,0.0000,0,0,434.65
+T0226136,2022/03/30,2022/03/31,"Arseneault, René",Member,To attend a constituency or community event,2022/03/30,Charlo,Edmundston,,,,,,,

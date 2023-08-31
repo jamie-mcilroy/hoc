@@ -1,0 +1,52 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0226871,2021/11/01,2021/11/01,,,,,,,195.4200,0.0000,0.0000,1.0000,0,0,195.42
+T0226871,2021/11/01,2021/11/01,"Fournier-Dorion, Julien",Employee,To travel to/from constituency and Ottawa,2021/11/01,Montréal,Ottawa,,,,,,,
+T0226869,2021/11/01,2021/11/01,,,,,,,195.4200,0.0000,0.0000,1.0000,0,0,195.42
+T0226869,2021/11/01,2021/11/01,"Cerasuolo, Lisa",Employee,To travel to/from constituency and Ottawa,2021/11/01,Montréal,Ottawa,,,,,,,
+T0226871,2021/11/01,2021/11/01,"Fournier-Dorion, Julien",Employee,To travel to/from constituency and Ottawa,2021/11/01,Ottawa,Montréal,,,,,,,
+T0226869,2021/11/01,2021/11/01,"Cerasuolo, Lisa",Employee,To travel to/from constituency and Ottawa,2021/11/01,Ottawa,Montréal,,,,,,,
+T0220408,2021/12/03,2021/12/03,,,,,,,195.4200,0.0000,0.0000,1.0000,0,0,195.42
+T0220408,2021/12/03,2021/12/03,"L'Heureux-Hubert, Iseult",Employee,To travel to/from constituency and Ottawa,2021/12/03,Ottawa,Montréal,,,,,,,
+T0220408,2021/12/03,2021/12/03,"L'Heureux-Hubert, Iseult",Employee,To travel to/from constituency and Ottawa,2021/12/03,Montréal,Ottawa,,,,,,,
+T0220412,2021/12/10,2021/12/10,,,,,,,195.4200,0.0000,0.0000,1.0000,0,0,195.42
+T0220412,2021/12/10,2021/12/10,"L'Heureux-Hubert, Iseult",Employee,To travel to/from constituency and Ottawa,2021/12/10,Ottawa,Montréal,,,,,,,
+T0220412,2021/12/10,2021/12/10,"L'Heureux-Hubert, Iseult",Employee,To travel to/from constituency and Ottawa,2021/12/10,Montréal,Ottawa,,,,,,,
+T0220414,2021/12/13,2021/12/13,,,,,,,195.4200,0.0000,0.0000,1.0000,0,0,195.42
+T0220414,2021/12/13,2021/12/13,"L'Heureux-Hubert, Iseult",Employee,To travel to/from constituency and Ottawa,2021/12/13,Ottawa,Montréal,,,,,,,
+T0220414,2021/12/13,2021/12/13,"L'Heureux-Hubert, Iseult",Employee,To travel to/from constituency and Ottawa,2021/12/13,Montréal,Ottawa,,,,,,,
+T0220530,2021/12/13,2021/12/16,,,,,,,67.1100,0.0000,322.6300,0.0000,0,0,389.74
+T0220530,2021/12/13,2021/12/16,"Boulerice, Alexandre",Member,To travel to/from constituency and Ottawa,2021/12/13,Rosemont--La Petite-Patrie,Ottawa,,,,,,,
+T0220530,2021/12/13,2021/12/16,"Boulerice, Alexandre",Member,To travel to/from constituency and Ottawa,2021/12/16,Ottawa,Rosemont--La Petite-Patrie,,,,,,,
+T0220683,2022/01/01,2022/01/31,,,,,,,0.0000,2000.0000,0.0000,0,0,0,2000.00
+T0220683,2022/01/01,2022/01/31,"Boulerice, Alexandre",Member,Secondary Residence,2022/01/01,Ottawa,Ottawa,,,,,,,
+T0222714,2022/02/01,2022/02/28,,,,,,,0.0000,2000.0000,0.0000,0,0,0,2000.00
+T0222714,2022/02/01,2022/02/28,"Boulerice, Alexandre",Member,Secondary Residence,2022/02/01,Ottawa,Ottawa,,,,,,,
+T0226845,2022/02/04,2022/02/04,,,,,,,195.4200,0.0000,0.0000,1.0000,0,0,195.42
+T0226845,2022/02/04,2022/02/04,"L'Heureux-Hubert, Iseult",Employee,To travel to/from constituency and Ottawa,2022/02/04,Ottawa,Montréal,,,,,,,
+T0226845,2022/02/04,2022/02/04,"L'Heureux-Hubert, Iseult",Employee,To travel to/from constituency and Ottawa,2022/02/04,Montréal,Ottawa,,,,,,,
+T0222713,2022/02/08,2022/02/10,,,,,,,66.2000,0.0000,229.2400,0.0000,0,0,295.44
+T0222713,2022/02/08,2022/02/10,"Boulerice, Alexandre",Member,To travel to/from constituency and Ottawa,2022/02/08,Rosemont,Ottawa,,,,,,,
+T0222713,2022/02/08,2022/02/10,"Boulerice, Alexandre",Member,To travel to/from constituency and Ottawa,2022/02/10,Ottawa,Rosemont,,,,,,,
+T0226850,2022/02/11,2022/02/11,,,,,,,195.4200,0.0000,0.0000,1.0000,0,0,195.42
+T0226850,2022/02/11,2022/02/11,"L'Heureux-Hubert, Iseult",Employee,To travel to/from constituency and Ottawa,2022/02/11,Ottawa,Montréal,,,,,,,
+T0226850,2022/02/11,2022/02/11,"L'Heureux-Hubert, Iseult",Employee,To travel to/from constituency and Ottawa,2022/02/11,Montréal,Ottawa,,,,,,,
+T0226852,2022/02/18,2022/02/18,,,,,,,195.4200,0.0000,0.0000,1.0000,0,0,195.42
+T0226852,2022/02/18,2022/02/18,"L'Heureux-Hubert, Iseult",Employee,To travel to/from constituency and Ottawa,2022/02/18,Ottawa,Montréal,,,,,,,
+T0226852,2022/02/18,2022/02/18,"L'Heureux-Hubert, Iseult",Employee,To travel to/from constituency and Ottawa,2022/02/18,Montréal,Ottawa,,,,,,,
+T0224826,2022/02/20,2022/02/22,,,,,,,73.2800,0.0000,229.2400,1.0000,0,0,302.52
+T0224826,2022/02/20,2022/02/22,"Boulerice, Alexandre",Member,To travel to/from constituency and Ottawa,2022/02/20,Rosemont,Ottawa,,,,,,,
+T0224826,2022/02/20,2022/02/22,"Boulerice, Alexandre",Member,To travel to/from constituency and Ottawa,2022/02/22,Ottawa,Rosemont,,,,,,,
+T0222715,2022/03/01,2022/03/31,,,,,,,0.0000,2000.0000,0.0000,0,0,0,2000.00
+T0222715,2022/03/01,2022/03/31,"Boulerice, Alexandre",Member,Secondary Residence,2022/03/01,Ottawa,Ottawa,,,,,,,
+T0226855,2022/03/04,2022/03/04,,,,,,,195.4200,0.0000,0.0000,1.0000,0,0,195.42
+T0226855,2022/03/04,2022/03/04,"L'Heureux-Hubert, Iseult",Employee,To travel to/from constituency and Ottawa,2022/03/04,Ottawa,Montréal,,,,,,,
+T0226855,2022/03/04,2022/03/04,"L'Heureux-Hubert, Iseult",Employee,To travel to/from constituency and Ottawa,2022/03/04,Montréal,Ottawa,,,,,,,
+T0224793,2022/03/21,2022/03/23,,,,,,,63.5800,0.0000,108.2700,0.0000,0,0,171.85
+T0224793,2022/03/21,2022/03/23,"Boulerice, Alexandre",Member,To travel to/from constituency and Ottawa,2022/03/21,Rosemont,Ottawa,,,,,,,
+T0224793,2022/03/21,2022/03/23,"Boulerice, Alexandre",Member,To travel to/from constituency and Ottawa,2022/03/23,Ottawa,Rosemont,,,,,,,
+T0226866,2022/03/25,2022/03/25,,,,,,,197.8600,0.0000,0.0000,1.0000,0,0,197.86
+T0226866,2022/03/25,2022/03/25,"L'Heureux-Hubert, Iseult",Employee,To travel to/from constituency and Ottawa,2022/03/25,Ottawa,Montréal,,,,,,,
+T0226866,2022/03/25,2022/03/25,"L'Heureux-Hubert, Iseult",Employee,To travel to/from constituency and Ottawa,2022/03/25,Montréal,Ottawa,,,,,,,
+T0225885,2022/03/30,2022/04/01,,,,,,,65.3500,0.0000,0.0000,0.0000,0,0,65.35
+T0225885,2022/03/30,2022/04/01,"Boulerice, Alexandre",Member,To travel to/from constituency and Ottawa,2022/03/30,Rosemont,Ottawa,,,,,,,
+T0225885,2022/03/30,2022/04/01,"Boulerice, Alexandre",Member,To travel to/from constituency and Ottawa,2022/04/01,Ottawa,Rosemont,,,,,,,

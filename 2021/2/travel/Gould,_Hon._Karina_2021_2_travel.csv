@@ -1,0 +1,11 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0204499,2020/07/19,2020/07/24,,,,,,,0.0000,223.2100,111.9600,0.0000,0,0,335.17
+T0204499,2020/07/19,2020/07/24,"Gould, Karina",Member,To travel to/from constituency and Ottawa,2020/07/19,Burlington,Ottawa,,,,,,,
+T0204499,2020/07/19,2020/07/24,"Gould, Karina",Member,To travel to/from constituency and Ottawa,2020/07/24,Ottawa,Burlington,,,,,,,
+T0204412,2020/08/20,2020/08/27,,,,,,,145.6800,0.0000,0.0000,0.0000,0,0,145.68
+T0204412,2020/08/20,2020/08/27,"Rees, Jamieson",Employee,Attending event with Member,2020/08/20,Burlington,Toronto,,,,,,,
+T0204412,2020/08/20,2020/08/27,"Rees, Jamieson",Employee,Attending event with Member,2020/08/20,Toronto,Burlington,,,,,,,
+T0204412,2020/08/20,2020/08/27,"Rees, Jamieson",Employee,Attending event with Member,2020/08/24,Burlington,Toronto,,,,,,,
+T0204412,2020/08/20,2020/08/27,"Rees, Jamieson",Employee,Attending event with Member,2020/08/24,Toronto,Burlington,,,,,,,
+T0204412,2020/08/20,2020/08/27,"Rees, Jamieson",Employee,Attending event with Member,2020/08/27,Burlington,Toronto,,,,,,,
+T0204412,2020/08/20,2020/08/27,"Rees, Jamieson",Employee,Attending event with Member,2020/08/27,Toronto,Burlington,,,,,,,

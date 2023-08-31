@@ -1,0 +1,8 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0212422,2021/04/01,2021/04/30,,,,,,,0.0000,1450.0000,0.0000,0,0,0,1450.00
+T0212422,2021/04/01,2021/04/30,"Ruff, Alex",Member,Secondary Residence,2021/04/01,Ottawa,Ottawa,,,,,,,
+T0211424,2021/04/02,2021/05/15,,,,,,,555.6900,0.0000,162.5900,1.0000,0,0,718.28
+T0211424,2021/04/02,2021/05/15,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2021/04/02,Tara,Ottawa,,,,,,,
+T0211424,2021/04/02,2021/05/15,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2021/05/15,Ottawa,Tara,,,,,,,
+T0212426,2021/04/08,2021/05/07,,,,,,,0.0000,57.9900,0.0000,0,0,0,57.99
+T0212426,2021/04/08,2021/05/07,"Ruff, Alex",Member,Secondary Residence,2021/04/08,Ottawa,Ottawa,,,,,,,

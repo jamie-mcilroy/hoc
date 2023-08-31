@@ -1,0 +1,56 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0206635,2020/08/18,2020/09/03,,,,,,,124.1800,0.0000,0.0000,0,0,0,124.18
+T0206635,2020/08/18,2020/09/03,"Poiré, Jessica",Employee,To conduct constituency office business,2020/08/20,Princeville,Laurierville,,,,,,,
+T0206635,2020/08/18,2020/09/03,"Poiré, Jessica",Employee,To conduct constituency office business,2020/08/20,Laurierville,Thetford Mines,,,,,,,
+T0206635,2020/08/18,2020/09/03,"Poiré, Jessica",Employee,To conduct constituency office business,2020/08/20,Thetford Mines,Thetford Mines,,,,,,,
+T0206635,2020/08/18,2020/09/03,"Poiré, Jessica",Employee,To attend training,2020/09/03,Thetford Mines,Saint-Sylvestre,,,,,,,
+T0206635,2020/08/18,2020/09/03,"Poiré, Jessica",Employee,To attend a constituency or community event,2020/08/18,Thetford Mines,Thetford Mines,,,,,,,
+T0206635,2020/08/18,2020/09/03,"Poiré, Jessica",Employee,To attend training,2020/09/03,Saint-Sylvestre,Thetford Mines,,,,,,,
+T0206635,2020/08/18,2020/09/03,"Poiré, Jessica",Employee,To conduct constituency office business,2020/08/20,Thetford Mines,Princeville,,,,,,,
+T0206635,2020/08/18,2020/09/03,"Poiré, Jessica",Employee,To attend a constituency or community event,2020/08/18,Thetford Mines,Thetford Mines,,,,,,,
+T0206079,2020/09/12,2020/09/28,,,,,,,341.2800,0.0000,9.1000,0.0000,0.0000,0,350.38
+T0206079,2020/09/12,2020/09/28,"Laplante, Isabelle",Employee,To attend a constituency or community event,2020/09/12,Plessisville,Princeville,,,,,,,
+T0206079,2020/09/12,2020/09/28,"Laplante, Isabelle",Employee,To attend a constituency or community event,2020/09/17,Saint-Ferdinand,Lac-Mégantic,,,,,,,
+T0206079,2020/09/12,2020/09/28,"Laplante, Isabelle",Employee,To attend a constituency or community event,2020/09/17,Lac-Mégantic,Plessisville,,,,,,,
+T0206079,2020/09/12,2020/09/28,"Laplante, Isabelle",Employee,To attend a constituency or community event,2020/09/18,Plessisville,Princeville,,,,,,,
+T0206079,2020/09/12,2020/09/28,"Laplante, Isabelle",Employee,To attend a constituency or community event,2020/09/18,Princeville,Plessisville,,,,,,,
+T0206079,2020/09/12,2020/09/28,"Laplante, Isabelle",Employee,To attend a constituency or community event,2020/09/28,Plessisville,Lac-Mégantic,,,,,,,
+T0206079,2020/09/12,2020/09/28,"Laplante, Isabelle",Employee,To attend a constituency or community event,2020/09/28,Lac-Mégantic,Thetford Mines,,,,,,,
+T0206079,2020/09/12,2020/09/28,"Laplante, Isabelle",Employee,To attend a constituency or community event,2020/09/12,Princeville,Plessisville,,,,,,,
+T0206079,2020/09/12,2020/09/28,"Laplante, Isabelle",Employee,To attend a constituency or community event,2020/09/12,Plessisville,Notre-Dame-de-Lourdes,,,,,,,
+T0206079,2020/09/12,2020/09/28,"Laplante, Isabelle",Employee,To attend a constituency or community event,2020/09/12,Notre-Dame-de-Lourdes,Plessisville,,,,,,,
+T0206079,2020/09/12,2020/09/28,"Laplante, Isabelle",Employee,To attend a constituency or community event,2020/09/12,Plessisville,Saint-Pierre-Baptiste,,,,,,,
+T0206079,2020/09/12,2020/09/28,"Laplante, Isabelle",Employee,To attend a constituency or community event,2020/09/12,Saint-Pierre-Baptiste,Plessisville,,,,,,,
+T0206079,2020/09/12,2020/09/28,"Laplante, Isabelle",Employee,To attend a constituency or community event,2020/09/15,Plessisville,Lac-Mégantic,,,,,,,
+T0206079,2020/09/12,2020/09/28,"Laplante, Isabelle",Employee,To attend a constituency or community event,2020/09/15,Lac-Mégantic,Thetford Mines,,,,,,,
+T0206079,2020/09/12,2020/09/28,"Laplante, Isabelle",Employee,To attend a constituency or community event,2020/09/17,Plessisville,Saint-Ferdinand,,,,,,,
+T0206080,2020/10/04,2020/10/09,,,,,,,390.1900,0.0000,357.9000,1.0000,0,0,748.09
+T0206080,2020/10/04,2020/10/09,"Berthold, Luc",Member,To travel to/from constituency and Ottawa,2020/10/04,Thetford Mines,Ottawa,,,,,,,
+T0206080,2020/10/04,2020/10/09,"Berthold, Luc",Member,To travel to/from constituency and Ottawa,2020/10/09,Ottawa,Thetford Mines,,,,,,,
+T0206700,2020/10/20,2020/10/22,,,,,,,390.1900,0.0000,125.2200,1.0000,0,0,515.41
+T0206700,2020/10/20,2020/10/22,"Berthold, Luc",Member,To travel to/from constituency and Ottawa,2020/10/20,Thetford Mines,Ottawa,,,,,,,
+T0206700,2020/10/20,2020/10/22,"Berthold, Luc",Member,To travel to/from constituency and Ottawa,2020/10/22,Ottawa,Thetford Mines,,,,,,,
+T0206854,2020/10/25,2020/11/02,,,,,,,390.1900,0.0000,438.2600,1.0000,0,0,828.45
+T0206854,2020/10/25,2020/11/02,"Berthold, Luc",Member,To travel to/from constituency and Ottawa,2020/10/25,Thetford Mines,Ottawa,,,,,,,
+T0206854,2020/10/25,2020/11/02,"Berthold, Luc",Member,To travel to/from constituency and Ottawa,2020/11/02,Ottawa,Thetford Mines,,,,,,,
+T0206855,2020/10/30,2020/11/02,,,,,,,390.1900,0.0000,0.0000,1.0000,0,0,390.19
+T0206855,2020/10/30,2020/11/02,,Designated Traveller,To travel to/from constituency and Ottawa,2020/10/30,Thetford Mines,Ottawa,,,,,,,
+T0206855,2020/10/30,2020/11/02,,Designated Traveller,To travel to/from constituency and Ottawa,2020/11/02,Ottawa,Thetford Mines,,,,,,,
+200448972,2020/11/01,2020/11/30,,,,,,,0.0000,1925.0000,0.0000,0,0,0,1925.00
+200448972,2020/11/01,2020/11/30,"Berthold, Luc",Member,Secondary Residence,2020/11/01,GATINEAU,GATINEAU,,,,,,,
+T0208153,2020/11/23,2020/11/26,,,,,,,390.1900,0.0000,277.9900,1.0000,0,0,668.18
+T0208153,2020/11/23,2020/11/26,"Berthold, Luc",Member,To travel to/from constituency and Ottawa,2020/11/23,Thetford Mines,Ottawa,,,,,,,
+T0208153,2020/11/23,2020/11/26,"Berthold, Luc",Member,To travel to/from constituency and Ottawa,2020/11/26,Ottawa,Thetford Mines,,,,,,,
+T0208154,2020/11/24,2020/11/26,,,,,,,390.1900,0.0000,0.0000,1.0000,0,0,390.19
+T0208154,2020/11/24,2020/11/26,,Dependant,To unite the family with the Member,2020/11/24,Thetford Mines,Ottawa,,,,,,,
+T0208154,2020/11/24,2020/11/26,,Dependant,To unite the family with the Member,2020/11/26,Ottawa,Thetford Mines,,,,,,,
+T0208155,2020/11/29,2020/12/04,,,,,,,390.1900,0.0000,384.4200,1.0000,0,0,774.61
+T0208155,2020/11/29,2020/12/04,"Berthold, Luc",Member,To travel to/from constituency and Ottawa,2020/11/29,Thetford Mines,Ottawa,,,,,,,
+T0208155,2020/11/29,2020/12/04,"Berthold, Luc",Member,To travel to/from constituency and Ottawa,2020/12/04,Ottawa,Thetford Mines,,,,,,,
+200455874,2020/12/01,2020/12/31,,,,,,,0.0000,1925.0000,0.0000,0,0,0,1925.00
+200455874,2020/12/01,2020/12/31,"Berthold, Luc",Member,Secondary Residence,2020/12/01,GATINEAU,GATINEAU,,,,,,,
+T0208844,2020/12/18,2020/12/20,,,,,,,390.1900,0.0000,0.0000,1.0000,0,0,390.19
+T0208844,2020/12/18,2020/12/20,"Berthold, Luc",Member,To travel to/from constituency and Ottawa,2020/12/18,Thetford Mines,Ottawa,,,,,,,
+T0208844,2020/12/18,2020/12/20,"Berthold, Luc",Member,To travel to/from constituency and Ottawa,2020/12/20,Ottawa,Thetford Mines,,,,,,,
+200461561,2021/01/01,2021/01/31,,,,,,,0.0000,1925.0000,0.0000,0,0,0,1925.00
+200461561,2021/01/01,2021/01/31,"Berthold, Luc",Member,Secondary Residence,2021/01/01,GATINEAU,GATINEAU,,,,,,,

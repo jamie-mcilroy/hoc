@@ -1,0 +1,66 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0222590,2021/10/24,2021/10/27,,,,,,,1622.6400,0.0000,0.0000,2.0000,0,0,1622.64
+T0222590,2021/10/24,2021/10/27,,Designated Traveller,To unite the family with the Member,2021/10/24,Halifax,Ottawa,,,,,,,
+T0222590,2021/10/24,2021/10/27,,Designated Traveller,To unite the family with the Member,2021/10/27,Ottawa,Halifax,,,,,,,
+T0222590,2021/10/24,2021/10/27,,Dependant,To travel to/from constituency and Ottawa,2021/10/24,Halifax,Ottawa,,,,,,,
+T0222590,2021/10/24,2021/10/27,,Dependant,To travel to/from constituency and Ottawa,2021/10/27,Ottawa,Halifax,,,,,,,
+T0219286,2021/11/22,2021/11/26,,,,,,,761.2600,751.2900,134.3300,1.0000,0,0,1646.88
+T0219286,2021/11/22,2021/11/26,"Findlay, Kyle",Employee,To travel to/from constituency and Ottawa,2021/11/22,Halifax,Ottawa,,,,,,,
+T0219286,2021/11/22,2021/11/26,"Findlay, Kyle",Employee,To travel to/from constituency and Ottawa,2021/11/26,Ottawa,Halifax,,,,,,,
+T0223091,2021/12/06,2021/12/10,,,,,,,1137.9000,782.7600,458.2600,1.0000,0,0,2378.92
+T0223091,2021/12/06,2021/12/10,"Fraser, Hon. Sean",Member,To travel to/from constituency and Ottawa,2021/12/06,Halifax,Ottawa,,,,,,,
+T0223091,2021/12/06,2021/12/10,"Fraser, Hon. Sean",Member,To travel to/from constituency and Ottawa,2021/12/10,Ottawa,Halifax,,,,,,,
+T0221040,2021/12/13,2021/12/15,,,,,,,874.0100,375.6400,303.3500,1.0000,0,0,1553.00
+T0221040,2021/12/13,2021/12/15,"Fraser, Hon. Sean",Member,To travel to/from constituency and Ottawa,2021/12/13,New Glasgow,Ottawa,,,,,,,
+T0221040,2021/12/13,2021/12/15,"Fraser, Hon. Sean",Member,To travel to/from constituency and Ottawa,2021/12/15,Ottawa,New Glasgow,,,,,,,
+T0224251,2022/02/13,2022/02/18,,,,,,,886.7400,939.1100,505.5800,1.0000,0,0,2331.43
+T0224251,2022/02/13,2022/02/18,"Fraser, Hon. Sean",Member,To travel to/from constituency and Ottawa,2022/02/13,New Glasgow,Ottawa,,,,,,,
+T0224251,2022/02/13,2022/02/18,"Fraser, Hon. Sean",Member,To travel to/from constituency and Ottawa,2022/02/18,Ottawa,New Glasgow,,,,,,,
+T0224369,2022/02/19,2022/02/19,,,,,,,35.9600,0.0000,0.0000,0.0000,0,0,35.96
+T0224369,2022/02/19,2022/02/19,"Hawley, Brandon",Employee,To conduct constituency office business,2022/02/19,Merigomish,New Glasgow,,,,,,,
+T0224369,2022/02/19,2022/02/19,"Hawley, Brandon",Employee,To conduct constituency office business,2022/02/19,New Glasgow,Pictou,,,,,,,
+T0224369,2022/02/19,2022/02/19,"Hawley, Brandon",Employee,To conduct constituency office business,2022/02/19,Pictou,New Glasgow,,,,,,,
+T0224369,2022/02/19,2022/02/19,"Hawley, Brandon",Employee,To conduct constituency office business,2022/02/19,New Glasgow,Merigomish,,,,,,,
+T0224373,2022/02/22,2022/02/22,,,,,,,173.0000,0.0000,57.3700,0.0000,0,0,230.37
+T0224373,2022/02/22,2022/02/22,"Hawley, Brandon",Employee,To conduct constituency office business,2022/02/22,Merigomish,New Glasgow,,,,,,,
+T0224373,2022/02/22,2022/02/22,"Hawley, Brandon",Employee,To conduct constituency office business,2022/02/22,New Glasgow,Halifax,,,,,,,
+T0224373,2022/02/22,2022/02/22,"Hawley, Brandon",Employee,To conduct constituency office business,2022/02/22,Halifax,New Glasgow,,,,,,,
+T0224373,2022/02/22,2022/02/22,"Hawley, Brandon",Employee,To conduct constituency office business,2022/02/22,New Glasgow,Merigomish,,,,,,,
+T0224376,2022/02/23,2022/02/23,,,,,,,167.1900,0.0000,34.1200,0.0000,0,0,201.31
+T0224376,2022/02/23,2022/02/23,"Hawley, Brandon",Employee,Attending event with Member,2022/02/23,Merigomish,New Glasgow,,,,,,,
+T0224376,2022/02/23,2022/02/23,"Hawley, Brandon",Employee,Attending event with Member,2022/02/23,New Glasgow,Goffs,,,,,,,
+T0224376,2022/02/23,2022/02/23,"Hawley, Brandon",Employee,Attending event with Member,2022/02/23,Goffs,New Glasgow,,,,,,,
+T0224376,2022/02/23,2022/02/23,"Hawley, Brandon",Employee,To attend a constituency or community event,2022/02/23,New Glasgow,New Glasgow,,,,,,,
+T0224376,2022/02/23,2022/02/23,"Hawley, Brandon",Employee,To attend a constituency or community event,2022/02/23,New Glasgow,Eureka,,,,,,,
+T0224376,2022/02/23,2022/02/23,"Hawley, Brandon",Employee,To attend a constituency or community event,2022/02/23,Eureka,Eureka,,,,,,,
+T0224376,2022/02/23,2022/02/23,"Hawley, Brandon",Employee,To attend a constituency or community event,2022/02/23,Eureka,New Glasgow,,,,,,,
+T0224376,2022/02/23,2022/02/23,"Hawley, Brandon",Employee,To attend a constituency or community event,2022/02/23,New Glasgow,Merigomish,,,,,,,
+T0224377,2022/02/24,2022/02/24,,,,,,,217.7200,0.0000,15.1800,0.0000,0.0000,0,232.90
+T0224377,2022/02/24,2022/02/24,"Hawley, Brandon",Employee,Attending event with Member,2022/02/24,Merigomish,New Glasgow,,,,,,,
+T0224377,2022/02/24,2022/02/24,"Hawley, Brandon",Employee,Attending event with Member,2022/02/24,New Glasgow,Chester,,,,,,,
+T0224377,2022/02/24,2022/02/24,"Hawley, Brandon",Employee,Attending event with Member,2022/02/24,Chester,New Glasgow,,,,,,,
+T0224377,2022/02/24,2022/02/24,"Hawley, Brandon",Employee,Attending event with Member,2022/02/24,New Glasgow,Merigomish,,,,,,,
+T0225920,2022/02/25,2022/02/25,,,,,,,56.3600,0.0000,0.0000,0.0000,0,0,56.36
+T0225920,2022/02/25,2022/02/25,"Gunn, Ernestine",Employee,Attending event with Member,2022/02/25,New Glasgow,Antigonish,,,,,,,
+T0224378,2022/02/25,2022/02/25,,,,,,,60.7300,0.0000,0.0000,0.0000,0,0,60.73
+T0224378,2022/02/25,2022/02/25,"Hawley, Brandon",Employee,To conduct constituency office business,2022/02/25,Merigomish,New Glasgow,,,,,,,
+T0225920,2022/02/25,2022/02/25,"Gunn, Ernestine",Employee,Attending event with Member,2022/02/25,Antigonish,New Glasgow,,,,,,,
+T0224378,2022/02/25,2022/02/25,"Hawley, Brandon",Employee,To conduct constituency office business,2022/02/25,New Glasgow,Antigonish,,,,,,,
+T0224378,2022/02/25,2022/02/25,"Hawley, Brandon",Employee,To conduct constituency office business,2022/02/25,Antigonish,Merigomish,,,,,,,
+T0224250,2022/02/27,2022/03/06,,,,,,,886.7400,1395.8500,625.7600,1.0000,0,0,2908.35
+T0224250,2022/02/27,2022/03/06,"Fraser, Hon. Sean",Member,To travel to/from constituency and Ottawa,2022/02/28,New Glasgow,Ottawa,,,,,,,
+T0224250,2022/02/27,2022/03/06,"Fraser, Hon. Sean",Member,To travel to/from constituency and Ottawa,2022/03/06,Ottawa,New Glasgow,,,,,,,
+T0224370,2022/03/11,2022/03/11,,,,,,,58.3200,0.0000,0.0000,0.0000,0,0,58.32
+T0224370,2022/03/11,2022/03/11,"Hawley, Brandon",Employee,To conduct constituency office business,2022/03/11,Merigomish,New Glasgow,,,,,,,
+T0224370,2022/03/11,2022/03/11,"Hawley, Brandon",Employee,To conduct constituency office business,2022/03/11,New Glasgow,Antigonish,,,,,,,
+T0224370,2022/03/11,2022/03/11,"Hawley, Brandon",Employee,To conduct constituency office business,2022/03/11,Antigonish,New Glasgow,,,,,,,
+T0224370,2022/03/11,2022/03/11,"Hawley, Brandon",Employee,To conduct constituency office business,2022/03/11,New Glasgow,Merigomish,,,,,,,
+T0225947,2022/03/18,2022/03/19,,,,,,,154.5400,118.3300,114.5200,0.0000,0,0,387.39
+T0225947,2022/03/18,2022/03/19,"Fraser, Hon. Sean",Member,To attend an event as a guest speaker,2022/03/18,New Glasgow,Halifax,,,,,,,
+T0225947,2022/03/18,2022/03/19,"Fraser, Hon. Sean",Member,To attend an event as a guest speaker,2022/03/18,Halifax,New Glasgow,,,,,,,
+T0225881,2022/03/28,2022/04/01,,,,,,,964.2700,772.2900,507.8100,1.0000,0,0,2244.37
+T0225881,2022/03/28,2022/04/01,"Fraser, Hon. Sean",Member,To travel to/from constituency and Ottawa,2022/03/28,Halifax,Ottawa,,,,,,,
+T0225881,2022/03/28,2022/04/01,"Fraser, Hon. Sean",Member,To travel to/from constituency and Ottawa,2022/04/01,Ottawa,Halifax,,,,,,,
+T0225913,2022/03/30,2022/03/30,,,,,,,56.3600,0.0000,0.0000,0.0000,0,0,56.36
+T0225913,2022/03/30,2022/03/30,"Gunn, Ernestine",Employee,To attend a constituency or community event,2022/03/30,New Glasgow,Antigonish,,,,,,,
+T0225913,2022/03/30,2022/03/30,"Gunn, Ernestine",Employee,To attend a constituency or community event,2022/03/30,Antigonish,New Glasgow,,,,,,,

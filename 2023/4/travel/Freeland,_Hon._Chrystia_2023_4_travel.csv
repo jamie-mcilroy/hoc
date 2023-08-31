@@ -1,0 +1,82 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0241672,2022/11/02,2022/11/04,,,,,,,642.6400,0.0000,0.0000,1.0000,0,0,642.64
+T0241672,2022/11/02,2022/11/04,,Designated Traveller,To unite the family with the Member,2022/11/02,Toronto,Ottawa,,,,,,,
+T0241672,2022/11/02,2022/11/04,,Designated Traveller,To unite the family with the Member,2022/11/04,Ottawa,Toronto,,,,,,,
+T0243339,2022/11/23,2022/11/24,,,,,,,1232.6000,262.3200,162.5900,1.0000,0,0,1657.51
+T0243339,2022/11/23,2022/11/24,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2022/11/23,Toronto,Ottawa,,,,,,,
+T0243339,2022/11/23,2022/11/24,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2022/11/24,Ottawa,Toronto,,,,,,,
+T0243341,2022/12/07,2022/12/08,,,,,,,677.9700,313.7300,162.5900,1.0000,0,0,1154.29
+T0243341,2022/12/07,2022/12/08,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2022/12/07,Toronto,Ottawa,,,,,,,
+T0243341,2022/12/07,2022/12/08,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2022/12/08,Ottawa,Toronto,,,,,,,
+T0243899,2022/12/13,2022/12/15,,,,,,,556.2200,480.5700,111.8300,1.0000,0,0,1148.62
+T0243899,2022/12/13,2022/12/15,"Graham, James",Employee,To travel to/from constituency and Ottawa,2022/12/13,Toronto,Ottawa,,,,,,,
+T0243430,2022/12/13,2022/12/15,,,,,,,533.9000,637.9600,111.8300,1.0000,0,0,1283.69
+T0243430,2022/12/13,2022/12/15,"Zheng, Yi",Employee,To travel to/from constituency and Ottawa,2022/12/13,Toronto,Ottawa,,,,,,,
+T0243534,2022/12/13,2022/12/15,,,,,,,653.3900,0.0000,111.8300,1.0000,0,0,765.22
+T0243534,2022/12/13,2022/12/15,"Sheikh, Yumna",Employee,To travel to/from constituency and Ottawa,2022/12/13,Toronto,Ottawa,,,,,,,
+T0244932,2022/12/13,2022/12/15,,,,,,,584.0600,637.9600,111.8300,1.0000,0,0,1333.85
+T0244932,2022/12/13,2022/12/15,"Gallo-Miscevich, Ava",Employee,To travel to/from constituency and Ottawa,2022/12/13,Toronto,Ottawa,,,,,,,
+T0243899,2022/12/13,2022/12/15,"Graham, James",Employee,To travel to/from constituency and Ottawa,2022/12/15,Ottawa,Toronto,,,,,,,
+T0244932,2022/12/13,2022/12/15,"Gallo-Miscevich, Ava",Employee,To travel to/from constituency and Ottawa,2022/12/15,Ottawa,Toronto,,,,,,,
+T0243534,2022/12/13,2022/12/15,"Sheikh, Yumna",Employee,To travel to/from constituency and Ottawa,2022/12/15,Ottawa,Toronto,,,,,,,
+T0243430,2022/12/13,2022/12/15,"Zheng, Yi",Employee,To travel to/from constituency and Ottawa,2022/12/15,Ottawa,Toronto,,,,,,,
+T0243342,2022/12/14,2022/12/15,,,,,,,324.3900,262.3200,40.9400,0.5000,0,0,627.65
+T0243342,2022/12/14,2022/12/15,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2022/12/14,Toronto,Ottawa,,,,,,,
+T0243342,2022/12/14,2022/12/15,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2022/12/15,Ottawa,Toronto,,,,,,,
+T0246048,2023/01/26,2023/01/26,,,,,,,649.3800,0.0000,20.5800,1.0000,0,0,669.96
+T0246048,2023/01/26,2023/01/26,"Freeland, Hon. Chrystia",Member,To attend a national caucus meeting,2023/01/26,Toronto,Ottawa,,,,,,,
+T0246048,2023/01/26,2023/01/26,"Freeland, Hon. Chrystia",Member,To attend a national caucus meeting,2023/01/26,Ottawa,Toronto,,,,,,,
+T0246049,2023/01/27,2023/01/27,,,,,,,650.6100,0.0000,20.5800,1.0000,0,0,671.19
+T0246049,2023/01/27,2023/01/27,"Freeland, Hon. Chrystia",Member,To attend a national caucus meeting,2023/01/27,Toronto,Ottawa,,,,,,,
+T0246049,2023/01/27,2023/01/27,"Freeland, Hon. Chrystia",Member,To attend a national caucus meeting,2023/01/27,Ottawa,Toronto,,,,,,,
+T0246051,2023/01/28,2023/01/28,,,,,,,663.0900,0.0000,0.0000,1.0000,0,0,663.09
+T0246051,2023/01/28,2023/01/28,"Freeland, Hon. Chrystia",Member,To attend a national caucus meeting,2023/01/28,Toronto,Ottawa,,,,,,,
+T0246051,2023/01/28,2023/01/28,"Freeland, Hon. Chrystia",Member,To attend a national caucus meeting,2023/01/28,Ottawa,Toronto,,,,,,,
+T0246052,2023/01/30,2023/01/31,,,,,,,598.0000,218.2500,61.5200,1.0000,0,0,877.77
+T0246052,2023/01/30,2023/01/31,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/01/30,Toronto,Ottawa,,,,,,,
+T0246052,2023/01/30,2023/01/31,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/01/31,Ottawa,Toronto,,,,,,,
+T0246056,2023/02/01,2023/02/02,,,,,,,638.3600,218.2500,91.4700,1.0000,0,0,948.08
+T0246056,2023/02/01,2023/02/02,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/02/01,Toronto,Ottawa,,,,,,,
+T0246056,2023/02/01,2023/02/02,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/02/02,Ottawa,Toronto,,,,,,,
+T0246057,2023/02/07,2023/02/09,,,,,,,891.7400,436.5000,132.4100,1.0000,0,0,1460.65
+T0246057,2023/02/07,2023/02/09,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/02/07,Toronto,Ottawa,,,,,,,
+T0246057,2023/02/07,2023/02/09,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/02/09,Ottawa,Toronto,,,,,,,
+T0246071,2023/02/13,2023/02/13,,,,,,,995.9700,0.0000,71.1200,1.0000,0,0,1067.09
+T0246071,2023/02/13,2023/02/13,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/02/13,Toronto,Ottawa,,,,,,,
+T0246071,2023/02/13,2023/02/13,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/02/13,Ottawa,Toronto,,,,,,,
+T0246072,2023/02/14,2023/02/15,,,,,,,324.2200,218.2500,91.4700,0.5000,0,0,633.94
+T0246072,2023/02/14,2023/02/15,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/02/14,Toronto,Ottawa,,,,,,,
+T0246072,2023/02/14,2023/02/15,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/02/15,Ottawa,Toronto,,,,,,,
+T0246073,2023/02/17,2023/02/17,,,,,,,649.1600,0.0000,20.5800,1.0000,0,0,669.74
+T0246073,2023/02/17,2023/02/17,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/02/17,Toronto,Ottawa,,,,,,,
+T0246073,2023/02/17,2023/02/17,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/02/17,Ottawa,Toronto,,,,,,,
+T0246074,2023/02/21,2023/02/21,,,,,,,649.4300,0.0000,0.0000,1.0000,0,0,649.43
+T0246074,2023/02/21,2023/02/21,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/02/21,Toronto,Ottawa,,,,,,,
+T0246074,2023/02/21,2023/02/21,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/02/21,Ottawa,Toronto,,,,,,,
+T0248478,2023/02/28,2023/02/28,,,,,,,618.2700,0.0000,20.5800,1.0000,0,0,638.85
+T0248478,2023/02/28,2023/02/28,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/02/28,Toronto,Ottawa,,,,,,,
+T0248478,2023/02/28,2023/02/28,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/02/28,Ottawa,Toronto,,,,,,,
+T0248324,2023/03/03,2023/03/03,,,,,,,646.2100,0.0000,20.5800,1.0000,0,0,666.79
+T0248324,2023/03/03,2023/03/03,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/03/03,Toronto,Ottawa,,,,,,,
+T0248324,2023/03/03,2023/03/03,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/03/03,Ottawa,Toronto,,,,,,,
+T0248325,2023/03/07,2023/03/07,,,,,,,389.9800,0.0000,50.5400,0.5000,0,0,440.52
+T0248325,2023/03/07,2023/03/07,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/03/07,Toronto,Ottawa,,,,,,,
+T0248325,2023/03/07,2023/03/07,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/03/07,Ottawa,Toronto,,,,,,,
+T0248327,2023/03/09,2023/03/10,,,,,,,622.6400,218.2500,91.4700,1.0000,0,0,932.36
+T0248327,2023/03/09,2023/03/10,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/03/09,Toronto,Ottawa,,,,,,,
+T0248327,2023/03/09,2023/03/10,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/03/10,Ottawa,Toronto,,,,,,,
+T0248328,2023/03/13,2023/03/13,,,,,,,648.3600,0.0000,20.5800,1.0000,0,0,668.94
+T0248328,2023/03/13,2023/03/13,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/03/13,Toronto,Ottawa,,,,,,,
+T0248328,2023/03/13,2023/03/13,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/03/13,Ottawa,Toronto,,,,,,,
+T0248330,2023/03/21,2023/03/21,,,,,,,673.9000,0.0000,20.5800,1.0000,0,0,694.48
+T0248330,2023/03/21,2023/03/21,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/03/21,Toronto,Ottawa,,,,,,,
+T0248330,2023/03/21,2023/03/21,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/03/21,Ottawa,Toronto,,,,,,,
+T0248651,2023/03/23,2023/03/25,,,,,,,650.4600,436.5000,81.8700,1.0000,0,0,1168.83
+T0248651,2023/03/23,2023/03/25,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/03/23,Toronto,Ottawa,,,,,,,
+T0248651,2023/03/23,2023/03/25,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/03/25,Ottawa,Toronto,,,,,,,
+T0248643,2023/03/27,2023/03/29,,,,,,,659.5200,0.0000,0.0000,1.0000,0,0,659.52
+T0248643,2023/03/27,2023/03/29,,Designated Traveller,To travel to/from constituency and Ottawa,2023/03/27,Toronto,Ottawa,,,,,,,
+T0249187,2023/03/27,2023/03/29,,,,,,,329.0000,436.5000,203.5300,0.5000,0,0,969.03
+T0249187,2023/03/27,2023/03/29,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/03/27,Toronto,Ottawa,,,,,,,
+T0248643,2023/03/27,2023/03/29,,Designated Traveller,To travel to/from constituency and Ottawa,2023/03/29,Ottawa,Toronto,,,,,,,
+T0249187,2023/03/27,2023/03/29,"Freeland, Hon. Chrystia",Member,To travel to/from constituency and Ottawa,2023/03/29,Ottawa,Toronto,,,,,,,

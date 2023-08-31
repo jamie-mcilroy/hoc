@@ -1,0 +1,12 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0208972,2020/12/01,2020/12/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0208972,2020/12/01,2020/12/31,"Holland, Mark",Member,Secondary Residence,2020/12/01,Ottawa,Ottawa,,,,,,,
+T0209565,2021/01/01,2021/01/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0209565,2021/01/01,2021/01/31,"Holland, Mark",Member,Secondary Residence,2021/01/01,Ottawa,Ottawa,,,,,,,
+T0210528,2021/02/01,2021/02/28,,,,,,,0.0000,1400.0000,0.0000,0,0,0,1400.00
+T0210528,2021/02/01,2021/02/28,"Holland, Mark",Member,Secondary Residence,2021/02/01,Ottawa,Ottawa,,,,,,,
+T0211425,2021/03/01,2021/03/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0211425,2021/03/01,2021/03/31,"Holland, Mark",Member,Secondary Residence,2021/03/01,Ottawa,Ottawa,,,,,,,
+T0210980,2021/03/21,2021/03/24,,,,,,,442.2000,0.0000,376.9200,1.0000,0,0,819.12
+T0210980,2021/03/21,2021/03/24,"Holland, Mark",Member,To travel to/from constituency and Ottawa,2021/03/21,Ajax,Ottawa,,,,,,,
+T0210980,2021/03/21,2021/03/24,"Holland, Mark",Member,To travel to/from constituency and Ottawa,2021/03/24,Ottawa,Ajax,,,,,,,

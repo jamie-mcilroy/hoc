@@ -1,0 +1,43 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0227776,2022/04/01,2022/04/30,,,,,,,0.0000,1500.0000,0.0000,0,0,0,1500.00
+T0227776,2022/04/01,2022/04/30,"Sinclair-Desgagné, Nathalie",Member,Secondary Residence,2022/04/01,Gatineau,Gatineau,,,,,,,
+T0227035,2022/04/03,2022/04/08,,,,,,,196.0300,0.0000,551.9600,1.0000,0,0,747.99
+T0227035,2022/04/03,2022/04/08,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/04/03,Terrebonne,Ottawa,,,,,,,
+T0227035,2022/04/03,2022/04/08,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/04/08,Ottawa,Terrebonne,,,,,,,
+T0227220,2022/04/19,2022/04/20,,,,,,,243.7000,154.4200,182.5400,1.0000,0,0,580.66
+T0227220,2022/04/19,2022/04/20,"Sinclair-Desgagné, Nathalie",Member,To attend a national caucus meeting,2022/04/19,Terrebonne,Québec,,,,,,,
+T0227220,2022/04/19,2022/04/20,"Sinclair-Desgagné, Nathalie",Member,To attend a national caucus meeting,2022/04/20,Québec,Terrebonne,,,,,,,
+T0227794,2022/04/24,2022/04/28,,,,,,,196.0300,0.0000,477.4100,1.0000,0,0,673.44
+T0227794,2022/04/24,2022/04/28,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/04/24,Terrebonne,Ottawa,,,,,,,
+T0227794,2022/04/24,2022/04/28,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/04/28,Ottawa,Terrebonne,,,,,,,
+T0228101,2022/04/28,2022/05/02,,,,,,,196.0300,0.0000,0.0000,1.0000,0,0,196.03
+T0228101,2022/04/28,2022/05/02,"Desquilbet, Mathieu",Employee,To travel to/from constituency and Ottawa,2022/04/28,Ottawa,Terrebonne,,,,,,,
+T0228101,2022/04/28,2022/05/02,"Desquilbet, Mathieu",Employee,To travel to/from constituency and Ottawa,2022/05/02,Terrebonne,Ottawa,,,,,,,
+T0228104,2022/05/01,2022/05/05,,,,,,,196.0300,0.0000,477.4100,1.0000,0,0,673.44
+T0228104,2022/05/01,2022/05/05,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/05/01,Terrebonne,Ottawa,,,,,,,
+T0228104,2022/05/01,2022/05/05,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/05/05,Ottawa,Terrebonne,,,,,,,
+T0229699,2022/05/01,2022/05/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0229699,2022/05/01,2022/05/31,"Sinclair-Desgagné, Nathalie",Member,Secondary Residence,2022/05/01,Gatineau,Gatineau,,,,,,,
+T0228535,2022/05/08,2022/05/12,,,,,,,431.1000,0.0000,457.6300,2.0000,0,0,888.73
+T0228535,2022/05/08,2022/05/12,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/05/08,Terrebonne,Ottawa,,,,,,,
+T0228535,2022/05/08,2022/05/12,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/05/10,Ottawa,Terrebonne,,,,,,,
+T0228535,2022/05/08,2022/05/12,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/05/10,Terrebonne,Ottawa,,,,,,,
+T0228535,2022/05/08,2022/05/12,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/05/12,Ottawa,Terrebonne,,,,,,,
+T0228922,2022/05/15,2022/05/17,,,,,,,215.5500,0.0000,270.7100,1.0000,0,0,486.26
+T0228922,2022/05/15,2022/05/17,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/05/15,Terrebonne,Ottawa,,,,,,,
+T0228922,2022/05/15,2022/05/17,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/05/17,Ottawa,Terrebonne,,,,,,,
+T0229713,2022/05/31,2022/06/02,,,,,,,0.0000,296.6000,206.7000,0.0000,0,0,503.30
+T0229713,2022/05/31,2022/06/02,"Maynard, Jordanne",Employee,To travel to/from constituency and Ottawa,2022/05/31,Terrebonne,Ottawa,,,,,,,
+T0229822,2022/05/31,2022/06/02,,,,,,,196.0300,0.0000,186.9200,1.0000,0,0,382.95
+T0229822,2022/05/31,2022/06/02,"Pastorino, Nando",Employee,To travel to/from constituency and Ottawa,2022/05/31,Terrebonne,Ottawa,,,,,,,
+T0229822,2022/05/31,2022/06/02,"Pastorino, Nando",Employee,To travel to/from constituency and Ottawa,2022/06/02,Ottawa,Terrebonne,,,,,,,
+T0229713,2022/05/31,2022/06/02,"Maynard, Jordanne",Employee,To travel to/from constituency and Ottawa,2022/06/02,Ottawa,Terrebonne,,,,,,,
+T0229684,2022/06/02,2022/06/03,,,,,,,196.0300,0.0000,158.1200,1.0000,0,0,354.15
+T0229684,2022/06/02,2022/06/03,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/06/02,Terrebonne,Ottawa,,,,,,,
+T0229684,2022/06/02,2022/06/03,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/06/03,Ottawa,Terrebonne,,,,,,,
+T0230247,2022/06/09,2022/06/09,,,,,,,196.0300,0.0000,54.7800,1.0000,0,0,250.81
+T0230247,2022/06/09,2022/06/09,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/06/09,Terrebonne,Ottawa,,,,,,,
+T0230247,2022/06/09,2022/06/09,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/06/09,Ottawa,Terrebonne,,,,,,,
+T0230670,2022/06/12,2022/06/15,,,,,,,196.0300,0.0000,358.6200,1.0000,0,0,554.65
+T0230670,2022/06/12,2022/06/15,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/06/12,Terrebonne,Ottawa,,,,,,,
+T0230670,2022/06/12,2022/06/15,"Sinclair-Desgagné, Nathalie",Member,To travel to/from constituency and Ottawa,2022/06/15,Ottawa,Terrebonne,,,,,,,

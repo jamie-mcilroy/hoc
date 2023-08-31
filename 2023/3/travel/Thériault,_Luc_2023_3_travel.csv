@@ -1,0 +1,92 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0236261,2022/08/10,2022/09/09,,,,,,,146.7000,0.0000,0.0000,0.0000,0,0,146.70
+T0236261,2022/08/10,2022/09/09,"Venne-Hébert, Ariane",Employee,To represent the Member at an event,2022/08/10,Mascouche,Sainte-Marie-Salomé,,,,,,,
+T0236261,2022/08/10,2022/09/09,"Venne-Hébert, Ariane",Employee,Attending event with Member,2022/09/09,Saint-Roch-de-l'Achigan,Mascouche,,,,,,,
+T0236261,2022/08/10,2022/09/09,"Venne-Hébert, Ariane",Employee,To represent the Member at an event,2022/08/10,Sainte-Marie-Salomé,Mascouche,,,,,,,
+T0236261,2022/08/10,2022/09/09,"Venne-Hébert, Ariane",Employee,Attending event with Member,2022/08/23,Mascouche,Sainte-Julienne,,,,,,,
+T0236261,2022/08/10,2022/09/09,"Venne-Hébert, Ariane",Employee,Attending event with Member,2022/08/23,Sainte-Julienne,Mascouche,,,,,,,
+T0236261,2022/08/10,2022/09/09,"Venne-Hébert, Ariane",Employee,To represent the Member at an event,2022/08/30,Mascouche,Saint-Calixte,,,,,,,
+T0236261,2022/08/10,2022/09/09,"Venne-Hébert, Ariane",Employee,To represent the Member at an event,2022/08/30,Saint-Calixte,Mascouche,,,,,,,
+T0236261,2022/08/10,2022/09/09,"Venne-Hébert, Ariane",Employee,To represent the Member at an event,2022/09/01,Mascouche,Saint-Roch-de-l'Achigan,,,,,,,
+T0236261,2022/08/10,2022/09/09,"Venne-Hébert, Ariane",Employee,To represent the Member at an event,2022/09/01,Saint-Roch-de-l'Achigan,Mascouche,,,,,,,
+T0236261,2022/08/10,2022/09/09,"Venne-Hébert, Ariane",Employee,Attending event with Member,2022/09/09,Mascouche,Saint-Roch-de-l'Achigan,,,,,,,
+T0236263,2022/09/10,2022/09/24,,,,,,,150.7200,0.0000,0.0000,0.0000,0.0000,0,150.72
+T0236263,2022/09/10,2022/09/24,"Venne-Hébert, Ariane",Employee,Attending event with Member,2022/09/10,Mascouche,Saint-Lin - Laurentides,,,,,,,
+T0236263,2022/09/10,2022/09/24,"Venne-Hébert, Ariane",Employee,Attending event with Member,2022/09/24,Mascouche,L'Assomption,,,,,,,
+T0236263,2022/09/10,2022/09/24,"Venne-Hébert, Ariane",Employee,Attending event with Member,2022/09/10,Saint-Lin - Laurentides,Mascouche,,,,,,,
+T0236263,2022/09/10,2022/09/24,"Venne-Hébert, Ariane",Employee,To represent the Member at an event,2022/09/11,L'Assomption,Saint-Esprit,,,,,,,
+T0236263,2022/09/10,2022/09/24,"Venne-Hébert, Ariane",Employee,To represent the Member at an event,2022/09/11,Saint-Esprit,L'Assomption,,,,,,,
+T0236263,2022/09/10,2022/09/24,"Venne-Hébert, Ariane",Employee,Attending event with Member,2022/09/17,Mascouche,Saint-Calixte,,,,,,,
+T0236263,2022/09/10,2022/09/24,"Venne-Hébert, Ariane",Employee,Attending event with Member,2022/09/17,Saint-Calixte,Mascouche,,,,,,,
+T0236263,2022/09/10,2022/09/24,"Venne-Hébert, Ariane",Employee,Attending event with Member,2022/09/18,Mascouche,Sainte-Julienne,,,,,,,
+T0236263,2022/09/10,2022/09/24,"Venne-Hébert, Ariane",Employee,Attending event with Member,2022/09/18,Sainte-Julienne,Mascouche,,,,,,,
+T0236263,2022/09/10,2022/09/24,"Venne-Hébert, Ariane",Employee,Attending event with Member,2022/09/24,L'Assomption,Mascouche,,,,,,,
+T0236173,2022/09/19,2022/09/23,,,,,,,203.5400,0.0000,461.9600,1.0000,0,0,665.50
+T0236173,2022/09/19,2022/09/23,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/09/19,Mascouche,Ottawa,,,,,,,
+T0236176,2022/09/19,2022/09/23,,,,,,,0.0000,0.0000,461.9600,0.0000,0,0,461.96
+T0236176,2022/09/19,2022/09/23,"Venne-Hébert, Ariane",Employee,To travel to/from constituency and Ottawa,2022/09/19,Mascouche,Ottawa,,,,,,,
+T0236173,2022/09/19,2022/09/23,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/09/23,Ottawa,Mascouche,,,,,,,
+T0236176,2022/09/19,2022/09/23,"Venne-Hébert, Ariane",Employee,To travel to/from constituency and Ottawa,2022/09/23,Ottawa,Mascouche,,,,,,,
+T0236559,2022/09/26,2022/09/30,,,,,,,203.5400,0.0000,413.3900,1.0000,0,0,616.93
+T0236559,2022/09/26,2022/09/30,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/09/26,Mascouche,Ottawa,,,,,,,
+T0236562,2022/09/26,2022/09/30,,,,,,,0.0000,0.0000,413.3900,0.0000,0,0,413.39
+T0236562,2022/09/26,2022/09/30,"Venne-Hébert, Ariane",Employee,To travel to/from constituency and Ottawa,2022/09/26,Mascouche,Ottawa,,,,,,,
+T0236562,2022/09/26,2022/09/30,"Venne-Hébert, Ariane",Employee,To travel to/from constituency and Ottawa,2022/09/30,Ottawa,Mascouche,,,,,,,
+T0236559,2022/09/26,2022/09/30,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/09/30,Ottawa,Mascouche,,,,,,,
+T0236966,2022/10/03,2022/10/07,,,,,,,0.0000,0.0000,493.6600,0.0000,0,0,493.66
+T0236966,2022/10/03,2022/10/07,"Venne-Hébert, Ariane",Employee,To travel to/from constituency and Ottawa,2022/10/03,Mascouche,Ottawa,,,,,,,
+T0236964,2022/10/03,2022/10/07,,,,,,,209.5300,0.0000,478.2100,1.0000,0,0,687.74
+T0236964,2022/10/03,2022/10/07,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/10/03,Mascouche,Ottawa,,,,,,,
+T0236964,2022/10/03,2022/10/07,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/10/07,Ottawa,Mascouche,,,,,,,
+T0236966,2022/10/03,2022/10/07,"Venne-Hébert, Ariane",Employee,To travel to/from constituency and Ottawa,2022/10/07,Ottawa,Mascouche,,,,,,,
+T0240069,2022/10/03,2022/11/06,,,,,,,0.0000,205.5200,0.0000,0,0,0,205.52
+T0240069,2022/10/03,2022/11/06,"Thériault, Luc",Member,Secondary Residence,2022/10/03,Gatineau,Gatineau,,,,,,,
+T0240069,2022/10/03,2022/11/06,"Thériault, Luc",Member,Secondary Residence,2022/10/07,Gatineau,Gatineau,,,,,,,
+T0238438,2022/10/17,2022/10/21,,,,,,,0.0000,0.0000,427.6800,0.0000,0,0,427.68
+T0238438,2022/10/17,2022/10/21,"Venne-Hébert, Ariane",Employee,To travel to/from constituency and Ottawa,2022/10/17,Mascouche,Ottawa,,,,,,,
+T0238436,2022/10/17,2022/10/21,,,,,,,209.5300,0.0000,427.6800,1.0000,0,0,637.21
+T0238436,2022/10/17,2022/10/21,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/10/17,Mascouche,Ottawa,,,,,,,
+T0238436,2022/10/17,2022/10/21,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/10/21,Ottawa,Mascouche,,,,,,,
+T0238442,2022/10/24,2022/10/28,,,,,,,209.5300,0.0000,427.6800,1.0000,0,0,637.21
+T0238442,2022/10/24,2022/10/28,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/10/24,Mascouche,Ottawa,,,,,,,
+T0238443,2022/10/24,2022/10/28,,,,,,,0.0000,0.0000,417.1500,0.0000,0,0,417.15
+T0238443,2022/10/24,2022/10/28,"Venne-Hébert, Ariane",Employee,To travel to/from constituency and Ottawa,2022/10/24,Mascouche,Ottawa,,,,,,,
+T0238442,2022/10/24,2022/10/28,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/10/28,Ottawa,Mascouche,,,,,,,
+T0238443,2022/10/24,2022/10/28,"Venne-Hébert, Ariane",Employee,To travel to/from constituency and Ottawa,2022/10/28,Ottawa,Mascouche,,,,,,,
+T0239761,2022/10/31,2022/11/04,,,,,,,209.5300,0.0000,427.6800,1.0000,0,0,637.21
+T0239761,2022/10/31,2022/11/04,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/10/31,Mascouche,Ottawa,,,,,,,
+T0239763,2022/10/31,2022/11/04,,,,,,,0.0000,0.0000,427.6800,0.0000,0,0,427.68
+T0239763,2022/10/31,2022/11/04,"Venne-Hébert, Ariane",Employee,To travel to/from constituency and Ottawa,2022/10/31,Mascouche,Ottawa,,,,,,,
+T0239763,2022/10/31,2022/11/04,"Venne-Hébert, Ariane",Employee,To travel to/from constituency and Ottawa,2022/11/04,Ottawa,Mascouche,,,,,,,
+T0239761,2022/10/31,2022/11/04,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/11/04,Ottawa,Mascouche,,,,,,,
+200616388,2022/11/01,2022/11/30,,,,,,,0.0000,1675.0000,0.0000,0,0,0,1675.00
+200616388,2022/11/01,2022/11/30,"Thériault, Luc",Member,Secondary Residence,2022/11/01,GATINEAU,GATINEAU,,,,,,,
+T0240070,2022/11/03,2022/12/06,,,,,,,0.0000,205.5200,0.0000,0,0,0,205.52
+T0240070,2022/11/03,2022/12/06,"Thériault, Luc",Member,Secondary Residence,2022/11/07,Gatineau,Gatineau,,,,,,,
+T0240070,2022/11/03,2022/12/06,"Thériault, Luc",Member,Secondary Residence,2022/11/03,Gatineau,Gatineau,,,,,,,
+T0240681,2022/11/11,2022/11/12,,,,,,,126.2200,119.1800,188.7200,0,1.0000,0,434.12
+T0240681,2022/11/11,2022/11/12,"Thériault, Luc",Member,To attend a regional or provincial caucus meeting,2022/11/11,Mascouche,Granby,,,,,,,
+T0240681,2022/11/11,2022/11/12,"Thériault, Luc",Member,To attend a regional or provincial caucus meeting,2022/11/12,Granby,Mascouche,,,,,,,
+T0239767,2022/11/14,2022/11/18,,,,,,,0.0000,0.0000,427.6800,0.0000,0,0,427.68
+T0239767,2022/11/14,2022/11/18,"Venne-Hébert, Ariane",Employee,To travel to/from constituency and Ottawa,2022/11/18,Mascouche,Ottawa,,,,,,,
+T0239767,2022/11/14,2022/11/18,"Venne-Hébert, Ariane",Employee,To travel to/from constituency and Ottawa,2022/11/18,Ottawa,Mascouche,,,,,,,
+T0240223,2022/11/21,2022/11/25,,,,,,,419.0600,0.0000,427.6800,2.0000,0,0,846.74
+T0240223,2022/11/21,2022/11/25,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/11/21,Mascouche,Ottawa,,,,,,,
+T0240395,2022/11/21,2022/11/25,,,,,,,0.0000,0.0000,427.6800,0.0000,0,0,427.68
+T0240395,2022/11/21,2022/11/25,"Venne-Hébert, Ariane",Employee,To travel to/from constituency and Ottawa,2022/11/21,Mascouche,Ottawa,,,,,,,
+T0240223,2022/11/21,2022/11/25,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/11/24,Ottawa,Mascouche,,,,,,,
+T0240395,2022/11/21,2022/11/25,"Venne-Hébert, Ariane",Employee,To travel to/from constituency and Ottawa,2022/11/25,Ottawa,Mascouche,,,,,,,
+T0240223,2022/11/21,2022/11/25,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/11/24,Mascouche,Ottawa,,,,,,,
+T0240223,2022/11/21,2022/11/25,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/11/25,Ottawa,Mascouche,,,,,,,
+200625240,2022/12/01,2022/12/31,,,,,,,0.0000,1675.0000,0.0000,0,0,0,1675.00
+200625240,2022/12/01,2022/12/31,"Thériault, Luc",Member,Secondary Residence,2022/12/01,GATINEAU,GATINEAU,,,,,,,
+T0241612,2022/12/03,2022/12/09,,,,,,,209.5300,0.0000,427.6800,1.0000,0,0,637.21
+T0241612,2022/12/03,2022/12/09,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/12/05,Mascouche,Ottawa,,,,,,,
+T0241612,2022/12/03,2022/12/09,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2022/12/09,Ottawa,Mascouche,,,,,,,
+T0241625,2022/12/03,2023/01/02,,,,,,,0.0000,205.5200,0.0000,0,0,0,205.52
+T0241625,2022/12/03,2023/01/02,"Thériault, Luc",Member,Secondary Residence,2022/12/03,Gatineau,Gatineau,,,,,,,
+T0241623,2022/12/05,2022/12/09,,,,,,,0.0000,0.0000,427.6800,0.0000,0,0,427.68
+T0241623,2022/12/05,2022/12/09,"Venne-Hébert, Ariane",Employee,To travel to/from constituency and Ottawa,2022/12/05,Mascouche,Ottawa,,,,,,,
+T0241623,2022/12/05,2022/12/09,"Venne-Hébert, Ariane",Employee,To travel to/from constituency and Ottawa,2022/12/09,Ottawa,Mascouche,,,,,,,
+200634576,2023/01/01,2023/01/31,,,,,,,0.0000,1675.0000,0.0000,0,0,0,1675.00
+200634576,2023/01/01,2023/01/31,"Thériault, Luc",Member,Secondary Residence,2023/01/01,GATINEAU,GATINEAU,,,,,,,

@@ -1,0 +1,63 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0209126,2020/11/19,2020/12/19,,,,,,,0.0000,50.3400,0.0000,0,0,0,50.34
+T0209126,2020/11/19,2020/12/19,"Nater, John",Member,Secondary Residence,2020/11/19,Ottawa,Ottawa,,,,,,,
+T0209053,2020/12/01,2020/12/31,,,,,,,0.0000,45.9500,0.0000,0,0,0,45.95
+T0209053,2020/12/01,2020/12/31,"Nater, John",Member,Secondary Residence,2020/12/01,Ottawa,Ottawa,,,,,,,
+T0208965,2020/12/01,2020/12/31,,,,,,,271.7400,0.0000,0.0000,0.0000,0.0000,0,271.74
+T0208965,2020/12/01,2020/12/31,"Nater, John",Member,To attend meetings about constituency issues,2020/12/15,Mitchell,Minto,,,,,,,
+T0208965,2020/12/01,2020/12/31,"Nater, John",Member,To conduct constituency office business,2020/12/22,Millbank,Mitchell,,,,,,,
+T0208965,2020/12/01,2020/12/31,"Nater, John",Member,To conduct constituency office business,2020/12/22,Stratford,Minto,,,,,,,
+T0208965,2020/12/01,2020/12/31,"Nater, John",Member,To conduct constituency office business,2020/12/22,Minto,Stratford,,,,,,,
+T0208965,2020/12/01,2020/12/31,"Nater, John",Member,To attend meetings about constituency issues,2020/12/15,Minto,Mitchell,,,,,,,
+T0208965,2020/12/01,2020/12/31,"Nater, John",Member,To attend meetings about constituency issues,2020/12/16,Mitchell,Stratford,,,,,,,
+T0208965,2020/12/01,2020/12/31,"Nater, John",Member,To attend meetings about constituency issues,2020/12/16,Stratford,Mitchell,,,,,,,
+T0208965,2020/12/01,2020/12/31,"Nater, John",Member,To attend a constituency or community event,2020/12/19,Mitchell,Stratford,,,,,,,
+T0208965,2020/12/01,2020/12/31,"Nater, John",Member,To attend a constituency or community event,2020/12/19,Stratford,Mitchell,,,,,,,
+T0208965,2020/12/01,2020/12/31,"Nater, John",Member,To attend meetings about constituency issues,2020/12/21,Mitchell,Minto,,,,,,,
+T0208965,2020/12/01,2020/12/31,"Nater, John",Member,To attend meetings about constituency issues,2020/12/21,Minto,Mitchell,,,,,,,
+T0208965,2020/12/01,2020/12/31,"Nater, John",Member,To conduct constituency office business,2020/12/22,Mitchell,Millbank,,,,,,,
+T0209702,2020/12/19,2021/01/18,,,,,,,0.0000,32.0100,0.0000,0,0,0,32.01
+T0209702,2020/12/19,2021/01/18,"Nater, John",Member,Secondary Residence,2020/12/19,Ottawa,Ottawa,,,,,,,
+T0209768,2021/01/01,2021/01/31,,,,,,,0.0000,45.9500,0.0000,0,0,0,45.95
+T0209768,2021/01/01,2021/01/31,"Nater, John",Member,Secondary Residence,2021/01/01,Ottawa,Ottawa,,,,,,,
+T0210392,2021/01/18,2021/02/17,,,,,,,0.0000,35.6600,0.0000,0,0,0,35.66
+T0210392,2021/01/18,2021/02/17,"Nater, John",Member,Secondary Residence,2021/01/18,Ottawa,Ottawa,,,,,,,
+T0210489,2021/02/01,2021/02/28,,,,,,,0.0000,45.9500,0.0000,0,0,0,45.95
+T0210489,2021/02/01,2021/02/28,"Nater, John",Member,Secondary Residence,2021/02/01,Ottawa,Ottawa,,,,,,,
+200467620,2021/02/01,2021/02/28,,,,,,,0.0000,2070.0000,0.0000,0,0,0,2070.00
+200467620,2021/02/01,2021/02/28,"Nater, John",Member,Secondary Residence,2021/02/01,OTTAWA,OTTAWA,,,,,,,
+T0210202,2021/02/01,2021/02/28,,,,,,,83.9200,0.0000,0.0000,0,0.0000,0,83.92
+T0210202,2021/02/01,2021/02/28,"Nater, John",Member,To attend meetings about constituency issues,2021/02/20,Mitchell,Lakeside,,,,,,,
+T0210202,2021/02/01,2021/02/28,"Nater, John",Member,To attend meetings about constituency issues,2021/02/20,Lakeside,Mitchell,,,,,,,
+T0210202,2021/02/01,2021/02/28,"Nater, John",Member,To attend meetings about constituency issues,2021/02/22,Mitchell,Minto,,,,,,,
+T0210202,2021/02/01,2021/02/28,"Nater, John",Member,To attend meetings about constituency issues,2021/02/22,Minto,Mitchell,,,,,,,
+T0209992,2021/02/15,2021/02/19,,,,,,,569.4800,0.0000,376.9200,1.0000,0,0,946.40
+T0209992,2021/02/15,2021/02/19,"Nater, John",Member,To travel to/from constituency and Ottawa,2021/02/15,Mitchell,Ottawa,,,,,,,
+T0209992,2021/02/15,2021/02/19,"Nater, John",Member,To travel to/from constituency and Ottawa,2021/02/19,Ottawa,Mitchell,,,,,,,
+T0211550,2021/02/17,2021/03/19,,,,,,,0.0000,47.8800,0.0000,0,0,0,47.88
+T0211550,2021/02/17,2021/03/19,"Nater, John",Member,Secondary Residence,2021/02/17,Ottawa,Ottawa,,,,,,,
+T0211737,2021/02/18,2021/02/18,,,,,,,74.4800,0.0000,0.0000,0,0.0000,0,74.48
+T0211737,2021/02/18,2021/02/18,"Sparks, Timothy",Employee,To conduct constituency office business,2021/02/18,Stratford,Minto,,,,,,,
+T0211737,2021/02/18,2021/02/18,"Sparks, Timothy",Employee,To conduct constituency office business,2021/02/18,Minto,Stratford,,,,,,,
+T0211462,2021/03/01,2021/03/31,,,,,,,0.0000,45.9500,0.0000,0,0,0,45.95
+T0211462,2021/03/01,2021/03/31,"Nater, John",Member,Secondary Residence,2021/03/01,Ottawa,Ottawa,,,,,,,
+200475621,2021/03/01,2021/03/31,,,,,,,0.0000,2070.0000,0.0000,0,0,0,2070.00
+200475621,2021/03/01,2021/03/31,"Nater, John",Member,Secondary Residence,2021/03/01,OTTAWA,OTTAWA,,,,,,,
+T0210490,2021/03/07,2021/03/12,,,,,,,569.4800,0.0000,419.4600,1.0000,0,0,988.94
+T0210490,2021/03/07,2021/03/12,"Nater, John",Member,To travel to/from constituency and Ottawa,2021/03/07,Mitchell,Ottawa,,,,,,,
+T0210490,2021/03/07,2021/03/12,"Nater, John",Member,To travel to/from constituency and Ottawa,2021/03/12,Ottawa,Mitchell,,,,,,,
+T0211736,2021/03/10,2021/03/16,,,,,,,223.4400,0.0000,0.0000,0,0.0000,0,223.44
+T0211736,2021/03/10,2021/03/16,"Sparks, Timothy",Employee,To conduct constituency office business,2021/03/10,Stratford,Minto,,,,,,,
+T0211736,2021/03/10,2021/03/16,"Sparks, Timothy",Employee,To conduct constituency office business,2021/03/10,Minto,Stratford,,,,,,,
+T0211736,2021/03/10,2021/03/16,"Sparks, Timothy",Employee,To conduct constituency office business,2021/03/15,Stratford,Minto,,,,,,,
+T0211736,2021/03/10,2021/03/16,"Sparks, Timothy",Employee,To conduct constituency office business,2021/03/15,Minto,Stratford,,,,,,,
+T0211736,2021/03/10,2021/03/16,"Sparks, Timothy",Employee,To conduct constituency office business,2021/03/16,Stratford,Minto,,,,,,,
+T0211736,2021/03/10,2021/03/16,"Sparks, Timothy",Employee,To conduct constituency office business,2021/03/16,Minto,Stratford,,,,,,,
+T0210819,2021/03/17,2021/03/19,,,,,,,569.4800,0.0000,98.9300,1.0000,0,0,668.41
+T0210819,2021/03/17,2021/03/19,"Nater, John",Member,To travel to/from constituency and Ottawa,2021/03/17,Mitchell,Ottawa,,,,,,,
+T0210819,2021/03/17,2021/03/19,"Nater, John",Member,To travel to/from constituency and Ottawa,2021/03/19,Ottawa,Mitchell,,,,,,,
+T0211178,2021/03/23,2021/03/26,,,,,,,93.3400,0.0000,0.0000,0.0000,0,0,93.34
+T0211178,2021/03/23,2021/03/26,"Nater, John",Member,To attend meetings about constituency issues,2021/03/26,Mitchell,Mount Forest,,,,,,,
+T0211178,2021/03/23,2021/03/26,"Nater, John",Member,To attend meetings about constituency issues,2021/03/26,Mount Forest,Mitchell,,,,,,,
+T0211178,2021/03/23,2021/03/26,"Nater, John",Member,To attend meetings about constituency issues,2021/03/23,Mitchell,Stratford,,,,,,,
+T0211178,2021/03/23,2021/03/26,"Nater, John",Member,To attend meetings about constituency issues,2021/03/23,Stratford,Mitchell,,,,,,,

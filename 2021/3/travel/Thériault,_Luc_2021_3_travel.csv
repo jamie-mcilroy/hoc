@@ -1,0 +1,47 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0205688,2020/09/03,2020/10/02,,,,,,,0.0000,193.5500,0.0000,0,0,0,193.55
+T0205688,2020/09/03,2020/10/02,"Thériault, Luc",Member,Secondary Residence,2020/09/03,Gatineau,Gatineau,,,,,,,
+T0205356,2020/09/15,2020/09/25,,,,,,,88.4800,0.0000,0.0000,0.0000,0,0,88.48
+T0205356,2020/09/15,2020/09/25,"Tremblay, Jacques",Employee,To represent the Member at an event,2020/09/15,Mascouche,Saint-Liguori,,,,,,,
+T0205356,2020/09/15,2020/09/25,"Tremblay, Jacques",Employee,To represent the Member at an event,2020/09/15,Saint-Liguori,Mascouche,,,,,,,
+T0205356,2020/09/15,2020/09/25,"Tremblay, Jacques",Employee,To represent the Member at an event,2020/09/16,Mascouche,Saint-Liguori,,,,,,,
+T0205356,2020/09/15,2020/09/25,"Tremblay, Jacques",Employee,To represent the Member at an event,2020/09/24,Mascouche,Saint-Roch-de-l'Achigan,,,,,,,
+T0205356,2020/09/15,2020/09/25,"Tremblay, Jacques",Employee,To represent the Member at an event,2020/09/16,Saint-Liguori,Mascouche,,,,,,,
+T0205356,2020/09/15,2020/09/25,"Tremblay, Jacques",Employee,To represent the Member at an event,2020/09/24,Saint-Roch-de-l'Achigan,Mascouche,,,,,,,
+T0205294,2020/09/22,2020/09/24,,,,,,,181.8500,0.0000,257.8100,1.0000,0,0,439.66
+T0205294,2020/09/22,2020/09/24,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2020/09/22,Mascouche,Ottawa,,,,,,,
+T0205294,2020/09/22,2020/09/24,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2020/09/24,Ottawa,Mascouche,,,,,,,
+T0205372,2020/09/24,2020/09/25,,,,,,,13.4000,0.0000,0.0000,0.0000,0,0,13.40
+T0205372,2020/09/24,2020/09/25,"Vanier, Pierre",Employee,To represent the Member at an event,2020/09/24,Mascouche,Saint-Roch-de-l'Achigan,,,,,,,
+T0205372,2020/09/24,2020/09/25,"Vanier, Pierre",Employee,To represent the Member at an event,2020/09/24,Saint-Roch-de-l'Achigan,Mascouche,,,,,,,
+T0205617,2020/09/27,2020/10/01,,,,,,,184.5700,0.0000,455.0500,1.0000,0,0,639.62
+T0205617,2020/09/27,2020/10/01,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2020/09/27,Mascouche,Ottawa,,,,,,,
+T0205617,2020/09/27,2020/10/01,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2020/10/01,Ottawa,Mascouche,,,,,,,
+T0206101,2020/10/03,2020/11/02,,,,,,,0.0000,193.5600,0.0000,0,0,0,193.56
+T0206101,2020/10/03,2020/11/02,"Thériault, Luc",Member,Secondary Residence,2020/10/03,Gatineau,Gatineau,,,,,,,
+T0206010,2020/10/04,2020/10/09,,,,,,,186.3400,0.0000,556.2100,1.0000,0,0,742.55
+T0206010,2020/10/04,2020/10/09,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2020/10/04,Mascouche,Ottawa,,,,,,,
+T0206010,2020/10/04,2020/10/09,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2020/10/09,Ottawa,Mascouche,,,,,,,
+T0206346,2020/10/18,2020/10/23,,,,,,,186.3400,0.0000,494.6400,1.0000,0,0,680.98
+T0206346,2020/10/18,2020/10/23,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2020/10/18,Mascouche,Ottawa,,,,,,,
+T0206346,2020/10/18,2020/10/23,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2020/10/23,Ottawa,Mascouche,,,,,,,
+200449103,2020/11/01,2020/11/30,,,,,,,0.0000,1675.0000,0.0000,0,0,0,1675.00
+200449103,2020/11/01,2020/11/30,"Thériault, Luc",Member,Secondary Residence,2020/11/01,GATINEAU,GATINEAU,,,,,,,
+T0207259,2020/11/03,2020/12/02,,,,,,,0.0000,197.0200,0.0000,0,0,0,197.02
+T0207259,2020/11/03,2020/12/02,"Thériault, Luc",Member,Secondary Residence,2020/11/07,Gatineau,Gatineau,,,,,,,
+T0207259,2020/11/03,2020/12/02,"Thériault, Luc",Member,Secondary Residence,2020/11/03,Gatineau,Gatineau,,,,,,,
+T0207423,2020/11/15,2020/11/18,,,,,,,182.1300,0.0000,296.7900,1.0000,0,0,478.92
+T0207423,2020/11/15,2020/11/18,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2020/11/15,Mascouche,Ottawa,,,,,,,
+T0207423,2020/11/15,2020/11/18,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2020/11/18,Ottawa,Mascouche,,,,,,,
+T0207960,2020/11/30,2020/12/05,,,,,,,178.0300,0.0000,494.6400,1.0000,0,0,672.67
+T0207960,2020/11/30,2020/12/05,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2020/11/30,Mascouche,Ottawa,,,,,,,
+T0207960,2020/11/30,2020/12/05,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2020/12/05,Ottawa,Mascouche,,,,,,,
+200456006,2020/12/01,2020/12/31,,,,,,,0.0000,1675.0000,0.0000,0,0,0,1675.00
+200456006,2020/12/01,2020/12/31,"Thériault, Luc",Member,Secondary Residence,2020/12/01,GATINEAU,GATINEAU,,,,,,,
+T0208473,2020/12/03,2021/01/02,,,,,,,0.0000,197.0200,0.0000,0,0,0,197.02
+T0208473,2020/12/03,2021/01/02,"Thériault, Luc",Member,Secondary Residence,2020/12/03,Gatineau,Gatineau,,,,,,,
+T0208175,2020/12/07,2020/12/10,,,,,,,186.3400,0.0000,342.9000,1.0000,0,0,529.24
+T0208175,2020/12/07,2020/12/10,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2020/12/07,Mascouche,Ottawa,,,,,,,
+T0208175,2020/12/07,2020/12/10,"Thériault, Luc",Member,To travel to/from constituency and Ottawa,2020/12/10,Ottawa,Mascouche,,,,,,,
+200461694,2021/01/01,2021/01/31,,,,,,,0.0000,1675.0000,0.0000,0,0,0,1675.00
+200461694,2021/01/01,2021/01/31,"Thériault, Luc",Member,Secondary Residence,2021/01/01,GATINEAU,GATINEAU,,,,,,,

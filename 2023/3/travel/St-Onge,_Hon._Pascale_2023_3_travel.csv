@@ -1,0 +1,73 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0231857,2022/05/29,2022/06/23,,,,,,,0.0000,0.0000,331.7900,0.0000,0,0,331.79
+T0231857,2022/05/29,2022/06/23,"St-Onge, Hon. Pascale",Member,To travel to/from constituency and Ottawa,2022/05/29,Orford,Ottawa,,,,,,,
+T0236316,2022/08/17,2022/09/26,,,,,,,354.7700,0.0000,0.0000,0.0000,0,0,354.77
+T0236316,2022/08/17,2022/09/26,"Boumenna, Djamel",Employee,To conduct constituency office business,2022/08/17,Stanbridge East,Orford,,,,,,,
+T0236316,2022/08/17,2022/09/26,"Boumenna, Djamel",Employee,To conduct constituency office business,2022/09/26,Stanbridge East,Knowlton,,,,,,,
+T0236316,2022/08/17,2022/09/26,"Boumenna, Djamel",Employee,To conduct constituency office business,2022/09/26,Knowlton,Stanbridge East,,,,,,,
+T0236316,2022/08/17,2022/09/26,"Boumenna, Djamel",Employee,To conduct constituency office business,2022/08/17,Orford,Stanbridge East,,,,,,,
+T0236316,2022/08/17,2022/09/26,"Boumenna, Djamel",Employee,Attending event with Member,2022/09/09,Stanbridge East,Brome,,,,,,,
+T0236316,2022/08/17,2022/09/26,"Boumenna, Djamel",Employee,Attending event with Member,2022/09/09,Brome,Magog,,,,,,,
+T0236316,2022/08/17,2022/09/26,"Boumenna, Djamel",Employee,Attending event with Member,2022/09/09,Magog,Stanbridge East,,,,,,,
+T0236316,2022/08/17,2022/09/26,"Boumenna, Djamel",Employee,To represent the Member at an event,2022/09/14,Stanbridge East,Magog,,,,,,,
+T0236316,2022/08/17,2022/09/26,"Boumenna, Djamel",Employee,To represent the Member at an event,2022/09/14,Magog,Stanbridge East,,,,,,,
+T0236316,2022/08/17,2022/09/26,"Boumenna, Djamel",Employee,To represent the Member at an event,2022/09/24,Stanbridge East,Magog,,,,,,,
+T0236316,2022/08/17,2022/09/26,"Boumenna, Djamel",Employee,To represent the Member at an event,2022/09/24,Magog,Stanbridge East,,,,,,,
+T0236134,2022/08/20,2022/08/27,,,,,,,120.0900,0.0000,0.0000,0.0000,0,0,120.09
+T0236134,2022/08/20,2022/08/27,"Westover, Wyatt",Employee,To attend a constituency or community event,2022/08/20,Dunham,Bromont,,,,,,,
+T0236134,2022/08/20,2022/08/27,"Westover, Wyatt",Employee,To attend a constituency or community event,2022/08/20,Bromont,Dunham,,,,,,,
+T0236134,2022/08/20,2022/08/27,"Westover, Wyatt",Employee,To attend a constituency or community event,2022/08/25,Dunham,Orford,,,,,,,
+T0236134,2022/08/20,2022/08/27,"Westover, Wyatt",Employee,To attend a constituency or community event,2022/08/25,Orford,Bromont,,,,,,,
+T0236134,2022/08/20,2022/08/27,"Westover, Wyatt",Employee,To attend a constituency or community event,2022/08/25,Bromont,Cowansville,,,,,,,
+T0236134,2022/08/20,2022/08/27,"Westover, Wyatt",Employee,To attend a constituency or community event,2022/08/25,Dunham,Saint-Armand,,,,,,,
+T0236134,2022/08/20,2022/08/27,"Westover, Wyatt",Employee,To attend a constituency or community event,2022/08/25,Saint-Armand,Dunham,,,,,,,
+T0237394,2022/08/30,2022/09/02,,,,,,,396.3600,593.7200,0.0000,0,0.0000,0,990.08
+T0237394,2022/08/30,2022/09/02,"St-Onge, Hon. Pascale",Member,To attend a regional or provincial caucus meeting,2022/08/30,Orford,Gaspé,,,,,,,
+T0237394,2022/08/30,2022/09/02,"St-Onge, Hon. Pascale",Member,To attend a regional or provincial caucus meeting,2022/09/02,Gaspé,Montreal,,,,,,,
+T0237922,2022/09/05,2022/10/11,,,,,,,146.6200,0.0000,44.6700,0.0000,0,0,191.29
+T0237922,2022/09/05,2022/10/11,"Westover, Wyatt",Employee,Attending event with Member,2022/09/05,Dunham,Knowlton,,,,,,,
+T0237922,2022/09/05,2022/10/11,"Westover, Wyatt",Employee,Attending event with Member,2022/09/05,Knowlton,Dunham,,,,,,,
+T0237922,2022/09/05,2022/10/11,"Westover, Wyatt",Employee,To represent the Member at an event,2022/09/24,Dunham,Magog,,,,,,,
+T0237922,2022/09/05,2022/10/11,"Westover, Wyatt",Employee,To represent the Member at an event,2022/09/24,Magog,Dunham,,,,,,,
+T0237922,2022/09/05,2022/10/11,"Westover, Wyatt",Employee,Attending event with Member,2022/10/11,Dunham,Orford,,,,,,,
+T0237922,2022/09/05,2022/10/11,"Westover, Wyatt",Employee,Attending event with Member,2022/10/11,Orford,Dunham,,,,,,,
+T0237298,2022/09/11,2022/09/14,,,,,,,1265.9000,693.3000,0.0000,0,1.0000,0,1959.20
+T0237298,2022/09/11,2022/09/14,"St-Onge, Hon. Pascale",Member,To attend a national caucus meeting,2022/09/11,Ottawa,Fredericton,,,,,,,
+T0237298,2022/09/11,2022/09/14,"St-Onge, Hon. Pascale",Member,To attend a national caucus meeting,2022/09/14,Fredericton,Ottawa,,,,,,,
+T0239801,2022/09/19,2022/10/25,,,,,,,243.7900,0.0000,40.1400,0.0000,0.0000,0,283.93
+T0239801,2022/09/19,2022/10/25,"Boumenna, Djamel",Employee,To conduct constituency office business,2022/09/19,Cowansville,Knowlton,,,,,,,
+T0239801,2022/09/19,2022/10/25,"Boumenna, Djamel",Employee,To conduct constituency office business,2022/10/25,Bromont,Cowansville,,,,,,,
+T0239801,2022/09/19,2022/10/25,"Boumenna, Djamel",Employee,To conduct constituency office business,2022/09/19,Knowlton,Stanbridge East,,,,,,,
+T0239801,2022/09/19,2022/10/25,"Boumenna, Djamel",Employee,To conduct constituency office business,2022/10/06,Montreal,Saint-Philippe,,,,,,,
+T0239801,2022/09/19,2022/10/25,"Boumenna, Djamel",Employee,To conduct constituency office business,2022/10/06,Saint-Philippe,Cowansville,,,,,,,
+T0239801,2022/09/19,2022/10/25,"Boumenna, Djamel",Employee,To conduct constituency office business,2022/10/13,Montreal,Noyan,,,,,,,
+T0239801,2022/09/19,2022/10/25,"Boumenna, Djamel",Employee,To conduct constituency office business,2022/10/13,Noyan,Cowansville,,,,,,,
+T0239801,2022/09/19,2022/10/25,"Boumenna, Djamel",Employee,To conduct constituency office business,2022/10/15,Stanbridge East,Magog,,,,,,,
+T0239801,2022/09/19,2022/10/25,"Boumenna, Djamel",Employee,To conduct constituency office business,2022/10/15,Magog,Stanbridge East,,,,,,,
+T0239801,2022/09/19,2022/10/25,"Boumenna, Djamel",Employee,To conduct constituency office business,2022/10/25,Cowansville,Bromont,,,,,,,
+T0237301,2022/10/03,2022/10/12,,,,,,,475.0400,0.0000,110.4200,0.0000,0.0000,0,585.46
+T0237301,2022/10/03,2022/10/12,"Lévesque, Sophie Anne",Employee,To conduct constituency office business,2022/10/03,Cowansville,Magog,,,,,,,
+T0237301,2022/10/03,2022/10/12,"Lévesque, Sophie Anne",Employee,To conduct constituency office business,2022/10/11,Magog,Orford,,,,,,,
+T0237301,2022/10/03,2022/10/12,"Lévesque, Sophie Anne",Employee,To conduct constituency office business,2022/10/11,Orford,Magog,,,,,,,
+T0237301,2022/10/03,2022/10/12,"Lévesque, Sophie Anne",Employee,To conduct constituency office business,2022/10/11,Magog,Carignan,,,,,,,
+T0237301,2022/10/03,2022/10/12,"Lévesque, Sophie Anne",Employee,To conduct constituency office business,2022/10/11,Carignan,Magog,,,,,,,
+T0237301,2022/10/03,2022/10/12,"Lévesque, Sophie Anne",Employee,To conduct constituency office business,2022/10/12,Carignan,Magog,,,,,,,
+T0237301,2022/10/03,2022/10/12,"Lévesque, Sophie Anne",Employee,To conduct constituency office business,2022/10/12,Magog,Carignan,,,,,,,
+T0237301,2022/10/03,2022/10/12,"Lévesque, Sophie Anne",Employee,Attending event with Member,2022/10/12,Magog,Magog,,,,,,,
+T0237301,2022/10/03,2022/10/12,"Lévesque, Sophie Anne",Employee,To conduct constituency office business,2022/10/03,Magog,Bromont,,,,,,,
+T0237301,2022/10/03,2022/10/12,"Lévesque, Sophie Anne",Employee,To conduct constituency office business,2022/10/03,Bromont,Cowansville,,,,,,,
+T0237301,2022/10/03,2022/10/12,"Lévesque, Sophie Anne",Employee,To represent the Member at an event,2022/10/05,Cowansville,Notre-Dame-de-Stanbridge,,,,,,,
+T0237301,2022/10/03,2022/10/12,"Lévesque, Sophie Anne",Employee,To represent the Member at an event,2022/10/05,Notre-Dame-de-Stanbridge,Cowansville,,,,,,,
+T0237301,2022/10/03,2022/10/12,"Lévesque, Sophie Anne",Employee,To attend a constituency or community event,2022/10/06,Carignan,Venise-en-Québec,,,,,,,
+T0237301,2022/10/03,2022/10/12,"Lévesque, Sophie Anne",Employee,To attend a constituency or community event,2022/10/06,Venise-en-Québec,Cowansville,,,,,,,
+T0237301,2022/10/03,2022/10/12,"Lévesque, Sophie Anne",Employee,To attend a constituency or community event,2022/10/11,Carignan,Magog,,,,,,,
+T0237301,2022/10/03,2022/10/12,"Lévesque, Sophie Anne",Employee,To conduct constituency office business,2022/10/11,Magog,Magog,,,,,,,
+T0237304,2022/10/11,2022/10/11,,,,,,,16.0300,0.0000,20.0700,0.0000,0,0,36.10
+T0237304,2022/10/11,2022/10/11,"St-Onge, Hon. Pascale",Member,To attend a constituency or community event,2022/10/11,Orford,Magog,,,,,,,
+T0237304,2022/10/11,2022/10/11,"St-Onge, Hon. Pascale",Member,To attend a constituency or community event,2022/10/11,Magog,Orford,,,,,,,
+200616384,2022/11/01,2022/11/30,,,,,,,0.0000,2000.0000,0.0000,0,0,0,2000.00
+200616384,2022/11/01,2022/11/30,"St-Onge, Hon. Pascale",Member,Secondary Residence,2022/11/01,GATINEAU,GATINEAU,,,,,,,
+200625236,2022/12/01,2022/12/31,,,,,,,0.0000,2000.0000,0.0000,0,0,0,2000.00
+200625236,2022/12/01,2022/12/31,"St-Onge, Hon. Pascale",Member,Secondary Residence,2022/12/01,GATINEAU,GATINEAU,,,,,,,
+200634572,2023/01/01,2023/01/31,,,,,,,0.0000,2000.0000,0.0000,0,0,0,2000.00
+200634572,2023/01/01,2023/01/31,"St-Onge, Hon. Pascale",Member,Secondary Residence,2023/01/01,GATINEAU,GATINEAU,,,,,,,

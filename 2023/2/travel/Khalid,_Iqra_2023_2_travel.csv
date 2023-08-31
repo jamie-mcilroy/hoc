@@ -1,0 +1,35 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0230506,2022/05/15,2022/05/19,,,,,,,715.9400,0.0000,312.5000,1.0000,0,0,1028.44
+T0230506,2022/05/15,2022/05/19,"Khalid, Iqra",Member,To travel to/from constituency and Ottawa,2022/05/15,Mississauga,Ottawa,,,,,,,
+T0230506,2022/05/15,2022/05/19,"Khalid, Iqra",Member,To travel to/from constituency and Ottawa,2022/05/19,Ottawa,Mississauga,,,,,,,
+T0230509,2022/05/28,2022/06/02,,,,,,,720.7300,0.0000,263.7100,1.0000,0,0,984.44
+T0230509,2022/05/28,2022/06/02,"Khalid, Iqra",Member,To travel to/from constituency and Ottawa,2022/05/28,Mississauga,Ottawa,,,,,,,
+T0230509,2022/05/28,2022/06/02,"Khalid, Iqra",Member,To travel to/from constituency and Ottawa,2022/06/02,Ottawa,Mississauga,,,,,,,
+T0230531,2022/06/05,2022/06/10,,,,,,,685.6900,0.0000,263.7100,1.0000,0,0,949.40
+T0230531,2022/06/05,2022/06/10,"Khalid, Iqra",Member,To travel to/from constituency and Ottawa,2022/06/05,Mississauga,Ottawa,,,,,,,
+T0230531,2022/06/05,2022/06/10,"Khalid, Iqra",Member,To travel to/from constituency and Ottawa,2022/06/10,Ottawa,Mississauga,,,,,,,
+T0231350,2022/06/12,2022/06/13,,,,,,,464.1200,0.0000,0.0000,1.0000,0,0,464.12
+T0231350,2022/06/12,2022/06/13,"Hanif, Qasir",Employee,To travel to/from constituency and Ottawa,2022/06/12,Mississauga,Ottawa,,,,,,,
+T0231350,2022/06/12,2022/06/13,"Hanif, Qasir",Employee,To travel to/from constituency and Ottawa,2022/06/13,Ottawa,Mississauga,,,,,,,
+T0231107,2022/06/12,2022/06/17,,,,,,,681.1100,0.0000,263.7100,1.0000,0,0,944.82
+T0231107,2022/06/12,2022/06/17,"Khalid, Iqra",Member,To travel to/from constituency and Ottawa,2022/06/12,Mississauga,Ottawa,,,,,,,
+T0231107,2022/06/12,2022/06/17,"Khalid, Iqra",Member,To travel to/from constituency and Ottawa,2022/06/17,Ottawa,Mississauga,,,,,,,
+T0231108,2022/06/19,2022/06/24,,,,,,,656.6000,0.0000,263.7100,1.0000,0,0,920.31
+T0231108,2022/06/19,2022/06/24,"Khalid, Iqra",Member,To travel to/from constituency and Ottawa,2022/06/19,Mississauga,Ottawa,,,,,,,
+T0231108,2022/06/19,2022/06/24,"Khalid, Iqra",Member,To travel to/from constituency and Ottawa,2022/06/24,Ottawa,Mississauga,,,,,,,
+200582446,2022/07/01,2022/07/31,,,,,,,0.0000,1800.0000,0.0000,0,0,0,1800.00
+200582446,2022/07/01,2022/07/31,"Khalid, Iqra",Member,Secondary Residence,2022/07/01,OTTAWA,OTTAWA,,,,,,,
+T0233706,2022/07/17,2022/07/31,,,,,,,486.3300,1624.3800,34.1800,1.0000,0,0,2144.89
+T0233706,2022/07/17,2022/07/31,"Abu-Lughod, Lana",Employee,To travel to/from constituency and Ottawa,2022/07/17,Ottawa,Mississauga,,,,,,,
+T0233706,2022/07/17,2022/07/31,"Abu-Lughod, Lana",Employee,To travel to/from constituency and Ottawa,2022/07/31,Mississauga,Ottawa,,,,,,,
+T0233705,2022/07/31,2022/08/05,,,,,,,1284.9000,0.0000,0.0000,0,0.0000,0,1284.90
+T0233705,2022/07/31,2022/08/05,"Khalid, Iqra",Member,To attend language training,2022/07/31,Mississauga,Quebec City,,,,,,,
+T0233705,2022/07/31,2022/08/05,"Khalid, Iqra",Member,To attend language training,2022/08/05,Quebec City,Mississauga,,,,,,,
+200599760,2022/08/01,2022/08/31,,,,,,,0.0000,200.0000,0.0000,0,0,0,200.00
+200599760,2022/08/01,2022/08/31,"Khalid, Iqra",Member,Secondary Residence,2022/08/01,OTTAWA,OTTAWA,,,,,,,
+200590073,2022/08/01,2022/08/31,,,,,,,0.0000,1800.0000,0.0000,0,0,0,1800.00
+200590073,2022/08/01,2022/08/31,"Khalid, Iqra",Member,Secondary Residence,2022/08/01,OTTAWA,OTTAWA,,,,,,,
+200600105,2022/09/01,2022/09/30,,,,,,,0.0000,2000.0000,0.0000,0,0,0,2000.00
+200600105,2022/09/01,2022/09/30,"Khalid, Iqra",Member,Secondary Residence,2022/09/01,OTTAWA,OTTAWA,,,,,,,
+200607396,2022/10/01,2022/10/31,,,,,,,0.0000,2000.0000,0.0000,0,0,0,2000.00
+200607396,2022/10/01,2022/10/31,"Khalid, Iqra",Member,Secondary Residence,2022/10/01,OTTAWA,OTTAWA,,,,,,,

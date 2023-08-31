@@ -1,0 +1,42 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+200559037,2021/04/01,2021/12/31,,,,,,,225.0000,0.0000,0.0000,0,0,0,225.00
+200559037,2021/04/01,2021/12/31,"Vuong, Kevin",Member,Maple Leaf Lounge,2021/04/01,,,,,,,,,
+T0218722,2021/11/21,2021/11/27,,,,,,,2049.3300,985.9100,645.0400,2.0000,0,0,3680.28
+T0218722,2021/11/21,2021/11/27,"Vuong, Kevin",Member,To travel to/from constituency and Ottawa,2021/11/21,Toronto,Ottawa,,,,,,,
+T0218722,2021/11/21,2021/11/27,"Vuong, Kevin",Member,To travel to/from constituency and Ottawa,2021/11/27,Ottawa,Toronto,,,,,,,
+T0222970,2021/11/21,2021/11/27,,,,,,,198.2500,670.2300,0.0000,1.0000,0,0,868.48
+T0222970,2021/11/21,2021/11/27,"Clarke, Deijaumar",Employee,To travel to/from constituency and Ottawa,2021/11/21,Toronto,Ottawa,,,,,,,
+T0218722,2021/11/21,2021/11/27,,Designated Traveller,To unite the family with the Member,2021/11/21,Toronto,Ottawa,,,,,,,
+T0218722,2021/11/21,2021/11/27,,Designated Traveller,To unite the family with the Member,2021/11/27,Ottawa,Toronto,,,,,,,
+T0222970,2021/11/21,2021/11/27,"Clarke, Deijaumar",Employee,To travel to/from constituency and Ottawa,2021/11/26,Ottawa,Toronto,,,,,,,
+T0222531,2021/11/28,2021/12/04,,,,,,,966.8200,865.0400,505.5800,1.0000,0,0,2337.44
+T0222531,2021/11/28,2021/12/04,"Vuong, Kevin",Member,To travel to/from constituency and Ottawa,2021/11/29,Toronto,Ottawa,,,,,,,
+T0222531,2021/11/28,2021/12/04,"Vuong, Kevin",Member,To travel to/from constituency and Ottawa,2021/12/03,Ottawa,Toronto,,,,,,,
+T0222625,2021/12/05,2021/12/11,,,,,,,999.5100,487.3500,505.5800,1.0000,0,0,1992.44
+T0222625,2021/12/05,2021/12/11,"Vuong, Kevin",Member,To travel to/from constituency and Ottawa,2021/12/06,Toronto,Ottawa,,,,,,,
+T0222625,2021/12/05,2021/12/11,"Vuong, Kevin",Member,To travel to/from constituency and Ottawa,2021/12/10,Ottawa,Toronto,,,,,,,
+T0222628,2021/12/12,2021/12/14,,,,,,,1056.4900,119.6200,202.2300,1.0000,0,0,1378.34
+T0222628,2021/12/12,2021/12/14,"Vuong, Kevin",Member,To travel to/from constituency and Ottawa,2021/12/13,Toronto,Ottawa,,,,,,,
+T0222628,2021/12/12,2021/12/14,"Vuong, Kevin",Member,To travel to/from constituency and Ottawa,2021/12/14,Ottawa,Toronto,,,,,,,
+T0222632,2022/01/30,2022/02/05,,,,,,,1130.0900,667.3600,486.5200,1.0000,0,0,2283.97
+T0222632,2022/01/30,2022/02/05,"Vuong, Kevin",Member,To travel to/from constituency and Ottawa,2022/01/30,Toronto,Ottawa,,,,,,,
+T0222632,2022/01/30,2022/02/05,"Vuong, Kevin",Member,To travel to/from constituency and Ottawa,2022/02/03,Ottawa,Toronto,,,,,,,
+T0222633,2022/02/04,2022/02/04,,,,,,,37.8300,0.0000,0.0000,0.0000,0,0,37.83
+T0222633,2022/02/04,2022/02/04,"Vuong, Kevin",Member,To attend an event as a guest speaker,2022/02/04,Toronto,Toronto,,,,,,,
+T0222633,2022/02/04,2022/02/04,"Vuong, Kevin",Member,To attend an event as a guest speaker,2022/02/04,Toronto,Toronto,,,,,,,
+T0223383,2022/02/20,2022/02/21,,,,,,,1324.3500,166.8400,202.2300,1.0000,0,0,1693.42
+T0223383,2022/02/20,2022/02/21,"Vuong, Kevin",Member,To travel to/from constituency and Ottawa,2022/02/21,Ottawa,Toronto,,,,,,,
+T0223383,2022/02/20,2022/02/21,,Designated Traveller,To travel to/from constituency and Ottawa,2022/02/21,Ottawa,Toronto,,,,,,,
+T0223536,2022/02/20,2022/02/26,,,,,,,336.6000,0.0000,299.9600,0.5000,1.0000,0,636.56
+T0223536,2022/02/20,2022/02/26,"Bradbury, Glenn",Employee,To attend meetings about constituency issues,2022/02/23,Gananoque,Toronto,,,,,,,
+T0223536,2022/02/20,2022/02/26,"Bradbury, Glenn",Employee,To attend meetings about constituency issues,2022/02/23,Ottawa,Gananoque,,,,,,,
+T0223536,2022/02/20,2022/02/26,"Bradbury, Glenn",Employee,To travel to/from constituency and Ottawa,2022/02/26,Toronto,Ottawa,,,,,,,
+T0225462,2022/02/23,2022/02/26,,,,,,,666.0400,0.0000,280.8900,1.0000,0,0,946.93
+T0225462,2022/02/23,2022/02/26,"Morin, Breana",Employee,To travel to/from constituency and Ottawa,2022/02/23,Ottawa,Toronto,,,,,,,
+T0225462,2022/02/23,2022/02/26,"Morin, Breana",Employee,To travel to/from constituency and Ottawa,2022/02/26,Toronto,Ottawa,,,,,,,
+T0226346,2022/03/21,2022/03/24,,,,,,,643.6500,0.0000,404.4600,1.0000,0,0,1048.11
+T0226346,2022/03/21,2022/03/24,"Sajjad, Zara",Employee,To travel to/from constituency and Ottawa,2022/03/21,Toronto,Ottawa,,,,,,,
+T0226285,2022/03/21,2022/03/24,,,,,,,720.5300,0.0000,209.6900,1.0000,0,0,930.22
+T0226285,2022/03/21,2022/03/24,"Fung, Kim-Fung Carol",Employee,To travel to/from constituency and Ottawa,2022/03/21,Toronto,Ottawa,,,,,,,
+T0226346,2022/03/21,2022/03/24,"Sajjad, Zara",Employee,To travel to/from constituency and Ottawa,2022/03/24,Ottawa,Toronto,,,,,,,
+T0226285,2022/03/21,2022/03/24,"Fung, Kim-Fung Carol",Employee,To travel to/from constituency and Ottawa,2022/03/24,Ottawa,Toronto,,,,,,,

@@ -1,0 +1,43 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0221801,2021/11/15,2021/11/27,,,,,,,1447.1300,1906.2900,992.1000,2.0000,0,0,4345.52
+T0221801,2021/11/15,2021/11/27,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2021/11/15,Dunnville,Ottawa,,,,,,,
+T0221801,2021/11/15,2021/11/27,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2021/11/20,Ottawa,Dunnville,,,,,,,
+T0221801,2021/11/15,2021/11/27,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2021/11/21,Dunnville,Ottawa,,,,,,,
+T0221801,2021/11/15,2021/11/27,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2021/11/27,Ottawa,Dunnville,,,,,,,
+T0221816,2021/11/29,2021/12/03,,,,,,,860.5900,598.1000,505.5800,1.0000,0,0,1964.27
+T0221816,2021/11/29,2021/12/03,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2021/11/29,Dunnville,Ottawa,,,,,,,
+T0221816,2021/11/29,2021/12/03,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2021/12/03,Ottawa,Dunnville,,,,,,,
+T0222780,2021/12/05,2021/12/10,,,,,,,832.8500,620.9200,505.5800,1.0000,0,0,1959.35
+T0222780,2021/12/05,2021/12/10,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2021/12/05,Dunnville,Ottawa,,,,,,,
+T0222780,2021/12/05,2021/12/10,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2021/12/10,Ottawa,Dunnville,,,,,,,
+T0223463,2021/12/10,2022/02/28,,,,,,,0.0000,6774.1900,0.0000,0,0,0,6774.19
+T0223463,2021/12/10,2022/02/28,"Lewis, Leslyn",Member,Secondary Residence,2022/01/01,Ottawa,Ottawa,,,,,,,
+T0223463,2021/12/10,2022/02/28,"Lewis, Leslyn",Member,Secondary Residence,2021/12/10,Ottawa,Ottawa,,,,,,,
+T0223463,2021/12/10,2022/02/28,"Lewis, Leslyn",Member,Secondary Residence,2022/02/01,Ottawa,Ottawa,,,,,,,
+T0225962,2021/12/13,2022/01/07,,,,,,,22.7600,0.0000,0.0000,0.0000,0,0,22.76
+T0225962,2021/12/13,2022/01/07,"Loshaw, Melissa",Employee,To conduct constituency office business,2021/12/13,Simcoe,Jarvis,,,,,,,
+T0225962,2021/12/13,2022/01/07,"Loshaw, Melissa",Employee,To conduct constituency office business,2021/12/13,Jarvis,Simcoe,,,,,,,
+T0225962,2021/12/13,2022/01/07,"Loshaw, Melissa",Employee,To conduct constituency office business,2022/01/07,Simcoe,Simcoe,,,,,,,
+T0225962,2021/12/13,2022/01/07,"Loshaw, Melissa",Employee,To conduct constituency office business,2022/01/07,Simcoe,Simcoe,,,,,,,
+T0223029,2021/12/13,2022/02/11,,,,,,,1691.7000,0.0000,1516.7400,3.0000,0,0,3208.44
+T0223029,2021/12/13,2022/02/11,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2021/12/13,Dunnville,Ottawa,,,,,,,
+T0223029,2021/12/13,2022/02/11,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2021/12/17,Ottawa,Dunnville,,,,,,,
+T0223029,2021/12/13,2022/02/11,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2022/01/30,Dunnville,Ottawa,,,,,,,
+T0223029,2021/12/13,2022/02/11,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2022/02/04,Ottawa,Dunnville,,,,,,,
+T0223029,2021/12/13,2022/02/11,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2022/02/06,Dunnville,Ottawa,,,,,,,
+T0223029,2021/12/13,2022/02/11,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2022/02/11,Ottawa,Dunnville,,,,,,,
+T0223296,2022/02/13,2022/02/22,,,,,,,562.9200,0.0000,808.9300,1.0000,0,0,1371.85
+T0223296,2022/02/13,2022/02/22,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2022/02/13,Dunnville,Ottawa,,,,,,,
+T0223296,2022/02/13,2022/02/22,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2022/02/22,Ottawa,Dunnville,,,,,,,
+T0225388,2022/02/27,2022/03/04,,,,,,,563.9000,0.0000,505.5800,1.0000,0,0,1069.48
+T0225388,2022/02/27,2022/03/04,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2022/02/27,Dunnville,Ottawa,,,,,,,
+T0225388,2022/02/27,2022/03/04,"Lewis, Leslyn",Member,To travel to/from constituency and Ottawa,2022/03/04,Ottawa,Dunnville,,,,,,,
+T0226519,2022/03/01,2022/03/31,,,,,,,0.0000,76.6900,0.0000,0,0,0,76.69
+T0226519,2022/03/01,2022/03/31,"Lewis, Leslyn",Member,Secondary Residence,2022/03/01,Ottawa,Ottawa,,,,,,,
+T0226519,2022/03/01,2022/03/31,"Lewis, Leslyn",Member,Secondary Residence,2022/03/01,Ottawa,Ottawa,,,,,,,
+T0225425,2022/03/02,2022/03/04,,,,,,,745.2200,0.0000,0.0000,1.0000,0,0,745.22
+T0225425,2022/03/02,2022/03/04,,Designated Traveller,To travel to/from constituency and Ottawa,2022/03/02,Dunnville,Ottawa,,,,,,,
+T0225425,2022/03/02,2022/03/04,,Designated Traveller,To travel to/from constituency and Ottawa,2022/03/04,Ottawa,Dunnville,,,,,,,
+T0225606,2022/03/18,2022/03/18,,,,,,,49.4600,0.0000,0.0000,0.0000,0,0,49.46
+T0225606,2022/03/18,2022/03/18,"Lewis, Leslyn",Member,To attend an event as a guest speaker,2022/03/18,Dunnville,Port Dover,,,,,,,
+T0225606,2022/03/18,2022/03/18,"Lewis, Leslyn",Member,To attend an event as a guest speaker,2022/03/18,Port Dover,Dunnville,,,,,,,

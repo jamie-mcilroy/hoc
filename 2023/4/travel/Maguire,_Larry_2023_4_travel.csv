@@ -1,0 +1,48 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0241580,2022/12/01,2022/12/03,,,,,,,1770.6700,0.0000,0.0000,1.0000,0,0,1770.67
+T0241580,2022/12/01,2022/12/03,"Maguire, Larry",Member,To travel to/from constituency and Ottawa,2022/12/01,Ottawa,Winnipeg,,,,,,,
+T0241580,2022/12/01,2022/12/03,"Maguire, Larry",Member,To travel to/from constituency and Ottawa,2022/12/03,Winnipeg,Ottawa,,,,,,,
+T0244038,2022/12/16,2023/01/25,,,,,,,1612.6600,169.1200,0.0000,1.0000,0,0,1781.78
+T0244038,2022/12/16,2023/01/25,"Maguire, Larry",Member,To travel to/from constituency and Ottawa,2022/12/16,Ottawa,Winnipeg,,,,,,,
+T0244038,2022/12/16,2023/01/25,"Maguire, Larry",Member,To travel to/from constituency and Ottawa,2023/01/25,Winnipeg,Ottawa,,,,,,,
+T0242910,2022/12/19,2022/12/27,,,,,,,1526.7800,109.5000,383.5600,1.0000,0,0,2019.84
+T0242910,2022/12/19,2022/12/27,"Ostash, Drew",Employee,To travel to/from constituency and Ottawa,2022/12/19,Ottawa,Winnipeg,,,,,,,
+T0242910,2022/12/19,2022/12/27,"Ostash, Drew",Employee,To travel to/from constituency and Ottawa,2022/12/27,Winnipeg,Ottawa,,,,,,,
+T0242910,2022/12/19,2022/12/27,"Ostash, Drew",Employee,To attend a constituency or community event,2022/12/20,Winnipeg,Shoal Lake,,,,,,,
+T0242830,2022/12/19,2023/01/02,,,,,,,4003.3700,109.5000,375.7200,2.0000,0,0,4488.59
+T0242830,2022/12/19,2023/01/02,"Cottingham, Levi",Employee,To travel to/from constituency and Ottawa,2022/12/19,Ottawa,Brandon,,,,,,,
+T0242830,2022/12/19,2023/01/02,"Bredin, David",Employee,To travel to/from constituency and Ottawa,2022/12/19,Ottawa,Winnipeg,,,,,,,
+T0242830,2022/12/19,2023/01/02,"Cottingham, Levi",Employee,To travel to/from constituency and Ottawa,2023/01/02,Brandon,Ottawa,,,,,,,
+T0242830,2022/12/19,2023/01/02,"Bredin, David",Employee,To travel to/from constituency and Ottawa,2022/12/29,Winnipeg,Ottawa,,,,,,,
+T0247681,2023/01/12,2023/01/20,,,,,,,1003.8000,0.0000,0.0000,1.0000,0,0,1003.80
+T0247681,2023/01/12,2023/01/20,"Ostash, Drew",Employee,To travel to/from constituency and Ottawa,2023/01/12,Ottawa,Winnipeg,,,,,,,
+T0243742,2023/01/12,2023/01/20,,,,,,,733.9100,0.0000,393.2200,1.0000,0,0,1127.13
+T0243742,2023/01/12,2023/01/20,"Ostash, Drew",Employee,To travel to/from constituency and Ottawa,2023/01/12,Ottawa,Winnipeg,,,,,,,
+T0247681,2023/01/12,2023/01/20,"Ostash, Drew",Employee,To travel to/from constituency and Ottawa,2023/01/20,Winnipeg,Ottawa,,,,,,,
+T0243742,2023/01/12,2023/01/20,"Ostash, Drew",Employee,To travel to/from constituency and Ottawa,2023/01/20,Winnipeg,Ottawa,,,,,,,
+T0244365,2023/01/24,2023/01/27,,,,,,,1299.0200,500.5200,488.1400,1.0000,0,0,2287.68
+T0244365,2023/01/24,2023/01/27,"Grant, David",Employee,To travel to/from constituency and Ottawa,2023/01/24,Winnipeg,Ottawa,,,,,,,
+T0244365,2023/01/24,2023/01/27,"Grant, David",Employee,To travel to/from constituency and Ottawa,2023/01/27,Ottawa,Winnipeg,,,,,,,
+200643221,2023/02/01,2023/02/28,,,,,,,0.0000,1908.5800,0.0000,0,0,0,1908.58
+200643221,2023/02/01,2023/02/28,"Maguire, Larry",Member,Secondary Residence,2023/02/01,OTTAWA,OTTAWA,,,,,,,
+T0244998,2023/02/02,2023/02/05,,,,,,,2051.6500,0.0000,0.0000,1.0000,0,0,2051.65
+T0244998,2023/02/02,2023/02/05,"Maguire, Larry",Member,To travel to/from constituency and Ottawa,2023/02/02,Ottawa,Winnipeg,,,,,,,
+T0244998,2023/02/02,2023/02/05,"Maguire, Larry",Member,To travel to/from constituency and Ottawa,2023/02/05,Winnipeg,Ottawa,,,,,,,
+T0247854,2023/02/09,2023/02/12,,,,,,,1813.5600,0.0000,0.0000,1.0000,0,0,1813.56
+T0247854,2023/02/09,2023/02/12,"Maguire, Larry",Member,To travel to/from constituency and Ottawa,2023/02/09,Ottawa,Winnipeg,,,,,,,
+T0247854,2023/02/09,2023/02/12,"Maguire, Larry",Member,To travel to/from constituency and Ottawa,2023/02/12,Winnipeg,Ottawa,,,,,,,
+T0246094,2023/02/15,2023/02/24,,,,,,,1086.9500,261.5600,449.4700,1.0000,0,0,1797.98
+T0246094,2023/02/15,2023/02/24,"Cottingham, Levi",Employee,To travel to/from constituency and Ottawa,2023/02/15,Ottawa,Winnipeg,,,,,,,
+T0246094,2023/02/15,2023/02/24,"Cottingham, Levi",Employee,To travel to/from constituency and Ottawa,2023/02/24,Winnipeg,Ottawa,,,,,,,
+T0246479,2023/02/17,2023/03/05,,,,,,,2002.9800,0.0000,0.0000,1.0000,0,0,2002.98
+T0246479,2023/02/17,2023/03/05,"Maguire, Larry",Member,To travel to/from constituency and Ottawa,2023/02/17,Ottawa,Winnipeg,,,,,,,
+T0246479,2023/02/17,2023/03/05,"Maguire, Larry",Member,To travel to/from constituency and Ottawa,2023/03/03,Winnipeg,Ottawa,,,,,,,
+T0246481,2023/02/23,2023/02/28,,,,,,,1700.1100,0.0000,175.1000,1.0000,0.0000,0,1875.21
+T0246481,2023/02/23,2023/02/28,"Ostash, Drew",Employee,To travel to/from constituency and Ottawa,2023/02/23,Ottawa,Winnipeg,,,,,,,
+T0246481,2023/02/23,2023/02/28,"Ostash, Drew",Employee,To travel to/from constituency and Ottawa,2023/02/28,Winnipeg,Ottawa,,,,,,,
+T0246481,2023/02/23,2023/02/28,"Ostash, Drew",Employee,To attend meetings about constituency issues,2023/02/24,Shoal Lake,Brandon,,,,,,,
+200653012,2023/03/01,2023/03/31,,,,,,,0.0000,1908.5800,0.0000,0,0,0,1908.58
+200653012,2023/03/01,2023/03/31,"Maguire, Larry",Member,Secondary Residence,2023/03/01,OTTAWA,OTTAWA,,,,,,,
+T0247677,2023/03/10,2023/03/19,,,,,,,1869.8800,0.0000,0.0000,1.0000,0,0,1869.88
+T0247677,2023/03/10,2023/03/19,"Maguire, Larry",Member,To travel to/from constituency and Ottawa,2023/03/10,Ottawa,Winnipeg,,,,,,,
+T0247677,2023/03/10,2023/03/19,"Maguire, Larry",Member,To travel to/from constituency and Ottawa,2023/03/19,Winnipeg,Ottawa,,,,,,,

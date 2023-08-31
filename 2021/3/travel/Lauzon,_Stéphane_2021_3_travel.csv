@@ -1,0 +1,6 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0208201,2020/11/09,2020/11/16,,,,,,,92.0000,0.0000,0.0000,0.0000,0,0,92.00
+T0208201,2020/11/09,2020/11/16,"Jutras, Timmy",Employee,Attending event with Member,2020/11/09,Gatineau,Notre-Dame-de-la-Paix,,,,,,,
+T0208201,2020/11/09,2020/11/16,"Jutras, Timmy",Employee,Attending event with Member,2020/11/09,Notre-Dame-de-la-Paix,Gatineau,,,,,,,
+T0208201,2020/11/09,2020/11/16,"Jutras, Timmy",Employee,Attending event with Member,2020/11/16,Gatineau,Montebello,,,,,,,
+T0208201,2020/11/09,2020/11/16,"Jutras, Timmy",Employee,Attending event with Member,2020/11/16,Montebello,Gatineau,,,,,,,

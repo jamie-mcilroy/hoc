@@ -1,0 +1,61 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0206141,2020/09/06,2020/11/01,,,,,,,0.0000,83.1900,0.0000,0,0,0,83.19
+T0206141,2020/09/06,2020/11/01,"Yurdiga, David",Member,Secondary Residence,2020/09/06,Ottawa,Ottawa,,,,,,,
+T0205397,2020/09/13,2020/09/27,,,,,,,875.0800,471.6300,321.6900,0,0.0000,0,1668.40
+T0205397,2020/09/13,2020/09/27,"Yurdiga, David",Member,To attend meetings about constituency issues,2020/09/13,Grassland,Hylo,,,,,,,
+T0205397,2020/09/13,2020/09/27,"Yurdiga, David",Member,To attend meetings about constituency issues,2020/09/21,Fort McMurray,Grassland,,,,,,,
+T0205397,2020/09/13,2020/09/27,"Yurdiga, David",Member,To attend a constituency or community event,2020/09/26,Grassland,Fort McMurray,,,,,,,
+T0205397,2020/09/13,2020/09/27,"Yurdiga, David",Member,To attend a constituency or community event,2020/09/27,Fort McMurray,Grassland,,,,,,,
+T0205397,2020/09/13,2020/09/27,"Yurdiga, David",Member,To attend meetings about constituency issues,2020/09/13,Hylo,Grassland,,,,,,,
+T0205397,2020/09/13,2020/09/27,"Yurdiga, David",Member,To attend meetings about constituency issues,2020/09/15,Grassland,Lac la Biche,,,,,,,
+T0205397,2020/09/13,2020/09/27,"Yurdiga, David",Member,To attend meetings about constituency issues,2020/09/15,Lac la Biche,Grassland,,,,,,,
+T0205397,2020/09/13,2020/09/27,"Yurdiga, David",Member,To attend meetings about constituency issues,2020/09/16,Grassland,Cold Lake,,,,,,,
+T0205397,2020/09/13,2020/09/27,"Yurdiga, David",Member,To attend meetings about constituency issues,2020/09/16,Cold Lake,Grassland,,,,,,,
+T0205397,2020/09/13,2020/09/27,"Yurdiga, David",Member,To attend a constituency or community event,2020/09/18,Grassland,Lac la Biche,,,,,,,
+T0205397,2020/09/13,2020/09/27,"Yurdiga, David",Member,To attend a constituency or community event,2020/09/18,Lac la Biche,Grassland,,,,,,,
+T0205397,2020/09/13,2020/09/27,"Yurdiga, David",Member,To attend meetings about constituency issues,2020/09/19,Grassland,Fort McMurray,,,,,,,
+T0205396,2020/09/18,2020/09/21,,,,,,,1231.6200,355.2700,334.2300,1.0000,0,0,1921.12
+T0205396,2020/09/18,2020/09/21,"Ositashvili, Richard",Employee,To travel to/from constituency and Ottawa,2020/09/18,Ottawa,Fort McMurray,,,,,,,
+T0205396,2020/09/18,2020/09/21,"Ositashvili, Richard",Employee,To travel to/from constituency and Ottawa,2020/09/21,Fort McMurray,Ottawa,,,,,,,
+T0206140,2020/10/02,2020/10/08,,,,,,,2617.6800,0.0000,0.0000,1.0000,0,0,2617.68
+T0206140,2020/10/02,2020/10/08,,Designated Traveller,To unite the family with the Member,2020/10/02,Athabasca County,Ottawa,,,,,,,
+T0206092,2020/10/02,2020/10/08,,,,,,,3079.5300,157.2100,415.7100,1.0000,0,0,3652.45
+T0206092,2020/10/02,2020/10/08,"Yurdiga, David",Member,To travel to/from constituency and Ottawa,2020/10/02,Athabasca County,Ottawa,,,,,,,
+T0206140,2020/10/02,2020/10/08,,Designated Traveller,To unite the family with the Member,2020/10/08,Ottawa,Fort McMurray,,,,,,,
+T0206092,2020/10/02,2020/10/08,"Yurdiga, David",Member,To travel to/from constituency and Ottawa,2020/10/08,Ottawa,Athabasca County,,,,,,,
+T0206484,2020/10/14,2020/10/20,,,,,,,306.7600,0.0000,56.8700,0,0.0000,0,363.63
+T0206484,2020/10/14,2020/10/20,"Yurdiga, David",Member,To attend meetings about constituency issues,2020/10/14,Grassland,Lac la Biche,,,,,,,
+T0206484,2020/10/14,2020/10/20,"Yurdiga, David",Member,To attend meetings about constituency issues,2020/10/14,Lac la Biche,Grassland,,,,,,,
+T0206484,2020/10/14,2020/10/20,"Yurdiga, David",Member,To attend a constituency or community event,2020/10/20,Grassland,Fort McMurray,,,,,,,
+T0206484,2020/10/14,2020/10/20,"Yurdiga, David",Member,To attend a constituency or community event,2020/10/20,Fort McMurray,Grassland,,,,,,,
+T0206931,2020/10/28,2020/10/31,,,,,,,128.7400,471.6300,89.9000,0,0.0000,0,690.27
+T0206931,2020/10/28,2020/10/31,"Yurdiga, David",Member,To attend meetings about constituency issues,2020/10/28,Grassland,Fort McMurray,,,,,,,
+T0207060,2020/10/31,2020/11/06,,,,,,,2678.0300,0.0000,502.2500,1.0000,0,0,3180.28
+T0207060,2020/10/31,2020/11/06,"Yurdiga, David",Member,To travel to/from constituency and Ottawa,2020/10/31,Fort McMurray,Ottawa,,,,,,,
+T0207061,2020/10/31,2020/11/06,,,,,,,2334.2900,0.0000,0.0000,1.0000,0,0,2334.29
+T0207061,2020/10/31,2020/11/06,,Designated Traveller,To unite the family with the Member,2020/10/31,Fort McMurray,Ottawa,,,,,,,
+T0207061,2020/10/31,2020/11/06,,Designated Traveller,To unite the family with the Member,2020/11/06,Ottawa,Athabasca County,,,,,,,
+T0207060,2020/10/31,2020/11/06,"Yurdiga, David",Member,To travel to/from constituency and Ottawa,2020/11/06,Ottawa,Athabasca County,,,,,,,
+200449116,2020/11/01,2020/11/30,,,,,,,0.0000,1761.7500,0.0000,0,0,0,1761.75
+200449116,2020/11/01,2020/11/30,"Yurdiga, David",Member,Secondary Residence,2020/11/01,OTTAWA,OTTAWA,,,,,,,
+T0207304,2020/11/10,2020/11/13,,,,,,,306.7600,157.2100,106.5400,0,0.0000,0,570.51
+T0207304,2020/11/10,2020/11/13,"Yurdiga, David",Member,To attend a constituency or community event,2020/11/10,Grassland,Fort McMurray,,,,,,,
+T0207304,2020/11/10,2020/11/13,"Yurdiga, David",Member,To attend a constituency or community event,2020/11/11,Fort McMurray,Grassland,,,,,,,
+T0207304,2020/11/10,2020/11/13,"Yurdiga, David",Member,To attend meetings about constituency issues,2020/11/13,Grassland,Lac la Biche,,,,,,,
+T0207304,2020/11/10,2020/11/13,"Yurdiga, David",Member,To attend meetings about constituency issues,2020/11/13,Lac la Biche,Grassland,,,,,,,
+T0207769,2020/11/21,2020/11/27,,,,,,,2297.1600,0.0000,0.0000,1.0000,0,0,2297.16
+T0207769,2020/11/21,2020/11/27,,Designated Traveller,To unite the family with the Member,2020/11/22,Fort McMurray,Ottawa,,,,,,,
+T0207768,2020/11/21,2020/11/27,,,,,,,2757.0000,157.2100,519.1200,1.0000,0,0,3433.33
+T0207768,2020/11/21,2020/11/27,"Yurdiga, David",Member,To travel to/from constituency and Ottawa,2020/11/21,Athabasca County,Ottawa,,,,,,,
+T0207769,2020/11/21,2020/11/27,,Designated Traveller,To unite the family with the Member,2020/11/27,Ottawa,Fort McMurray,,,,,,,
+T0207768,2020/11/21,2020/11/27,"Yurdiga, David",Member,To travel to/from constituency and Ottawa,2020/11/27,Ottawa,Athabasca County,,,,,,,
+200456020,2020/12/01,2020/12/31,,,,,,,0.0000,1761.7500,0.0000,0,0,0,1761.75
+200456020,2020/12/01,2020/12/31,"Yurdiga, David",Member,Secondary Residence,2020/12/01,OTTAWA,OTTAWA,,,,,,,
+T0208484,2020/12/08,2020/12/08,,,,,,,257.4800,0.0000,40.2400,0,0.0000,0,297.72
+T0208484,2020/12/08,2020/12/08,"DiMartino, Benjamin",Employee,To conduct constituency office business,2020/12/08,Fort McMurray,Grassland,,,,,,,
+T0208484,2020/12/08,2020/12/08,"DiMartino, Benjamin",Employee,To conduct constituency office business,2020/12/08,Grassland,Fort McMurray,,,,,,,
+T0208485,2020/12/09,2020/12/10,,,,,,,195.1200,72.3200,213.0800,0,0.0000,0,480.52
+T0208485,2020/12/09,2020/12/10,"Shott, Darryl",Employee,To conduct constituency office business,2020/12/09,Grassland,Cold Lake,,,,,,,
+T0208485,2020/12/09,2020/12/10,"Shott, Darryl",Employee,To conduct constituency office business,2020/12/10,Cold Lake,Grassland,,,,,,,
+200461707,2021/01/01,2021/01/31,,,,,,,0.0000,1761.7500,0.0000,0,0,0,1761.75
+200461707,2021/01/01,2021/01/31,"Yurdiga, David",Member,Secondary Residence,2021/01/01,OTTAWA,OTTAWA,,,,,,,

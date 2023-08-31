@@ -1,0 +1,74 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0231686,2022/05/12,2022/05/14,,,,,,,243.8400,0.0000,264.0500,1.0000,0,0,507.89
+T0231686,2022/05/12,2022/05/14,"Freire, Guillaume",Employee,To travel to/from constituency and Ottawa,2022/05/13,Ottawa,Joliette,,,,,,,
+T0231686,2022/05/12,2022/05/14,"Freire, Guillaume",Employee,To travel to/from constituency and Ottawa,2022/05/14,Joliette (MRC / RCM),Ottawa,,,,,,,
+T0231713,2022/05/16,2022/06/23,,,,,,,461.0200,0.0000,100.8100,0.0000,0.0000,0,561.83
+T0231713,2022/05/16,2022/06/23,"Freire, Guillaume",Employee,To attend a constituency or community event,2022/05/26,Saint-Donat (Matawinie),Montreal,,,,,,,
+T0231713,2022/05/16,2022/06/23,"Freire, Guillaume",Employee,To attend a constituency or community event,2022/06/23,Montreal,Saint-Donat (Matawinie),,,,,,,
+T0231713,2022/05/16,2022/06/23,"Freire, Guillaume",Employee,To attend a constituency or community event,2022/06/04,Ottawa,Montreal,,,,,,,
+T0231713,2022/05/16,2022/06/23,"Freire, Guillaume",Employee,To attend a constituency or community event,2022/06/23,Montreal,Ottawa,,,,,,,
+T0231713,2022/05/16,2022/06/23,"Freire, Guillaume",Employee,Attending event with Member,2022/06/06,Saint-Donat (Matawinie),Saint-Thomas (Joliette),,,,,,,
+T0231713,2022/05/16,2022/06/23,"Freire, Guillaume",Employee,Attending event with Member,2022/06/23,Saint-Thomas (Joliette),Saint-Donat (Matawinie),,,,,,,
+T0231692,2022/05/20,2022/05/29,,,,,,,224.3300,0.0000,0.0000,1.0000,0,0,224.33
+T0231692,2022/05/20,2022/05/29,"Freire, Guillaume",Employee,To travel to/from constituency and Ottawa,2022/05/20,Ottawa,Saint-Donat (Matawinie),,,,,,,
+T0231692,2022/05/20,2022/05/29,"Freire, Guillaume",Employee,To travel to/from constituency and Ottawa,2022/05/29,Saint-Donat (Matawinie),Ottawa,,,,,,,
+T0231742,2022/06/14,2022/06/17,,,,,,,29.8600,0.0000,23.6800,0.0000,0.0000,0,53.54
+T0231742,2022/06/14,2022/06/17,"Lebeuf, Rémi",Employee,To represent the Member at an event,2022/06/14,Joliette,Sainte-Mélanie,,,,,,,
+T0231742,2022/06/14,2022/06/17,"Lebeuf, Rémi",Employee,To represent the Member at an event,2022/06/14,Sainte-Mélanie,Joliette,,,,,,,
+T0231742,2022/06/14,2022/06/17,"Lebeuf, Rémi",Employee,To represent the Member at an event,2022/06/17,Saint-Jacques,Saint-Jacques,,,,,,,
+T0231742,2022/06/14,2022/06/17,"Lebeuf, Rémi",Employee,To represent the Member at an event,2022/06/17,Saint-Jacques,Saint-Jacques,,,,,,,
+T0231205,2022/06/21,2022/06/23,,,,,,,238.9500,0.0000,186.9200,1.0000,0,0,425.87
+T0231205,2022/06/21,2022/06/23,"Ste-Marie, Gabriel",Member,To travel to/from constituency and Ottawa,2022/06/21,Joliette (Ville),Ottawa,,,,,,,
+T0231205,2022/06/21,2022/06/23,"Ste-Marie, Gabriel",Member,To travel to/from constituency and Ottawa,2022/06/23,Ottawa,Joliette (Ville),,,,,,,
+T0234315,2022/06/22,2022/06/23,,,,,,,238.9500,0.0000,0.0000,1.0000,0,0,238.95
+T0234315,2022/06/22,2022/06/23,"Dozois, Marie-Christine",Employee,To travel to/from constituency and Ottawa,2022/06/22,Joliette (Ville),Ottawa,,,,,,,
+T0234315,2022/06/22,2022/06/23,"Dozois, Marie-Christine",Employee,To travel to/from constituency and Ottawa,2022/06/23,Ottawa,Joliette (Ville),,,,,,,
+200582504,2022/07/01,2022/07/31,,,,,,,0.0000,1500.0000,0.0000,0,0,0,1500.00
+200582504,2022/07/01,2022/07/31,"Ste-Marie, Gabriel",Member,Secondary Residence,2022/07/01,GATINEAU,GATINEAU,,,,,,,
+T0233877,2022/07/14,2022/07/14,,,,,,,20.1000,0.0000,0.0000,0,0.0000,0,20.10
+T0233877,2022/07/14,2022/07/14,"Lebeuf, Rémi",Employee,To attend a constituency or community event,2022/07/14,Sainte-Julienne,Saint-Ambroise-de-Kildare,,,,,,,
+T0233877,2022/07/14,2022/07/14,"Lebeuf, Rémi",Employee,To attend a constituency or community event,2022/07/14,Saint-Ambroise-de-Kildare,Sainte-Julienne,,,,,,,
+T0233601,2022/07/20,2022/07/23,,,,,,,33.6600,0.0000,0.0000,0.0000,0.0000,0,33.66
+T0233601,2022/07/20,2022/07/23,"Aubry, Sarah",Employee,To represent the Member at an event,2022/07/20,Joliette,Notre-Dame-des-Prairies,,,,,,,
+T0233601,2022/07/20,2022/07/23,"Aubry, Sarah",Employee,To attend a constituency or community event,2022/07/23,Saint-Sulpice,Joliette,,,,,,,
+200590131,2022/08/01,2022/08/31,,,,,,,0.0000,1500.0000,0.0000,0,0,0,1500.00
+200590131,2022/08/01,2022/08/31,"Ste-Marie, Gabriel",Member,Secondary Residence,2022/08/01,GATINEAU,GATINEAU,,,,,,,
+T0233615,2022/08/06,2022/08/06,,,,,,,50.2400,0.0000,19.2900,0,0.0000,0,69.53
+T0233615,2022/08/06,2022/08/06,"Ricard, Simon",Employee,To attend a constituency or community event,2022/08/06,Terrebonne,Joliette,,,,,,,
+T0234049,2022/08/06,2022/08/06,,,,,,,193.9600,0.0000,100.8100,0,1.0000,0,294.77
+T0234049,2022/08/06,2022/08/06,"Ste-Marie, Gabriel",Member,To attend a constituency or community event,2022/08/06,Joliette (Ville),Manawan,,,,,,,
+T0233615,2022/08/06,2022/08/06,"Ricard, Simon",Employee,To attend a constituency or community event,2022/08/06,Joliette,Terrebonne,,,,,,,
+T0234049,2022/08/06,2022/08/06,"Ste-Marie, Gabriel",Member,To attend a constituency or community event,2022/08/06,Manawan,Joliette (Ville),,,,,,,
+T0233615,2022/08/06,2022/08/06,"Ricard, Simon",Employee,To attend a constituency or community event,2022/08/06,Joliette,Manawan,,,,,,,
+T0233615,2022/08/06,2022/08/06,"Ricard, Simon",Employee,To attend a constituency or community event,2022/08/06,Manawan,Joliette,,,,,,,
+T0234050,2022/08/18,2022/08/18,,,,,,,30.1400,0.0000,0.0000,0,0.0000,0,30.14
+T0234050,2022/08/18,2022/08/18,"Ste-Marie, Gabriel",Member,To travel to/from constituency and Ottawa,2022/08/18,Joliette (Ville),Saint-Jacques,,,,,,,
+T0234050,2022/08/18,2022/08/18,"Ste-Marie, Gabriel",Member,To travel to/from constituency and Ottawa,2022/08/18,Saint-Jacques,Joliette (Ville),,,,,,,
+T0234051,2022/08/19,2022/08/19,,,,,,,42.2000,0.0000,47.3800,0.0000,0,0,89.58
+T0234051,2022/08/19,2022/08/19,"Ste-Marie, Gabriel",Member,To attend a constituency or community event,2022/08/19,Joliette,Rawdon,,,,,,,
+T0234051,2022/08/19,2022/08/19,"Ste-Marie, Gabriel",Member,To attend a constituency or community event,2022/08/19,Rawdon,Joliette,,,,,,,
+200600163,2022/09/01,2022/09/30,,,,,,,0.0000,1500.0000,0.0000,0,0,0,1500.00
+200600163,2022/09/01,2022/09/30,"Ste-Marie, Gabriel",Member,Secondary Residence,2022/09/01,GATINEAU,GATINEAU,,,,,,,
+T0234977,2022/09/09,2022/09/10,,,,,,,93.4800,0.0000,0.0000,0.0000,0.0000,0,93.48
+T0234977,2022/09/09,2022/09/10,"Ste-Marie, Gabriel",Member,To attend a constituency or community event,2022/09/09,Joliette (Ville),Repentigny,,,,,,,
+T0234977,2022/09/09,2022/09/10,"Ste-Marie, Gabriel",Member,To attend a constituency or community event,2022/09/09,Repentigny,Joliette (Ville),,,,,,,
+T0234977,2022/09/09,2022/09/10,"Ste-Marie, Gabriel",Member,To attend a constituency or community event,2022/09/10,Joliette (Ville),Saint-Jacques,,,,,,,
+T0234977,2022/09/09,2022/09/10,"Ste-Marie, Gabriel",Member,To attend a constituency or community event,2022/09/10,Saint-Jacques,Joliette (Ville),,,,,,,
+T0234977,2022/09/09,2022/09/10,"Ste-Marie, Gabriel",Member,To attend a constituency or community event,2022/09/10,Joliette (Ville),Rawdon,,,,,,,
+T0234977,2022/09/09,2022/09/10,"Ste-Marie, Gabriel",Member,To attend a constituency or community event,2022/09/10,Rawdon,Joliette (Ville),,,,,,,
+T0235188,2022/09/13,2022/09/13,,,,,,,52.2600,0.0000,19.2900,0,0.0000,0,71.55
+T0235188,2022/09/13,2022/09/13,"Ste-Marie, Gabriel",Member,To attend meetings with stakeholders about business of the House,2022/09/13,Joliette (Ville),Terrebonne,,,,,,,
+T0235188,2022/09/13,2022/09/13,"Ste-Marie, Gabriel",Member,To attend meetings with stakeholders about business of the House,2022/09/13,Terrebonne,Joliette (Ville),,,,,,,
+T0235284,2022/09/14,2022/09/15,,,,,,,348.7900,0.0000,186.9200,1.0000,1.0000,0,535.71
+T0235284,2022/09/14,2022/09/15,"Ste-Marie, Gabriel",Member,To attend a national caucus meeting,2022/09/14,Joliette (Ville),Oka,,,,,,,
+T0235284,2022/09/14,2022/09/15,"Ste-Marie, Gabriel",Member,To attend a national caucus meeting,2022/09/14,Oka,Joliette (Ville),,,,,,,
+T0235284,2022/09/14,2022/09/15,"Ste-Marie, Gabriel",Member,To travel to/from constituency and Ottawa,2022/09/15,Joliette (Ville),Ottawa,,,,,,,
+T0235284,2022/09/14,2022/09/15,"Ste-Marie, Gabriel",Member,To travel to/from constituency and Ottawa,2022/09/15,Ottawa,Joliette (Ville),,,,,,,
+T0235356,2022/09/17,2022/09/17,,,,,,,61.3200,0.0000,34.3500,0.0000,0,0,95.67
+T0235356,2022/09/17,2022/09/17,"Ste-Marie, Gabriel",Member,To attend a constituency or community event,2022/09/17,Joliette,Chertsey,,,,,,,
+T0235356,2022/09/17,2022/09/17,"Ste-Marie, Gabriel",Member,To attend a constituency or community event,2022/09/17,Chertsey,Joliette,,,,,,,
+T0235877,2022/09/20,2022/09/23,,,,,,,249.3100,0.0000,290.2700,1.0000,0,0,539.58
+T0235877,2022/09/20,2022/09/23,"Ste-Marie, Gabriel",Member,To travel to/from constituency and Ottawa,2022/09/20,Joliette (Ville),Ottawa,,,,,,,
+T0235877,2022/09/20,2022/09/23,"Ste-Marie, Gabriel",Member,To travel to/from constituency and Ottawa,2022/09/23,Ottawa,Joliette (Ville),,,,,,,
+200607453,2022/10/01,2022/10/31,,,,,,,0.0000,1500.0000,0.0000,0,0,0,1500.00
+200607453,2022/10/01,2022/10/31,"Ste-Marie, Gabriel",Member,Secondary Residence,2022/10/01,GATINEAU,GATINEAU,,,,,,,

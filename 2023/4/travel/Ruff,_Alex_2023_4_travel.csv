@@ -1,0 +1,74 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+200647245,2022/10/01,2022/12/31,,,,,,,225.0000,0.0000,0.0000,0,0,0,225.00
+200647245,2022/10/01,2022/12/31,"Ruff, Alex",Member,Maple Leaf Lounge,2022/10/01,,,,,,,,,
+T0242788,2022/12/01,2022/12/31,,,,,,,0.0000,1450.0000,0.0000,0,0,0,1450.00
+T0242788,2022/12/01,2022/12/31,"Ruff, Alex",Member,Secondary Residence,2022/12/01,Ottawa,Ottawa,,,,,,,
+T0243315,2022/12/08,2023/01/07,,,,,,,0.0000,91.9900,0.0000,0,0,0,91.99
+T0243315,2022/12/08,2023/01/07,"Ruff, Alex",Member,Secondary Residence,2022/12/08,Ottawa,Ottawa,,,,,,,
+T0242150,2022/12/18,2022/12/20,,,,,,,1112.8300,0.0000,203.0800,1.5000,0,0,1315.91
+T0242150,2022/12/18,2022/12/20,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2022/12/18,Tara,Ottawa,,,,,,,
+T0242150,2022/12/18,2022/12/20,,Dependant,To unite the family with the Member,2022/12/18,Tara,Ottawa,,,,,,,
+T0242150,2022/12/18,2022/12/20,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2022/12/20,Ottawa,Tara,,,,,,,
+T0242150,2022/12/18,2022/12/20,,Dependant,To unite the family with the Member,2022/12/20,Ottawa,Tara,,,,,,,
+T0242745,2022/12/26,2022/12/28,,,,,,,581.2600,0.0000,173.1200,1.0000,0,0,754.38
+T0242745,2022/12/26,2022/12/28,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2022/12/26,Tara,Ottawa,,,,,,,
+T0242745,2022/12/26,2022/12/28,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2022/12/28,Ottawa,Tara,,,,,,,
+T0243084,2022/12/30,2023/01/06,,,,,,,127.1300,0.0000,0.0000,0.0000,0.0000,0,127.13
+T0243084,2022/12/30,2023/01/06,"Bruce, Cameron",Employee,To attend a constituency or community event,2022/12/30,Owen Sound,Shallow Lake,,,,,,,
+T0243084,2022/12/30,2023/01/06,"Bruce, Cameron",Employee,To attend a constituency or community event,2022/12/30,Shallow Lake,Owen Sound,,,,,,,
+T0243084,2022/12/30,2023/01/06,"Bruce, Cameron",Employee,To attend a constituency or community event,2023/01/05,Owen Sound,Meaford,,,,,,,
+T0243084,2022/12/30,2023/01/06,"Bruce, Cameron",Employee,To attend a constituency or community event,2023/01/05,Meaford,Owen Sound,,,,,,,
+T0243084,2022/12/30,2023/01/06,"Bruce, Cameron",Employee,To attend a constituency or community event,2023/01/06,Owen Sound,Hanover,,,,,,,
+T0243084,2022/12/30,2023/01/06,"Bruce, Cameron",Employee,To attend a constituency or community event,2023/01/06,Hanover,Flesherton,,,,,,,
+T0243084,2022/12/30,2023/01/06,"Bruce, Cameron",Employee,To attend a constituency or community event,2023/01/06,Flesherton,Owen Sound,,,,,,,
+T0243665,2022/12/30,2023/01/19,,,,,,,307.5100,0.0000,0.0000,0.0000,0.0000,0,307.51
+T0243665,2022/12/30,2023/01/19,"Ruff, Alex",Member,To attend a constituency or community event,2022/12/30,Owen Sound,Shallow Lake,,,,,,,
+T0243665,2022/12/30,2023/01/19,"Ruff, Alex",Member,To attend a constituency or community event,2023/01/19,Owen Sound,Markdale,,,,,,,
+T0243665,2022/12/30,2023/01/19,"Ruff, Alex",Member,To attend a constituency or community event,2023/01/19,Markdale,Owen Sound,,,,,,,
+T0243665,2022/12/30,2023/01/19,"Ruff, Alex",Member,To attend a constituency or community event,2022/12/30,Shallow Lake,Owen Sound,,,,,,,
+T0243665,2022/12/30,2023/01/19,"Ruff, Alex",Member,To attend a constituency or community event,2023/01/05,Owen Sound,Meaford,,,,,,,
+T0243665,2022/12/30,2023/01/19,"Ruff, Alex",Member,To attend a constituency or community event,2023/01/05,Meaford,Owen Sound,,,,,,,
+T0243665,2022/12/30,2023/01/19,"Ruff, Alex",Member,To attend a constituency or community event,2023/01/06,Owen Sound,Hanover,,,,,,,
+T0243665,2022/12/30,2023/01/19,"Ruff, Alex",Member,To attend a constituency or community event,2023/01/06,Hanover,Flesherton,,,,,,,
+T0243665,2022/12/30,2023/01/19,"Ruff, Alex",Member,To attend a constituency or community event,2023/01/06,Flesherton,Owen Sound,,,,,,,
+T0243665,2022/12/30,2023/01/19,"Ruff, Alex",Member,To attend a constituency or community event,2023/01/19,Owen Sound,Tobermory,,,,,,,
+T0243665,2022/12/30,2023/01/19,"Ruff, Alex",Member,To attend a constituency or community event,2023/01/19,Tobermory,Owen Sound,,,,,,,
+T0242789,2023/01/01,2023/01/02,,,,,,,467.5900,0.0000,131.9600,1.5000,0,0,599.55
+T0242789,2023/01/01,2023/01/02,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2023/01/01,Tara,Ottawa,,,,,,,
+T0242789,2023/01/01,2023/01/02,,Dependant,To unite the family with the Member,2023/01/01,Tara,Ottawa,,,,,,,
+T0242789,2023/01/01,2023/01/02,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2023/01/02,Ottawa,Tara,,,,,,,
+T0244228,2023/01/01,2023/01/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0244228,2023/01/01,2023/01/31,"Ruff, Alex",Member,Secondary Residence,2023/01/01,Ottawa,Ottawa,,,,,,,
+T0243083,2023/01/08,2023/01/16,,,,,,,693.6200,0.0000,173.1200,1.0000,0,0,866.74
+T0243083,2023/01/08,2023/01/16,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2023/01/08,Tara,Ottawa,,,,,,,
+T0243083,2023/01/08,2023/01/16,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2023/01/16,Ottawa,Tara,,,,,,,
+T0245421,2023/01/08,2023/02/07,,,,,,,0.0000,91.9900,0.0000,0,0,0,91.99
+T0245421,2023/01/08,2023/02/07,"Ruff, Alex",Member,Secondary Residence,2023/01/08,Ottawa,Ottawa,,,,,,,
+T0243737,2023/01/22,2023/02/10,,,,,,,1013.6900,0.0000,152.5400,1.5000,0,0,1166.23
+T0243737,2023/01/22,2023/02/10,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2023/01/22,Tara,Ottawa,,,,,,,
+T0243737,2023/01/22,2023/02/10,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2023/02/10,Ottawa,Tara,,,,,,,
+T0243737,2023/01/22,2023/02/10,,Dependant,To unite the family with the Member,2023/02/10,Ottawa,Tara,,,,,,,
+T0246258,2023/02/01,2023/02/28,,,,,,,0.0000,1300.0000,0.0000,0,0,0,1300.00
+T0246258,2023/02/01,2023/02/28,"Ruff, Alex",Member,Secondary Residence,2023/02/01,Ottawa,Ottawa,,,,,,,
+T0247367,2023/02/08,2023/04/07,,,,,,,0.0000,189.9800,0.0000,0,0,0,189.98
+T0247367,2023/02/08,2023/04/07,"Ruff, Alex",Member,Secondary Residence,2023/02/08,Ottawa,Ottawa,,,,,,,
+T0247367,2023/02/08,2023/04/07,"Ruff, Alex",Member,Secondary Residence,2023/03/08,Ottawa,Ottawa,,,,,,,
+T0245159,2023/02/12,2023/02/27,,,,,,,1082.6000,0.0000,173.1200,1.5000,0,0,1255.72
+T0245159,2023/02/12,2023/02/27,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2023/02/12,Tara,Ottawa,,,,,,,
+T0245159,2023/02/12,2023/02/27,,Dependant,To unite the family with the Member,2023/02/12,Tara,Ottawa,,,,,,,
+T0245159,2023/02/12,2023/02/27,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2023/02/27,Ottawa,Tara,,,,,,,
+T0246259,2023/02/28,2023/03/01,,,,,,,95.3200,0.0000,0.0000,0,0.0000,0,95.32
+T0246259,2023/02/28,2023/03/01,"Ruff, Alex",Member,To attend an event as a guest speaker,2023/02/28,Tara,Walkerton,,,,,,,
+T0246259,2023/02/28,2023/03/01,"Ruff, Alex",Member,To attend an event as a guest speaker,2023/02/28,Walkerton,Tara,,,,,,,
+T0246259,2023/02/28,2023/03/01,"Ruff, Alex",Member,To attend meetings with stakeholders about business of the House,2023/03/01,Tara,Tiverton,,,,,,,
+T0246259,2023/02/28,2023/03/01,"Ruff, Alex",Member,To attend meetings with stakeholders about business of the House,2023/03/01,Tiverton,Tara,,,,,,,
+T0248838,2023/03/01,2023/03/31,,,,,,,0.0000,1550.0000,0.0000,0,0,0,1550.00
+T0248838,2023/03/01,2023/03/31,"Ruff, Alex",Member,Secondary Residence,2023/03/01,Ottawa,Ottawa,,,,,,,
+T0246428,2023/03/05,2023/03/12,,,,,,,602.1900,0.0000,173.1200,1.0000,0,0,775.31
+T0246428,2023/03/05,2023/03/12,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2023/03/05,Tara,Ottawa,,,,,,,
+T0246428,2023/03/05,2023/03/12,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2023/03/12,Ottawa,Tara,,,,,,,
+T0247417,2023/03/19,2023/03/24,,,,,,,883.5400,0.0000,152.5400,1.0000,0,0,1036.08
+T0247417,2023/03/19,2023/03/24,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2023/03/19,Tara,Ottawa,,,,,,,
+T0247417,2023/03/19,2023/03/24,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2023/03/24,Ottawa,Tara,,,,,,,
+T0248326,2023/03/26,2023/03/31,,,,,,,666.4600,0.0000,85.8000,0.5000,0,0,752.26
+T0248326,2023/03/26,2023/03/31,"Ruff, Alex",Member,To travel to/from constituency and Ottawa,2023/03/26,Tara,Ottawa,,,,,,,

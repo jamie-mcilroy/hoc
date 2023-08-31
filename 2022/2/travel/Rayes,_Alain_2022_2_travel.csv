@@ -1,0 +1,64 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0213785,2021/06/18,2021/07/17,,,,,,,0.0000,79.2100,0.0000,0,0,0,79.21
+T0213785,2021/06/18,2021/07/17,"Rayes, Alain",Member,Secondary Residence,2021/06/18,Gatineau,Gatineau,,,,,,,
+T0213563,2021/06/20,2021/06/24,,,,,,,342.4800,0.0000,481.8300,1.0000,0,0,824.31
+T0213563,2021/06/20,2021/06/24,"Rayes, Alain",Member,To travel to/from constituency and Ottawa,2021/06/20,Victoriaville,Ottawa,,,,,,,
+T0213563,2021/06/20,2021/06/24,"Rayes, Alain",Member,To travel to/from constituency and Ottawa,2021/06/24,Ottawa,Victoriaville,,,,,,,
+T0213789,2021/06/24,2021/06/24,,,,,,,24.1000,0.0000,0.0000,0.0000,0,0,24.10
+T0213789,2021/06/24,2021/06/24,"Rayes, Alain",Member,To attend a constituency or community event,2021/06/24,Victoriaville,Kingsey Falls,,,,,,,
+T0213789,2021/06/24,2021/06/24,"Rayes, Alain",Member,To attend a constituency or community event,2021/06/24,Kingsey Falls,Victoriaville,,,,,,,
+T0214482,2021/07/08,2021/07/09,,,,,,,78.7400,0.0000,0.0000,0.0000,0,0,78.74
+T0214482,2021/07/08,2021/07/09,"Rayes, Alain",Member,To attend a constituency or community event,2021/07/08,Victoriaville,Warwick,,,,,,,
+T0214482,2021/07/08,2021/07/09,"Rayes, Alain",Member,To attend a constituency or community event,2021/07/08,Warwick,Saint-Albert,,,,,,,
+T0214482,2021/07/08,2021/07/09,"Rayes, Alain",Member,To attend a constituency or community event,2021/07/08,Saint-Albert,Kingsey Falls,,,,,,,
+T0214482,2021/07/08,2021/07/09,"Rayes, Alain",Member,To attend a constituency or community event,2021/07/08,Kingsey Falls,Victoriaville,,,,,,,
+T0214482,2021/07/08,2021/07/09,"Rayes, Alain",Member,To attend meetings with stakeholders about business of the House,2021/07/09,Victoriaville,Saints-Martyrs-Canadiens,,,,,,,
+T0214482,2021/07/08,2021/07/09,"Rayes, Alain",Member,To attend meetings with stakeholders about business of the House,2021/07/09,Saints-Martyrs-Canadiens,Victoriaville,,,,,,,
+T0214574,2021/07/14,2021/07/15,,,,,,,214.7600,96.3800,176.9600,0,1.0000,0,488.10
+T0214574,2021/07/14,2021/07/15,"Rayes, Alain",Member,To attend a regional or provincial caucus meeting,2021/07/14,Victoriaville,Saint-Roch-des-Aulnaies,,,,,,,
+T0214574,2021/07/14,2021/07/15,"Rayes, Alain",Member,To attend a regional or provincial caucus meeting,2021/07/15,Saint-Roch-des-Aulnaies,Victoriaville,,,,,,,
+T0214360,2021/07/18,2021/07/21,,,,,,,146.5000,0.0000,0.0000,0.0000,0,0,146.50
+T0214360,2021/07/18,2021/07/21,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2021/07/21,Danville,Warwick,,,,,,,
+T0214360,2021/07/18,2021/07/21,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2021/07/21,Warwick,Saint-Albert,,,,,,,
+T0214360,2021/07/18,2021/07/21,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2021/07/21,Saint-Albert,Victoriaville,,,,,,,
+T0214360,2021/07/18,2021/07/21,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2021/07/20,Victoriaville,Windsor,,,,,,,
+T0214360,2021/07/18,2021/07/21,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2021/07/20,Windsor,Windsor,,,,,,,
+T0214360,2021/07/18,2021/07/21,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2021/07/20,Windsor,Danville,,,,,,,
+T0214360,2021/07/18,2021/07/21,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2021/07/20,Danville,Victoriaville,,,,,,,
+T0214360,2021/07/18,2021/07/21,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2021/07/20,Victoriaville,Victoriaville,,,,,,,
+T0214360,2021/07/18,2021/07/21,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2021/07/21,Victoriaville,Victoriaville,,,,,,,
+T0214360,2021/07/18,2021/07/21,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2021/07/21,Victoriaville,Ham-Sud,,,,,,,
+T0214360,2021/07/18,2021/07/21,"Mailhot, Alexandre",Employee,To attend a constituency or community event,2021/07/21,Ham-Sud,Danville,,,,,,,
+T0214479,2021/07/18,2021/08/17,,,,,,,0.0000,79.2100,0.0000,0,0,0,79.21
+T0214479,2021/07/18,2021/08/17,"Rayes, Alain",Member,Secondary Residence,2021/07/18,Gatineau,Gatineau,,,,,,,
+T0214577,2021/07/20,2021/07/20,,,,,,,68.7400,0.0000,42.8500,0.0000,0,0,111.59
+T0214577,2021/07/20,2021/07/20,"Rayes, Alain",Member,To attend a constituency or community event,2021/07/20,Victoriaville,Windsor,,,,,,,
+T0214577,2021/07/20,2021/07/20,"Rayes, Alain",Member,To attend a constituency or community event,2021/07/20,Windsor,Saint-Georges-de-Windsor,,,,,,,
+T0214577,2021/07/20,2021/07/20,"Rayes, Alain",Member,To attend a constituency or community event,2021/07/20,Saint-Georges-de-Windsor,Danville,,,,,,,
+T0214577,2021/07/20,2021/07/20,"Rayes, Alain",Member,To attend a constituency or community event,2021/07/20,Danville,Victoriaville,,,,,,,
+T0214575,2021/07/21,2021/07/21,,,,,,,61.0900,0.0000,36.9700,0.0000,0,0,98.06
+T0214575,2021/07/21,2021/07/21,"Rayes, Alain",Member,To attend a constituency or community event,2021/07/21,Victoriaville,Ham-Sud,,,,,,,
+T0214575,2021/07/21,2021/07/21,"Rayes, Alain",Member,To attend a constituency or community event,2021/07/21,Ham-Sud,Asbestos,,,,,,,
+T0214575,2021/07/21,2021/07/21,"Rayes, Alain",Member,To attend a constituency or community event,2021/07/21,Asbestos,Danville,,,,,,,
+T0214575,2021/07/21,2021/07/21,"Rayes, Alain",Member,To attend a constituency or community event,2021/07/21,Danville,Sainte-Élizabeth-de-Warwick,,,,,,,
+T0214575,2021/07/21,2021/07/21,"Rayes, Alain",Member,To attend a constituency or community event,2021/07/21,Sainte-Élizabeth-de-Warwick,Saint-Albert,,,,,,,
+T0214575,2021/07/21,2021/07/21,"Rayes, Alain",Member,To attend a constituency or community event,2021/07/21,Saint-Albert,Victoriaville,,,,,,,
+T0214579,2021/07/22,2021/07/22,,,,,,,26.7100,0.0000,0.0000,0.0000,0,0,26.71
+T0214579,2021/07/22,2021/07/22,"Rayes, Alain",Member,To attend a constituency or community event,2021/07/22,Victoriaville,Saint-Valère,,,,,,,
+T0214579,2021/07/22,2021/07/22,"Rayes, Alain",Member,To attend a constituency or community event,2021/07/22,Saint-Valère,Warwick,,,,,,,
+T0214579,2021/07/22,2021/07/22,"Rayes, Alain",Member,To attend a constituency or community event,2021/07/22,Warwick,Victoriaville,,,,,,,
+T0214580,2021/07/25,2021/07/29,,,,,,,352.7900,0.0000,415.9800,1.0000,0,0,768.77
+T0214580,2021/07/25,2021/07/29,"Rayes, Alain",Member,To travel to/from constituency and Ottawa,2021/07/25,Victoriaville,Ottawa,,,,,,,
+T0214580,2021/07/25,2021/07/29,"Rayes, Alain",Member,To travel to/from constituency and Ottawa,2021/07/29,Ottawa,Victoriaville,,,,,,,
+T0214581,2021/07/26,2021/07/28,,,,,,,352.7900,0.0000,0.0000,1.0000,0,0,352.79
+T0214581,2021/07/26,2021/07/28,,Designated Traveller,To travel to/from constituency and Ottawa,2021/07/26,Victoriaville,Ottawa,,,,,,,
+T0214581,2021/07/26,2021/07/28,,Designated Traveller,To travel to/from constituency and Ottawa,2021/07/28,Ottawa,Victoriaville,,,,,,,
+T0214611,2021/07/30,2021/07/30,,,,,,,63.9600,0.0000,0.0000,0.0000,0,0,63.96
+T0214611,2021/07/30,2021/07/30,"Rayes, Alain",Member,To attend an event as a matter of protocol,2021/07/30,Victoriaville,Windsor,,,,,,,
+T0214611,2021/07/30,2021/07/30,"Rayes, Alain",Member,To attend an event as a matter of protocol,2021/07/30,Windsor,Victoriaville,,,,,,,
+200507701,2021/08/01,2021/08/31,,,,,,,0.0000,1800.0000,0.0000,0,0,0,1800.00
+200507701,2021/08/01,2021/08/31,"Rayes, Alain",Member,Secondary Residence,2021/08/01,GATINEAU,GATINEAU,,,,,,,
+200515751,2021/09/01,2021/09/30,,,,,,,0.0000,1800.0000,0.0000,0,0,0,1800.00
+200515751,2021/09/01,2021/09/30,"Rayes, Alain",Member,Secondary Residence,2021/09/01,GATINEAU,GATINEAU,,,,,,,
+200519931,2021/10/01,2021/10/31,,,,,,,0.0000,1800.0000,0.0000,0,0,0,1800.00
+200519931,2021/10/01,2021/10/31,"Rayes, Alain",Member,Secondary Residence,2021/10/01,GATINEAU,GATINEAU,,,,,,,

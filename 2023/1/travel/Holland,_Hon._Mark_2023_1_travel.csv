@@ -1,0 +1,39 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0227703,2022/04/01,2022/04/30,,,,,,,0.0000,1500.0000,0.0000,0,0,0,1500.00
+T0227703,2022/04/01,2022/04/30,"Holland, Hon. Mark",Member,Secondary Residence,2022/04/01,Ottawa,Ottawa,,,,,,,
+T0227839,2022/04/01,2022/04/30,,,,,,,0.0000,88.6100,0.0000,0,0,0,88.61
+T0227839,2022/04/01,2022/04/30,"Holland, Hon. Mark",Member,Secondary Residence,2022/04/01,Ottawa,Ottawa,,,,,,,
+T0226768,2022/04/04,2022/04/07,,,,,,,953.6600,0.0000,413.3900,1.0000,0,0,1367.05
+T0226768,2022/04/04,2022/04/07,"Holland, Hon. Mark",Member,To travel to/from constituency and Ottawa,2022/04/04,Ajax,Ottawa,,,,,,,
+T0226768,2022/04/04,2022/04/07,"Holland, Hon. Mark",Member,To travel to/from constituency and Ottawa,2022/04/07,Ottawa,Ajax,,,,,,,
+T0227495,2022/04/24,2022/04/27,,,,,,,463.1400,0.0000,413.3900,1.0000,0,0,876.53
+T0227495,2022/04/24,2022/04/27,"Holland, Hon. Mark",Member,To travel to/from constituency and Ottawa,2022/04/24,Ajax,Ottawa,,,,,,,
+T0227495,2022/04/24,2022/04/27,"Holland, Hon. Mark",Member,To travel to/from constituency and Ottawa,2022/04/27,Ottawa,Ajax,,,,,,,
+T0229409,2022/05/01,2022/05/31,,,,,,,0.0000,1638.6100,0.0000,0,0,0,1638.61
+T0229409,2022/05/01,2022/05/31,"Holland, Hon. Mark",Member,Secondary Residence,2022/05/01,Ottawa,Ottawa,,,,,,,
+T0228088,2022/05/03,2022/05/05,,,,,,,1003.3600,0.0000,310.0400,1.0000,0,0,1313.40
+T0228088,2022/05/03,2022/05/05,"Holland, Hon. Mark",Member,To travel to/from constituency and Ottawa,2022/05/03,Ajax,Ottawa,,,,,,,
+T0228088,2022/05/03,2022/05/05,"Holland, Hon. Mark",Member,To travel to/from constituency and Ottawa,2022/05/05,Ottawa,Ajax,,,,,,,
+T0228528,2022/05/09,2022/05/13,,,,,,,926.2800,0.0000,477.4100,2.0000,0,0,1403.69
+T0228528,2022/05/09,2022/05/13,"Holland, Hon. Mark",Member,To travel to/from constituency and Ottawa,2022/05/09,Ajax,Ottawa,,,,,,,
+T0228528,2022/05/09,2022/05/13,"Holland, Hon. Mark",Member,To travel to/from constituency and Ottawa,2022/05/13,Ottawa,Ajax,,,,,,,
+T0228528,2022/05/09,2022/05/13,,Designated Traveller,To travel to/from constituency and Ottawa,2022/05/11,Ajax,Ottawa,,,,,,,
+T0228528,2022/05/09,2022/05/13,,Designated Traveller,To travel to/from constituency and Ottawa,2022/05/13,Ottawa,Ajax,,,,,,,
+T0228904,2022/05/16,2022/05/19,,,,,,,2102.4900,0.0000,393.6200,2.0000,0,0,2496.11
+T0228904,2022/05/16,2022/05/19,"Holland, Hon. Mark",Member,To travel to/from constituency and Ottawa,2022/05/16,Ajax,Ottawa,,,,,,,
+T0228904,2022/05/16,2022/05/19,"Holland, Hon. Mark",Member,To travel to/from constituency and Ottawa,2022/05/18,Ottawa,Ajax,,,,,,,
+T0228904,2022/05/16,2022/05/19,"Holland, Hon. Mark",Member,To travel to/from constituency and Ottawa,2022/05/18,Ajax,Ottawa,,,,,,,
+T0228904,2022/05/16,2022/05/19,"Holland, Hon. Mark",Member,To travel to/from constituency and Ottawa,2022/05/19,Ottawa,Ajax,,,,,,,
+T0229567,2022/05/26,2022/05/29,,,,,,,2728.1200,634.3100,413.3900,0,2.0000,0,3775.82
+T0229567,2022/05/26,2022/05/29,"Holland, Hon. Mark",Member,To attend meetings with stakeholders about business of the House,2022/05/26,Ajax,St. John's,,,,,,,
+T0229567,2022/05/26,2022/05/29,"Holland, Hon. Mark",Member,To attend meetings with stakeholders about business of the House,2022/05/29,St. John's,Ajax,,,,,,,
+T0229567,2022/05/26,2022/05/29,,Designated Traveller,To attend meetings with stakeholders about business of the House,2022/05/26,Ajax,St. John's,,,,,,,
+T0229567,2022/05/26,2022/05/29,,Designated Traveller,To attend meetings with stakeholders about business of the House,2022/05/29,St. John's,Ajax,,,,,,,
+T0229413,2022/05/30,2022/06/02,,,,,,,463.1400,0.0000,413.3900,1.0000,0,0,876.53
+T0229413,2022/05/30,2022/06/02,"Holland, Hon. Mark",Member,To travel to/from constituency and Ottawa,2022/05/30,Ajax,Ottawa,,,,,,,
+T0229413,2022/05/30,2022/06/02,"Holland, Hon. Mark",Member,To travel to/from constituency and Ottawa,2022/06/02,Ottawa,Ajax,,,,,,,
+T0230064,2022/06/05,2022/06/10,,,,,,,926.2800,0.0000,580.7600,2.0000,0,0,1507.04
+T0230064,2022/06/05,2022/06/10,"Holland, Hon. Mark",Member,To travel to/from constituency and Ottawa,2022/06/05,Ajax,Ottawa,,,,,,,
+T0230064,2022/06/05,2022/06/10,"Holland, Hon. Mark",Member,To travel to/from constituency and Ottawa,2022/06/10,Ottawa,Ajax,,,,,,,
+T0230064,2022/06/05,2022/06/10,,Designated Traveller,To travel to/from constituency and Ottawa,2022/06/08,Ajax,Ottawa,,,,,,,
+T0230064,2022/06/05,2022/06/10,,Designated Traveller,To travel to/from constituency and Ottawa,2022/06/10,Ottawa,Ajax,,,,,,,

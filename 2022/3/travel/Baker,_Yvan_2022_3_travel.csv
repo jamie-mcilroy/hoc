@@ -1,0 +1,44 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0216292,2021/09/24,2021/09/25,,,,,,,477.2000,208.8000,169.3800,1.0000,0,0,855.38
+T0216292,2021/09/24,2021/09/25,"Baker, Yvan",Member,To travel to/from constituency and Ottawa,2021/09/24,Etobicoke,Ottawa,,,,,,,
+T0216292,2021/09/24,2021/09/25,"Baker, Yvan",Member,To travel to/from constituency and Ottawa,2021/09/25,Ottawa,Etobicoke,,,,,,,
+T0217353,2021/10/28,2021/10/30,,,,,,,497.7200,564.5100,190.6300,1.0000,0,0,1252.86
+T0217353,2021/10/28,2021/10/30,"Baker, Yvan",Member,To travel to/from constituency and Ottawa,2021/10/28,Etobicoke,Ottawa,,,,,,,
+T0217353,2021/10/28,2021/10/30,"Baker, Yvan",Member,To travel to/from constituency and Ottawa,2021/10/30,Ottawa,Etobicoke,,,,,,,
+T0218438,2021/11/02,2021/11/04,,,,,,,730.1600,417.6100,152.0500,1.0000,0,0,1299.82
+T0218438,2021/11/02,2021/11/04,"Baker, Yvan",Member,To travel to/from constituency and Ottawa,2021/11/02,Toronto,Ottawa,,,,,,,
+T0218510,2021/11/02,2021/11/04,,,,,,,813.4100,270.7100,42.9500,1.0000,0,0,1127.07
+T0218510,2021/11/02,2021/11/04,"Akmal, Aiman",Employee,To travel to/from constituency and Ottawa,2021/11/02,Toronto,Ottawa,,,,,,,
+T0218427,2021/11/02,2021/11/04,,,,,,,666.0400,541.4200,85.9000,1.0000,0,0,1293.36
+T0218427,2021/11/02,2021/11/04,"Chhatwal, Navpreet",Employee,To travel to/from constituency and Ottawa,2021/11/02,Toronto,Ottawa,,,,,,,
+T0218514,2021/11/02,2021/11/04,,,,,,,775.8600,270.7100,42.9500,1.0000,0,0,1089.52
+T0218514,2021/11/02,2021/11/04,"Curkowskyj, Stephan",Employee,To travel to/from constituency and Ottawa,2021/11/02,Toronto,Ottawa,,,,,,,
+T0218425,2021/11/02,2021/11/04,,,,,,,740.4500,270.7100,42.9500,1.0000,0,0,1054.11
+T0218425,2021/11/02,2021/11/04,"Marino, Daniel",Employee,To travel to/from constituency and Ottawa,2021/11/02,Toronto,Ottawa,,,,,,,
+T0218510,2021/11/02,2021/11/04,"Akmal, Aiman",Employee,To travel to/from constituency and Ottawa,2021/11/04,Ottawa,Toronto,,,,,,,
+T0218514,2021/11/02,2021/11/04,"Curkowskyj, Stephan",Employee,To travel to/from constituency and Ottawa,2021/11/04,Ottawa,Toronto,,,,,,,
+T0218438,2021/11/02,2021/11/04,"Baker, Yvan",Member,To travel to/from constituency and Ottawa,2021/11/04,Ottawa,Toronto,,,,,,,
+T0218425,2021/11/02,2021/11/04,"Marino, Daniel",Employee,To travel to/from constituency and Ottawa,2021/11/04,Ottawa,Toronto,,,,,,,
+T0218427,2021/11/02,2021/11/04,"Chhatwal, Navpreet",Employee,To travel to/from constituency and Ottawa,2021/11/04,Ottawa,Toronto,,,,,,,
+T0218478,2021/11/07,2021/11/08,,,,,,,375.8000,208.8000,128.6200,0.5000,0,0,713.22
+T0218478,2021/11/07,2021/11/08,"Baker, Yvan",Member,To travel to/from constituency and Ottawa,2021/11/07,Toronto,Ottawa,,,,,,,
+T0219847,2021/11/18,2021/11/20,,,,,,,847.3900,274.2900,42.9500,1.0000,0,0,1164.63
+T0219847,2021/11/18,2021/11/20,"Akmal, Aiman",Employee,To travel to/from constituency and Ottawa,2021/11/18,Toronto,Ottawa,,,,,,,
+T0219802,2021/11/18,2021/11/20,,,,,,,624.7800,270.7100,42.9500,1.0000,0,0,938.44
+T0219802,2021/11/18,2021/11/20,"Marino, Daniel",Employee,To travel to/from constituency and Ottawa,2021/11/18,Toronto,Ottawa,,,,,,,
+T0219805,2021/11/18,2021/11/20,,,,,,,741.0600,270.7100,42.9500,1.0000,0,0,1054.72
+T0219805,2021/11/18,2021/11/20,"Curkowskyj, Stephan",Employee,To travel to/from constituency and Ottawa,2021/11/18,Toronto,Ottawa,,,,,,,
+T0219804,2021/11/18,2021/11/20,,,,,,,331.5300,270.7100,42.9500,0.5000,0,0,645.19
+T0219804,2021/11/18,2021/11/20,"Chhatwal, Navpreet",Employee,To travel to/from constituency and Ottawa,2021/11/18,Toronto,Ottawa,,,,,,,
+T0219805,2021/11/18,2021/11/20,"Curkowskyj, Stephan",Employee,To travel to/from constituency and Ottawa,2021/11/20,Ottawa,Toronto,,,,,,,
+T0219847,2021/11/18,2021/11/20,"Akmal, Aiman",Employee,To travel to/from constituency and Ottawa,2021/11/20,Ottawa,Toronto,,,,,,,
+T0219802,2021/11/18,2021/11/20,"Marino, Daniel",Employee,To travel to/from constituency and Ottawa,2021/11/20,Ottawa,Toronto,,,,,,,
+T0219792,2021/11/18,2021/11/21,,,,,,,653.7800,629.5700,247.3600,1.0000,0,0,1530.71
+T0219792,2021/11/18,2021/11/21,"Baker, Yvan",Member,To travel to/from constituency and Ottawa,2021/11/18,Toronto,Ottawa,,,,,,,
+T0219792,2021/11/18,2021/11/21,"Baker, Yvan",Member,To travel to/from constituency and Ottawa,2021/11/21,Ottawa,Toronto,,,,,,,
+T0219890,2021/11/22,2021/11/26,,,,,,,714.2000,914.9700,428.3500,1.0000,0,0,2057.52
+T0219890,2021/11/22,2021/11/26,"Baker, Yvan",Member,To travel to/from constituency and Ottawa,2021/11/22,Toronto,Ottawa,,,,,,,
+T0219890,2021/11/22,2021/11/26,"Baker, Yvan",Member,To travel to/from constituency and Ottawa,2021/11/26,Ottawa,Toronto,,,,,,,
+T0220442,2021/11/29,2021/12/03,,,,,,,753.1900,839.4300,428.3500,1.0000,0,0,2020.97
+T0220442,2021/11/29,2021/12/03,"Baker, Yvan",Member,To travel to/from constituency and Ottawa,2021/11/29,Toronto,Ottawa,,,,,,,
+T0220442,2021/11/29,2021/12/03,"Baker, Yvan",Member,To travel to/from constituency and Ottawa,2021/12/03,Ottawa,Toronto,,,,,,,

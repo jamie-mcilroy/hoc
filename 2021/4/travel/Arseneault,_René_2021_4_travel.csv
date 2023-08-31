@@ -1,0 +1,23 @@
+Claim,Travel start date,Travel end date,Traveller Name,Traveller Type,Purpose of Travel,Dates,Departure,Destination,Transportation,Accommodations,Meals and Incidentals,Points Reg.,Points Spec.,Points U.S.A.,Total
+T0210903,2020/04/01,2021/03/08,,,,,,,0.0000,226.5600,0.0000,0,0,0,226.56
+T0210903,2020/04/01,2021/03/08,"Arseneault, René",Member,Secondary Residence,2020/09/05,Gatineau,Gatineau,,,,,,,
+T0210903,2020/04/01,2021/03/08,"Arseneault, René",Member,Secondary Residence,2020/05/08,Gatineau,Gatineau,,,,,,,
+T0210903,2020/04/01,2021/03/08,"Arseneault, René",Member,Secondary Residence,2020/04/01,Gatineau,Gatineau,,,,,,,
+T0210903,2020/04/01,2021/03/08,"Arseneault, René",Member,Secondary Residence,2021/01/09,Gatineau,Gatineau,,,,,,,
+T0210903,2020/04/01,2021/03/08,"Arseneault, René",Member,Secondary Residence,2020/07/09,Gatineau,Gatineau,,,,,,,
+T0210903,2020/04/01,2021/03/08,"Arseneault, René",Member,Secondary Residence,2020/11/06,Gatineau,Gatineau,,,,,,,
+200467516,2021/02/01,2021/02/28,,,,,,,0.0000,1742.0000,0.0000,0,0,0,1742.00
+200467516,2021/02/01,2021/02/28,"Arseneault, René",Member,Secondary Residence,2021/02/01,GATINEAU,GATINEAU,,,,,,,
+200475518,2021/03/01,2021/03/31,,,,,,,0.0000,1742.0000,0.0000,0,0,0,1742.00
+200475518,2021/03/01,2021/03/31,"Arseneault, René",Member,Secondary Residence,2021/03/01,GATINEAU,GATINEAU,,,,,,,
+T0210898,2021/03/14,2021/03/17,,,,,,,110.7900,342.8100,296.7900,0.0000,0,0,750.39
+T0210898,2021/03/14,2021/03/17,"Arseneault, René",Member,To conduct constituency office business,2021/03/14,Charlo,Edmundston,,,,,,,
+T0210899,2021/03/17,2021/03/18,,,,,,,377.1500,130.7200,114.3800,0,0.0000,0,622.25
+T0210899,2021/03/17,2021/03/18,"Arseneault, René",Member,To attend a regional or provincial caucus meeting,2021/03/17,Edmundston,Saint-John,,,,,,,
+T0210899,2021/03/17,2021/03/18,"Arseneault, René",Member,To attend a regional or provincial caucus meeting,2021/03/18,Saint-John,Charlo,,,,,,,
+T0210927,2021/03/17,2021/03/19,,,,,,,204.6000,230.6600,129.8200,0,0.0000,0,565.08
+T0210927,2021/03/17,2021/03/19,"Leblanc, Carolle",Employee,To conduct constituency office business,2021/03/17,Balmoral,Edmundston,,,,,,,
+T0210927,2021/03/17,2021/03/19,"Leblanc, Carolle",Employee,To conduct constituency office business,2021/03/17,Edmundston,Balmoral,,,,,,,
+T0210900,2021/03/20,2021/03/20,,,,,,,221.5800,0.0000,46.1200,0.0000,0,0,267.70
+T0210900,2021/03/20,2021/03/20,"Arseneault, René",Member,To attend an event as a matter of protocol,2021/03/20,Charlo,Edmundston,,,,,,,
+T0210900,2021/03/20,2021/03/20,"Arseneault, René",Member,To attend an event as a matter of protocol,2021/03/20,Edmundston,Charlo,,,,,,,
