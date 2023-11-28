@@ -1,4 +1,6 @@
 /hoc_venv/
 pyvenv.cfg
 /hoc/
+*.html
+
 

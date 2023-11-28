@@ -2,13 +2,16 @@ import pandas as pd
 import requests
 from io import StringIO
 
+
+
 # Initialize an empty list to hold all dataframes
 dfs = []
 
 # Function to fetch and process CSV data
 def fetch_and_process(year, quarter):
     url = f"https://www.ourcommons.ca/ProactiveDisclosure/en/members/{year}/{quarter}/csv"
-    response = requests.get(url)
+    response = requests.get(url, verify=False)
+
     
     if response.status_code == 200:
         response.encoding = 'utf-8'  # Explicitly set encoding to UTF-8
